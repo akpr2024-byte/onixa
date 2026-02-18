@@ -1,0 +1,320 @@
+[
+  {
+    "id": "itm_tempboost_yield_1",
+    "name": "Farming Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_1.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnoot",
+        "name": "Magnoot",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_magnoot.png"
+      },
+      {
+        "id": "itm_coffeeseed",
+        "name": "Java Seeds",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_coffeeseed.png"
+      },
+      {
+        "id": "itm_clover4LeafFruit",
+        "name": "4-Leaf Clover",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_2",
+    "name": "Farming Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_2.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_napricot",
+        "name": "Napricot",
+        "qty": 99,
+        "icon": "/assets/images/items/itm_napricot.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_3",
+    "name": "Farming Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_3.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_tenta",
+        "name": "Astracactus",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_tenta.png"
+      },
+      {
+        "id": "itm_butterberry",
+        "name": "Butterberry",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_butterberry.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 99,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_16",
+    "name": "Farming Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_16.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnoot",
+        "name": "Magnoot",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_magnoot.png"
+      },
+      {
+        "id": "itm_tatofruit",
+        "name": "Tato Fruit",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_tatofruit.png"
+      },
+      {
+        "id": "itm_cloverFruit",
+        "name": "Clover",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_cloverFruit.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_17",
+    "name": "Farming Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_17.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_slothmato",
+        "name": "Slothmato",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_slothmato.png"
+      },
+      {
+        "id": "itm_muckchuck",
+        "name": "Muckchuck",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_muckchuck.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_18",
+    "name": "Farming Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_18.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_tenta",
+        "name": "Astracactus",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_tenta.png"
+      },
+      {
+        "id": "itm_butterberry",
+        "name": "Butterberry",
+        "qty": 99,
+        "icon": "/assets/images/items/itm_butterberry.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5760 @@
+[
+  {
+    "id": "itm_stonepowder01",
+    "name": "Clayum Powder",
+    "icon": "/assets/images/items/itm_stonepowder01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 39,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder01",
+    "name": "Clayum Powder",
+    "icon": "/assets/images/items/itm_stonepowder01.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 108,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 468,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder02",
+    "name": "Marbleite Powder",
+    "icon": "/assets/images/items/itm_stonepowder02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 21,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 141,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_soil_02",
+        "name": "Enriched Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder02",
+    "name": "Marbleite Powder",
+    "icon": "/assets/images/items/itm_stonepowder02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 226,
+    "speed_boost": 0,
+    "time": 202,
+    "xp": 1692,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_soil_02",
+        "name": "Enriched Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder03",
+    "name": "Bedrock Powder",
+    "icon": "/assets/images/items/itm_stonepowder03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 415,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      },
+      {
+        "id": "itm_roughcutBoulder",
+        "name": "Roughcut Garden Boulder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder03",
+    "name": "Bedrock Powder",
+    "icon": "/assets/images/items/itm_stonepowder03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 518,
+    "speed_boost": 0,
+    "time": 432,
+    "xp": 4980,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      },
+      {
+        "id": "itm_roughcutBoulder",
+        "name": "Roughcut Garden Boulder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder04",
+    "name": "Claricite Powder",
+    "icon": "/assets/images/items/itm_stonepowder04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 64,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 638,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_soil_04",
+        "name": "Lush Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_04.png"
+      },
+      {
+        "id": "itm_grindstone_04",
+        "name": "Claricite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stonepowder04",
+    "name": "Claricite Powder",
+    "icon": "/assets/images/items/itm_stonepowder04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 692,
+    "speed_boost": 0,
+    "time": 448,
+    "xp": 7656,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_soil_04",
+        "name": "Lush Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_04.png"
+      },
+      {
+        "id": "itm_grindstone_04",
+        "name": "Claricite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_01",
+    "name": "Clayum Brick",
+    "icon": "/assets/images/items/itm_brick_01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 39,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_sundial_01",
+        "name": "Clayum Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_01.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_01",
+    "name": "Clayum Brick",
+    "icon": "/assets/images/items/itm_brick_01.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 152,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 468,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_sundial_01",
+        "name": "Clayum Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_01.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_02",
+    "name": "Marbleite Brick",
+    "icon": "/assets/images/items/itm_brick_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 21,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 141,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_10",
+        "name": "Stoneshaping Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_10.png"
+      },
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_02",
+    "name": "Marbleite Brick",
+    "icon": "/assets/images/items/itm_brick_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 226,
+    "speed_boost": 0,
+    "time": 202,
+    "xp": 1692,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_10",
+        "name": "Stoneshaping Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_10.png"
+      },
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_03",
+    "name": "Bedrock Brick",
+    "icon": "/assets/images/items/itm_brick_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 415,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_11",
+        "name": "Stoneshaping Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_11.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_03",
+    "name": "Bedrock Brick",
+    "icon": "/assets/images/items/itm_brick_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 518,
+    "speed_boost": 0,
+    "time": 432,
+    "xp": 4980,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_11",
+        "name": "Stoneshaping Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_11.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_04",
+    "name": "Claricite Brick",
+    "icon": "/assets/images/items/itm_brick_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 64,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 638,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_12",
+        "name": "Stoneshaping Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_12.png"
+      },
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_brick_04",
+    "name": "Claricite Brick",
+    "icon": "/assets/images/items/itm_brick_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 692,
+    "speed_boost": 0,
+    "time": 448,
+    "xp": 7656,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_12",
+        "name": "Stoneshaping Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_12.png"
+      },
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_plaster",
+    "name": "Plaster",
+    "icon": "/assets/images/items/itm_plaster.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 39,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_01.png"
+      },
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_plaster",
+    "name": "Plaster",
+    "icon": "/assets/images/items/itm_plaster.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 108,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 468,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_01.png"
+      },
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_glass01",
+    "name": "Glass",
+    "icon": "/assets/images/items/itm_glass01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 39,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      },
+      {
+        "id": "itm_tungstenmagnifyingglass",
+        "name": "",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tungstenmagnifyingglass.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_glass01",
+    "name": "Glass",
+    "icon": "/assets/images/items/itm_glass01.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 108,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 468,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 12,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      },
+      {
+        "id": "itm_tungstenmagnifyingglass",
+        "name": "",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tungstenmagnifyingglass.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_soil_01",
+    "name": "Basic Soil",
+    "icon": "/assets/images/items/itm_soil_01.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 15.5,
+    "xp": 101,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tree_01",
+        "name": "Whittlewood Tree",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tree_01.png"
+      },
+      {
+        "id": "itm_tree_02",
+        "name": "Craftbark Tree",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tree_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_soil_02",
+    "name": "Enriched Soil",
+    "icon": "/assets/images/items/itm_soil_02.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 30,
+    "speed_boost": 0,
+    "time": 32,
+    "xp": 228,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tree_03",
+        "name": "Sawstump Tree",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tree_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_soil_03",
+    "name": "Fortified Soil",
+    "icon": "/assets/images/items/itm_soil_03.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 78,
+    "speed_boost": 0,
+    "time": 67.5,
+    "xp": 699,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tree_04",
+        "name": "Borebranch Tree",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tree_04.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_soil_04",
+    "name": "Lush Soil",
+    "icon": "/assets/images/items/itm_soil_04.png",
+    "tier": 4,
+    "level": 65,
+    "energy": 100,
+    "speed_boost": 0,
+    "time": 66.25,
+    "xp": 1005,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_kiln_kit_01",
+    "name": "Basic Stoneshaping Kit",
+    "icon": "/assets/images/items/itm_kiln_kit_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 69,
+    "speed_boost": 0,
+    "time": 50,
+    "xp": 1720,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_kiln_kit_02",
+    "name": "Improved Stoneshaping Kit",
+    "icon": "/assets/images/items/itm_kiln_kit_02.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 2965,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_kiln_kit_03",
+    "name": "Refined Stoneshaping Kit",
+    "icon": "/assets/images/items/itm_kiln_kit_03.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 135,
+    "speed_boost": 0,
+    "time": 94,
+    "xp": 5135,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_kiln_kit_04",
+    "name": "Elite Stoneshaping Kit",
+    "icon": "/assets/images/items/itm_kiln_kit_04.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 156,
+    "speed_boost": 0,
+    "time": 97.25,
+    "xp": 7035,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_mine_kit_01",
+    "name": "Basic Mine Kit",
+    "icon": "/assets/images/items/itm_mine_kit_01.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 60,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 1482.5,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      },
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mine_kit_02",
+    "name": "Improved Mine Kit",
+    "icon": "/assets/images/items/itm_mine_kit_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 129,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 4125,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      },
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mine_kit_03",
+    "name": "Refined Mine Kit",
+    "icon": "/assets/images/items/itm_mine_kit_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 178,
+    "speed_boost": 0,
+    "time": 116.75,
+    "xp": 7107.5,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mine_kit_04",
+    "name": "Elite Mine Kit",
+    "icon": "/assets/images/items/itm_mine_kit_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 249,
+    "speed_boost": 0,
+    "time": 150,
+    "xp": 11705,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_05.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mine_kit_05",
+    "name": "Master Mine Kit",
+    "icon": "/assets/images/items/itm_mine_kit_05.png",
+    "tier": 4,
+    "level": 80,
+    "energy": 400,
+    "speed_boost": 0,
+    "time": 300,
+    "xp": 23520,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      },
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 40,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_glass_bottle",
+    "name": "Glass Bottle",
+    "icon": "/assets/images/items/itm_glass_bottle.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 149,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_glass01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tentacactus_tequila",
+        "name": "Astracactus Tequila",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
+      },
+      {
+        "id": "itm_tentacactus_tequila",
+        "name": "Astracactus Tequila",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
+      },
+      {
+        "id": "itm_hotato_hotka",
+        "name": "Hotka",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
+      },
+      {
+        "id": "itm_hotato_hotka",
+        "name": "Hotka",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
+      },
+      {
+        "id": "itm_muckchuck_mead",
+        "name": "Muckchuck Mead",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
+      },
+      {
+        "id": "itm_muckchuck_mead",
+        "name": "Muckchuck Mead",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
+      },
+      {
+        "id": "itm_napricot_toddy",
+        "name": "Napricot Toddy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
+      },
+      {
+        "id": "itm_napricot_toddy",
+        "name": "Napricot Toddy",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
+      },
+      {
+        "id": "itm_slothmato_schnapps",
+        "name": "Slothmato Schnapps",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
+      },
+      {
+        "id": "itm_slothmato_schnapps",
+        "name": "Slothmato Schnapps",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
+      },
+      {
+        "id": "itm_cubecumber_encumber_wine",
+        "name": "Encumber Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
+      },
+      {
+        "id": "itm_cubecumber_encumber_wine",
+        "name": "Encumber Wine",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
+      },
+      {
+        "id": "itm_scarrotwine",
+        "name": "Scarrot Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotwine.png"
+      },
+      {
+        "id": "itm_scarrotwine",
+        "name": "Scarrot Wine",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_scarrotwine.png"
+      },
+      {
+        "id": "itm_butterberry_butterbrew",
+        "name": "Butterbrew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
+      },
+      {
+        "id": "itm_butterberry_butterbrew",
+        "name": "Butterbrew",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_tempboost_speed_4",
+        "name": "Cooking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_4.png"
+      },
+      {
+        "id": "itm_tempboost_speed_5",
+        "name": "Cooking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_5.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_empty_choco_sauce",
+        "name": "Empty Choco Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_empty_choco_sauce.png"
+      },
+      {
+        "id": "itm_tempboost_speed_7",
+        "name": "Woodworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_7.png"
+      },
+      {
+        "id": "itm_tempboost_speed_10",
+        "name": "Stoneshaping Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_10.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "name": "Metalworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_tempboost_speed_8",
+        "name": "Woodworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_8.png"
+      },
+      {
+        "id": "itm_tempboost_speed_11",
+        "name": "Stoneshaping Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_11.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "name": "Metalworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_tempboost_speed_9",
+        "name": "Woodworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_12",
+        "name": "Stoneshaping Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "name": "Metalworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_glass_bottle",
+    "name": "Glass Bottle",
+    "icon": "/assets/images/items/itm_glass_bottle.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 186,
+    "speed_boost": 0,
+    "time": 144.9,
+    "xp": 983,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_glass01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tentacactus_tequila",
+        "name": "Astracactus Tequila",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
+      },
+      {
+        "id": "itm_tentacactus_tequila",
+        "name": "Astracactus Tequila",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
+      },
+      {
+        "id": "itm_hotato_hotka",
+        "name": "Hotka",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
+      },
+      {
+        "id": "itm_hotato_hotka",
+        "name": "Hotka",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
+      },
+      {
+        "id": "itm_muckchuck_mead",
+        "name": "Muckchuck Mead",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
+      },
+      {
+        "id": "itm_muckchuck_mead",
+        "name": "Muckchuck Mead",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
+      },
+      {
+        "id": "itm_napricot_toddy",
+        "name": "Napricot Toddy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
+      },
+      {
+        "id": "itm_napricot_toddy",
+        "name": "Napricot Toddy",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
+      },
+      {
+        "id": "itm_slothmato_schnapps",
+        "name": "Slothmato Schnapps",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
+      },
+      {
+        "id": "itm_slothmato_schnapps",
+        "name": "Slothmato Schnapps",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
+      },
+      {
+        "id": "itm_cubecumber_encumber_wine",
+        "name": "Encumber Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
+      },
+      {
+        "id": "itm_cubecumber_encumber_wine",
+        "name": "Encumber Wine",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
+      },
+      {
+        "id": "itm_scarrotwine",
+        "name": "Scarrot Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotwine.png"
+      },
+      {
+        "id": "itm_scarrotwine",
+        "name": "Scarrot Wine",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_scarrotwine.png"
+      },
+      {
+        "id": "itm_butterberry_butterbrew",
+        "name": "Butterbrew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
+      },
+      {
+        "id": "itm_butterberry_butterbrew",
+        "name": "Butterbrew",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_tempboost_speed_4",
+        "name": "Cooking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_4.png"
+      },
+      {
+        "id": "itm_tempboost_speed_5",
+        "name": "Cooking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_5.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_empty_choco_sauce",
+        "name": "Empty Choco Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_empty_choco_sauce.png"
+      },
+      {
+        "id": "itm_tempboost_speed_7",
+        "name": "Woodworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_7.png"
+      },
+      {
+        "id": "itm_tempboost_speed_10",
+        "name": "Stoneshaping Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_10.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "name": "Metalworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_tempboost_speed_8",
+        "name": "Woodworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_8.png"
+      },
+      {
+        "id": "itm_tempboost_speed_11",
+        "name": "Stoneshaping Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_11.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "name": "Metalworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_tempboost_speed_9",
+        "name": "Woodworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_12",
+        "name": "Stoneshaping Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "name": "Metalworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_limestone_paving_stones",
+    "name": "Paving Stones, Limestone",
+    "icon": "/assets/images/items/itm_limestone_paving_stones.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 149,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ]
+  },
+  {
+    "id": "itm_Trashcan",
+    "name": "Trash Can",
+    "icon": "/assets/images/items/itm_Trashcan.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 360,
+    "xp": 5000,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_10",
+    "name": "Stoneshaping Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_10.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_11",
+    "name": "Stoneshaping Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_11.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_12",
+    "name": "Stoneshaping Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_12.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_01",
+    "name": "Clayum Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_01.png",
+    "tier": 1,
+    "level": 4,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 5.5,
+    "xp": 45,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_dew.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_sundial_01",
+        "name": "Clayum Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_01.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_01",
+    "name": "Clayum Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_01.png",
+    "tier": 1,
+    "level": 4,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 37.95,
+    "xp": 297,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_dew.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_sundial_01",
+        "name": "Clayum Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_01.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sundial_01",
+    "name": "Clayum Sundial",
+    "icon": "/assets/images/items/itm_sundial_01.png",
+    "tier": 1,
+    "level": 7,
+    "energy": 32,
+    "speed_boost": 0,
+    "time": 35,
+    "xp": 341,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_woodwheel_01",
+        "name": "Whittlewood Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_01.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_dairyFat",
+    "name": "Rendered Dairy Fat",
+    "icon": "/assets/images/items/itm_dairyFat.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 6,
+    "speed_boost": 0,
+    "time": 6.75,
+    "xp": 55,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_cow_dairyFat",
+        "name": "Dairy Fat",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+      },
+      {
+        "id": "itm_strainingMesh",
+        "name": "Straining Mesh",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_strainingMesh.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_dairyFat",
+    "name": "Rendered Dairy Fat",
+    "icon": "/assets/images/items/itm_dairyFat.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 41,
+    "speed_boost": 0,
+    "time": 46.58,
+    "xp": 363,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_cow_dairyFat",
+        "name": "Dairy Fat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+      },
+      {
+        "id": "itm_strainingMesh",
+        "name": "Straining Mesh",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_strainingMesh.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamCatalyst",
+    "name": "Seltsam Catalyst",
+    "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+    "tier": 1,
+    "level": 11,
+    "energy": 6,
+    "speed_boost": 0,
+    "time": 7,
+    "xp": 57,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamCatalyst",
+    "name": "Seltsam Catalyst",
+    "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+    "tier": 1,
+    "level": 11,
+    "energy": 41,
+    "speed_boost": 0,
+    "time": 48.3,
+    "xp": 376,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_lanolinRub",
+    "name": "Lanolin Polishing Rub",
+    "icon": "/assets/images/items/itm_lanolinRub.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 8,
+    "xp": 65,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_sheep_lanolinOil",
+        "name": "Lanolin Oil",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      },
+      {
+        "id": "itm_Small_Fountain_04",
+        "name": "Statue Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+      },
+      {
+        "id": "itm_Small_Fountain_03",
+        "name": "Triple Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_lanolinRub",
+    "name": "Lanolin Polishing Rub",
+    "icon": "/assets/images/items/itm_lanolinRub.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 55.2,
+    "xp": 429,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_sheep_lanolinOil",
+        "name": "Lanolin Oil",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      },
+      {
+        "id": "itm_Small_Fountain_04",
+        "name": "Statue Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+      },
+      {
+        "id": "itm_Small_Fountain_03",
+        "name": "Triple Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_volatileyolkcompound",
+    "name": "Volatile Yolk Compound",
+    "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 15,
+    "speed_boost": 0,
+    "time": 16.5,
+    "xp": 262,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_eggsplosive",
+        "name": "Eggsplosive",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_eggsplosive.png"
+      },
+      {
+        "id": "itm_slug_shimmerSlime",
+        "name": "Shimmer Slime",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_featherStorage",
+        "name": "Featherlight Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherStorage.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_volatileyolkcompound",
+    "name": "Volatile Yolk Compound",
+    "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 113.85,
+    "xp": 1729,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_eggsplosive",
+        "name": "Eggsplosive",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_eggsplosive.png"
+      },
+      {
+        "id": "itm_slug_shimmerSlime",
+        "name": "Shimmer Slime",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_featherStorage",
+        "name": "Featherlight Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherStorage.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pigmilkPutty",
+    "name": "Pigmilk Emulsified Putty",
+    "icon": "/assets/images/items/itm_pigmilkPutty.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 337,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_pig_pigMilk",
+        "name": "Pig Milk",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      },
+      {
+        "id": "itm_roughcutBoulder",
+        "name": "Roughcut Garden Boulder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_02",
+    "name": "Marbleite Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_02.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 16,
+    "xp": 244,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_02",
+    "name": "Marbleite Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_02.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 97,
+    "speed_boost": 0,
+    "time": 110.4,
+    "xp": 1610,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sundial_02",
+    "name": "Marbleite Sundial",
+    "icon": "/assets/images/items/itm_sundial_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 53,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 1098,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_woodwheel_02",
+        "name": "Craftbark Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_grindstone_02",
+        "name": "Marbleite Grinding Stone",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grindstone_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_10",
+        "name": "Stoneshaping Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_10.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_beePollenResin",
+    "name": "Bee Pollen Resin",
+    "icon": "/assets/images/items/itm_beePollenResin.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 17,
+    "speed_boost": 0,
+    "time": 19,
+    "xp": 296,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_bee_pollen",
+        "name": "Pollen",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_bee_pollen.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      },
+      {
+        "id": "itm_beeswax",
+        "name": "Wax",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_beeswax.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_dairyTemperedBrick",
+    "name": "Dairy Tempered Brick",
+    "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+    "tier": 3,
+    "level": 42,
+    "energy": 25,
+    "speed_boost": 0,
+    "time": 26.5,
+    "xp": 785,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_pig_mudCast",
+        "name": "Mud Cast",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_pig_mudCast.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mortarBox",
+        "name": "Mortared Planter Box",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mortarBox.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_dairyTemperedBrick",
+    "name": "Dairy Tempered Brick",
+    "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+    "tier": 3,
+    "level": 42,
+    "energy": 173,
+    "speed_boost": 0,
+    "time": 182.85,
+    "xp": 5181,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_pig_mudCast",
+        "name": "Mud Cast",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_pig_mudCast.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mortarBox",
+        "name": "Mortared Planter Box",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mortarBox.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_03",
+    "name": "Bedrock Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_03.png",
+    "tier": 3,
+    "level": 44,
+    "energy": 26,
+    "speed_boost": 0,
+    "time": 27,
+    "xp": 812,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_03",
+    "name": "Bedrock Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_03.png",
+    "tier": 3,
+    "level": 44,
+    "energy": 179,
+    "speed_boost": 0,
+    "time": 186.3,
+    "xp": 5359,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_earthSlab",
+    "name": "Earth-Oven Baking Slab",
+    "icon": "/assets/images/items/itm_earthSlab.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 903,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_instantHotplate",
+        "name": "Instant-Sizzle Hotplate",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_instantHotplate.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_duckResin",
+    "name": "Duck Feather Resin",
+    "icon": "/assets/images/items/itm_duckResin.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 26,
+    "speed_boost": 0,
+    "time": 28,
+    "xp": 826,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_duck_feather",
+        "name": "Duck Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_duck_feather.png"
+      },
+      {
+        "id": "itm_napricot",
+        "name": "Napricot",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_napricot.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      },
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_duckResin",
+    "name": "Duck Feather Resin",
+    "icon": "/assets/images/items/itm_duckResin.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 179,
+    "speed_boost": 0,
+    "time": 193.2,
+    "xp": 5452,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_duck_feather",
+        "name": "Duck Feather",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_duck_feather.png"
+      },
+      {
+        "id": "itm_napricot",
+        "name": "Napricot",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_napricot.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      },
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sundial_03",
+    "name": "Bedrock Sundial",
+    "icon": "/assets/images/items/itm_sundial_03.png",
+    "tier": 3,
+    "level": 47,
+    "energy": 63,
+    "speed_boost": 0,
+    "time": 68,
+    "xp": 2559,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_11",
+        "name": "Stoneshaping Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_11.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hornAbrasivePowder",
+    "name": "Horn-Flake Abrasive Powder",
+    "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+    "tier": 3,
+    "level": 48,
+    "energy": 26,
+    "speed_boost": 0,
+    "time": 28,
+    "xp": 851,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_goat_hornFlakes",
+        "name": "Tiny Horn Flakes",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hornAbrasivePowder",
+    "name": "Horn-Flake Abrasive Powder",
+    "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+    "tier": 3,
+    "level": 48,
+    "energy": 179,
+    "speed_boost": 0,
+    "time": 193.2,
+    "xp": 5617,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_goat_hornFlakes",
+        "name": "Tiny Horn Flakes",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+      },
+      {
+        "id": "itm_sawdust",
+        "name": "Sawdust",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sawdust.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_fineGritPowder",
+    "name": "Fine Grit Polishing Powder",
+    "icon": "/assets/images/items/itm_fineGritPowder.png",
+    "tier": 3,
+    "level": 52,
+    "energy": 33,
+    "speed_boost": 0,
+    "time": 37,
+    "xp": 1158,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_grindstone_03",
+        "name": "Bedrock Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_roughcutBoulder",
+        "name": "Roughcut Garden Boulder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_roughcutBoulder",
+    "name": "Roughcut Garden Boulder",
+    "icon": "/assets/images/items/itm_roughcutBoulder.png",
+    "tier": 3,
+    "level": 53,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 88,
+    "xp": 3189,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_pondMastic",
+    "name": "Pondslime Stone Mastic",
+    "icon": "/assets/images/items/itm_pondMastic.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 2315,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_duck_pondSlime",
+        "name": "Pond Slime",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_seltsamEgg",
+        "name": "Seltsam Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seltsamEgg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grindstone_04",
+        "name": "Claricite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_04.png"
+      },
+      {
+        "id": "itm_waterweedStorage",
+        "name": "Waterweed Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterweedStorage.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pondMastic",
+    "name": "Pondslime Stone Mastic",
+    "icon": "/assets/images/items/itm_pondMastic.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 248,
+    "speed_boost": 0,
+    "time": 276,
+    "xp": 15279,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 6,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_duck_pondSlime",
+        "name": "Pond Slime",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_seltsamEgg",
+        "name": "Seltsam Egg",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_seltsamEgg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grindstone_04",
+        "name": "Claricite Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_04.png"
+      },
+      {
+        "id": "itm_waterweedStorage",
+        "name": "Waterweed Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterweedStorage.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grindstone_04",
+    "name": "Claricite Grinding Stone",
+    "icon": "/assets/images/items/itm_grindstone_04.png",
+    "tier": 4,
+    "level": 64,
+    "energy": 37,
+    "speed_boost": 0,
+    "time": 42,
+    "xp": 2479,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sundial_04",
+    "name": "Claricite Sundial",
+    "icon": "/assets/images/items/itm_sundial_04.png",
+    "tier": 4,
+    "level": 67,
+    "energy": 94,
+    "speed_boost": 0,
+    "time": 99.5,
+    "xp": 7141,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_grindstone_04",
+        "name": "Claricite Grinding Stone",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grindstone_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_12",
+        "name": "Stoneshaping Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_12.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Fireplace",
+    "name": "Fireplace",
+    "icon": "/assets/images/items/itm_Fireplace.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 42,
+    "speed_boost": 0,
+    "time": 29,
+    "xp": 260,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_grumpFruit",
+        "name": "Orange Grumpkin",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_grumpFruit.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_Small_Fountain_04",
+    "name": "Statue Fountain",
+    "icon": "/assets/images/items/itm_Small_Fountain_04.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 22,
+    "xp": 172,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_Small_Fountain_03",
+    "name": "Triple Fountain",
+    "icon": "/assets/images/items/itm_Small_Fountain_03.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 49,
+    "speed_boost": 0,
+    "time": 33,
+    "xp": 297,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Stoneshaping T1",
+        "icon": "stoneshaping_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_waterland_statue",
+    "name": "Waterland Statue",
+    "icon": "/assets/images/items/itm_waterland_statue.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 52,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 510,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 99,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      },
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_beeswax",
+        "name": "Wax",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_beeswax.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_Bomb_Shell",
+    "name": "Bomb Shell",
+    "icon": "/assets/images/items/itm_Bomb_Shell.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 1010,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Stoneshaping",
+    "ingredients": [
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_beeswax",
+        "name": "Wax",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_beeswax.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Stoneshaping T2",
+        "icon": "stoneshaping_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Stoneshaping T3",
+        "icon": "stoneshaping_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Stoneshaping T4",
+        "icon": "stoneshaping_t4"
+      }
+    ]
+  }
+]

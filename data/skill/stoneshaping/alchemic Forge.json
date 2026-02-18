@@ -1,0 +1,143 @@
+[
+  {
+    "id": "itm_tempboost_speed_10",
+    "name": "Stoneshaping Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_10.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_11",
+    "name": "Stoneshaping Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_11.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_12",
+    "name": "Stoneshaping Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_12.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

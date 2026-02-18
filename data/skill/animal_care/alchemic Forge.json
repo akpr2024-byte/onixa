@@ -1,0 +1,320 @@
+[
+  {
+    "id": "itm_tempboost_yield_10",
+    "name": "Animal Care Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_10.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      },
+      {
+        "id": "itm_pig_pigMilk",
+        "name": "Pig Milk",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_11",
+    "name": "Animal Care Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_11.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_sheep_knottedWool",
+        "name": "Knotted Wool",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+      },
+      {
+        "id": "itm_bee_babyWings",
+        "name": "Baby Bee Wings",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_bee_babyWings.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_12",
+    "name": "Animal Care Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_12.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_goat_sunHorn",
+        "name": "Sunbaked Horn Tip",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_goat_sunHorn.png"
+      },
+      {
+        "id": "itm_duck_waterweed",
+        "name": "Waterweed",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_duck_waterweed.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_13",
+    "name": "Animal Care Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_13.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_cow_buttermilk",
+        "name": "Buttermilk",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_cow_buttermilk.png"
+      },
+      {
+        "id": "itm_slug_shimmerSlime",
+        "name": "Shimmer Slime",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_14",
+    "name": "Animal Care Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_14.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_bee_pollen",
+        "name": "Pollen",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_bee_pollen.png"
+      },
+      {
+        "id": "itm_pig_veggieBacon",
+        "name": "Veggie Bacon",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_pig_veggieBacon.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_15",
+    "name": "Animal Care Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_15.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_turkey_colorfulFeather",
+        "name": "Colorful Feather",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+      },
+      {
+        "id": "itm_goat_mohair",
+        "name": "Goat Mohair",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_goat_mohair.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

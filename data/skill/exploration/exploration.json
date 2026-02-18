@@ -1,0 +1,4271 @@
+[
+  {
+    "id": "itm_commonfish_all",
+    "name": "Fluppy",
+    "icon": "/assets/images/items/itm_commonfish_all.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_algamix.png"
+      },
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_01.png"
+      },
+      {
+        "id": "itm_roll_01",
+        "name": "Jelly Jiggle Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_01.png"
+      },
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_01.png"
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_01.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_02.png"
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_02.png"
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_bento_03",
+        "name": "Skywater Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_03.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_03.png"
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_03.png"
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_03.png"
+      },
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_04.png"
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png"
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png"
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "icon": "/assets/images/items/itm_bento_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "icon": "/assets/images/items/itm_bento_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_roll_01",
+        "name": "Jelly Jiggle Roll",
+        "icon": "/assets/images/items/itm_roll_01.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "icon": "/assets/images/items/itm_crunch_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "icon": "/assets/images/items/itm_nigiri_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "icon": "/assets/images/items/itm_bowl_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "icon": "/assets/images/items/itm_nigiri_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "icon": "/assets/images/items/itm_bento_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "icon": "/assets/images/items/itm_wrap_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "icon": "/assets/images/items/itm_roll_02.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "icon": "/assets/images/items/itm_bowl_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bento_03",
+        "name": "Skywater Roll",
+        "icon": "/assets/images/items/itm_bento_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "icon": "/assets/images/items/itm_roll_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "icon": "/assets/images/items/itm_crunch_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "icon": "/assets/images/items/itm_nigiri_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "icon": "/assets/images/items/itm_bowl_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "icon": "/assets/images/items/itm_crunch_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "icon": "/assets/images/items/itm_bento_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "icon": "/assets/images/items/itm_royalJellyBbq.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png",
+        "qty": 20
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png",
+        "qty": 20
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "id": "itm_seaweed",
+    "name": "Seaweed",
+    "icon": "/assets/images/items/itm_seaweed.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_algamix.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_01.png"
+      },
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_01.png"
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_01.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_02.png"
+      },
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_02.png"
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_03.png"
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_03.png"
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_03.png"
+      },
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_04.png"
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_bowl_04",
+        "name": "Jelly Milky Weifish Platter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_04.png"
+      },
+      {
+        "id": "itm_tempboost_yield_13",
+        "name": "Fishing Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_13.png"
+      },
+      {
+        "id": "itm_tempboost_yield_14",
+        "name": "Fishing Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_14.png"
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "icon": "/assets/images/items/itm_bento_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "icon": "/assets/images/items/itm_bento_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "icon": "/assets/images/items/itm_crunch_01.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "icon": "/assets/images/items/itm_nigiri_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "icon": "/assets/images/items/itm_bowl_01.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "icon": "/assets/images/items/itm_nigiri_02.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "icon": "/assets/images/items/itm_bento_02.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "icon": "/assets/images/items/itm_crunch_02.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "icon": "/assets/images/items/itm_bowl_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "icon": "/assets/images/items/itm_roll_03.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "icon": "/assets/images/items/itm_crunch_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "icon": "/assets/images/items/itm_wrap_03.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "icon": "/assets/images/items/itm_bowl_03.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "icon": "/assets/images/items/itm_crunch_04.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "icon": "/assets/images/items/itm_bento_04.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "icon": "/assets/images/items/itm_roll_04.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bowl_04",
+        "name": "Jelly Milky Weifish Platter",
+        "icon": "/assets/images/items/itm_bowl_04.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_tempboost_yield_13",
+        "name": "Fishing Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_13.png",
+        "qty": 50
+      },
+      {
+        "id": "itm_tempboost_yield_14",
+        "name": "Fishing Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_14.png",
+        "qty": 50
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "id": "itm_uncommonfish_03",
+    "name": "Grassfish",
+    "icon": "/assets/images/items/itm_uncommonfish_03.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_boat_01",
+        "name": "Seaside Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_01.png"
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_03.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "icon": "/assets/images/items/itm_wrap_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_boat_01",
+        "name": "Seaside Medley",
+        "icon": "/assets/images/items/itm_boat_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bowl_03",
+        "name": "Splash Set",
+        "icon": "/assets/images/items/itm_bowl_03.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_uncommonfish_04",
+    "name": "H2O-My-Cod",
+    "icon": "/assets/images/items/itm_uncommonfish_04.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_03.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "icon": "/assets/images/items/itm_wrap_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "icon": "/assets/images/items/itm_wrap_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "icon": "/assets/images/items/itm_wrap_03.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_uncommonfish_01",
+    "name": "Yellow Submafin",
+    "icon": "/assets/images/items/itm_uncommonfish_01.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_01.png"
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_crunch_01",
+        "name": "Seaweed Snack",
+        "icon": "/assets/images/items/itm_crunch_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "icon": "/assets/images/items/itm_nigiri_01.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_rarefish_04",
+    "name": "Stainless Eel",
+    "icon": "/assets/images/items/itm_rarefish_04.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishermanGrill.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "icon": "/assets/images/items/itm_nigiri_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "icon": "/assets/images/items/itm_wrap_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_uncommonfish_05",
+    "name": "Astronaut Spacefish",
+    "icon": "/assets/images/items/itm_uncommonfish_05.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_01.png"
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_03.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "icon": "/assets/images/items/itm_wrap_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "icon": "/assets/images/items/itm_bowl_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "icon": "/assets/images/items/itm_nigiri_03.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_rarefish_03",
+    "name": "Cattail Fish",
+    "icon": "/assets/images/items/itm_rarefish_03.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishermanGrill.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_02.png"
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_02.png"
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "icon": "/assets/images/items/itm_bento_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "icon": "/assets/images/items/itm_roll_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "id": "itm_epicfish_01",
+    "name": "Phat Sea Cat",
+    "icon": "/assets/images/items/itm_epicfish_01.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png"
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "icon": "/assets/images/items/itm_crunch_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_rarefish_01",
+    "name": "Speckled Streamer",
+    "icon": "/assets/images/items/itm_rarefish_01.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_02.png"
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png"
+      },
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "icon": "/assets/images/items/itm_crunch_02.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "icon": "/assets/images/items/itm_bowl_02.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_rarefish_02",
+    "name": "Smudgeon",
+    "icon": "/assets/images/items/itm_rarefish_02.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_tempboost_yield_13",
+        "name": "Fishing Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_13.png"
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "icon": "/assets/images/items/itm_wrap_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_tempboost_yield_13",
+        "name": "Fishing Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_13.png",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "id": "itm_epicfish_03",
+    "name": "Magnet Fish",
+    "icon": "/assets/images/items/itm_epicfish_03.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_03.png"
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "icon": "/assets/images/items/itm_roll_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "icon": "/assets/images/items/itm_crunch_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "icon": "/assets/images/items/itm_nigiri_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "id": "itm_epicfish_02",
+    "name": "Aero-fin",
+    "icon": "/assets/images/items/itm_epicfish_02.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_03.png"
+      },
+      {
+        "id": "itm_tempboost_yield_14",
+        "name": "Fishing Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_14.png"
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "icon": "/assets/images/items/itm_wrap_03.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_yield_14",
+        "name": "Fishing Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_14.png",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "id": "itm_ultimatefish_03",
+    "name": "Leaf Eel",
+    "icon": "/assets/images/items/itm_ultimatefish_03.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png"
+      },
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "icon": "/assets/images/items/itm_nigiri_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "icon": "/assets/images/items/itm_roll_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "id": "itm_ultimatefish_05",
+    "name": "Jelly Milky Weifish",
+    "icon": "/assets/images/items/itm_ultimatefish_05.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_bowl_04",
+        "name": "Jelly Milky Weifish Platter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_04.png"
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "icon": "/assets/images/items/itm_roll_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bowl_04",
+        "name": "Jelly Milky Weifish Platter",
+        "icon": "/assets/images/items/itm_bowl_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_ultimatefish_02",
+    "name": "Ancient Squidoodle",
+    "icon": "/assets/images/items/itm_ultimatefish_02.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wrap_04",
+        "name": "Celestial Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_04.png"
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png"
+      },
+      {
+        "id": "itm_wrap_04",
+        "name": "Celestial Wrap",
+        "icon": "/assets/images/items/itm_wrap_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "id": "itm_ultimatefish_04",
+    "name": "Lightning Rod Cod",
+    "icon": "/assets/images/items/itm_ultimatefish_04.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png"
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "icon": "/assets/images/items/itm_bento_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "icon": "/assets/images/items/itm_roll_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_ultimatefish_01",
+    "name": "Villa Shark",
+    "icon": "/assets/images/items/itm_ultimatefish_01.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 0,
+    "xp": 0,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "station": "Fishing",
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      }
+    ],
+    "drops_from": [
+      {
+        "stage": "Fishing Pool",
+        "icon": "fishing",
+        "chance": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png"
+      },
+      {
+        "id": "itm_crunch_04",
+        "name": "Spaceshark Stack",
+        "icon": "/assets/images/items/itm_crunch_04.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_bento_01",
+    "name": "Wiggly Fluppy Nigiri",
+    "icon": "/assets/images/items/itm_bento_01.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 240,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_grumpFruit",
+        "name": "Orange Grumpkin",
+        "qty": 11,
+        "icon": "/assets/images/items/itm_grumpFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+
+  {
+    "id": "itm_roll_01",
+    "name": "Jelly Jiggle Roll",
+    "icon": "/assets/images/items/itm_roll_01.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 15,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 360,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_crunch_01",
+    "name": "Seaweed Snack",
+    "icon": "/assets/images/items/itm_crunch_01.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 11,
+    "speed_boost": 0,
+    "time": 22,
+    "xp": 420,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_uncommonfish_01",
+        "name": "Yellow Submafin",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_uncommonfish_01.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_wrap_01",
+    "name": "NFT Delight",
+    "icon": "/assets/images/items/itm_wrap_01.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 33.6,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 300,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_uncommonfish_03",
+        "name": "Grassfish",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_uncommonfish_03.png"
+      },
+      {
+        "id": "itm_uncommonfish_04",
+        "name": "H2O-My-Cod",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_uncommonfish_04.png"
+      },
+      {
+        "id": "itm_uncommonfish_05",
+        "name": "Astronaut Spacefish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_05.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_01",
+        "name": "Seaside Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_01.png"
+      },
+      {
+        "id": "itm_boat_04",
+        "name": "Nebula Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nigiri_01",
+    "name": "Submafin Nigiri",
+    "icon": "/assets/images/items/itm_nigiri_01.png",
+    "tier": 1,
+    "level": 12,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 28,
+    "xp": 600,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_uncommonfish_01",
+        "name": "Yellow Submafin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_01.png"
+      },
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_01",
+        "name": "Seaside Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bowl_01",
+    "name": "Astral Feast",
+    "icon": "/assets/images/items/itm_bowl_01.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 42,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 720,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_uncommonfish_05",
+        "name": "Astronaut Spacefish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_05.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_boat_01",
+    "name": "Seaside Medley",
+    "icon": "/assets/images/items/itm_boat_01.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 39.6,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 1500,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_uncommonfish_03",
+        "name": "Grassfish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_03.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_hotato.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_nigiri_02",
+    "name": "Eel Mound",
+    "icon": "/assets/images/items/itm_nigiri_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 44.4,
+    "speed_boost": 0,
+    "time": 32,
+    "xp": 900,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_rarefish_04",
+        "name": "Stainless Eel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rarefish_04.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_02",
+        "name": "Ocean Breeze Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bento_02",
+    "name": "Marshland Medley",
+    "icon": "/assets/images/items/itm_bento_02.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 52.8,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 1350,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_rarefish_03",
+        "name": "Cattail Fish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rarefish_03.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_crunch_02",
+    "name": "Leafy Crunch",
+    "icon": "/assets/images/items/itm_crunch_02.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 1080,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_rarefish_01",
+        "name": "Speckled Streamer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rarefish_01.png"
+      },
+      {
+        "id": "itm_uncommonfish_02",
+        "name": "Cherroop Goop",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_uncommonfish_02.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_02",
+        "name": "Ocean Breeze Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wrap_02",
+    "name": "Garden Magnifique",
+    "icon": "/assets/images/items/itm_wrap_02.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 55.2,
+    "speed_boost": 0,
+    "time": 35,
+    "xp": 1200,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_uncommonfish_04",
+        "name": "H2O-My-Cod",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_04.png"
+      },
+      {
+        "id": "itm_rarefish_02",
+        "name": "Smudgeon",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rarefish_02.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_02",
+        "name": "Ocean Breeze Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_roll_02",
+    "name": "Meadow Roll",
+    "icon": "/assets/images/items/itm_roll_02.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 58.8,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 1980,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_rarefish_03",
+        "name": "Cattail Fish",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rarefish_03.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 11,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_03",
+        "name": "Aurora Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bowl_02",
+    "name": "Riverbank Fry",
+    "icon": "/assets/images/items/itm_bowl_02.png",
+    "tier": 2,
+    "level": 33,
+    "energy": 61.2,
+    "speed_boost": 0,
+    "time": 33,
+    "xp": 1320,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_rarefish_01",
+        "name": "Speckled Streamer",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_rarefish_01.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_03",
+        "name": "Aurora Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_boat_02",
+    "name": "Ocean Breeze Boat",
+    "icon": "/assets/images/items/itm_boat_02.png",
+    "tier": 2,
+    "level": 37,
+    "energy": 69.6,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 1500,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_bento_03",
+    "name": "Skywater Roll",
+    "icon": "/assets/images/items/itm_bento_03.png",
+    "tier": 3,
+    "level": 44,
+    "energy": 66,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 1800,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_epicfish_04",
+        "name": "Low Flyer",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_epicfish_04.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_roll_03",
+    "name": "Stainless Magnet Roll",
+    "icon": "/assets/images/items/itm_roll_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 72,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 2100,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_epicfish_03",
+        "name": "Magnet Fish",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_epicfish_03.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_03",
+        "name": "Aurora Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_crunch_03",
+    "name": "Phat Fry",
+    "icon": "/assets/images/items/itm_crunch_03.png",
+    "tier": 3,
+    "level": 46,
+    "energy": 76.8,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 1920,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_epicfish_01",
+        "name": "Phat Sea Cat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_01.png"
+      },
+      {
+        "id": "itm_epicfish_03",
+        "name": "Magnet Fish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_04",
+        "name": "Nebula Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wrap_03",
+    "name": "Aero-Dynamic Wrap",
+    "icon": "/assets/images/items/itm_wrap_03.png",
+    "tier": 3,
+    "level": 49,
+    "energy": 80.4,
+    "speed_boost": 0,
+    "time": 42,
+    "xp": 1500,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_uncommonfish_04",
+        "name": "H2O-My-Cod",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_04.png"
+      },
+      {
+        "id": "itm_rarefish_04",
+        "name": "Stainless Eel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rarefish_04.png"
+      },
+      {
+        "id": "itm_epicfish_02",
+        "name": "Aero-fin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_02.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_03",
+        "name": "Aurora Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nigiri_03",
+    "name": "Lunar Mound",
+    "icon": "/assets/images/items/itm_nigiri_03.png",
+    "tier": 3,
+    "level": 51,
+    "energy": 61.2,
+    "speed_boost": 0,
+    "time": 52,
+    "xp": 2340,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_uncommonfish_05",
+        "name": "Astronaut Spacefish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_05.png"
+      },
+      {
+        "id": "itm_epicfish_03",
+        "name": "Magnet Fish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_03.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_boat_03",
+    "name": "Aurora Boat",
+    "icon": "/assets/images/items/itm_boat_03.png",
+    "tier": 3,
+    "level": 58,
+    "energy": 72,
+    "speed_boost": 0,
+    "time": 110,
+    "xp": 3500,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_wrap_03",
+        "name": "Aero-Dynamic Wrap",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wrap_03.png"
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roll_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_bowl_03",
+    "name": "Splash Set",
+    "icon": "/assets/images/items/itm_bowl_03.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 66,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 2700,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_epicfish_04",
+        "name": "Low Flyer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_04.png"
+      },
+      {
+        "id": "itm_uncommonfish_03",
+        "name": "Grassfish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_uncommonfish_03.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_crunch_04",
+    "name": "Spaceshark Stack",
+    "icon": "/assets/images/items/itm_crunch_04.png",
+    "tier": 4,
+    "level": 64,
+    "energy": 76.8,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 3840,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_epicfish_05",
+        "name": "Comet Serpent",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_epicfish_05.png"
+      },
+      {
+        "id": "itm_ultimatefish_01",
+        "name": "Villa Shark",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_01.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_nigiri_04",
+    "name": "Meteor Morsel",
+    "icon": "/assets/images/items/itm_nigiri_04.png",
+    "tier": 4,
+    "level": 67,
+    "energy": 80.4,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 4140,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_rarefish_05",
+        "name": "Lunar Fish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rarefish_05.png"
+      },
+      {
+        "id": "itm_ultimatefish_03",
+        "name": "Leaf Eel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_03.png"
+      },
+      {
+        "id": "itm_napricotfruitjam",
+        "name": "Napricot Jam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_napricotfruitjam.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bento_04",
+    "name": "Thunderstrike Wrap",
+    "icon": "/assets/images/items/itm_bento_04.png",
+    "tier": 4,
+    "level": 72,
+    "energy": 86.4,
+    "speed_boost": 0,
+    "time": 85,
+    "xp": 4500,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_ultimatefish_04",
+        "name": "Lightning Rod Cod",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_04.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_syrup.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_wrap_04",
+    "name": "Celestial Wrap",
+    "icon": "/assets/images/items/itm_wrap_04.png",
+    "tier": 4,
+    "level": 74,
+    "energy": 93.6,
+    "speed_boost": 0,
+    "time": 110,
+    "xp": 5200,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_rarefish_05",
+        "name": "Lunar Fish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rarefish_05.png"
+      },
+      {
+        "id": "itm_ultimatefish_02",
+        "name": "Ancient Squidoodle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_02.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_roll_04",
+    "name": "Ulta Roll",
+    "icon": "/assets/images/items/itm_roll_04.png",
+    "tier": 4,
+    "level": 75,
+    "energy": 90,
+    "speed_boost": 0,
+    "time": 92,
+    "xp": 4800,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_ultimatefish_05",
+        "name": "Jelly Milky Weifish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_05.png"
+      },
+      {
+        "id": "itm_ultimatefish_04",
+        "name": "Lightning Rod Cod",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_04.png"
+      },
+      {
+        "id": "itm_ultimatefish_03",
+        "name": "Leaf Eel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_boat_04",
+    "name": "Nebula Boat",
+    "icon": "/assets/images/items/itm_boat_04.png",
+    "tier": 4,
+    "level": 78,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 140,
+    "xp": 6000,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_crunch_03",
+        "name": "Phat Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_03.png"
+      },
+      {
+        "id": "itm_butterberryjam",
+        "name": "Butterberry Jam",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_butterberryjam.png"
+      },
+      {
+        "id": "itm_bowl_04",
+        "name": "Jelly Milky Weifish Platter",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_bowl_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_fluffgrice",
+    "name": "Fluffgrice",
+    "icon": "/assets/images/items/itm_fluffgrice.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 62.1,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 297,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 6,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_grice",
+        "name": "Grice",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grice.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_28",
+        "name": "Mixed Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_28.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_01.png"
+      },
+      {
+        "id": "itm_roll_01",
+        "name": "Jelly Jiggle Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_01.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_01.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_02.png"
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_02.png"
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_bento_03",
+        "name": "Skywater Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_03.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_03.png"
+      },
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_04.png"
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_04.png"
+      },
+      {
+        "id": "itm_wrap_04",
+        "name": "Celestial Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_boat_04",
+        "name": "Nebula Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_fluffgrice",
+    "name": "Fluffgrice",
+    "icon": "/assets/images/items/itm_fluffgrice.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 45,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_grice",
+        "name": "Grice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grice.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Sushi T1",
+        "icon": "sushi_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_28",
+        "name": "Mixed Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_28.png"
+      },
+      {
+        "id": "itm_bento_01",
+        "name": "Wiggly Fluppy Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_01.png"
+      },
+      {
+        "id": "itm_roll_01",
+        "name": "Jelly Jiggle Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_01.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      },
+      {
+        "id": "itm_nigiri_01",
+        "name": "Submafin Nigiri",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_01.png"
+      },
+      {
+        "id": "itm_bowl_01",
+        "name": "Astral Feast",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_01.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_bento_02",
+        "name": "Marshland Medley",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_02.png"
+      },
+      {
+        "id": "itm_wrap_02",
+        "name": "Garden Magnifique",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_02.png"
+      },
+      {
+        "id": "itm_roll_02",
+        "name": "Meadow Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_02.png"
+      },
+      {
+        "id": "itm_bowl_02",
+        "name": "Riverbank Fry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bowl_02.png"
+      },
+      {
+        "id": "itm_bento_03",
+        "name": "Skywater Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_03.png"
+      },
+      {
+        "id": "itm_roll_03",
+        "name": "Stainless Magnet Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_03.png"
+      },
+      {
+        "id": "itm_nigiri_03",
+        "name": "Lunar Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_03.png"
+      },
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_04.png"
+      },
+      {
+        "id": "itm_bento_04",
+        "name": "Thunderstrike Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bento_04.png"
+      },
+      {
+        "id": "itm_wrap_04",
+        "name": "Celestial Wrap",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      },
+      {
+        "id": "itm_boat_04",
+        "name": "Nebula Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grice",
+    "name": "Grice",
+    "icon": "/assets/images/items/itm_grice.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 34.5,
+    "speed_boost": 0,
+    "time": 20.7,
+    "xp": 132,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grice",
+    "name": "Grice",
+    "icon": "/assets/images/items/itm_grice.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 3,
+    "xp": 20,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bowl_04",
+    "name": "Jelly Milky Weifish Platter",
+    "icon": "/assets/images/items/itm_bowl_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 72,
+    "speed_boost": 0,
+    "time": 62,
+    "xp": 3600,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_epicfish_05",
+        "name": "Comet Serpent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_epicfish_05.png"
+      },
+      {
+        "id": "itm_ultimatefish_05",
+        "name": "Jelly Milky Weifish",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ultimatefish_05.png"
+      },
+      {
+        "id": "itm_tenta",
+        "name": "Astracactus",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_tenta.png"
+      },
+      {
+        "id": "itm_coffeefruitjam",
+        "name": "Java Jam",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_coffeefruitjam.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_boat_04",
+        "name": "Nebula Boat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_boat_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_yieldReactor",
+    "name": "Yield Reactor",
+    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 105,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 1800,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Sushi",
+    "ingredients": [
+      {
+        "id": "itm_pearlySwirl",
+        "name": "Pearly Swirl",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_pearlySwirl.png"
+      },
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_04.png"
+      },
+      {
+        "id": "itm_roll_04",
+        "name": "Ulta Roll",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_roll_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Sushi T2",
+        "icon": "sushi_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Sushi T3",
+        "icon": "sushi_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Sushi T4",
+        "icon": "sushi_t4"
+      }
+    ],
+    "multi_recipe": true,
+    "recipe_id": "exploration_yield_reactor"
+  },
+  {
+    "id": "itm_fishing_rod_2",
+    "name": "Fish Finder Ten Thousand",
+    "icon": "/assets/images/items/itm_fishing_rod_2.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 62,
+    "speed_boost": 0,
+    "time": 72,
+    "xp": 1328,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_fishingNet",
+        "name": "Fish Finder Five Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishingNet.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_13",
+    "name": "Fishing Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_13.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_rarefish_02",
+        "name": "Smudgeon",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_rarefish_02.png"
+      },
+      {
+        "id": "itm_rarefish_05",
+        "name": "Lunar Fish",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_rarefish_05.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_14",
+    "name": "Fishing Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_14.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_epicfish_02",
+        "name": "Aero-fin",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_epicfish_02.png"
+      },
+      {
+        "id": "itm_epicfish_05",
+        "name": "Comet Serpent",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_epicfish_05.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_15",
+    "name": "Fishing Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_15.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_ultimatefish_02",
+        "name": "Ancient Squidoodle",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_ultimatefish_02.png"
+      },
+      {
+        "id": "itm_ultimatefish_05",
+        "name": "Jelly Milky Weifish",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_ultimatefish_05.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_31",
+    "name": "Fishing Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_31.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_rarefish_01",
+        "name": "Speckled Streamer",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_rarefish_01.png"
+      },
+      {
+        "id": "itm_rarefish_03",
+        "name": "Cattail Fish",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_rarefish_03.png"
+      },
+      {
+        "id": "itm_rarefish_04",
+        "name": "Stainless Eel",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_rarefish_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_32",
+    "name": "Fishing Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_32.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_epicfish_01",
+        "name": "Phat Sea Cat",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_epicfish_01.png"
+      },
+      {
+        "id": "itm_epicfish_03",
+        "name": "Magnet Fish",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_epicfish_03.png"
+      },
+      {
+        "id": "itm_epicfish_04",
+        "name": "Low Flyer",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_epicfish_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_33",
+    "name": "Fishing Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_33.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_ultimatefish_01",
+        "name": "Villa Shark",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_ultimatefish_01.png"
+      },
+      {
+        "id": "itm_ultimatefish_03",
+        "name": "Leaf Eel",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_ultimatefish_03.png"
+      },
+      {
+        "id": "itm_ultimatefish_04",
+        "name": "Lightning Rod Cod",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_ultimatefish_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

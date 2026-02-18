@@ -1,0 +1,522 @@
+[
+  {
+    "id": "itm_woolenThread",
+    "name": "Woolen Thread",
+    "icon": "/assets/images/items/itm_woolenThread.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 69,
+    "speed_boost": 0,
+    "time": 115,
+    "xp": 660,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 5,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_woolyweedFruit",
+        "name": "Wool Wad",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+      },
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_siftingScreen",
+        "name": "Sifting Screen",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_siftingScreen.png"
+      },
+      {
+        "id": "itm_fullSuitInlay",
+        "name": "Full Black and White Suit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolenThread",
+    "name": "Woolen Thread",
+    "icon": "/assets/images/items/itm_woolenThread.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 12,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 120,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_woolyweedFruit",
+        "name": "Wool Wad",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+      },
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_siftingScreen",
+        "name": "Sifting Screen",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_siftingScreen.png"
+      },
+      {
+        "id": "itm_fullSuitInlay",
+        "name": "Full Black and White Suit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherFluff",
+    "name": "Feather Fluff",
+    "icon": "/assets/images/items/itm_featherFluff.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 89.7,
+    "speed_boost": 0,
+    "time": 151.8,
+    "xp": 990,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      },
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_turkeyPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_blanketWeave",
+        "name": "Blanket Weave",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_blanketWeave.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherFluff",
+    "name": "Feather Fluff",
+    "icon": "/assets/images/items/itm_featherFluff.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 13,
+    "speed_boost": 0,
+    "time": 22,
+    "xp": 150,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      },
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkeyPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_blanketWeave",
+        "name": "Blanket Weave",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_blanketWeave.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_trufflePowder",
+    "name": "Truffle Powder",
+    "icon": "/assets/images/items/itm_trufflePowder.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 15,
+    "xp": 230,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_pig_truffles",
+        "name": "Truffles",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_pig_truffles.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mulch.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mulch.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_trufflePowder",
+    "name": "Truffle Powder",
+    "icon": "/assets/images/items/itm_trufflePowder.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 97,
+    "speed_boost": 0,
+    "time": 103.5,
+    "xp": 1518,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_pig_truffles",
+        "name": "Truffles",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_pig_truffles.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mulch.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mulch.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_turkeyPowder",
+    "name": "Turkey Egg Powder",
+    "icon": "/assets/images/items/itm_turkeyPowder.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 12,
+    "xp": 80,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_thanksgiving_turkeyegg",
+        "name": "Turkey Egg",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_thanksgiving_turkeyegg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_strainingMesh",
+        "name": "Straining Mesh",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_strainingMesh.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_turkeyPowder",
+    "name": "Turkey Egg Powder",
+    "icon": "/assets/images/items/itm_turkeyPowder.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 57.5,
+    "speed_boost": 0,
+    "time": 69,
+    "xp": 440,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 5,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_thanksgiving_turkeyegg",
+        "name": "Turkey Egg",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_thanksgiving_turkeyegg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_strainingMesh",
+        "name": "Straining Mesh",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_strainingMesh.png"
+      }
+    ]
+  }
+]

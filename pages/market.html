@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="description" content="Pixel Market Data" />
+    <meta name="theme-color" content="#0f0f14" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>OnixA</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="icon" type="image/png" href="/assets/images/logo/favicon.png" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#0f0f14" />
+    <meta name="description" content="OnixA - Game Market & Craft Calculator" />
+    <meta property="og:title" content="OnixA" />
+    <meta
+      property="og:description"
+      content="Advanced game market & crafting tool"
+    />
+    <meta property="og:image" content="https://yourdomain.com/preview.png" />
+  </head>
+
+  <body class="market-a">
+    <div id="header"></div>
+    <div id="navbar"></div>
+
+    <div class="table-wrapper">
+      <div class="market-search-bar">
+        <input id="searchBox" placeholder="Search item..." />
+      </div>
+
+      <table id="dataTable" class="pixel-table">
+        <thead>
+          <tr>
+            <th>Icon</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Supply</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <div id="pagination"></div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script type="module" src="../js/loader.js"></script>
+    <script type="module" src="../js/item-popup.js"></script>
+    <script type="module" src="../js/market-core.js"></script>
+    <script type="module" src="../js/market.js"></script>
+  </body>
+</html>

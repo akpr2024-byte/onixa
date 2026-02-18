@@ -1,0 +1,666 @@
+[
+  {
+    "id": "itm_cow_buttermilk",
+    "name": "Buttermilk",
+    "icon": "/assets/images/items/itm_cow_buttermilk.png",
+    "tier": null,
+    "level": 0,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_buttermilkDough.png"
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_impossibleStew.png"
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+      },
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "icon": "/assets/images/items/itm_miniBarrels.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "icon": "/assets/images/items/itm_buttermilkDough.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "icon": "/assets/images/items/itm_impossibleStew.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_cow_cheeseClump",
+    "name": "Cheese Clump",
+    "icon": "/assets/images/items/itm_cow_cheeseClump.png",
+    "tier": null,
+    "level": 0,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Cow3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "icon": "/assets/images/items/itm_cheesePaste.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "icon": "/assets/images/items/itm_cheesePaste.png",
+        "qty": 18
+      }
+    ]
+  },
+  {
+    "id": "itm_cow_dairyFat",
+    "name": "Dairy Fat",
+    "icon": "/assets/images/items/itm_cow_dairyFat.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 150,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Cow3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_cow_dairyFat",
+    "name": "Dairy Fat",
+    "icon": "/assets/images/items/itm_cow_dairyFat.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 150,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Cow3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "icon": "/assets/images/items/itm_dairyFat.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "icon": "/assets/images/items/itm_dairyFat.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "icon": "/assets/images/items/itm_gearGrease.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "icon": "/assets/images/items/itm_gearGrease.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_cow_grassClump",
+    "name": "Grass Clump",
+    "icon": "/assets/images/items/itm_cow_grassClump.png",
+    "tier": null,
+    "level": 0,
+    "energy": 33,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grassSkewers.png"
+      },
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "icon": "/assets/images/items/itm_grassSkewers.png",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "id": "itm_milk",
+    "name": "Cow Milk",
+    "icon": "/assets/images/items/itm_milk.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 100,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Cow3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_scarrotStrgnff",
+        "name": "Scarrot Stroganoff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+      },
+      {
+        "id": "itm_bttrbrryBorsch",
+        "name": "Butterberry Borsch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bttrbrryBorsch.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_whipped_cream",
+        "name": "Whipped Cream",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_whipped_cream.png"
+      },
+      {
+        "id": "itm_popberry_amode",
+        "name": "Popberry à la Mode",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberry_amode.png"
+      },
+      {
+        "id": "itm_kikosPancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kikosPancakes.png"
+      },
+      {
+        "id": "itm_scarrotStrgnff",
+        "name": "Scarrot Stroganoff",
+        "icon": "/assets/images/items/itm_scarrotStrgnff.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_bttrbrryBorsch",
+        "name": "Butterberry Borsch",
+        "icon": "/assets/images/items/itm_bttrbrryBorsch.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_whipped_cream",
+        "name": "Whipped Cream",
+        "icon": "/assets/images/items/itm_whipped_cream.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_popberry_amode",
+        "name": "Popberry à la Mode",
+        "icon": "/assets/images/items/itm_popberry_amode.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_kikosPancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "icon": "/assets/images/items/itm_kikosPancakes.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 50,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Cow",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Cow1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Cow2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Cow3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Cow4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]

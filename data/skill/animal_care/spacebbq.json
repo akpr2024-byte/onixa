@@ -1,0 +1,68 @@
+[
+  {
+    "id": "itm_petfood",
+    "name": "Pet Treat",
+    "icon": "/assets/images/items/itm_petfood.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 150,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 1350,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 15,
+    "station": "Spacebbq",
+    "ingredients": [
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      },
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_egg",
+        "name": "Egg",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_egg.png"
+      },
+      {
+        "id": "itm_flour",
+        "name": "Grainbow Flour",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_flour.png"
+      },
+      {
+        "id": "itm_honey",
+        "name": "Honey",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_honey.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "spacebbq",
+        "name": "Spacebbq",
+        "icon": "spacebbq"
+      }
+    ]
+  }
+]

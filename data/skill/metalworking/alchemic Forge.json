@@ -1,0 +1,302 @@
+[
+  {
+    "id": "itm_tempboost_speed_22",
+    "name": "Metalworking Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_22.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_23",
+    "name": "Metalworking Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_23.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_24",
+    "name": "Metalworking Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_24.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_02",
+    "name": "More Durable T2 Shears",
+    "icon": "/assets/images/items/itm_duraShears_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 64,
+    "speed_boost": 0,
+    "time": 68,
+    "xp": 1277,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_goat_goatFur",
+        "name": "Shedded Goat Fur",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goat_goatFur.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_03",
+    "name": "More Durable T3 Shears",
+    "icon": "/assets/images/items/itm_duraShears_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 87.5,
+    "xp": 3250,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_04",
+    "name": "More Durable T4 Shears",
+    "icon": "/assets/images/items/itm_duraShears_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 114,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 8369,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_turkey_rainbowBristles",
+        "name": "Rainbow Turkey Bristles",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkey_rainbowBristles.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

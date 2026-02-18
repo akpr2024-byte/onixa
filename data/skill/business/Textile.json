@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "itm_siftingScreen",
+    "name": "Sifting Screen",
+    "icon": "/assets/images/items/itm_siftingScreen.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 450,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_strainingMesh",
+        "name": "Straining Mesh",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_strainingMesh.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_blanketWeave",
+        "name": "Blanket Weave",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_blanketWeave.png"
+      },
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      },
+      {
+        "id": "itm_cubecumbergreenpigment",
+        "name": "Green Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumbergreenpigment.png"
+      },
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_irontiteredpigment.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_blanketWeave",
+    "name": "Blanket Weave",
+    "icon": "/assets/images/items/itm_blanketWeave.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 140,
+    "xp": 7520,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_yarnyamcloth",
+        "name": "Red Wool Cloth",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_yarnyamcloth.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_siftingScreen",
+        "name": "Sifting Screen",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_siftingScreen.png"
+      },
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      },
+      {
+        "id": "itm_popberrybluepigment",
+        "name": "Blue Colorpot",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_tent-v1-02-decoration",
+    "name": "Blue Tent",
+    "icon": "/assets/images/items/itm_tent-v1-02-decoration.png",
+    "tier": 2,
+    "level": 31,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 85,
+    "xp": 1750,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_popberrybluepigment",
+        "name": "Blue Colorpot",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_partBlanket",
+    "name": "Snuggle Veil",
+    "icon": "/assets/images/items/itm_partBlanket.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 62,
+    "speed_boost": 0,
+    "time": 110,
+    "xp": 3200,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_yarnyamcloth",
+        "name": "Red Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yarnyamcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tent-v1-01-decoration",
+    "name": "Green Tent",
+    "icon": "/assets/images/items/itm_tent-v1-01-decoration.png",
+    "tier": 3,
+    "level": 42,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 2800,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_cubecumbergreenpigment",
+        "name": "Green Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumbergreenpigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_tent-v1-03-decoration",
+    "name": "Red Tent",
+    "icon": "/assets/images/items/itm_tent-v1-03-decoration.png",
+    "tier": 4,
+    "level": 65,
+    "energy": 85,
+    "speed_boost": 0,
+    "time": 130,
+    "xp": 5200,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_yarnyamcloth",
+        "name": "Red Wool Cloth",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_yarnyamcloth.png"
+      },
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_fullSuitInlay",
+    "name": "Full Black and White Suit",
+    "icon": "/assets/images/items/itm_fullSuitInlay.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 64,
+    "speed_boost": 0,
+    "time": 72,
+    "xp": 1374,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_alpineRug",
+    "name": "Alpine Rug",
+    "icon": "/assets/images/items/itm_alpineRug.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 46,
+    "speed_boost": 0,
+    "time": 52,
+    "xp": 990,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_goat_goatFur",
+        "name": "Shedded Goat Fur",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_goat_goatFur.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_redHoodieJacket",
+    "name": "Red Hoodie Jacket",
+    "icon": "/assets/images/items/itm_redHoodieJacket.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 76,
+    "speed_boost": 0,
+    "time": 82,
+    "xp": 2985,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_yarnyamcloth",
+        "name": "Red Wool Cloth",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_yarnyamcloth.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_pixelsNavyShirt",
+    "name": "Pixels Navy Blue T-Shirt",
+    "icon": "/assets/images/items/itm_pixelsNavyShirt.png",
+    "tier": 3,
+    "level": 57,
+    "energy": 82,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 3217,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_marbleitewhitepigment",
+        "name": "White Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_brownSweatpants",
+    "name": "Brown Sweatpants",
+    "icon": "/assets/images/items/itm_brownSweatpants.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 87,
+    "speed_boost": 0,
+    "time": 100,
+    "xp": 7098,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_silkcloth",
+    "name": "Silk Cloth",
+    "icon": "/assets/images/items/itm_silkcloth.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 225,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_small_puprle_rug",
+        "name": "Small Purple Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_small_puprle_rug.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_silkcloth",
+    "name": "Silk Cloth",
+    "icon": "/assets/images/items/itm_silkcloth.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 194,
+    "speed_boost": 0,
+    "time": 106,
+    "xp": 2295,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 12,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 120,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_small_puprle_rug",
+        "name": "Small Purple Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_small_puprle_rug.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_cunstruction_cone",
+    "name": "Construction Cone",
+    "icon": "/assets/images/items/itm_cunstruction_cone.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 420,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_grumpFruit",
+        "name": "Orange Grumpkin",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_grumpFruit.png"
+      },
+      {
+        "id": "itm_slab_orange",
+        "name": "Orange Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slab_orange.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_small_puprle_rug",
+    "name": "Small Purple Rug",
+    "icon": "/assets/images/items/itm_small_puprle_rug.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 30,
+    "speed_boost": 0,
+    "time": 25.5,
+    "xp": 130,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_slab_l_purple",
+        "name": "Light Purple Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slab_l_purple.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_silkrope",
+    "name": "Silk Rope",
+    "icon": "/assets/images/items/itm_silkrope.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 10,
+    "xp": 150,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      },
+      {
+        "id": "itm_silkslugspider",
+        "name": "Silk Slug Spider",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_silkslugspider.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_silkrope",
+    "name": "Silk Rope",
+    "icon": "/assets/images/items/itm_silkrope.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 172,
+    "speed_boost": 0,
+    "time": 96,
+    "xp": 1530,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 12,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 180,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      },
+      {
+        "id": "itm_silkslugspider",
+        "name": "Silk Slug Spider",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_silkslugspider.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bones_hut_2",
+    "name": "Bone Hut 2",
+    "icon": "/assets/images/items/itm_bones_hut_2.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 148,
+    "speed_boost": 0,
+    "time": 93.25,
+    "xp": 809,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_void.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  },
+  {
+    "id": "itm_turquoise_Couch",
+    "name": "Turquoise Couch",
+    "icon": "/assets/images/items/itm_turquoise_Couch.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 138,
+    "speed_boost": 0,
+    "time": 77,
+    "xp": 1200,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ]
+  }
+]

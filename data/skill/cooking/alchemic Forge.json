@@ -1,0 +1,137 @@
+[
+  {
+    "id": "itm_tempboost_speed_4",
+    "name": "Cooking Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_4.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_cloverfruitjam",
+        "name": "Clover Fruit Jam",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_cloverfruitjam.png"
+      },
+      {
+        "id": "itm_tatohash",
+        "name": "Tato Hash",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_tatohash.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_5",
+    "name": "Cooking Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_5.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_slothmatopaste",
+        "name": "Slothmato Paste",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_slothmatopaste.png"
+      },
+      {
+        "id": "itm_muckchuckpie",
+        "name": "Muckchuck Pie",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_muckchuckpie.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_6",
+    "name": "Cooking Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_6.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_spicyOmelet",
+        "name": "Spicy Omelet",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_spicyOmelet.png"
+      },
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

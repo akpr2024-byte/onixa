@@ -1,0 +1,128 @@
+[
+  {
+    "id": "itm_pinkFence",
+    "name": "Pink Fence",
+    "tier": 1,
+    "level": 1,
+    "energy": 330,
+    "speed_boost": 0,
+    "time": 315,
+    "xp": 2570,
+    "xp_type": "woodwork",
+    "skill": "business",
+    "output": 10,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_magnoot",
+        "name": "Magnoot",
+        "qty": 60,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_magnoot/285363fa-5c2d-4f47-9793-87207180d313.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 120,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_screw/544172a9-5279-4bf3-9bc7-3dd232b518b7.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 60,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_woodplank_02/647deb6a-d7d1-4f88-b06b-d7b163416b08.png"
+      },
+      {
+        "id": "itm_heartbeetFruit",
+        "name": "Heartbeet",
+        "qty": 100,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//3cb811c3-ded5-4d76-ad13-9ec157bdeedd.png"
+      }
+    ],
+    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_pinkFence/6f60fd60-dd83-4eec-a55d-731100081e4b.png",
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_greenFence",
+    "name": "Green Fence",
+    "tier": 1,
+    "level": 1,
+    "energy": 330,
+    "speed_boost": 0,
+    "time": 315,
+    "xp": 2570,
+    "xp_type": "woodwork",
+    "skill": "business",
+    "output": 10,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_magnoot",
+        "name": "Magnoot",
+        "qty": 60,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_magnoot/285363fa-5c2d-4f47-9793-87207180d313.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 120,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_screw/544172a9-5279-4bf3-9bc7-3dd232b518b7.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 60,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_woodplank_02/647deb6a-d7d1-4f88-b06b-d7b163416b08.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 100,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//6b482d96-58a2-4bad-81dc-71b18e250bfa.png"
+      }
+    ],
+    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_greenFence/19fcf75f-681c-4e1d-b76e-e584e96c5913.png",
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  }
+]

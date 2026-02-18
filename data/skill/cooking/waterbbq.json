@@ -1,0 +1,762 @@
+[
+  {
+    "id": "itm_lanolinBaste",
+    "name": "Lanolin Oil Grill-Baste",
+    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "tier": 1,
+    "level": 16,
+    "energy": 11,
+    "speed_boost": 0,
+    "time": 12,
+    "xp": 99,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_sheep_lanolinOil",
+        "name": "Lanolin Oil",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+      },
+      {
+        "id": "itm_herbPotatoes",
+        "name": "Herb-Buttermilk Grilled Tatos",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_herbPotatoes.png"
+      },
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grassSkewers.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_lanolinBaste",
+    "name": "Lanolin Oil Grill-Baste",
+    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "tier": 1,
+    "level": 16,
+    "energy": 76,
+    "speed_boost": 0,
+    "time": 82.8,
+    "xp": 653,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 6,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_sheep_lanolinOil",
+        "name": "Lanolin Oil",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+      },
+      {
+        "id": "itm_herbPotatoes",
+        "name": "Herb-Buttermilk Grilled Tatos",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_herbPotatoes.png"
+      },
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grassSkewers.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_royalJellyBbq",
+    "name": "Royal Jelly Caramelized Fluppy BBQ",
+    "icon": "/assets/images/items/itm_royalJellyBbq.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 58,
+    "speed_boost": 0,
+    "time": 62.5,
+    "xp": 1537,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_bee_royalJelly",
+        "name": "Royal Jelly",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_herbPotatoes",
+    "name": "Herb-Buttermilk Grilled Tatos",
+    "icon": "/assets/images/items/itm_herbPotatoes.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 1215,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_buttermilkDough.png"
+      },
+      {
+        "id": "itm_tatofruit",
+        "name": "Tato Fruit",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tatofruit.png"
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_honeyJava",
+    "name": "Honey-Glazed Hover-Java",
+    "icon": "/assets/images/items/itm_honeyJava.png",
+    "tier": 2,
+    "level": 36,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 51.25,
+    "xp": 1293,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_pig_wings",
+        "name": "Baby Pig Wings",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_pig_wings.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_coffeefruit",
+        "name": "Java Berry",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_coffeefruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_fauxPlatter",
+    "name": "Faux-Pork Sizzle Platter",
+    "icon": "/assets/images/items/itm_fauxPlatter.png",
+    "tier": 3,
+    "level": 41,
+    "energy": 63,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 3463,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_caramelBaste",
+    "name": "Caramelized Slime Imbued Baste",
+    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "tier": 3,
+    "level": 58,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 38,
+    "xp": 1134,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_duck_pondSlime",
+        "name": "Pond Slime",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pondShrooms",
+        "name": "Pond Slime Seared Mushrooms",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondShrooms.png"
+      },
+      {
+        "id": "itm_flameGreens",
+        "name": "Flame Seared Pond Greens",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_flameGreens.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_caramelBaste",
+    "name": "Caramelized Slime Imbued Baste",
+    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "tier": 3,
+    "level": 58,
+    "energy": 248,
+    "speed_boost": 0,
+    "time": 262.2,
+    "xp": 7484,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 6,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_duck_pondSlime",
+        "name": "Pond Slime",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pondShrooms",
+        "name": "Pond Slime Seared Mushrooms",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondShrooms.png"
+      },
+      {
+        "id": "itm_flameGreens",
+        "name": "Flame Seared Pond Greens",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_flameGreens.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pondShrooms",
+    "name": "Pond Slime Seared Mushrooms",
+    "icon": "/assets/images/items/itm_pondShrooms.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 83,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 8648,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_pig_truffles",
+        "name": "Truffles",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_pig_truffles.png"
+      },
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_caramelBaste.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_flameGreens",
+    "name": "Flame Seared Pond Greens",
+    "icon": "/assets/images/items/itm_flameGreens.png",
+    "tier": 4,
+    "level": 68,
+    "energy": 83,
+    "speed_boost": 0,
+    "time": 92,
+    "xp": 8314,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_duck_waterweed",
+        "name": "Waterweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_duck_waterweed.png"
+      },
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_caramelBaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_moist_honey_kissed_grumpkin_chops",
+    "name": "Moist Honey-Kissed Grumpkin Chops",
+    "icon": "/assets/images/items/itm_moist_honey_kissed_grumpkin_chops.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 47,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 343,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_moist_maple_glazed_scarrot_slabs",
+    "name": "Moist Maple-Glazed Scarrot Slabs",
+    "icon": "/assets/images/items/itm_moist_maple_glazed_scarrot_slabs.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 338,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_syrup.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_moist_salt_encrusted_popberry_skewers",
+    "name": "Moist Salt-Encrusted Popberry Skewers",
+    "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 49,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 348,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_29",
+        "name": "Mixed Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_29.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_moist_scarrot_butterberry_kebabs",
+    "name": "Moist Scarrot and Butterberry Kebabs",
+    "icon": "/assets/images/items/itm_moist_scarrot_butterberry_kebabs.png",
+    "tier": 2,
+    "level": 29,
+    "energy": 51,
+    "speed_boost": 0,
+    "time": 47.5,
+    "xp": 354,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_butterberry",
+        "name": "Butterberry",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_butterberry.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_moist_broiled_muckchuck_burgers",
+    "name": "Moist Broiled Muckchuck Burgers",
+    "icon": "/assets/images/items/itm_moist_broiled_muckchuck_burgers.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 55,
+    "speed_boost": 0,
+    "time": 61.75,
+    "xp": 430,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Waterbbq",
+    "ingredients": [
+      {
+        "id": "itm_muckchuck",
+        "name": "Muckchuck",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_muckchuck.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  }
+]

@@ -1,0 +1,736 @@
+[
+  {
+    "id": "itm_feather_01",
+    "name": "Turkey Feather",
+    "icon": "/assets/images/items/itm_feather_01.png",
+    "tier": null,
+    "level": 0,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 180,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Turkey3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      },
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_toyteddy_01",
+        "name": "Toy Teddy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toyteddy_01.png"
+      },
+      {
+        "id": "itm_60dayflower_water_seed",
+        "name": "Aqua Flower Seeds",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_60dayflower_water_seed.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      },
+      {
+        "id": "itm_toyteddy_01",
+        "name": "Toy Teddy",
+        "icon": "/assets/images/items/itm_toyteddy_01.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "icon": "/assets/images/items/itm_featherFluff.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "icon": "/assets/images/items/itm_featherFluff.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_60dayflower_water_seed",
+        "name": "Aqua Flower Seeds",
+        "icon": "/assets/images/items/itm_60dayflower_water_seed.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "icon": "/assets/images/items/itm_duraPick_02.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_offspring_turkey",
+    "name": "Turkey Offspring",
+    "icon": "/assets/images/items/itm_offspring_turkey.png",
+    "tier": null,
+    "level": 0,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 420,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Turkey3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_thanksgiving_turkeyegg",
+    "name": "Turkey Egg",
+    "icon": "/assets/images/items/itm_thanksgiving_turkeyegg.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 120,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Turkey3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turkeyPowder.png"
+      },
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_turkeyPowder.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "icon": "/assets/images/items/itm_seltsamOmelet.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "icon": "/assets/images/items/itm_seltsamOmelet.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "icon": "/assets/images/items/itm_turkeyPowder.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_turkeyPowder",
+        "name": "Turkey Egg Powder",
+        "icon": "/assets/images/items/itm_turkeyPowder.png",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 60,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Turkey3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png",
+        "qty": 20
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png",
+        "qty": 20
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "icon": "/assets/images/items/itm_organicPaste.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "icon": "/assets/images/items/itm_organicPaste.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "icon": "/assets/images/items/itm_fertilizer.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "icon": "/assets/images/items/itm_fertilizer.png",
+        "qty": 60
+      }
+    ]
+  },
+  {
+    "id": "itm_turkey_blueFeather",
+    "name": "Blue Feather",
+    "icon": "/assets/images/items/itm_turkey_blueFeather.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "icon": "/assets/images/items/itm_featherwovenCloth.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "icon": "/assets/images/items/itm_featherwovenCloth.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "icon": "/assets/images/items/itm_featherBlade.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_turkey_colorfulFeather",
+    "name": "Colorful Feather",
+    "icon": "/assets/images/items/itm_turkey_colorfulFeather.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Turkey2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Turkey3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_colorfulSalad",
+        "name": "Colorful Feather Fire Salad",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_colorfulSalad.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_colorfulSalad",
+        "name": "Colorful Feather Fire Salad",
+        "icon": "/assets/images/items/itm_colorfulSalad.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "icon": "/assets/images/items/itm_duraPick_04.png",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "id": "itm_turkey_rainbowBristles",
+    "name": "Rainbow Turkey Bristles",
+    "icon": "/assets/images/items/itm_turkey_rainbowBristles.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Turkey",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Turkey1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Turkey4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      },
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "icon": "/assets/images/items/itm_duraShears_04.png",
+        "qty": 2
+      }
+    ]
+  }
+]

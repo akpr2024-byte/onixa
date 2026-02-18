@@ -1,0 +1,461 @@
+[
+  {
+    "id": "itm_tempboost_speed_7",
+    "name": "Woodworking Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_7.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_8",
+    "name": "Woodworking Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_8.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_9",
+    "name": "Woodworking Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_9.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_02",
+    "name": "More Durable T2 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 57,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 1234,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_silkslugspider",
+        "name": "Silk Slug Spider",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_silkslugspider.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_02",
+    "name": "More Durable T2 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 57,
+    "speed_boost": 0,
+    "time": 62,
+    "xp": 1136,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_03",
+    "name": "More Durable T3 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 85,
+    "xp": 3086,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_goat_hornFlakes",
+        "name": "Tiny Horn Flakes",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_03",
+    "name": "More Durable T3 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 84,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 3299,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_sheep_babyWoolPuff",
+        "name": "Fine Baby Wool Puff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_04",
+    "name": "More Durable T4 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 109,
+    "speed_boost": 0,
+    "time": 125,
+    "xp": 8792,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_goat_mohair",
+        "name": "Goat Mohair",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_goat_mohair.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_04",
+    "name": "More Durable T4 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 114,
+    "speed_boost": 0,
+    "time": 122,
+    "xp": 8265,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_turkey_colorfulFeather",
+        "name": "Colorful Feather",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

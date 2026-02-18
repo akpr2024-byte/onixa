@@ -1,0 +1,248 @@
+[
+  {
+    "id": "itm_tempboost_yield_4",
+    "name": "Forestry Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_4.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 200,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_5",
+    "name": "Forestry Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_5.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 200,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_6",
+    "name": "Forestry Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_6.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 200,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_19",
+    "name": "Forestry Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_19.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_20",
+    "name": "Forestry Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_20.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_21",
+    "name": "Forestry Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_21.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Forestry",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 150,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

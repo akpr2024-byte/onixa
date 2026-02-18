@@ -1,0 +1,244 @@
+[
+  {
+    "id": "itm_dew",
+    "name": "Dew",
+    "icon": "/assets/images/items/itm_dew.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 3,
+    "speed_boost": 0,
+    "time": 3,
+    "xp": 25,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_rustyWateringCan",
+        "name": "Rusty Watering Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_apimix.png"
+      },
+      {
+        "id": "itm_tempboost_yield_1",
+        "name": "Farming Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_1.png"
+      },
+      {
+        "id": "itm_tempboost_yield_4",
+        "name": "Forestry Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_4.png"
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png"
+      },
+      {
+        "id": "itm_tempboost_yield_2",
+        "name": "Farming Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_2.png"
+      },
+      {
+        "id": "itm_tempboost_yield_5",
+        "name": "Forestry Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_5.png"
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png"
+      },
+      {
+        "id": "itm_tempboost_yield_3",
+        "name": "Farming Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_3.png"
+      },
+      {
+        "id": "itm_tempboost_yield_6",
+        "name": "Forestry Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_6.png"
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png"
+      },
+      {
+        "id": "itm_tempboost_speed_16",
+        "name": "Farming Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_16.png"
+      },
+      {
+        "id": "itm_tempboost_speed_19",
+        "name": "Forestry Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_19.png"
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png"
+      },
+      {
+        "id": "itm_tempboost_speed_17",
+        "name": "Farming Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_17.png"
+      },
+      {
+        "id": "itm_tempboost_speed_20",
+        "name": "Forestry Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_20.png"
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png"
+      },
+      {
+        "id": "itm_tempboost_speed_18",
+        "name": "Farming Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_18.png"
+      },
+      {
+        "id": "itm_tempboost_speed_21",
+        "name": "Forestry Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_21.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_tempboost_yield_13",
+        "name": "Fishing Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_13.png"
+      },
+      {
+        "id": "itm_tempboost_yield_14",
+        "name": "Fishing Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_14.png"
+      },
+      {
+        "id": "itm_tempboost_yield_15",
+        "name": "Fishing Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_15.png"
+      },
+      {
+        "id": "itm_tempboost_speed_31",
+        "name": "Fishing Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_31.png"
+      },
+      {
+        "id": "itm_tempboost_speed_32",
+        "name": "Fishing Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_32.png"
+      },
+      {
+        "id": "itm_tempboost_speed_33",
+        "name": "Fishing Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_33.png"
+      }
+    ]
+  }
+]

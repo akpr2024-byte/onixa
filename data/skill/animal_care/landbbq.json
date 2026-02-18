@@ -1,0 +1,68 @@
+[
+  {
+    "id": "itm_petfood",
+    "name": "Pet Treat",
+    "icon": "/assets/images/items/itm_petfood.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 2,
+    "xp": 90,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      },
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_egg",
+        "name": "Egg",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_egg.png"
+      },
+      {
+        "id": "itm_flour",
+        "name": "Grainbow Flour",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_flour.png"
+      },
+      {
+        "id": "itm_honey",
+        "name": "Honey",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "waterbbq",
+        "name": "Waterbbq",
+        "icon": "waterbbq"
+      }
+    ]
+  }
+]

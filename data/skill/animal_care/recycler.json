@@ -1,0 +1,496 @@
+[
+  {
+    "id": "itm_farmamix",
+    "name": "Farmamix",
+    "icon": "/assets/images/items/itm_farmamix.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 17,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 175,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_hay",
+        "name": "MooMunch",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_hay.png"
+      },
+      {
+        "id": "itm_grice",
+        "name": "Grice",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_grice.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ]
+  },
+  {
+    "id": "itm_apimix",
+    "name": "Apimix",
+    "icon": "/assets/images/items/itm_apimix.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 17,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 201,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_syrup.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ]
+  },
+  {
+    "id": "itm_organicPaste",
+    "name": "Organic Paste",
+    "icon": "/assets/images/items/itm_organicPaste.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 41,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_rustyWateringCan",
+        "name": "Rusty Watering Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+      },
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_organicPaste",
+    "name": "Organic Paste",
+    "icon": "/assets/images/items/itm_organicPaste.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 271,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_turd.png"
+      },
+      {
+        "id": "itm_rustyWateringCan",
+        "name": "Rusty Watering Can",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+      },
+      {
+        "id": "itm_silkfiber",
+        "name": "Silk Fiber",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_silkfiber.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_algamix",
+    "name": "Algamix",
+    "icon": "/assets/images/items/itm_algamix.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 40,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 1642,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_seaweed",
+        "name": "Seaweed",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_seaweed.png"
+      },
+      {
+        "id": "itm_commonfish_all",
+        "name": "Fluppy",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_commonfish_all.png"
+      },
+      {
+        "id": "itm_hay",
+        "name": "MooMunch",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_hay.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ]
+  },
+  {
+    "id": "itm_mysticMix",
+    "name": "Mystic Mix",
+    "icon": "/assets/images/items/itm_mysticMix.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 102,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 8333,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_ashnut",
+        "name": "Ashnut",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_ashnut.png"
+      },
+      {
+        "id": "itm_sunbloom",
+        "name": "Sunbloom",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_sunbloom.png"
+      },
+      {
+        "id": "itm_pearlySwirl",
+        "name": "Pearly Swirl",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pearlySwirl.png"
+      },
+      {
+        "id": "itm_mirageEgg",
+        "name": "Mirage Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_mirageEgg.png"
+      },
+      {
+        "id": "itm_gloomshard",
+        "name": "Gloomshard",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gloomshard.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ]
+  },
+  {
+    "id": "itm_fertilizer",
+    "name": "Fertilizer",
+    "icon": "/assets/images/items/itm_fertilizer.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 50,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_turd.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_fertilizer",
+    "name": "Fertilizer",
+    "icon": "/assets/images/items/itm_fertilizer.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 330,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_turd",
+        "name": "Animal Turd",
+        "qty": 60,
+        "icon": "/assets/images/items/itm_turd.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "recycler",
+        "name": "Recycler",
+        "icon": "recycler"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      }
+    ]
+  }
+]

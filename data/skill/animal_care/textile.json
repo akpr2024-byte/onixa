@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "itm_woolyweedcloth",
+    "name": "Wool Cloth",
+    "icon": "/assets/images/items/itm_woolyweedcloth.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 350,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_tent-v1-02-decoration",
+        "name": "Blue Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
+      },
+      {
+        "id": "itm_partBlanket",
+        "name": "Snuggle Veil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_partBlanket.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolyweedcloth",
+    "name": "Wool Cloth",
+    "icon": "/assets/images/items/itm_woolyweedcloth.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 110.4,
+    "speed_boost": 0,
+    "time": 172.5,
+    "xp": 2310,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_tent-v1-02-decoration",
+        "name": "Blue Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
+      },
+      {
+        "id": "itm_partBlanket",
+        "name": "Snuggle Veil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_partBlanket.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_yarnyamcloth",
+    "name": "Red Wool Cloth",
+    "icon": "/assets/images/items/itm_yarnyamcloth.png",
+    "tier": 3,
+    "level": 48,
+    "energy": 25,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 625,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_irontiteredpigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_blanketWeave",
+        "name": "Blanket Weave",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_blanketWeave.png"
+      },
+      {
+        "id": "itm_partBlanket",
+        "name": "Snuggle Veil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_partBlanket.png"
+      },
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_yarnyamcloth",
+    "name": "Red Wool Cloth",
+    "icon": "/assets/images/items/itm_yarnyamcloth.png",
+    "tier": 3,
+    "level": 52,
+    "energy": 172.5,
+    "speed_boost": 0,
+    "time": 414,
+    "xp": 4125,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_irontiteredpigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_blanketWeave",
+        "name": "Blanket Weave",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_blanketWeave.png"
+      },
+      {
+        "id": "itm_partBlanket",
+        "name": "Snuggle Veil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_partBlanket.png"
+      },
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_lanolinFiber",
+    "name": "Lanolin-Softened Fiber",
+    "icon": "/assets/images/items/itm_lanolinFiber.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 283,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_marbleitewhitepigment",
+        "name": "White Colorpot",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_tempboost_speed_28",
+        "name": "Mixed Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_28.png"
+      },
+      {
+        "id": "itm_fullSuitInlay",
+        "name": "Full Black and White Suit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+      },
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alpineRug.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_lanolinFiber",
+    "name": "Lanolin-Softened Fiber",
+    "icon": "/assets/images/items/itm_lanolinFiber.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 124.2,
+    "xp": 1868,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_marbleitewhitepigment",
+        "name": "White Colorpot",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_tempboost_speed_28",
+        "name": "Mixed Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_28.png"
+      },
+      {
+        "id": "itm_fullSuitInlay",
+        "name": "Full Black and White Suit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+      },
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alpineRug.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_softPackingKit",
+    "name": "Soft Packing Kit",
+    "icon": "/assets/images/items/itm_softPackingKit.png",
+    "tier": 2,
+    "level": 32,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 21.5,
+    "xp": 341,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_sheep_babyWoolPuff",
+        "name": "Fine Baby Wool Puff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_puffBasket",
+        "name": "Puff-lined Basket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_puffBasket.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_baadownInsulation",
+    "name": "Baadown Insulation",
+    "icon": "/assets/images/items/itm_baadownInsulation.png",
+    "tier": 2,
+    "level": 33,
+    "energy": 20,
+    "speed_boost": 0,
+    "time": 22,
+    "xp": 349,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_sheep_babyWoolPuff",
+        "name": "Fine Baby Wool Puff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alpineRug.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_baadownInsulation",
+    "name": "Baadown Insulation",
+    "icon": "/assets/images/items/itm_baadownInsulation.png",
+    "tier": 2,
+    "level": 33,
+    "energy": 138,
+    "speed_boost": 0,
+    "time": 151.8,
+    "xp": 2303,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_sheep_babyWoolPuff",
+        "name": "Fine Baby Wool Puff",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+      },
+      {
+        "id": "itm_featherFluff",
+        "name": "Feather Fluff",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_featherFluff.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alpineRug.png"
+      },
+      {
+        "id": "itm_redHoodieJacket",
+        "name": "Red Hoodie Jacket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherwovenCloth",
+    "name": "Featherwoven Cloth",
+    "icon": "/assets/images/items/itm_featherwovenCloth.png",
+    "tier": 3,
+    "level": 46,
+    "energy": 25,
+    "speed_boost": 0,
+    "time": 29.5,
+    "xp": 871,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_turkey_blueFeather",
+        "name": "Blue Feather",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_turkey_blueFeather.png"
+      },
+      {
+        "id": "itm_popberrybluepigment",
+        "name": "Blue Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_29",
+        "name": "Mixed Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_29.png"
+      },
+      {
+        "id": "itm_pixelsNavyShirt",
+        "name": "Pixels Navy Blue T-Shirt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pixelsNavyShirt.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherwovenCloth",
+    "name": "Featherwoven Cloth",
+    "icon": "/assets/images/items/itm_featherwovenCloth.png",
+    "tier": 3,
+    "level": 46,
+    "energy": 173,
+    "speed_boost": 0,
+    "time": 203.55,
+    "xp": 5749,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_turkey_blueFeather",
+        "name": "Blue Feather",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_turkey_blueFeather.png"
+      },
+      {
+        "id": "itm_popberrybluepigment",
+        "name": "Blue Colorpot",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
+      },
+      {
+        "id": "itm_woolyweedcloth",
+        "name": "Wool Cloth",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woolyweedcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_29",
+        "name": "Mixed Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_29.png"
+      },
+      {
+        "id": "itm_pixelsNavyShirt",
+        "name": "Pixels Navy Blue T-Shirt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pixelsNavyShirt.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mohairSpool",
+    "name": "Mohair Thread Spool",
+    "icon": "/assets/images/items/itm_mohairSpool.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 30,
+    "speed_boost": 0,
+    "time": 35,
+    "xp": 1054,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_goat_mohair",
+        "name": "Goat Mohair",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_goat_mohair.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+      },
+      {
+        "id": "itm_pixelsNavyShirt",
+        "name": "Pixels Navy Blue T-Shirt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pixelsNavyShirt.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      },
+      {
+        "id": "itm_hornChimes",
+        "name": "Horn-Flake Chimes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornChimes.png"
+      },
+      {
+        "id": "itm_wingedStorage",
+        "name": "Winged Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wingedStorage.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mohairSpool",
+    "name": "Mohair Thread Spool",
+    "icon": "/assets/images/items/itm_mohairSpool.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 207,
+    "speed_boost": 0,
+    "time": 241.5,
+    "xp": 6956,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_goat_mohair",
+        "name": "Goat Mohair",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_goat_mohair.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+      },
+      {
+        "id": "itm_pixelsNavyShirt",
+        "name": "Pixels Navy Blue T-Shirt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pixelsNavyShirt.png"
+      },
+      {
+        "id": "itm_brownSweatpants",
+        "name": "Brown Sweatpants",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_brownSweatpants.png"
+      },
+      {
+        "id": "itm_hornChimes",
+        "name": "Horn-Flake Chimes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornChimes.png"
+      },
+      {
+        "id": "itm_wingedStorage",
+        "name": "Winged Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wingedStorage.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sturdyWoolRope",
+    "name": "Sturdy Wool Rope",
+    "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+    "tier": 3,
+    "level": 57,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 37.5,
+    "xp": 1182,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_sheep_knottedWool",
+        "name": "Knotted Wool",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sturdyWoolRope",
+    "name": "Sturdy Wool Rope",
+    "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+    "tier": 3,
+    "level": 57,
+    "energy": 241,
+    "speed_boost": 0,
+    "time": 258.75,
+    "xp": 7801,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 6,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_sheep_knottedWool",
+        "name": "Knotted Wool",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_artisanPaintbrush",
+    "name": "Artisan Paint Brush",
+    "icon": "/assets/images/items/itm_artisanPaintbrush.png",
+    "tier": 4,
+    "level": 62,
+    "energy": 42,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 2827,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "output": 1,
+    "station": "Textile",
+    "ingredients": [
+      {
+        "id": "itm_turkey_rainbowBristles",
+        "name": "Rainbow Turkey Bristles",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkey_rainbowBristles.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "textile",
+        "name": "Textile",
+        "icon": "textile"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_30",
+        "name": "Mixed Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_30.png"
+      }
+    ]
+  }
+]

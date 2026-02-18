@@ -1,0 +1,223 @@
+[
+  {
+    "id": "itm_60dayflower_land_seed",
+    "name": "Terra Flower Seeds",
+    "icon": "/assets/images/items/itm_60dayflower_land_seed.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 367,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 5,
+    "station": "Quantum Recombinator",
+    "ingredients": [
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_pig_truffles",
+        "name": "Truffles",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_pig_truffles.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Quantum Recombinator T2",
+        "icon": "quantum recombinator_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Quantum Recombinator T3",
+        "icon": "quantum recombinator_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Quantum Recombinator T4",
+        "icon": "quantum recombinator_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_60dayflower_water_seed",
+    "name": "Aqua Flower Seeds",
+    "icon": "/assets/images/items/itm_60dayflower_water_seed.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 366,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 5,
+    "station": "Quantum Recombinator",
+    "ingredients": [
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Quantum Recombinator T2",
+        "icon": "quantum recombinator_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Quantum Recombinator T3",
+        "icon": "quantum recombinator_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Quantum Recombinator T4",
+        "icon": "quantum recombinator_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_60dayflower_space_seed",
+    "name": "Astra Flower Seeds",
+    "icon": "/assets/images/items/itm_60dayflower_space_seed.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 377,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Quantum Recombinator",
+    "ingredients": [
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_tenta",
+        "name": "Astracactus",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tenta.png"
+      },
+      {
+        "id": "itm_chicken_spaceEgg",
+        "name": "Space Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Quantum Recombinator T2",
+        "icon": "quantum recombinator_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Quantum Recombinator T3",
+        "icon": "quantum recombinator_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Quantum Recombinator T4",
+        "icon": "quantum recombinator_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_hotatoseed",
+    "name": "Hotato Seeds",
+    "icon": "/assets/images/items/itm_hotatoseed.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 3,
+    "speed_boost": 0,
+    "time": 15,
+    "xp": 490,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Quantum Recombinator",
+    "ingredients": [
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_chicken_spaceEgg",
+        "name": "Space Egg",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Quantum Recombinator T2",
+        "icon": "quantum recombinator_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Quantum Recombinator T3",
+        "icon": "quantum recombinator_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Quantum Recombinator T4",
+        "icon": "quantum recombinator_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "icon": "/assets/images/items/itm_hotato.png"
+      }
+    ]
+  }
+]

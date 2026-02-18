@@ -1,0 +1,819 @@
+[
+  {
+    "id": "itm_bee_babyWings",
+    "name": "Baby Bee Wings",
+    "icon": "/assets/images/items/itm_bee_babyWings.png",
+    "tier": null,
+    "level": 0,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.22
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_babyWingDisplay",
+        "name": "Baby Bee Wing Display",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+      },
+      {
+        "id": "itm_wingedStorage",
+        "name": "Winged Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wingedStorage.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_babyWingDisplay",
+        "name": "Baby Bee Wing Display",
+        "icon": "/assets/images/items/itm_babyWingDisplay.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_wingedStorage",
+        "name": "Winged Storage Chest",
+        "icon": "/assets/images/items/itm_wingedStorage.png",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "itm_bee_pollen",
+    "name": "Pollen",
+    "icon": "/assets/images/items/itm_bee_pollen.png",
+    "tier": null,
+    "level": 0,
+    "energy": 13,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Bee3",
+        "chance": 0.18
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.27
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "icon": "/assets/images/items/itm_beePollenResin.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_bee_royalJelly",
+    "name": "Royal Jelly",
+    "icon": "/assets/images/items/itm_bee_royalJelly.png",
+    "tier": null,
+    "level": 0,
+    "energy": 13,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Bee2",
+        "chance": 0.2
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.28
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      },
+      {
+        "id": "itm_royalJellyBbq",
+        "name": "Royal Jelly Caramelized Fluppy BBQ",
+        "icon": "/assets/images/items/itm_royalJellyBbq.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "icon": "/assets/images/items/itm_royalSealant.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "icon": "/assets/images/items/itm_royalSealant.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "itm_beeswax",
+    "name": "Wax",
+    "icon": "/assets/images/items/itm_beeswax.png",
+    "tier": null,
+    "level": 0,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 50,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Bee",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Bee1",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Bee2",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Bee3",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.4
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 2,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterland_statue.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "icon": "/assets/images/items/itm_gearGrease.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "icon": "/assets/images/items/itm_gearGrease.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "icon": "/assets/images/items/itm_beePollenResin.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "icon": "/assets/images/items/itm_waterland_statue.png",
+        "qty": 25
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "icon": "/assets/images/items/itm_Bomb_Shell.png",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "id": "itm_honey",
+    "name": "Honey",
+    "icon": "/assets/images/items/itm_honey.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 20,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Bee",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Bee1",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Bee2",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Bee3",
+        "chance": 0.4
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.4
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      },
+      {
+        "id": "itm_gatheringSatchel",
+        "name": "Gathering",
+        "icon": "/assets/images/items/itm_gatheringSatchel.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_popberrywine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_mashNapricot",
+        "name": "Napricot Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mashNapricot.png"
+      },
+      {
+        "id": "itm_mashNapricot",
+        "name": "Napricot Mash",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_mashNapricot.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mashPopberry.png"
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_mashPopberry.png"
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mashClover.png"
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_mashClover.png"
+      },
+      {
+        "id": "itm_empty_choco_sauce",
+        "name": "Empty Choco Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_empty_choco_sauce.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_mashNapricot",
+        "name": "Napricot Mash",
+        "icon": "/assets/images/items/itm_mashNapricot.png",
+        "qty": 8
+      },
+      {
+        "id": "itm_mashNapricot",
+        "name": "Napricot Mash",
+        "icon": "/assets/images/items/itm_mashNapricot.png",
+        "qty": 96
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "icon": "/assets/images/items/itm_bbqBase.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "icon": "/assets/images/items/itm_popberrywine.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_popberrywine",
+        "name": "Popberry Wine",
+        "icon": "/assets/images/items/itm_popberrywine.png",
+        "qty": 36
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png",
+        "qty": 120
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "qty": 48
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "icon": "/assets/images/items/itm_grumpkinwine.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "icon": "/assets/images/items/itm_grumpkinwine.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "icon": "/assets/images/items/itm_mashClover.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "icon": "/assets/images/items/itm_mashClover.png",
+        "qty": 72
+      },
+      {
+        "id": "itm_empty_choco_sauce",
+        "name": "Empty Choco Sauce",
+        "icon": "/assets/images/items/itm_empty_choco_sauce.png",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 5,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Bee",
+        "chance": 0.25
+      },
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Bee1",
+        "chance": 0.25
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Bee2",
+        "chance": 0.25
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Bee3",
+        "chance": 0.25
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Bee4",
+        "chance": 0.25
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_offspring_bee",
+    "name": "Bee Offspring",
+    "icon": "/assets/images/items/itm_offspring_bee.png",
+    "tier": null,
+    "level": 0,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 320,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Bee",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Bee",
+        "chance": 0.12
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 2,
+        "cost per x1": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "itm_tempboost_yield_7",
+    "name": "Mining Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_7.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      },
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_yield_8",
+    "name": "Mining Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_8.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_yield_9",
+    "name": "Mining Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_9.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      },
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_1",
+    "name": "Mining Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_1.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      },
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_2",
+    "name": "Mining Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_2.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_3",
+    "name": "Mining Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_3.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      },
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  }
+]

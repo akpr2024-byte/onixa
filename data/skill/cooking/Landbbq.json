@@ -1,0 +1,1350 @@
+[
+  {
+    "id": "itm_hot_sauce",
+    "name": "Hot Sauce",
+    "icon": "/assets/images/items/itm_hot_sauce.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 8,
+    "speed_boost": 0,
+    "time": 10,
+    "xp": 197,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      },
+      {
+        "id": "itm_Vinegar",
+        "name": "Vinegar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Vinegar.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hotato.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_hotatoscramble",
+        "name": "Hotato Scramble",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotatoscramble.png"
+      },
+      {
+        "id": "itm_spicyOmelet",
+        "name": "Spicy Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicyOmelet.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_dry_baby_back_butterberry_ribs",
+        "name": "Dry Baby Back Butterberry Ribs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dry_baby_back_butterberry_ribs.png"
+      },
+      {
+        "id": "itm_starry_grilled_hotato_kielbasa",
+        "name": "Starry Grilled Hotato Kielbasa",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_grilled_hotato_kielbasa.png"
+      },
+      {
+        "id": "itm_nigiri_02",
+        "name": "Eel Mound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_02.png"
+      },
+      {
+        "id": "itm_crunch_02",
+        "name": "Leafy Crunch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_crunch_02.png"
+      },
+      {
+        "id": "itm_nigiri_04",
+        "name": "Meteor Morsel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nigiri_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bbqBase",
+    "name": "BBQ Base",
+    "icon": "/assets/images/items/itm_bbqBase.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 10,
+    "xp": 81,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_milk",
+        "name": "Cow Milk",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_milk.png"
+      },
+      {
+        "id": "itm_honey",
+        "name": "Honey",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_honey.png"
+      },
+      {
+        "id": "itm_thanksgiving_turkeyegg",
+        "name": "Turkey Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_thanksgiving_turkeyegg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bbqBase",
+    "name": "BBQ Base",
+    "icon": "/assets/images/items/itm_bbqBase.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 62,
+    "speed_boost": 0,
+    "time": 69,
+    "xp": 535,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 6,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_milk",
+        "name": "Cow Milk",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_milk.png"
+      },
+      {
+        "id": "itm_honey",
+        "name": "Honey",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_honey.png"
+      },
+      {
+        "id": "itm_thanksgiving_turkeyegg",
+        "name": "Turkey Egg",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_thanksgiving_turkeyegg.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamCustard",
+    "name": "Seltsam Egg Grilled Custard",
+    "icon": "/assets/images/items/itm_seltsamCustard.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 13,
+    "speed_boost": 0,
+    "time": 14.5,
+    "xp": 122,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_grumpFruit",
+        "name": "Orange Grumpkin",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_grumpFruit.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_goldenCharre",
+    "name": "Golden Ember Charré",
+    "icon": "/assets/images/items/itm_goldenCharre.png",
+    "tier": 1,
+    "level": 19,
+    "energy": 25,
+    "speed_boost": 0,
+    "time": 28,
+    "xp": 376,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_goldenEgg",
+        "name": "Golden Egg",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_goldenEgg.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 11,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      },
+      {
+        "id": "itm_toffeeGlaze",
+        "name": "Custard Rich Toffee Glaze",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_goatFondue",
+    "name": "Goat Milk Grill-Fondue",
+    "icon": "/assets/images/items/itm_goatFondue.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 20,
+    "xp": 306,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_goat_goatMilk",
+        "name": "Goat Milk",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_goatFondue",
+    "name": "Goat Milk Grill-Fondue",
+    "icon": "/assets/images/items/itm_goatFondue.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 124,
+    "speed_boost": 0,
+    "time": 138,
+    "xp": 2020,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 6,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_goat_goatMilk",
+        "name": "Goat Milk",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_grassSkewers",
+    "name": "Grassclump Skewers",
+    "icon": "/assets/images/items/itm_grassSkewers.png",
+    "tier": 2,
+    "level": 37,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 1201,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_cow_grassClump",
+        "name": "Grass Clump",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_cow_grassClump.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_meadowMilkBread",
+        "name": "Meadow Milk Grilled Bread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_savoryJerky",
+    "name": "Savory Earth-Jerky",
+    "icon": "/assets/images/items/itm_savoryJerky.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 55,
+    "speed_boost": 0,
+    "time": 62,
+    "xp": 3094,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hotato.png"
+      },
+      {
+        "id": "itm_tatofruit",
+        "name": "Tato Fruit",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tatofruit.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_pondMayo",
+    "name": "Pond-Reed Mayo",
+    "icon": "/assets/images/items/itm_pondMayo.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 38,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 2543,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_duck_egg",
+        "name": "Duck Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_duck_egg.png"
+      },
+      {
+        "id": "itm_duck_waterweed",
+        "name": "Waterweed",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duck_waterweed.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spicyOmelet",
+        "name": "Spicy Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicyOmelet.png"
+      },
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pondMayo",
+    "name": "Pond-Reed Mayo",
+    "icon": "/assets/images/items/itm_pondMayo.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 262,
+    "speed_boost": 0,
+    "time": 310.5,
+    "xp": 16784,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 6,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_duck_egg",
+        "name": "Duck Egg",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_duck_egg.png"
+      },
+      {
+        "id": "itm_duck_waterweed",
+        "name": "Waterweed",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_duck_waterweed.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spicyOmelet",
+        "name": "Spicy Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicyOmelet.png"
+      },
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_scalePlatter",
+    "name": "Scale-Smoked Feast Platter",
+    "icon": "/assets/images/items/itm_scalePlatter.png",
+    "tier": 4,
+    "level": 78,
+    "energy": 104,
+    "speed_boost": 0,
+    "time": 110,
+    "xp": 10031,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_instantHotplate",
+        "name": "Instant-Sizzle Hotplate",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_instantHotplate.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_tatofruit",
+        "name": "Tato Fruit",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tatofruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_draconicStew",
+    "name": "Draconic Essence Searing Stew",
+    "icon": "/assets/images/items/itm_draconicStew.png",
+    "tier": 4,
+    "level": 76,
+    "energy": 114,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 11324,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_dragonfireSauce",
+        "name": "Dragonfire Pit BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+      },
+      {
+        "id": "itm_butterberry",
+        "name": "Butterberry",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_butterberry.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_slothmato",
+        "name": "Slothmato",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_slothmato.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardwood_smoked_bbq_sauce",
+    "name": "Hardwood Smoked BBQ Sauce",
+    "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png",
+    "tier": 2,
+    "level": 23,
+    "energy": 43,
+    "speed_boost": 0,
+    "time": 47,
+    "xp": 321,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hotato.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fauxPlatter",
+        "name": "Faux-Pork Sizzle Platter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fauxPlatter.png"
+      },
+      {
+        "id": "itm_pondShrooms",
+        "name": "Pond Slime Seared Mushrooms",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondShrooms.png"
+      },
+      {
+        "id": "itm_dry_maple_glazed_grumpkin_slabs",
+        "name": "Dry Maple-Glazed Grumpkin Slabs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dry_maple_glazed_grumpkin_slabs.png"
+      },
+      {
+        "id": "itm_starry_butterberry_brisket",
+        "name": "Starry Butterberry Brisket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_butterberry_brisket.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_spicy_bbq_sauce",
+    "name": "Spicy BBQ Sauce",
+    "icon": "/assets/images/items/itm_spicy_bbq_sauce.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 47,
+    "xp": 332,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      },
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_28",
+        "name": "Mixed Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_28.png"
+      },
+      {
+        "id": "itm_moist_broiled_muckchuck_burgers",
+        "name": "Moist Broiled Muckchuck Burgers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_broiled_muckchuck_burgers.png"
+      },
+      {
+        "id": "itm_starry_salt_encrusted_grumpkin_skewers",
+        "name": "Starry Salt-Encrusted Grumpkin Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_honey_bbq_sauce",
+    "name": "Honey BBQ Sauce",
+    "icon": "/assets/images/items/itm_honey_bbq_sauce.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 47,
+    "xp": 327,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_bee_royalJelly",
+        "name": "Royal Jelly",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hotato.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_honeyJava",
+        "name": "Honey-Glazed Hover-Java",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honeyJava.png"
+      },
+      {
+        "id": "itm_dry_honey_kissed_popberry_chops",
+        "name": "Dry Honey-Kissed Popberry Chops",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dry_honey_kissed_popberry_chops.png"
+      },
+      {
+        "id": "itm_moist_honey_kissed_grumpkin_chops",
+        "name": "Moist Honey-Kissed Grumpkin Chops",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_honey_kissed_grumpkin_chops.png"
+      },
+      {
+        "id": "itm_starry_honey_kissed_scarrot_chops",
+        "name": "Starry Honey-Kissed Scarrot Chops",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_honey_kissed_scarrot_chops.png"
+      },
+      {
+        "id": "itm_wrap_01",
+        "name": "NFT Delight",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wrap_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tangy_bbq_sauce",
+    "name": "Tangy BBQ Sauce",
+    "icon": "/assets/images/items/itm_tangy_bbq_sauce.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 43,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 316,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hotato.png"
+      },
+      {
+        "id": "itm_tenta",
+        "name": "Astracactus",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_tenta.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_moist_maple_glazed_scarrot_slabs",
+        "name": "Moist Maple-Glazed Scarrot Slabs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_maple_glazed_scarrot_slabs.png"
+      },
+      {
+        "id": "itm_moist_salt_encrusted_popberry_skewers",
+        "name": "Moist Salt-Encrusted Popberry Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_traditional_bbq_sauce",
+    "name": "Traditional BBQ Sauce",
+    "icon": "/assets/images/items/itm_traditional_bbq_sauce.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 43,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 311,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_bbqBase",
+        "name": "BBQ Base",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bbqBase.png"
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_hotato",
+        "name": "Hotato",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hotato.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_saltSkewers",
+        "name": "Salt-Cured Yolk Skewer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_saltSkewers.png"
+      },
+      {
+        "id": "itm_dry_pulled_muckchuck_platter",
+        "name": "Dry Pulled Muckchuck Platter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dry_pulled_muckchuck_platter.png"
+      },
+      {
+        "id": "itm_moist_scarrot_butterberry_kebabs",
+        "name": "Moist Scarrot and Butterberry Kebabs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_scarrot_butterberry_kebabs.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_dry_honey_kissed_popberry_chops",
+    "name": "Dry Honey-Kissed Popberry Chops",
+    "icon": "/assets/images/items/itm_dry_honey_kissed_popberry_chops.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 47,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 343,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      },
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_dry_maple_glazed_grumpkin_slabs",
+    "name": "Dry Maple-Glazed Grumpkin Slabs",
+    "icon": "/assets/images/items/itm_dry_maple_glazed_grumpkin_slabs.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 338,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_syrup",
+        "name": "Syrup",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_syrup.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_dry_salt_encrusted_scarrot_skewers",
+    "name": "Dry Salt-Encrusted Scarrot Skewers",
+    "icon": "/assets/images/items/itm_dry_salt_encrusted_scarrot_skewers.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 49,
+    "speed_boost": 0,
+    "time": 47.25,
+    "xp": 348,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_dry_pulled_muckchuck_platter",
+    "name": "Dry Pulled Muckchuck Platter",
+    "icon": "/assets/images/items/itm_dry_pulled_muckchuck_platter.png",
+    "tier": 2,
+    "level": 29,
+    "energy": 51,
+    "speed_boost": 0,
+    "time": 47.5,
+    "xp": 354,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_muckchuck",
+        "name": "Muckchuck",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_muckchuck.png"
+      },
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  },
+  {
+    "id": "itm_dry_baby_back_butterberry_ribs",
+    "name": "Dry Baby Back Butterberry Ribs",
+    "icon": "/assets/images/items/itm_dry_baby_back_butterberry_ribs.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 60,
+    "speed_boost": 0,
+    "time": 61.75,
+    "xp": 430,
+    "xp_type": "cooking",
+    "skill": "Cooking",
+    "output": 1,
+    "station": "Landbbq",
+    "ingredients": [
+      {
+        "id": "itm_butterberry",
+        "name": "Butterberry",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_butterberry.png"
+      },
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      },
+      {
+        "id": "itm_cookingMix",
+        "name": "Cooking Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cookingMix.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "landbbq",
+        "name": "Landbbq",
+        "icon": "landbbq"
+      }
+    ]
+  }
+]

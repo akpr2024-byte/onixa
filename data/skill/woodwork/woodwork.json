@@ -1,0 +1,7839 @@
+[
+  {
+    "id": "itm_sawdust",
+    "name": "Sawdust",
+    "icon": "/assets/images/items/itm_sawdust.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 5.5,
+    "xp": 40,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      },
+      {
+        "id": "itm_soil_02",
+        "name": "Enriched Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_02.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      },
+      {
+        "id": "itm_soil_04",
+        "name": "Lush Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_04.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sawdust",
+    "name": "Sawdust",
+    "icon": "/assets/images/items/itm_sawdust.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 98,
+    "speed_boost": 0,
+    "time": 52,
+    "xp": 480,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      },
+      {
+        "id": "itm_soil_02",
+        "name": "Enriched Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_02.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      },
+      {
+        "id": "itm_soil_04",
+        "name": "Lush Soil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_soil_04.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Glue",
+    "name": "Glue",
+    "icon": "/assets/images/items/itm_Glue.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 6.75,
+    "xp": 48,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_puffBasket",
+        "name": "Puff-lined Basket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_puffBasket.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Glue",
+    "name": "Glue",
+    "icon": "/assets/images/items/itm_Glue.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 98,
+    "speed_boost": 0,
+    "time": 64,
+    "xp": 576,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_tree_sap",
+        "name": "Sap",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_tree_sap.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_puffBasket",
+        "name": "Puff-lined Basket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_puffBasket.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Wooden_Stool",
+    "name": "Wooden Stool",
+    "icon": "/assets/images/items/itm_Wooden_Stool.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 62,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stick.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_log_decoration2",
+    "name": "Log Decoration",
+    "icon": "/assets/images/items/itm_log_decoration2.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 12.25,
+    "xp": 70,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_barrel01",
+    "name": "Empty Barrel",
+    "icon": "/assets/images/items/itm_barrel01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 13.25,
+    "xp": 78,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Wooden_Throne",
+    "name": "Wooden Throne",
+    "icon": "/assets/images/items/itm_Wooden_Throne.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 25.5,
+    "xp": 920,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_grumpFruit",
+        "name": "Orange Grumpkin",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_grumpFruit.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_scarecrow",
+    "name": "Scarecrow",
+    "icon": "/assets/images/items/itm_scarecrow.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 31.75,
+    "xp": 248,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_scarrotFruit",
+        "name": "Scarrot",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_scarrotFruit.png"
+      },
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_Hay_Stack_Medium",
+        "name": "Hay Stack Medium",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Hay_Stack_Medium.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_frontbench",
+    "name": "Wooden Bench",
+    "icon": "/assets/images/items/itm_frontbench.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 25.5,
+    "xp": 180,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_pickaxe_01",
+    "name": "Basic Pick",
+    "icon": "/assets/images/items/itm_pickaxe_01.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 26,
+    "speed_boost": 0,
+    "time": 31.75,
+    "xp": 412,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pickaxe_02",
+    "name": "Bronzenite Pick",
+    "icon": "/assets/images/items/itm_pickaxe_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 54,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 1176,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Basic Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pickaxe_03",
+    "name": "Irontite Pick",
+    "icon": "/assets/images/items/itm_pickaxe_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 82,
+    "speed_boost": 0,
+    "time": 88.25,
+    "xp": 2280,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_pickaxe_04",
+    "name": "Adamaxium Pick",
+    "icon": "/assets/images/items/itm_pickaxe_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 105,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 3652,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_barrel03",
+    "name": "Barrel of Purple",
+    "icon": "/assets/images/items/itm_barrel03.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 105,
+    "speed_boost": 0,
+    "time": 63.25,
+    "xp": 496,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_grumpkinFruit",
+        "name": "Blue Grumpkin",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_barrel04",
+    "name": "Barrel of Tools",
+    "icon": "/assets/images/items/itm_barrel04.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 105,
+    "speed_boost": 0,
+    "time": 63.25,
+    "xp": 496,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 14,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_remover",
+        "name": "Remover",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_remover.png"
+      },
+      {
+        "id": "itm_mover",
+        "name": "Mover",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mover.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_01.png"
+      },
+      {
+        "id": "itm_rustyWateringCan",
+        "name": "Rusty Watering Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+      },
+      {
+        "id": "itm_axe_01",
+        "name": "Basic Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_01.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_barn",
+    "name": "Barn",
+    "icon": "/assets/images/items/itm_barn.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 148,
+    "speed_boost": 0,
+    "time": 93.25,
+    "xp": 620,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 99,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_01",
+    "name": "Whittlewood Plank",
+    "icon": "/assets/images/items/itm_woodplank_01.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 108,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 456,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_barrel01",
+        "name": "Empty Barrel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel01.png"
+      },
+      {
+        "id": "itm_scarecrow",
+        "name": "Scarecrow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarecrow.png"
+      },
+      {
+        "id": "itm_frontbench",
+        "name": "Wooden Bench",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_frontbench.png"
+      },
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Basic Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_barrel03",
+        "name": "Barrel of Purple",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel03.png"
+      },
+      {
+        "id": "itm_barrel04",
+        "name": "Barrel of Tools",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel04.png"
+      },
+      {
+        "id": "itm_barn",
+        "name": "Barn",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barn.png"
+      },
+      {
+        "id": "itm_woodwheel_01",
+        "name": "Whittlewood Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_01.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_axe_01",
+        "name": "Basic Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_01.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_01",
+    "name": "Whittlewood Plank",
+    "icon": "/assets/images/items/itm_woodplank_01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 60,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_barrel01",
+        "name": "Empty Barrel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel01.png"
+      },
+      {
+        "id": "itm_scarecrow",
+        "name": "Scarecrow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarecrow.png"
+      },
+      {
+        "id": "itm_frontbench",
+        "name": "Wooden Bench",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_frontbench.png"
+      },
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Basic Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_barrel03",
+        "name": "Barrel of Purple",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel03.png"
+      },
+      {
+        "id": "itm_barrel04",
+        "name": "Barrel of Tools",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel04.png"
+      },
+      {
+        "id": "itm_barn",
+        "name": "Barn",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barn.png"
+      },
+      {
+        "id": "itm_woodwheel_01",
+        "name": "Whittlewood Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_01.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_axe_01",
+        "name": "Basic Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_01.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_Fireplace",
+        "name": "Fireplace",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Fireplace.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stick",
+    "name": "Stick",
+    "icon": "/assets/images/items/itm_stick.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 130,
+    "speed_boost": 0,
+    "time": 92,
+    "xp": 768,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grassSkewers.png"
+      },
+      {
+        "id": "itm_Wooden_Stool",
+        "name": "Wooden Stool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Stool.png"
+      },
+      {
+        "id": "itm_log_decoration2",
+        "name": "Log Decoration",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_log_decoration2.png"
+      },
+      {
+        "id": "itm_Wooden_Throne",
+        "name": "Wooden Throne",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+      },
+      {
+        "id": "itm_scarecrow",
+        "name": "Scarecrow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarecrow.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_02",
+    "name": "Craftbark Plank",
+    "icon": "/assets/images/items/itm_woodplank_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 206,
+    "speed_boost": 0,
+    "time": 202,
+    "xp": 1632,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-02-decoration",
+        "name": "Blue Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_pinkFence",
+        "name": "Pink Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_pinkFence.png"
+      },
+      {
+        "id": "itm_greenFence",
+        "name": "Green Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_greenFence.png"
+      },
+      {
+        "id": "itm_Wooden_Throne",
+        "name": "Wooden Throne",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodwheel_02",
+        "name": "Craftbark Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_fence",
+        "name": "Magnoot Fence",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fence.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      },
+      {
+        "id": "itm_babyWingDisplay",
+        "name": "Baby Bee Wing Display",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_02",
+    "name": "Craftbark Plank",
+    "icon": "/assets/images/items/itm_woodplank_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 31,
+    "speed_boost": 0,
+    "time": 12.7,
+    "xp": 361,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-02-decoration",
+        "name": "Blue Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
+      },
+      {
+        "id": "itm_turquoise_Couch",
+        "name": "Turquoise Couch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_pinkFence",
+        "name": "Pink Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_pinkFence.png"
+      },
+      {
+        "id": "itm_greenFence",
+        "name": "Green Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_greenFence.png"
+      },
+      {
+        "id": "itm_Wooden_Throne",
+        "name": "Wooden Throne",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodwheel_02",
+        "name": "Craftbark Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_fence",
+        "name": "Magnoot Fence",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fence.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      },
+      {
+        "id": "itm_babyWingDisplay",
+        "name": "Baby Bee Wing Display",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_03",
+    "name": "Sawstump Plank",
+    "icon": "/assets/images/items/itm_woodplank_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 486,
+    "speed_boost": 0,
+    "time": 432,
+    "xp": 4776,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_03",
+    "name": "Sawstump Plank",
+    "icon": "/assets/images/items/itm_woodplank_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 61,
+    "speed_boost": 0,
+    "time": 25.4,
+    "xp": 1435,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-01-decoration",
+        "name": "Green Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-01-decoration.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_04",
+    "name": "Borebranch Plank",
+    "icon": "/assets/images/items/itm_woodplank_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 734,
+    "speed_boost": 0,
+    "time": 490,
+    "xp": 8040,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 12,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodplank_04",
+    "name": "Borebranch Plank",
+    "icon": "/assets/images/items/itm_woodplank_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 118,
+    "speed_boost": 0,
+    "time": 38.1,
+    "xp": 5569,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tent-v1-03-decoration",
+        "name": "Red Tent",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tent-v1-03-decoration.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wooddowel_01",
+    "name": "Whittlewood Dowel",
+    "icon": "/assets/images/items/itm_wooddowel_01.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 11,
+    "speed_boost": 0,
+    "time": 5.3,
+    "xp": 71,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwheel_01",
+        "name": "Whittlewood Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_01.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwheel_01",
+    "name": "Whittlewood Wheel",
+    "icon": "/assets/images/items/itm_woodwheel_01.png",
+    "tier": 1,
+    "level": 4,
+    "energy": 23,
+    "speed_boost": 0,
+    "time": 13.44,
+    "xp": 155,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_wooddowel_01",
+        "name": "Whittlewood Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sundial_01",
+        "name": "Clayum Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwork_kit_01",
+    "name": "Basic Woodworking Kit",
+    "icon": "/assets/images/items/itm_woodwork_kit_01.png",
+    "tier": 1,
+    "level": 14,
+    "energy": 50,
+    "speed_boost": 0,
+    "time": 49.05,
+    "xp": 483,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      },
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tree_01",
+    "name": "Whittlewood Tree",
+    "icon": "/assets/images/items/itm_tree_01.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 52,
+    "speed_boost": 0,
+    "time": 50.4,
+    "xp": 522,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      },
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodmould_01",
+    "name": "Whittlewood Mould",
+    "icon": "/assets/images/items/itm_woodmould_01.png",
+    "tier": 1,
+    "level": 16,
+    "energy": 38,
+    "speed_boost": 0,
+    "time": 20.7,
+    "xp": 385,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_wooddowel_01",
+        "name": "Whittlewood Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_01.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wooddowel_02",
+    "name": "Craftbark Dowel",
+    "icon": "/assets/images/items/itm_wooddowel_02.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 29,
+    "speed_boost": 0,
+    "time": 15.45,
+    "xp": 360,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_babyWingDisplay",
+        "name": "Baby Bee Wing Display",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwheel_02",
+    "name": "Craftbark Wheel",
+    "icon": "/assets/images/items/itm_woodwheel_02.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 40,
+    "speed_boost": 0,
+    "time": 26.16,
+    "xp": 537,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sundial_02",
+        "name": "Marbleite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tree_02",
+    "name": "Craftbark Tree",
+    "icon": "/assets/images/items/itm_tree_02.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 79,
+    "speed_boost": 0,
+    "time": 84,
+    "xp": 1579,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      },
+      {
+        "id": "itm_soil_01",
+        "name": "Basic Soil",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_soil_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodmould_02",
+    "name": "Craftbark Mould",
+    "icon": "/assets/images/items/itm_woodmould_02.png",
+    "tier": 2,
+    "level": 36,
+    "energy": 63,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 1294,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_tempboost_speed_7",
+        "name": "Woodworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_7.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wooddowel_03",
+    "name": "Sawstump Dowel",
+    "icon": "/assets/images/items/itm_wooddowel_03.png",
+    "tier": 3,
+    "level": 42,
+    "energy": 61,
+    "speed_boost": 0,
+    "time": 25.75,
+    "xp": 1546,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      },
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_hornChimes",
+        "name": "Horn-Flake Chimes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornChimes.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwheel_03",
+    "name": "Sawstump Wheel",
+    "icon": "/assets/images/items/itm_woodwheel_03.png",
+    "tier": 3,
+    "level": 44,
+    "energy": 78,
+    "speed_boost": 0,
+    "time": 39.24,
+    "xp": 2099,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_wooddowel_01",
+        "name": "Whittlewood Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_sundial_03",
+        "name": "Bedrock Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tree_03",
+    "name": "Sawstump Tree",
+    "icon": "/assets/images/items/itm_tree_03.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 137,
+    "speed_boost": 0,
+    "time": 117.6,
+    "xp": 5433,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      },
+      {
+        "id": "itm_soil_02",
+        "name": "Enriched Soil",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_soil_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodmould_03",
+    "name": "Sawstump Mould",
+    "icon": "/assets/images/items/itm_woodmould_03.png",
+    "tier": 3,
+    "level": 56,
+    "energy": 115,
+    "speed_boost": 0,
+    "time": 48.3,
+    "xp": 4723,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_wooddowel_03",
+        "name": "Sawstump Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_03.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+      },
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_8",
+        "name": "Woodworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_8.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wooddowel_04",
+    "name": "Borebranch Dowel",
+    "icon": "/assets/images/items/itm_wooddowel_04.png",
+    "tier": 4,
+    "level": 62,
+    "energy": 75,
+    "speed_boost": 0,
+    "time": 36.05,
+    "xp": 3759,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwheel_04",
+    "name": "Borebranch Wheel",
+    "icon": "/assets/images/items/itm_woodwheel_04.png",
+    "tier": 4,
+    "level": 64,
+    "energy": 91,
+    "speed_boost": 0,
+    "time": 52.32,
+    "xp": 4892,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_sundial_04",
+        "name": "Claricite Sundial",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sundial_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tree_04",
+    "name": "Borebranch Tree",
+    "icon": "/assets/images/items/itm_tree_04.png",
+    "tier": 4,
+    "level": 75,
+    "energy": 138,
+    "speed_boost": 0,
+    "time": 151.2,
+    "xp": 10921,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 32,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      },
+      {
+        "id": "itm_soil_03",
+        "name": "Fortified Soil",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_soil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodmould_04",
+    "name": "Borebranch Mould",
+    "icon": "/assets/images/items/itm_woodmould_04.png",
+    "tier": 4,
+    "level": 76,
+    "energy": 121,
+    "speed_boost": 0,
+    "time": 62.1,
+    "xp": 9865,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_wooddowel_04",
+        "name": "Borebranch Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_04.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_9",
+        "name": "Woodworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_9.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_axe_01",
+    "name": "Basic Axe",
+    "icon": "/assets/images/items/itm_axe_01.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 52,
+    "speed_boost": 0,
+    "time": 58.5,
+    "xp": 439,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_barrel04",
+        "name": "Barrel of Tools",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel04.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_axe_02",
+    "name": "Bronzenite Axe",
+    "icon": "/assets/images/items/itm_axe_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 67,
+    "speed_boost": 0,
+    "time": 69.85,
+    "xp": 1119,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_axe_01",
+        "name": "Basic Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_7",
+        "name": "Woodworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_7.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_axe_03",
+    "name": "Irontite Axe",
+    "icon": "/assets/images/items/itm_axe_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 116,
+    "speed_boost": 0,
+    "time": 82.55,
+    "xp": 3870,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_8",
+        "name": "Woodworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_8.png"
+      },
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_axe_04",
+    "name": "Adamaxium Axe",
+    "icon": "/assets/images/items/itm_axe_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 128,
+    "speed_boost": 0,
+    "time": 95.25,
+    "xp": 8481,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_9",
+        "name": "Woodworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_9.png"
+      },
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_fence",
+    "name": "Magnoot Fence",
+    "icon": "/assets/images/items/itm_fence.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 33,
+    "speed_boost": 0,
+    "time": 31.5,
+    "xp": 257,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_magnoot",
+        "name": "Magnoot",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_magnoot.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_yieldReactor",
+    "name": "Yield Reactor",
+    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 105,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 1800,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_ashnut",
+        "name": "Ashnut",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_ashnut.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "multi_recipe": true,
+    "recipe_id": "Woodwork_yield_reactor"
+  },
+  {
+    "id": "itm_tempboost_speed_7",
+    "name": "Woodworking Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_7.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_8",
+    "name": "Woodworking Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_8.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_9",
+    "name": "Woodworking Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_9.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodchest_01",
+    "name": "Small Whittlewood Chest",
+    "icon": "/assets/images/items/itm_woodchest_01.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 31,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 340,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolslimeStorage",
+        "name": "Woolslime Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_oil_whittlewoo",
+    "name": "Whittlewood Oil",
+    "icon": "/assets/images/items/itm_oil_whittlewoo.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 6,
+    "speed_boost": 0,
+    "time": 6.25,
+    "xp": 53,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_oil_whittlewoo",
+    "name": "Whittlewood Oil",
+    "icon": "/assets/images/items/itm_oil_whittlewoo.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 41,
+    "speed_boost": 0,
+    "time": 43.13,
+    "xp": 350,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_burnyCandle",
+        "name": "Very Burny Tallow Candle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_burnyCandle.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_burnyCandle",
+    "name": "Very Burny Tallow Candle",
+    "icon": "/assets/images/items/itm_burnyCandle.png",
+    "tier": 1,
+    "level": 11,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 299,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_dairyFat",
+        "name": "Rendered Dairy Fat",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_dairyFat.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_wintermintFruit",
+        "name": "Watermint",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_wintermintFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwork_kit_02",
+    "name": "Improved Woodworking Kit",
+    "icon": "/assets/images/items/itm_woodwork_kit_02.png",
+    "tier": 1,
+    "level": 14,
+    "energy": 75,
+    "speed_boost": 0,
+    "time": 81.75,
+    "xp": 1206,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_01",
+        "name": "Basic Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolslimeStorage",
+    "name": "Woolslime Storage Chest",
+    "icon": "/assets/images/items/itm_woolslimeStorage.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 37,
+    "speed_boost": 0,
+    "time": 42,
+    "xp": 421,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woolyweedFruit",
+        "name": "Wool Wad",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+      },
+      {
+        "id": "itm_silkslugslime",
+        "name": "Silk Slug Slime",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_silkslugslime.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbhouse_01",
+    "name": "Whittlewood Birdhouse",
+    "icon": "/assets/images/items/itm_woodbhouse_01.png",
+    "tier": 1,
+    "level": 17,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 395,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_miniBarrels",
+    "name": "Miniature Milk Barrel Set",
+    "icon": "/assets/images/items/itm_miniBarrels.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 49,
+    "speed_boost": 0,
+    "time": 55,
+    "xp": 1050,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_cow_buttermilk",
+        "name": "Buttermilk",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cow_buttermilk.png"
+      },
+      {
+        "id": "itm_pig_pigMilk",
+        "name": "Pig Milk",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      },
+      {
+        "id": "itm_barrel01",
+        "name": "Empty Barrel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_barrel01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stickySlimewood",
+    "name": "Sticky Slimewood",
+    "icon": "/assets/images/items/itm_stickySlimewood.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 289,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_slug_shimmerSlime",
+        "name": "Shimmer Slime",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+      },
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stickySlimewood",
+    "name": "Sticky Slimewood",
+    "icon": "/assets/images/items/itm_stickySlimewood.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 124.2,
+    "xp": 1907,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_slug_shimmerSlime",
+        "name": "Shimmer Slime",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+      },
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodchest_02",
+    "name": "Medium Craftbark Chest",
+    "icon": "/assets/images/items/itm_woodchest_02.png",
+    "tier": 2,
+    "level": 25,
+    "energy": 58,
+    "speed_boost": 0,
+    "time": 67.2,
+    "xp": 1296,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherStorage",
+        "name": "Featherlight Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherStorage.png"
+      },
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_02",
+    "name": "Craftbark Oil",
+    "icon": "/assets/images/items/itm_woodoil_02.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 15,
+    "speed_boost": 0,
+    "time": 17,
+    "xp": 270,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_02",
+    "name": "Craftbark Oil",
+    "icon": "/assets/images/items/itm_woodoil_02.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 117.3,
+    "xp": 1782,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_cheesePaste",
+        "name": "Cheese Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_cheesePaste.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      },
+      {
+        "id": "itm_duraPick_02",
+        "name": "More Durable T2 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_02.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_02",
+    "name": "More Durable T2 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 57,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 1234,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_silkslugspider",
+        "name": "Silk Slug Spider",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_silkslugspider.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_02",
+    "name": "More Durable T2 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 57,
+    "speed_boost": 0,
+    "time": 62,
+    "xp": 1136,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_feather_01",
+        "name": "Turkey Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_feather_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_royalSealant",
+    "name": "Royal Sealant",
+    "icon": "/assets/images/items/itm_royalSealant.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 20.2,
+    "xp": 325,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_bee_royalJelly",
+        "name": "Royal Jelly",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_rustyWateringCan",
+        "name": "Rusty Watering Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      },
+      {
+        "id": "itm_featherStorage",
+        "name": "Featherlight Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherStorage.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_royalSealant",
+    "name": "Royal Sealant",
+    "icon": "/assets/images/items/itm_royalSealant.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 124,
+    "speed_boost": 0,
+    "time": 139.38,
+    "xp": 2145,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_bee_royalJelly",
+        "name": "Royal Jelly",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+      },
+      {
+        "id": "itm_beePollenResin",
+        "name": "Bee Pollen Resin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_beePollenResin.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      },
+      {
+        "id": "itm_featherStorage",
+        "name": "Featherlight Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherStorage.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherStorage",
+    "name": "Featherlight Storage Chest",
+    "icon": "/assets/images/items/itm_featherStorage.png",
+    "tier": 2,
+    "level": 31,
+    "energy": 70,
+    "speed_boost": 0,
+    "time": 75,
+    "xp": 1442,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwork_kit_03",
+    "name": "Refined Woodworking Kit",
+    "icon": "/assets/images/items/itm_woodwork_kit_03.png",
+    "tier": 2,
+    "level": 34,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 114.45,
+    "xp": 3182,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_puffBasket",
+    "name": "Puff-lined Basket",
+    "icon": "/assets/images/items/itm_puffBasket.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 44,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 925,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbhouse_02",
+    "name": "Craftbark Birdhouse",
+    "icon": "/assets/images/items/itm_woodbhouse_02.png",
+    "tier": 2,
+    "level": 37,
+    "energy": 49,
+    "speed_boost": 0,
+    "time": 55,
+    "xp": 1012,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_royalSealant",
+        "name": "Royal Sealant",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_royalSealant.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_babyWingDisplay",
+    "name": "Baby Bee Wing Display",
+    "icon": "/assets/images/items/itm_babyWingDisplay.png",
+    "tier": 2,
+    "level": 38,
+    "energy": 54,
+    "speed_boost": 0,
+    "time": 61,
+    "xp": 1145,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_bee_babyWings",
+        "name": "Baby Bee Wings",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_bee_babyWings.png"
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolTimber",
+    "name": "Wool-Bound Timber",
+    "icon": "/assets/images/items/itm_woolTimber.png",
+    "tier": 3,
+    "level": 43,
+    "energy": 24,
+    "speed_boost": 0,
+    "time": 28,
+    "xp": 862,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_sheep_knottedWool",
+        "name": "Knotted Wool",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolTimber",
+    "name": "Wool-Bound Timber",
+    "icon": "/assets/images/items/itm_woolTimber.png",
+    "tier": 3,
+    "level": 43,
+    "energy": 166,
+    "speed_boost": 0,
+    "time": 193.2,
+    "xp": 5689,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_sheep_knottedWool",
+        "name": "Knotted Wool",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mortarBox",
+    "name": "Mortared Planter Box",
+    "icon": "/assets/images/items/itm_mortarBox.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 71,
+    "speed_boost": 0,
+    "time": 80,
+    "xp": 2834,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_mulch.png"
+      },
+      {
+        "id": "itm_60dayflower_space",
+        "name": "Pixels Astra Flower",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_60dayflower_space.png"
+      },
+      {
+        "id": "itm_60dayflower_land",
+        "name": "Pixels Terra Flower",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_60dayflower_land.png"
+      },
+      {
+        "id": "itm_60dayflower_water",
+        "name": "Pixels Aqua Flower",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_60dayflower_water.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodchest_03",
+    "name": "Large Sawstump Chest",
+    "icon": "/assets/images/items/itm_woodchest_03.png",
+    "tier": 3,
+    "level": 45,
+    "energy": 92,
+    "speed_boost": 0,
+    "time": 100.8,
+    "xp": 3689,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_wingedStorage",
+        "name": "Winged Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wingedStorage.png"
+      },
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_03",
+    "name": "Sawstump Oil",
+    "icon": "/assets/images/items/itm_woodoil_03.png",
+    "tier": 3,
+    "level": 46,
+    "energy": 23,
+    "speed_boost": 0,
+    "time": 26,
+    "xp": 774,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_colorfulSalad",
+        "name": "Colorful Feather Fire Salad",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_colorfulSalad.png"
+      },
+      {
+        "id": "itm_alchemicForge02",
+        "name": "Grade II Alchemic Forge",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      },
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_03",
+    "name": "Sawstump Oil",
+    "icon": "/assets/images/items/itm_woodoil_03.png",
+    "tier": 3,
+    "level": 46,
+    "energy": 159,
+    "speed_boost": 0,
+    "time": 179.4,
+    "xp": 5108,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_colorfulSalad",
+        "name": "Colorful Feather Fire Salad",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_colorfulSalad.png"
+      },
+      {
+        "id": "itm_alchemicForge02",
+        "name": "Grade II Alchemic Forge",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      },
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherResinBoards",
+    "name": "Featherlight Resin Boards",
+    "icon": "/assets/images/items/itm_featherResinBoards.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 28,
+    "speed_boost": 0,
+    "time": 32,
+    "xp": 1009,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge02",
+        "name": "Grade II Alchemic Forge",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_03",
+    "name": "More Durable T3 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 85,
+    "xp": 3086,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_goat_hornFlakes",
+        "name": "Tiny Horn Flakes",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_03",
+    "name": "More Durable T3 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 84,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 3299,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_sheep_babyWoolPuff",
+        "name": "Fine Baby Wool Puff",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwork_kit_04",
+    "name": "Elite Woodworking Kit",
+    "icon": "/assets/images/items/itm_woodwork_kit_04.png",
+    "tier": 3,
+    "level": 54,
+    "energy": 126,
+    "speed_boost": 0,
+    "time": 147.15,
+    "xp": 7946,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 40,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 40,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_wingedStorage",
+    "name": "Winged Storage Chest",
+    "icon": "/assets/images/items/itm_wingedStorage.png",
+    "tier": 3,
+    "level": 56,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 4469,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_bee_babyWings",
+        "name": "Baby Bee Wings",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_bee_babyWings.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbhouse_03",
+    "name": "Sawstump Birdhouse",
+    "icon": "/assets/images/items/itm_woodbhouse_03.png",
+    "tier": 3,
+    "level": 57,
+    "energy": 82,
+    "speed_boost": 0,
+    "time": 89.5,
+    "xp": 3226,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_rainbowPlank",
+    "name": "Rainbow Planks",
+    "icon": "/assets/images/items/itm_rainbowPlank.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 42,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 2698,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_rainbowPlank",
+    "name": "Rainbow Planks",
+    "icon": "/assets/images/items/itm_rainbowPlank.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 290,
+    "speed_boost": 0,
+    "time": 331.2,
+    "xp": 17807,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodchest_04",
+    "name": "Huge Borebranch Chest",
+    "icon": "/assets/images/items/itm_woodchest_04.png",
+    "tier": 4,
+    "level": 65,
+    "energy": 128,
+    "speed_boost": 0,
+    "time": 134.4,
+    "xp": 9412,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_nail_04.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_waterweedStorage",
+        "name": "Waterweed Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterweedStorage.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_04",
+    "name": "Borebranch Oil",
+    "icon": "/assets/images/items/itm_woodoil_04.png",
+    "tier": 4,
+    "level": 66,
+    "energy": 38,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 2374,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodoil_04",
+    "name": "Borebranch Oil",
+    "icon": "/assets/images/items/itm_woodoil_04.png",
+    "tier": 4,
+    "level": 66,
+    "energy": 262,
+    "speed_boost": 0,
+    "time": 276,
+    "xp": 15668,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      },
+      {
+        "id": "itm_duraPick_04",
+        "name": "More Durable T4 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_04.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraAxe_04",
+    "name": "More Durable T4 Axe",
+    "icon": "/assets/images/items/itm_duraAxe_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 109,
+    "speed_boost": 0,
+    "time": 125,
+    "xp": 8792,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_goat_mohair",
+        "name": "Goat Mohair",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_goat_mohair.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraPick_04",
+    "name": "More Durable T4 Pickaxe",
+    "icon": "/assets/images/items/itm_duraPick_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 114,
+    "speed_boost": 0,
+    "time": 122,
+    "xp": 8265,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_turkey_colorfulFeather",
+        "name": "Colorful Feather",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_waterweedStorage",
+    "name": "Waterweed Storage Chest",
+    "icon": "/assets/images/items/itm_waterweedStorage.png",
+    "tier": 4,
+    "level": 72,
+    "energy": 137,
+    "speed_boost": 0,
+    "time": 146,
+    "xp": 10549,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_duck_waterweed",
+        "name": "Waterweed",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_duck_waterweed.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodwork_kit_05",
+    "name": "Master Woodworking Kit",
+    "icon": "/assets/images/items/itm_woodwork_kit_05.png",
+    "tier": 4,
+    "level": 74,
+    "energy": 156,
+    "speed_boost": 0,
+    "time": 179.85,
+    "xp": 18876,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 40,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 40,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_nail_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbhouse_04",
+    "name": "Borebranch Birdhouse",
+    "icon": "/assets/images/items/itm_woodbhouse_04.png",
+    "tier": 4,
+    "level": 77,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 112.5,
+    "xp": 7875,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodplank_04",
+        "name": "Borebranch Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_04.png"
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_04.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_sunhornFrameBeam",
+    "name": "Sunhorn Frame Beam",
+    "icon": "/assets/images/items/itm_sunhornFrameBeam.png",
+    "tier": 4,
+    "level": 75,
+    "energy": 38,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 2533,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_goat_sunHorn",
+        "name": "Sunbaked Horn Tip",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_goat_sunHorn.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_archery",
+    "name": "Archery",
+    "icon": "/assets/images/items/itm_archery.png",
+    "tier": 2,
+    "level": 24,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 31.75,
+    "xp": 350,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      },
+      {
+        "id": "itm_popberrybluepigment",
+        "name": "Blue Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
+      },
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_fireplace-pot-decoration",
+    "name": "Fireplace Pot",
+    "icon": "/assets/images/items/itm_fireplace-pot-decoration.png",
+    "tier": 2,
+    "level": 26,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 32,
+    "xp": 450,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_coal_01",
+        "name": "Ochrux Matrix",
+        "qty": 25,
+        "icon": "/assets/images/items/itm_coal_01.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_stick",
+        "name": "Stick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stick.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_01",
+    "name": "Whittlewood Beam",
+    "icon": "/assets/images/items/itm_woodbeam_01.png",
+    "tier": 1,
+    "level": 12,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 264,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_01",
+        "name": "Whittlewood Dowel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_wooddowel_01.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_01",
+    "name": "Whittlewood Beam",
+    "icon": "/assets/images/items/itm_woodbeam_01.png",
+    "tier": 1,
+    "level": 12,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 40,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_01",
+        "name": "Whittlewood Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_01.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_textilemillblueprints",
+        "name": "Textile Station Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_textilemillblueprints.png"
+      },
+      {
+        "id": "itm_silkslughutchblueprints",
+        "name": "Basic Silk Slug Hutch Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkslughutchblueprints.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_04",
+    "name": "Borebranch Beam",
+    "icon": "/assets/images/items/itm_woodbeam_04.png",
+    "tier": 4,
+    "level": 72,
+    "energy": 311,
+    "speed_boost": 0,
+    "time": 334.65,
+    "xp": 18176,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_04",
+        "name": "Borebranch Dowel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_wooddowel_04.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      },
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_04",
+    "name": "Borebranch Beam",
+    "icon": "/assets/images/items/itm_woodbeam_04.png",
+    "tier": 4,
+    "level": 72,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 48.5,
+    "xp": 2754,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_04",
+        "name": "Borebranch Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_04.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_woodlog_04",
+        "name": "Borebranch Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      },
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_05",
+    "name": "Hammeroot Beam",
+    "icon": "/assets/images/items/itm_woodbeam_05.png",
+    "tier": 4,
+    "level": 92,
+    "energy": 75,
+    "speed_boost": 0,
+    "time": 80,
+    "xp": 9277,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_05",
+        "name": "Hammeroot Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_05.png"
+      },
+      {
+        "id": "itm_woodoil_05",
+        "name": "Hammeroot Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_05.png"
+      },
+      {
+        "id": "itm_hardware_05",
+        "name": "Unobtainium Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_05.png"
+      },
+      {
+        "id": "itm_woodlog_05",
+        "name": "Hammeroot Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_05.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_02",
+    "name": "Craftbark Beam",
+    "icon": "/assets/images/items/itm_woodbeam_02.png",
+    "tier": 2,
+    "level": 32,
+    "energy": 21,
+    "speed_boost": 0,
+    "time": 23,
+    "xp": 370,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_02",
+    "name": "Craftbark Beam",
+    "icon": "/assets/images/items/itm_woodbeam_02.png",
+    "tier": 2,
+    "level": 32,
+    "energy": 145,
+    "speed_boost": 0,
+    "time": 158.7,
+    "xp": 2442,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_02",
+        "name": "Craftbark Dowel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_wooddowel_02.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_woodlog_02",
+        "name": "Craftbark Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_03",
+    "name": "Sawstump Beam",
+    "icon": "/assets/images/items/itm_woodbeam_03.png",
+    "tier": 3,
+    "level": 52,
+    "energy": 241,
+    "speed_boost": 0,
+    "time": 276,
+    "xp": 8197,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 6,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_03",
+        "name": "Sawstump Dowel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_wooddowel_03.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woodbeam_03",
+    "name": "Sawstump Beam",
+    "icon": "/assets/images/items/itm_woodbeam_03.png",
+    "tier": 3,
+    "level": 52,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 40,
+    "xp": 1242,
+    "xp_type": "woodwork",
+    "skill": "Woodwork",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_wooddowel_03",
+        "name": "Sawstump Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_03.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_woodlog_03",
+        "name": "Sawstump Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_stick",
+    "name": "Stick",
+    "icon": "/assets/images/items/itm_stick.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 12,
+    "speed_boost": 0,
+    "time": 9.5,
+    "xp": 64,
+    "xp_type": "woodwork",
+    "skill": "Business",
+    "output": 1,
+    "station": "Woodwork",
+    "ingredients": [
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Woodwork T1",
+        "icon": "woodwork_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Woodwork T2",
+        "icon": "woodwork_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Woodwork T3",
+        "icon": "woodwork_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Woodwork T4",
+        "icon": "woodwork_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_grassSkewers",
+        "name": "Grassclump Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grassSkewers.png"
+      },
+      {
+        "id": "itm_Wooden_Stool",
+        "name": "Wooden Stool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Stool.png"
+      },
+      {
+        "id": "itm_log_decoration2",
+        "name": "Log Decoration",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_log_decoration2.png"
+      },
+      {
+        "id": "itm_Wooden_Throne",
+        "name": "Wooden Throne",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+      },
+      {
+        "id": "itm_scarecrow",
+        "name": "Scarecrow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarecrow.png"
+      },
+      {
+        "id": "itm_archery",
+        "name": "Archery",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_archery.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      }
+    ]
+  }
+]

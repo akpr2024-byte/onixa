@@ -1,0 +1,2404 @@
+[
+  {
+    "id": "itm_silicates_01",
+    "name": "Gravelglass Matrix",
+    "icon": "/assets/images/items/itm_silicates_01.png",
+    "tier": 1,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T1",
+        "icon": "mine_t1",
+        "chance": null
+      },
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Pickaxe T1",
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_01.png"
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_02.png"
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_03.png"
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_04.png"
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_05.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "icon": "/assets/images/items/itm_glass01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "icon": "/assets/images/items/itm_glass01.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_01.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_02.png",
+        "qty": 8
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_03.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_04.png",
+        "qty": 25
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_05.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 120
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "icon": "/assets/images/items/itm_magnifying_glass.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_coal_01",
+    "name": "Ochrux Matrix",
+    "icon": "/assets/images/items/itm_coal_01.png",
+    "tier": 1,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T1",
+        "icon": "mine_t1",
+        "chance": null
+      },
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Pickaxe T1",
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_fireBlessing",
+        "name": "Fire Blessing",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireBlessing.png"
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 240
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 20
+      },
+      {
+        "id": "itm_fireBlessing",
+        "name": "Fire Blessing",
+        "icon": "/assets/images/items/itm_fireBlessing.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "id": "itm_metalore_01",
+    "name": "Copperite Ore",
+    "icon": "/assets/images/items/itm_metalore_01.png",
+    "tier": 1,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T1",
+        "icon": "mine_t1",
+        "chance": null
+      },
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Pickaxe T1",
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_01.png"
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_01.png"
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_01",
+        "name": "Basic Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "icon": "/assets/images/items/itm_metalbar_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "icon": "/assets/images/items/itm_metalbar_01.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "icon": "/assets/images/items/itm_screw.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "icon": "/assets/images/items/itm_screw.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "icon": "/assets/images/items/itm_nail_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "icon": "/assets/images/items/itm_nail_01.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "icon": "/assets/images/items/itm_shears_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "icon": "/assets/images/items/itm_stove_kit_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_01.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_02.png",
+        "qty": 8
+      },
+      {
+        "id": "itm_woodwork_kit_01",
+        "name": "Basic Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+        "qty": 8
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+        "qty": 48
+      }
+    ]
+  },
+  {
+    "id": "itm_roughstone_01",
+    "name": "Clayum Matrix",
+    "icon": "/assets/images/items/itm_roughstone_01.png",
+    "tier": 1,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T1",
+        "icon": "mine_t1",
+        "chance": null
+      },
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_01",
+        "name": "Pickaxe T1",
+        "icon": "/assets/images/items/itm_pickaxe_01.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_01.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_stonepowder01.png"
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_01.png"
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_02.png"
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterland_statue.png"
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "icon": "/assets/images/items/itm_stonepowder01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stonepowder01",
+        "name": "Clayum Powder",
+        "icon": "/assets/images/items/itm_stonepowder01.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_stove_kit_01",
+        "name": "Basic Stove Kit",
+        "icon": "/assets/images/items/itm_stove_kit_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_mine_kit_01",
+        "name": "Basic Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_01.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mine_kit_02",
+        "name": "Improved Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_02.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 720
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "qty": 60
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "icon": "/assets/images/items/itm_waterland_statue.png",
+        "qty": 99
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_metalore_02",
+    "name": "Bronzenite Ore",
+    "icon": "/assets/images/items/itm_metalore_02.png",
+    "tier": 2,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_03.png"
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png"
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "icon": "/assets/images/items/itm_metalbar_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "icon": "/assets/images/items/itm_metalbar_02.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_03.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "icon": "/assets/images/items/itm_nail_02.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "icon": "/assets/images/items/itm_nail_02.png",
+        "qty": 18
+      }
+    ]
+  },
+  {
+    "id": "itm_roughstone_02",
+    "name": "Marbleite Matrix",
+    "icon": "/assets/images/items/itm_roughstone_02.png",
+    "tier": 2,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_marbleitewhitepigment",
+        "name": "White Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
+      },
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      },
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_stonepowder02.png"
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_03.png"
+      },
+      {
+        "id": "itm_limestone_paving_stones",
+        "name": "Paving Stones, Limestone",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_limestone_paving_stones.png"
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png"
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png"
+      },
+      {
+        "id": "itm_Small_Fountain_04",
+        "name": "Statue Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+      },
+      {
+        "id": "itm_Small_Fountain_03",
+        "name": "Triple Fountain",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterland_statue.png"
+      },
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "icon": "/assets/images/items/itm_stonepowder02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stonepowder02",
+        "name": "Marbleite Powder",
+        "icon": "/assets/images/items/itm_stonepowder02.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_03",
+        "name": "Refined Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_03.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_limestone_paving_stones",
+        "name": "Paving Stones, Limestone",
+        "icon": "/assets/images/items/itm_limestone_paving_stones.png",
+        "qty": 36
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_marbleitewhitepigment",
+        "name": "White Colorpot",
+        "icon": "/assets/images/items/itm_marbleitewhitepigment.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_Small_Fountain_04",
+        "name": "Statue Fountain",
+        "icon": "/assets/images/items/itm_Small_Fountain_04.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_Small_Fountain_03",
+        "name": "Triple Fountain",
+        "icon": "/assets/images/items/itm_Small_Fountain_03.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_waterland_statue",
+        "name": "Waterland Statue",
+        "icon": "/assets/images/items/itm_waterland_statue.png",
+        "qty": 24
+      }
+    ]
+  },
+  {
+    "id": "itm_metalore_03",
+    "name": "Irontite Ore",
+    "icon": "/assets/images/items/itm_metalore_03.png",
+    "tier": 3,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_04.png"
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png"
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "icon": "/assets/images/items/itm_metalbar_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "icon": "/assets/images/items/itm_metalbar_03.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_04.png",
+        "qty": 36
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "icon": "/assets/images/items/itm_nail_03.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "icon": "/assets/images/items/itm_nail_03.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "icon": "/assets/images/items/itm_fineGritPowder.png",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "itm_roughstone_03",
+    "name": "Bedrock Matrix",
+    "icon": "/assets/images/items/itm_roughstone_03.png",
+    "tier": 3,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_irontiteredpigment.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_stonepowder03.png"
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_04.png"
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png"
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png"
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "icon": "/assets/images/items/itm_stonepowder03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stonepowder03",
+        "name": "Bedrock Powder",
+        "icon": "/assets/images/items/itm_stonepowder03.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_04",
+        "name": "Elite Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_04.png",
+        "qty": 25
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "icon": "/assets/images/items/itm_irontiteredpigment.png",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "id": "itm_metalore_04",
+    "name": "Adamaxium Ore",
+    "icon": "/assets/images/items/itm_metalore_04.png",
+    "tier": 4,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_05.png"
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png"
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_nail_04.png"
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_nail_04.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "icon": "/assets/images/items/itm_metalbar_04.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "icon": "/assets/images/items/itm_metalbar_04.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_05.png",
+        "qty": 40
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png",
+        "qty": 80
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "icon": "/assets/images/items/itm_nail_04.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_nail_04",
+        "name": "Adamaxium Nail",
+        "icon": "/assets/images/items/itm_nail_04.png",
+        "qty": 18
+      }
+    ]
+  },
+  {
+    "id": "itm_roughstone_04",
+    "name": "Claricite Matrix",
+    "icon": "/assets/images/items/itm_roughstone_04.png",
+    "tier": 4,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      },
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_stonepowder04.png"
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mine_kit_05.png"
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png"
+      },
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "icon": "/assets/images/items/itm_stonepowder04.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stonepowder04",
+        "name": "Claricite Powder",
+        "icon": "/assets/images/items/itm_stonepowder04.png",
+        "qty": 24
+      },
+      {
+        "id": "itm_mine_kit_05",
+        "name": "Master Mine Kit",
+        "icon": "/assets/images/items/itm_mine_kit_05.png",
+        "qty": 60
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png",
+        "qty": 80
+      }
+    ]
+  },
+  {
+    "id": "itm_magnetite_ore",
+    "name": "Magnetite Ore",
+    "icon": "/assets/images/items/itm_magnetite_ore.png",
+    "tier": 2,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": true,
+    "water": false,
+    "space": false,
+    "used in": [
+      {
+        "id": "itm_magnet2",
+        "name": "Magnet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnet2.png"
+      },
+      {
+        "id": "itm_tempboost_yield_7",
+        "name": "Mining Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_7.png"
+      },
+      {
+        "id": "itm_tempboost_speed_1",
+        "name": "Mining Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_1.png"
+      },
+      {
+        "id": "itm_60dayflower_land_seed",
+        "name": "Terra Flower Seeds",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_60dayflower_land_seed.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gloomshard",
+    "name": "Gloomshard",
+    "icon": "/assets/images/items/itm_gloomshard.png",
+    "tier": [
+      "t3",
+      "t4"
+    ],
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [],
+    "grass": true,
+    "water": true,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_mysticMix",
+        "name": "Mystic Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mysticMix.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "icon": "/assets/images/items/itm_yieldReactor.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_mysticMix",
+        "name": "Mystic Mix",
+        "icon": "/assets/images/items/itm_mysticMix.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_salt",
+    "name": "Salt",
+    "icon": "/assets/images/items/itm_salt.png",
+    "tier": 2,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": false,
+    "water": true,
+    "space": false,
+    "used in": [
+      {
+        "id": "itm_cremdCubecumbr",
+        "name": "Creamed Cubecumber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cremdCubecumbr.png"
+      },
+      {
+        "id": "itm_scarrotStrgnff",
+        "name": "Scarrot Stroganoff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+      },
+      {
+        "id": "itm_bttrbrryBorsch",
+        "name": "Butterberry Borsch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bttrbrryBorsch.png"
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hot_sauce.png"
+      },
+      {
+        "id": "itm_saltSkewers",
+        "name": "Salt-Cured Yolk Skewer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_saltSkewers.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      },
+      {
+        "id": "itm_dry_salt_encrusted_scarrot_skewers",
+        "name": "Dry Salt-Encrusted Scarrot Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dry_salt_encrusted_scarrot_skewers.png"
+      },
+      {
+        "id": "itm_moist_salt_encrusted_popberry_skewers",
+        "name": "Moist Salt-Encrusted Popberry Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png"
+      },
+      {
+        "id": "itm_starry_salt_encrusted_grumpkin_skewers",
+        "name": "Starry Salt-Encrusted Grumpkin Skewers",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png"
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png"
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png"
+      },
+      {
+        "id": "itm_60dayflower_water_seed",
+        "name": "Aqua Flower Seeds",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_60dayflower_water_seed.png"
+      },
+      {
+        "id": "itm_cremdCubecumbr",
+        "name": "Creamed Cubecumber",
+        "icon": "/assets/images/items/itm_cremdCubecumbr.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_scarrotStrgnff",
+        "name": "Scarrot Stroganoff",
+        "icon": "/assets/images/items/itm_scarrotStrgnff.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_bttrbrryBorsch",
+        "name": "Butterberry Borsch",
+        "icon": "/assets/images/items/itm_bttrbrryBorsch.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_hot_sauce",
+        "name": "Hot Sauce",
+        "icon": "/assets/images/items/itm_hot_sauce.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_tempboost_yield_8",
+        "name": "Mining Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_8.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_tempboost_speed_2",
+        "name": "Mining Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_2.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_60dayflower_water_seed",
+        "name": "Aqua Flower Seeds",
+        "icon": "/assets/images/items/itm_60dayflower_water_seed.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_saltSkewers",
+        "name": "Salt-Cured Yolk Skewer",
+        "icon": "/assets/images/items/itm_saltSkewers.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_hardwood_smoked_bbq_sauce",
+        "name": "Hardwood Smoked BBQ Sauce",
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_honey_bbq_sauce",
+        "name": "Honey BBQ Sauce",
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_tangy_bbq_sauce",
+        "name": "Tangy BBQ Sauce",
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_dry_salt_encrusted_scarrot_skewers",
+        "name": "Dry Salt-Encrusted Scarrot Skewers",
+        "icon": "/assets/images/items/itm_dry_salt_encrusted_scarrot_skewers.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_moist_salt_encrusted_popberry_skewers",
+        "name": "Moist Salt-Encrusted Popberry Skewers",
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_starry_salt_encrusted_grumpkin_skewers",
+        "name": "Starry Salt-Encrusted Grumpkin Skewers",
+        "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_void",
+    "name": "Voidtonium",
+    "icon": "/assets/images/items/itm_void.png",
+    "tier": 2,
+    "time": null,
+    "xp_type": "mining",
+    "skill": "Mining",
+    "station": "Mine",
+    "xp_per_mining": null,
+    "average_xp_per_resource": null,
+    "average_pickaxe_cost": null,
+    "average_boots_pickaxe_cost": null,
+    "average_energy_per_mining": null,
+    "average_energy_per_resource": null,
+    "average_total_cost": null,
+    "drops_from": [
+      {
+        "stage": "T2",
+        "icon": "mine_t2",
+        "chance": null
+      },
+      {
+        "stage": "T3",
+        "icon": "mine_t3",
+        "chance": null
+      },
+      {
+        "stage": "T4",
+        "icon": "mine_t4",
+        "chance": null
+      }
+    ],
+    "You get it using this tool": [
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Pickaxe T2",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Pickaxe T3",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Pickaxe T4",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      }
+    ],
+    "grass": false,
+    "water": false,
+    "space": true,
+    "used in": [
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      },
+      {
+        "id": "itm_hotatoseed",
+        "name": "Hotato Seeds",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotatoseed.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_tempboost_yield_9",
+        "name": "Mining Yield Boost III",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tempboost_yield_9.png"
+      },
+      {
+        "id": "itm_tempboost_speed_3",
+        "name": "Mining Speed Boost III",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_tempboost_speed_3.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      },
+      {
+        "id": "itm_bones_hut_2",
+        "name": "Bone Hut 2",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_bones_hut_2.png"
+      },
+      {
+        "id": "itm_hotatoseed",
+        "name": "Hotato Seeds",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_hotatoseed.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_yield_7",
+    "name": "Mining Yield Boost I",
+    "icon": "/assets/images/items/itm_tempboost_yield_7.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      },
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_yield_8",
+    "name": "Mining Yield Boost II",
+    "icon": "/assets/images/items/itm_tempboost_yield_8.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_yield_9",
+    "name": "Mining Yield Boost III",
+    "icon": "/assets/images/items/itm_tempboost_yield_9.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      },
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_1",
+    "name": "Mining Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_1.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      },
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_2",
+    "name": "Mining Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_2.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_salt",
+        "name": "Salt",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_salt.png"
+      },
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      },
+      {
+        "id": "itm_roughstone_03",
+        "name": "Bedrock Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_03.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  },
+  {
+    "id": "itm_tempboost_speed_3",
+    "name": "Mining Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_3.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Mining",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      },
+      {
+        "id": "itm_roughstone_04",
+        "name": "Claricite Matrix",
+        "qty": 80,
+        "icon": "/assets/images/items/itm_roughstone_04.png"
+      },
+      {
+        "id": "itm_dew",
+        "name": "Dew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dew.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "T4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ],
+    "You get it using this tool": []
+  }
+]

@@ -1,0 +1,6005 @@
+[
+  {
+    "id": "itm_tempboost_speed_22",
+    "name": "Metalworking Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_22.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_23",
+    "name": "Metalworking Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_23.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_24",
+    "name": "Metalworking Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_24.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_glass_bottle",
+        "name": "Glass Bottle",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_glass_bottle.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_02",
+    "name": "More Durable T2 Shears",
+    "icon": "/assets/images/items/itm_duraShears_02.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 64,
+    "speed_boost": 0,
+    "time": 68,
+    "xp": 1277,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      },
+      {
+        "id": "itm_goat_goatFur",
+        "name": "Shedded Goat Fur",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goat_goatFur.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_03",
+    "name": "More Durable T3 Shears",
+    "icon": "/assets/images/items/itm_duraShears_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 80,
+    "speed_boost": 0,
+    "time": 87.5,
+    "xp": 3250,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_duraShears_04",
+    "name": "More Durable T4 Shears",
+    "icon": "/assets/images/items/itm_duraShears_04.png",
+    "tier": 4,
+    "level": 70,
+    "energy": 114,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 8369,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_turkey_rainbowBristles",
+        "name": "Rainbow Turkey Bristles",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkey_rainbowBristles.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_01",
+    "name": "Copperite Bar",
+    "icon": "/assets/images/items/itm_metalbar_01.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 108,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 468,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_woodwheel_02",
+        "name": "Craftbark Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "name": "Copperite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      },
+      {
+        "id": "itm_stove_kit_02",
+        "qty": 8,
+        "name": "Improved Stove Kit",
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "qty": 4,
+        "name": "Bronzenite Shears",
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "qty": 2,
+        "name": "Bronzenite Pick",
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "qty": 6,
+        "name": "Improved Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "qty": 4,
+        "name": "Basic Stoneshaping Kit",
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "qty": 8,
+        "name": "Improved Stoneshaping Kit",
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_woodwheel_02",
+        "qty": 1,
+        "name": "Craftbark Wheel",
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "qty": 2,
+        "name": "Bronzenite Axe",
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "qty": 4,
+        "name": "Basic Magnifying Glass",
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "qty": 12,
+        "name": "Copperite Hardware",
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "qty": 3,
+        "name": "Copper Bucket",
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "qty": 10,
+        "name": "Improved Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "qty": 18,
+        "name": "Copperite Gear",
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "qty": 3,
+        "name": "Copperite Telescope",
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "qty": 6,
+        "name": "Copperite Lamp",
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_02",
+    "name": "Bronzenite Bar",
+    "icon": "/assets/images/items/itm_metalbar_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 226,
+    "speed_boost": 0,
+    "time": 202,
+    "xp": 1692,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "name": "Metalworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "name": "Bronzenite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      },
+      {
+        "id": "itm_sushi_kit_02",
+        "qty": 10,
+        "name": "Improved Sushi Kit",
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "qty": 48,
+        "name": "Barney's BBQ Kit",
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "qty": 12,
+        "name": "Refined Stove Kit",
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "qty": 6,
+        "name": "Irontite Shears",
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "qty": 4,
+        "name": "Irontite Pick",
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "qty": 12,
+        "name": "Refined Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "qty": 12,
+        "name": "Refined Stoneshaping Kit",
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "qty": 1,
+        "name": "Sawstump Wheel",
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "qty": 4,
+        "name": "Irontite Axe",
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "qty": 20,
+        "name": "Metalworking Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "qty": 3,
+        "name": "Bronzenite Magnifying Glass",
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "qty": 12,
+        "name": "Bronzeite Hardware",
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "qty": 20,
+        "name": "Refined Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "qty": 18,
+        "name": "Bronzenite Gear",
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "qty": 10,
+        "name": "Fireplace Pot",
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "qty": 3,
+        "name": "Bronzenite Telescope",
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "qty": 6,
+        "name": "Bronzenite Lamp",
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_03",
+    "name": "Irontite Bar",
+    "icon": "/assets/images/items/itm_metalbar_03.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 454,
+    "speed_boost": 0,
+    "time": 244,
+    "xp": 4488,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "name": "Metalworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "name": "Irontite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      },
+      {
+        "id": "itm_sushi_kit_03",
+        "qty": 12,
+        "name": "Refined Sushi Kit",
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "qty": 14,
+        "name": "Elite Stove Kit",
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "qty": 8,
+        "name": "Adamaxium Shears",
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "qty": 6,
+        "name": "Adamaxium Pick",
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "qty": 24,
+        "name": "Elite Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "qty": 24,
+        "name": "Elite Stoneshaping Kit",
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "qty": 24,
+        "name": "Shrapnel",
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "qty": 1,
+        "name": "Borebranch Wheel",
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_axe_04",
+        "qty": 8,
+        "name": "Adamaxium Axe",
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "qty": 20,
+        "name": "Metalworking Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "qty": 6,
+        "name": "Irontite Magnifying Glass",
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "qty": 12,
+        "name": "Irontite Hardware",
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "qty": 4,
+        "name": "Earth-Oven Baking Slab",
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "qty": 40,
+        "name": "Elite Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "qty": 18,
+        "name": "Irontite Gear",
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "qty": 3,
+        "name": "Irontite Telescope",
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "qty": 6,
+        "name": "Irontite Lamp",
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_04",
+    "name": "Adamaxium Bar",
+    "icon": "/assets/images/items/itm_metalbar_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 778,
+    "speed_boost": 0,
+    "time": 490,
+    "xp": 8388,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "name": "Metalworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_instantHotplate",
+        "name": "Instant-Sizzle Hotplate",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_instantHotplate.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "name": "Adamaxium Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      },
+      {
+        "id": "itm_sushi_kit_04",
+        "qty": 15,
+        "name": "Elite Sushi Kit",
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "qty": 15,
+        "name": "Trash Can",
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "qty": 20,
+        "name": "Metalworking Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "qty": 12,
+        "name": "Adamaxium Magnifying Glass",
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "qty": 12,
+        "name": "Adamaxium Hardware",
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "qty": 40,
+        "name": "Master Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "qty": 18,
+        "name": "Adamaxium Gear",
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_instantHotplate",
+        "qty": 6,
+        "name": "Instant-Sizzle Hotplate",
+        "icon": "/assets/images/items/itm_instantHotplate.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "qty": 3,
+        "name": "Adamaxium Telescope",
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "qty": 6,
+        "name": "Adamaxium Lamp",
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_yieldReactor",
+    "name": "Yield Reactor",
+    "tier": 2,
+    "level": 20,
+    "energy": 105,
+    "time": 25,
+    "xp": 1800,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gloomshard",
+        "name": "Gloomshard",
+        "qty": 10,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_gloomshard/d4c8fe7a-84f9-4cf6-a110-2bb22f270ede.png"
+      },
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 3,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_brick_04/969c19c8-ce62-49d3-8d5d-a3ffa6596431.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 8,
+        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_metalbar_04/b8a8b2f3-857f-4988-98f5-f4d573853fa6.png"
+      }
+    ],
+    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_yieldReactor/112bf22d-800e-40df-921d-15c7c2884bd1.png"
+  },
+  {
+    "id": "itm_screw",
+    "name": "Copperite Screw",
+    "icon": "/assets/images/items/itm_screw.png",
+    "tier": 1,
+    "level": 6,
+    "energy": 152,
+    "speed_boost": 0,
+    "time": 106,
+    "xp": 792,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_pinkFence",
+        "name": "Pink Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_pinkFence.png"
+      },
+      {
+        "id": "itm_greenFence",
+        "name": "Green Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_greenFence.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_01.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_fence",
+        "name": "Magnoot Fence",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fence.png"
+      },
+      {
+        "id": "itm_sushi_kit_01",
+        "qty": 8,
+        "name": "Basic Sushi Kit",
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_pinkFence",
+        "qty": 120,
+        "name": "Pink Fence",
+        "icon": "/assets/images/items/itm_pinkFence.png"
+      },
+      {
+        "id": "itm_greenFence",
+        "qty": 120,
+        "name": "Green Fence",
+        "icon": "/assets/images/items/itm_greenFence.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "qty": 1,
+        "name": "Basic Shears",
+        "icon": "/assets/images/items/itm_shears_01.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "qty": 1,
+        "name": "Bronzenite Shears",
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "qty": 2,
+        "name": "Irontite Shears",
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "qty": 3,
+        "name": "Adamaxium Shears",
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "qty": 1,
+        "name": "Basic Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "qty": 2,
+        "name": "Improved Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_fence",
+        "qty": 12,
+        "name": "Magnoot Fence",
+        "icon": "/assets/images/items/itm_fence.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_01",
+    "name": "Copperite Nail",
+    "icon": "/assets/images/items/itm_nail_01.png",
+    "tier": 1,
+    "level": 8,
+    "energy": 184,
+    "speed_boost": 0,
+    "time": 128,
+    "xp": 996,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 12,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_01",
+        "name": "Basic Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_01",
+        "qty": 4,
+        "name": "Basic Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "qty": 4,
+        "name": "Copper Bucket",
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "qty": 5,
+        "name": "Improved Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "qty": 10,
+        "name": "Whittlewood Birdhouse",
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_shears_01",
+    "name": "Basic Shears",
+    "icon": "/assets/images/items/itm_shears_01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 26,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 396,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_screw.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_barrel04",
+        "name": "Barrel of Tools",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_barrel04.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "qty": 1,
+        "name": "Bronzenite Shears",
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_barrel04",
+        "qty": 1,
+        "name": "Barrel of Tools",
+        "icon": "/assets/images/items/itm_barrel04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_shears_02",
+    "name": "Bronzenite Shears",
+    "icon": "/assets/images/items/itm_shears_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 58,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 1226,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "qty": 1,
+        "name": "Irontite Shears",
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "qty": 1,
+        "name": "More Durable T2 Shears",
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_shears_03",
+    "name": "Irontite Shears",
+    "icon": "/assets/images/items/itm_shears_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 87,
+    "speed_boost": 0,
+    "time": 88.25,
+    "xp": 2370,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "qty": 1,
+        "name": "Adamaxium Shears",
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "qty": 1,
+        "name": "More Durable T3 Shears",
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_shears_04",
+    "name": "Adamaxium Shears",
+    "icon": "/assets/images/items/itm_shears_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 112,
+    "speed_boost": 0,
+    "time": 120,
+    "xp": 3788,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraShears_04",
+        "name": "More Durable T4 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      },
+      {
+        "id": "itm_duraShears_04",
+        "qty": 1,
+        "name": "More Durable T4 Shears",
+        "icon": "/assets/images/items/itm_duraShears_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalworking_kit_01",
+    "name": "Basic Metalworking Kit",
+    "icon": "/assets/images/items/itm_metalworking_kit_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 69,
+    "speed_boost": 0,
+    "time": 50,
+    "xp": 1720,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      },
+      {
+        "id": "itm_roughstone_01",
+        "name": "Clayum Matrix",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_roughstone_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_woodlog_01",
+        "name": "Whittlewood Log",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_woodlog_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "qty": 1,
+        "name": "Improved Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalworking_kit_02",
+    "name": "Improved Metalworking Kit",
+    "icon": "/assets/images/items/itm_metalworking_kit_02.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 103,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 2965,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "qty": 1,
+        "name": "Refined Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalworking_kit_03",
+    "name": "Refined Metalworking Kit",
+    "icon": "/assets/images/items/itm_metalworking_kit_03.png",
+    "tier": 2,
+    "level": 35,
+    "energy": 135,
+    "speed_boost": 0,
+    "time": 94,
+    "xp": 5135,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_woodplank_02",
+        "name": "Craftbark Plank",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodplank_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "qty": 1,
+        "name": "Elite Metalworking Kit",
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalworking_kit_04",
+    "name": "Elite Metalworking Kit",
+    "icon": "/assets/images/items/itm_metalworking_kit_04.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 156,
+    "speed_boost": 0,
+    "time": 97.25,
+    "xp": 7035,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_woodplank_03",
+        "name": "Sawstump Plank",
+        "qty": 14,
+        "icon": "/assets/images/items/itm_woodplank_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_magnet2",
+    "name": "Magnet",
+    "icon": "/assets/images/items/itm_magnet2.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 33,
+    "speed_boost": 0,
+    "time": 31.5,
+    "xp": 311,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_magnetite_ore",
+        "name": "Magnetite Ore",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_magnetite_ore.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tungstenmagnifyingglass",
+    "name": "",
+    "icon": "/assets/images/items/itm_tungstenmagnifyingglass.png",
+    "tier": 4,
+    "level": 80,
+    "energy": 209,
+    "speed_boost": 0,
+    "time": 150,
+    "xp": 2419,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_05",
+        "name": "Unobtainium Bar",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_metalbar_05.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_magnifying_glass",
+    "name": "Basic Magnifying Glass",
+    "icon": "/assets/images/items/itm_magnifying_glass.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 66,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_silicates_01",
+        "name": "Gravelglass Matrix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silicates_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "name": "Copperite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "qty": 1,
+        "name": "Bronzenite Magnifying Glass",
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "qty": 1,
+        "name": "Copperite Telescope",
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_coppermagnifyingglass",
+    "name": "Bronzenite Magnifying Glass",
+    "icon": "/assets/images/items/itm_coppermagnifyingglass.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 52,
+    "speed_boost": 0,
+    "time": 46.75,
+    "xp": 357,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_22",
+        "name": "Metalworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "name": "Bronzenite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "qty": 3,
+        "name": "Metalworking Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "qty": 1,
+        "name": "Irontite Magnifying Glass",
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "qty": 1,
+        "name": "Bronzenite Telescope",
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bronzemagnifyingglass",
+    "name": "Irontite Magnifying Glass",
+    "icon": "/assets/images/items/itm_bronzemagnifyingglass.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 95,
+    "speed_boost": 0,
+    "time": 76.75,
+    "xp": 803,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_23",
+        "name": "Metalworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "name": "Irontite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "qty": 3,
+        "name": "Metalworking Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "qty": 1,
+        "name": "Adamaxium Magnifying Glass",
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "qty": 1,
+        "name": "Irontite Telescope",
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_ironmagnifyingglass",
+    "name": "Adamaxium Magnifying Glass",
+    "icon": "/assets/images/items/itm_ironmagnifyingglass.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 163,
+    "speed_boost": 0,
+    "time": 106.75,
+    "xp": 1572,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_glass01",
+        "name": "Glass",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_glass01.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_24",
+        "name": "Metalworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_tungstenmagnifyingglass",
+        "name": "",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tungstenmagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "name": "Adamaxium Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "qty": 3,
+        "name": "Metalworking Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_tungstenmagnifyingglass",
+        "qty": 1,
+        "name": "",
+        "icon": "/assets/images/items/itm_tungstenmagnifyingglass.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "qty": 1,
+        "name": "Adamaxium Telescope",
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_01",
+    "name": "Copperite Hardware",
+    "icon": "/assets/images/items/itm_hardware_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 48,
+    "speed_boost": 0,
+    "time": 55.2,
+    "xp": 442,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "qty": 2,
+        "name": "Copper Bucket",
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "qty": 1,
+        "name": "Small Whittlewood Chest",
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "qty": 2,
+        "name": "Whittlewood Beam",
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_bucket_01",
+    "name": "Copper Bucket",
+    "icon": "/assets/images/items/itm_bucket_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 10,
+    "xp": 84,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_nail_01",
+        "name": "Copperite Nail",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_nail_01.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_mysticMix",
+        "name": "Mystic Mix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mysticMix.png"
+      },
+      {
+        "id": "itm_farmamix",
+        "qty": 1,
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_mysticMix",
+        "qty": 1,
+        "name": "Mystic Mix",
+        "icon": "/assets/images/items/itm_mysticMix.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gearGrease",
+    "name": "Gear Grease",
+    "icon": "/assets/images/items/itm_gearGrease.png",
+    "tier": 1,
+    "level": 12,
+    "energy": 28,
+    "speed_boost": 0,
+    "time": 34.5,
+    "xp": 277,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_cow_dairyFat",
+        "name": "Dairy Fat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_beeswax",
+        "name": "Wax",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_beeswax.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "qty": 6,
+        "name": "Copperite Gear",
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "qty": 6,
+        "name": "Bronzenite Gear",
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "qty": 6,
+        "name": "Irontite Gear",
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "qty": 6,
+        "name": "Adamaxium Gear",
+        "icon": "/assets/images/items/itm_gear_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_01",
+    "name": "Copperite Gear",
+    "icon": "/assets/images/items/itm_gear_01.png",
+    "tier": 1,
+    "level": 16,
+    "energy": 69,
+    "speed_boost": 0,
+    "time": 75.9,
+    "xp": 587,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_01",
+        "name": "Copperite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "qty": 2,
+        "name": "Copperite Telescope",
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "qty": 2,
+        "name": "Copperite Lamp",
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_02",
+    "name": "Bronzeite Hardware",
+    "icon": "/assets/images/items/itm_hardware_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 110,
+    "speed_boost": 0,
+    "time": 117.3,
+    "xp": 1729,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodchest_02",
+        "qty": 1,
+        "name": "Medium Craftbark Chest",
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "qty": 12,
+        "name": "Craftbark Beam",
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_02",
+    "name": "Bronzenite Nail",
+    "icon": "/assets/images/items/itm_nail_02.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 97,
+    "speed_boost": 0,
+    "time": 106.95,
+    "xp": 1584,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      },
+      {
+        "id": "itm_miniBarrels",
+        "qty": 4,
+        "name": "Miniature Milk Barrel Set",
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_alchemicForge01",
+        "qty": 10,
+        "name": "Grade I Alchemic Forge Kit",
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "qty": 10,
+        "name": "Refined Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "qty": 10,
+        "name": "Craftbark Birdhouse",
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_alchemicForge01",
+    "name": "Grade I Alchemic Forge Kit",
+    "icon": "/assets/images/items/itm_alchemicForge01.png",
+    "tier": 2,
+    "level": 27,
+    "energy": 419,
+    "speed_boost": 0,
+    "time": 480,
+    "xp": 13787,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_nail_02",
+        "name": "Bronzenite Nail",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_nail_02.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge02",
+        "name": "Grade II Alchemic Forge",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      },
+      {
+        "id": "itm_alchemicForge02",
+        "qty": 1,
+        "name": "Grade II Alchemic Forge",
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_02",
+    "name": "Bronzenite Gear",
+    "icon": "/assets/images/items/itm_gear_02.png",
+    "tier": 2,
+    "level": 36,
+    "energy": 152,
+    "speed_boost": 0,
+    "time": 172.5,
+    "xp": 2647,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "name": "Bronzenite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      },
+      {
+        "id": "itm_fishing_rod_2",
+        "qty": 1,
+        "name": "Fish Finder Ten Thousand",
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "qty": 2,
+        "name": "Bronzenite Telescope",
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "qty": 2,
+        "name": "Bronzenite Lamp",
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_spiderShard",
+    "name": "Spiderbound Shard",
+    "icon": "/assets/images/items/itm_spiderShard.png",
+    "tier": 2,
+    "level": 39,
+    "energy": 24,
+    "speed_boost": 0,
+    "time": 26,
+    "xp": 414,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_QueenSpider",
+        "name": "Queen Spider",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_QueenSpider.png"
+      },
+      {
+        "id": "itm_void",
+        "name": "Voidtonium",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_void.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "qty": 6,
+        "name": "Wool-Bound Timber",
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_03",
+    "name": "Irontite Hardware",
+    "icon": "/assets/images/items/itm_hardware_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 200,
+    "speed_boost": 0,
+    "time": 213.9,
+    "xp": 6257,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodchest_03",
+        "qty": 1,
+        "name": "Large Sawstump Chest",
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "qty": 2,
+        "name": "Sawstump Beam",
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_03",
+    "name": "Irontite Nail",
+    "icon": "/assets/images/items/itm_nail_03.png",
+    "tier": 3,
+    "level": 41,
+    "energy": 152,
+    "speed_boost": 0,
+    "time": 172.5,
+    "xp": 4877,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      },
+      {
+        "id": "itm_woodchest_03",
+        "qty": 2,
+        "name": "Large Sawstump Chest",
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_featherFastener",
+        "qty": 2,
+        "name": "Featherlight Fastener",
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "qty": 20,
+        "name": "Elite Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "qty": 10,
+        "name": "Sawstump Birdhouse",
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherFastener",
+    "name": "Featherlight Fastener",
+    "icon": "/assets/images/items/itm_featherFastener.png",
+    "tier": 3,
+    "level": 48,
+    "energy": 29,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 906,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_nail_03",
+        "name": "Irontite Nail",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_nail_03.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "qty": 2,
+        "name": "Featherlight Resin Boards",
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_featherBlade",
+    "name": "Feather-Edge Quill Blade",
+    "icon": "/assets/images/items/itm_featherBlade.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 31,
+    "speed_boost": 0,
+    "time": 36,
+    "xp": 1140,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_turkey_blueFeather",
+        "name": "Blue Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkey_blueFeather.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alchemicForge02",
+        "name": "Grade II Alchemic Forge",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      },
+      {
+        "id": "itm_alchemicForge02",
+        "qty": 3,
+        "name": "Grade II Alchemic Forge",
+        "icon": "/assets/images/items/itm_alchemicForge02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_alchemicForge02",
+    "name": "Grade II Alchemic Forge",
+    "icon": "/assets/images/items/itm_alchemicForge02.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 525,
+    "speed_boost": 0,
+    "time": 600,
+    "xp": 32338,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_featherBlade",
+        "name": "Feather-Edge Quill Blade",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_featherBlade.png"
+      },
+      {
+        "id": "itm_featherResinBoards",
+        "name": "Featherlight Resin Boards",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_featherResinBoards.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_hornChimes",
+    "name": "Horn-Flake Chimes",
+    "icon": "/assets/images/items/itm_hornChimes.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 76,
+    "speed_boost": 0,
+    "time": 82.5,
+    "xp": 3069,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_goat_hornFlakes",
+        "name": "Tiny Horn Flakes",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+      },
+      {
+        "id": "itm_wooddowel_03",
+        "name": "Sawstump Dowel",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_wooddowel_03.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_03",
+    "name": "Irontite Gear",
+    "icon": "/assets/images/items/itm_gear_03.png",
+    "tier": 3,
+    "level": 56,
+    "energy": 241,
+    "speed_boost": 0,
+    "time": 263.58,
+    "xp": 7550,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_03",
+        "name": "Irontite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "qty": 2,
+        "name": "Irontite Telescope",
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "qty": 2,
+        "name": "Irontite Lamp",
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_04",
+    "name": "Adamaxium Hardware",
+    "icon": "/assets/images/items/itm_hardware_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 269,
+    "speed_boost": 0,
+    "time": 310.5,
+    "xp": 16790,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodchest_04",
+        "qty": 1,
+        "name": "Huge Borebranch Chest",
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "qty": 2,
+        "name": "Borebranch Beam",
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_04",
+    "name": "Adamaxium Nail",
+    "icon": "/assets/images/items/itm_nail_04.png",
+    "tier": 4,
+    "level": 61,
+    "energy": 255,
+    "speed_boost": 0,
+    "time": 289.8,
+    "xp": 15893,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      },
+      {
+        "id": "itm_woodchest_04",
+        "qty": 2,
+        "name": "Huge Borebranch Chest",
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "qty": 20,
+        "name": "Master Woodworking Kit",
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "qty": 10,
+        "name": "Borebranch Birdhouse",
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_04",
+    "name": "Adamaxium Gear",
+    "icon": "/assets/images/items/itm_gear_04.png",
+    "tier": 4,
+    "level": 76,
+    "energy": 311,
+    "speed_boost": 0,
+    "time": 331.2,
+    "xp": 18797,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 6,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_04",
+        "name": "Adamaxium Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "qty": 2,
+        "name": "Adamaxium Telescope",
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "qty": 2,
+        "name": "Adamaxium Lamp",
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_instantHotplate",
+    "name": "Instant-Sizzle Hotplate",
+    "icon": "/assets/images/items/itm_instantHotplate.png",
+    "tier": 4,
+    "level": 76,
+    "energy": 54,
+    "speed_boost": 0,
+    "time": 58,
+    "xp": 3411,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_dragon_scale",
+        "name": "Dragon Scale",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dragon_scale.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_scalePlatter",
+        "name": "Scale-Smoked Feast Platter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scalePlatter.png"
+      },
+      {
+        "id": "itm_scalePlatter",
+        "qty": 1,
+        "name": "Scale-Smoked Feast Platter",
+        "icon": "/assets/images/items/itm_scalePlatter.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_telescope_01",
+    "name": "Copperite Telescope",
+    "icon": "/assets/images/items/itm_telescope_01.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 36,
+    "speed_boost": 0,
+    "time": 38.5,
+    "xp": 381,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_telescope_02",
+    "name": "Bronzenite Telescope",
+    "icon": "/assets/images/items/itm_telescope_02.png",
+    "tier": 2,
+    "level": 38,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 50,
+    "xp": 937,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_telescope_03",
+    "name": "Irontite Telescope",
+    "icon": "/assets/images/items/itm_telescope_03.png",
+    "tier": 3,
+    "level": 58,
+    "energy": 75,
+    "speed_boost": 0,
+    "time": 82,
+    "xp": 2985,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_telescope_04",
+    "name": "Adamaxium Telescope",
+    "icon": "/assets/images/items/itm_telescope_04.png",
+    "tier": 4,
+    "level": 78,
+    "energy": 94,
+    "speed_boost": 0,
+    "time": 100,
+    "xp": 7113,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_lamp_01",
+    "name": "Copperite Lamp",
+    "icon": "/assets/images/items/itm_lamp_01.png",
+    "tier": 1,
+    "level": 18,
+    "energy": 39,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 449,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_lamp_02",
+    "name": "Bronzenite Lamp",
+    "icon": "/assets/images/items/itm_lamp_02.png",
+    "tier": 2,
+    "level": 38,
+    "energy": 60,
+    "speed_boost": 0,
+    "time": 65,
+    "xp": 1250,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_lamp_03",
+    "name": "Irontite Lamp",
+    "icon": "/assets/images/items/itm_lamp_03.png",
+    "tier": 3,
+    "level": 58,
+    "energy": 77,
+    "speed_boost": 0,
+    "time": 87,
+    "xp": 3184,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_lamp_04",
+    "name": "Adamaxium Lamp",
+    "icon": "/assets/images/items/itm_lamp_04.png",
+    "tier": 4,
+    "level": 78,
+    "energy": 104,
+    "speed_boost": 0,
+    "time": 118,
+    "xp": 8214,
+    "xp_type": "metalworking",
+    "skill": "Metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_yarnyamcloth",
+        "name": "Red Wool Cloth",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_yarnyamcloth.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_01",
+    "name": "Copperite Bar",
+    "icon": "/assets/images/items/itm_metalbar_01.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 39,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_stove_kit_02",
+        "name": "Improved Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_02.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_pickaxe_02",
+        "name": "Bronzenite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_02.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_kiln_kit_01",
+        "name": "Basic Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_01.png"
+      },
+      {
+        "id": "itm_kiln_kit_02",
+        "name": "Improved Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_02.png"
+      },
+      {
+        "id": "itm_woodwheel_02",
+        "name": "Craftbark Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_02.png"
+      },
+      {
+        "id": "itm_axe_02",
+        "name": "Bronzenite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_02.png"
+      },
+      {
+        "id": "itm_magnifying_glass",
+        "name": "Basic Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_magnifying_glass.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_hardware_01",
+        "name": "Copperite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_telescope_01",
+        "name": "Copperite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_02",
+    "name": "Bronzenite Bar",
+    "icon": "/assets/images/items/itm_metalbar_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 21,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 141,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_landbbqblueprints",
+        "name": "Barney's BBQ Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_landbbqblueprints.png"
+      },
+      {
+        "id": "itm_stove_kit_03",
+        "name": "Refined Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_03.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_pickaxe_03",
+        "name": "Irontite Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_03.png"
+      },
+      {
+        "id": "itm_metalworking_kit_03",
+        "name": "Refined Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_03.png"
+      },
+      {
+        "id": "itm_kiln_kit_03",
+        "name": "Refined Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_03.png"
+      },
+      {
+        "id": "itm_woodwheel_03",
+        "name": "Sawstump Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_03.png"
+      },
+      {
+        "id": "itm_axe_03",
+        "name": "Irontite Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_03.png"
+      },
+      {
+        "id": "itm_tempboost_speed_22",
+        "name": "Metalworking Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_22.png"
+      },
+      {
+        "id": "itm_coppermagnifyingglass",
+        "name": "Bronzenite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_coppermagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_hardware_02",
+        "name": "Bronzeite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_02.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_fireplace-pot-decoration",
+        "name": "Fireplace Pot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "name": "Bronzenite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_03",
+    "name": "Irontite Bar",
+    "icon": "/assets/images/items/itm_metalbar_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 42,
+    "speed_boost": 0,
+    "time": 40.5,
+    "xp": 374,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_stove_kit_04",
+        "name": "Elite Stove Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stove_kit_04.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_pickaxe_04",
+        "name": "Adamaxium Pick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pickaxe_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_04",
+        "name": "Elite Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_04.png"
+      },
+      {
+        "id": "itm_kiln_kit_04",
+        "name": "Elite Stoneshaping Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kiln_kit_04.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_Shrapnel",
+        "name": "Shrapnel",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_Shrapnel.png"
+      },
+      {
+        "id": "itm_woodwheel_04",
+        "name": "Borebranch Wheel",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwheel_04.png"
+      },
+      {
+        "id": "itm_axe_04",
+        "name": "Adamaxium Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_axe_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_23",
+        "name": "Metalworking Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_23.png"
+      },
+      {
+        "id": "itm_bronzemagnifyingglass",
+        "name": "Irontite Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bronzemagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_hardware_03",
+        "name": "Irontite Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_03.png"
+      },
+      {
+        "id": "itm_earthSlab",
+        "name": "Earth-Oven Baking Slab",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_earthSlab.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_telescope_03",
+        "name": "Irontite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_metalbar_04",
+    "name": "Adamaxium Bar",
+    "icon": "/assets/images/items/itm_metalbar_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 72,
+    "speed_boost": 0,
+    "time": 51,
+    "xp": 699,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      },
+      {
+        "id": "itm_Trashcan",
+        "name": "Trash Can",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Trashcan.png"
+      },
+      {
+        "id": "itm_yieldReactor",
+        "name": "Yield Reactor",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_yieldReactor.png"
+      },
+      {
+        "id": "itm_tempboost_speed_24",
+        "name": "Metalworking Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_24.png"
+      },
+      {
+        "id": "itm_ironmagnifyingglass",
+        "name": "Adamaxium Magnifying Glass",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ironmagnifyingglass.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_hardware_04",
+        "name": "Adamaxium Hardware",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hardware_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_instantHotplate",
+        "name": "Instant-Sizzle Hotplate",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_instantHotplate.png"
+      },
+      {
+        "id": "itm_telescope_04",
+        "name": "Adamaxium Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_screw",
+    "name": "Copperite Screw",
+    "icon": "/assets/images/items/itm_screw.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 66,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_pinkFence",
+        "name": "Pink Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_pinkFence.png"
+      },
+      {
+        "id": "itm_greenFence",
+        "name": "Green Fence",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_greenFence.png"
+      },
+      {
+        "id": "itm_shears_01",
+        "name": "Basic Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_01.png"
+      },
+      {
+        "id": "itm_shears_02",
+        "name": "Bronzenite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_02.png"
+      },
+      {
+        "id": "itm_shears_03",
+        "name": "Irontite Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_03.png"
+      },
+      {
+        "id": "itm_shears_04",
+        "name": "Adamaxium Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_shears_04.png"
+      },
+      {
+        "id": "itm_metalworking_kit_01",
+        "name": "Basic Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_01.png"
+      },
+      {
+        "id": "itm_metalworking_kit_02",
+        "name": "Improved Metalworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_metalworking_kit_02.png"
+      },
+      {
+        "id": "itm_fence",
+        "name": "Magnoot Fence",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fence.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_01",
+    "name": "Copperite Nail",
+    "icon": "/assets/images/items/itm_nail_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 17,
+    "speed_boost": 0,
+    "time": 13.25,
+    "xp": 83,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_01",
+        "name": "Copperite Ore",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalore_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodwork_kit_01",
+        "name": "Basic Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_01.png"
+      },
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_02",
+        "name": "Improved Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_02.png"
+      },
+      {
+        "id": "itm_woodbhouse_01",
+        "name": "Whittlewood Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_01",
+    "name": "Copperite Hardware",
+    "icon": "/assets/images/items/itm_hardware_01.png",
+    "tier": 1,
+    "level": 3,
+    "energy": 7,
+    "speed_boost": 0,
+    "time": 8,
+    "xp": 67,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_bucket_01",
+        "name": "Copper Bucket",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bucket_01.png"
+      },
+      {
+        "id": "itm_woodchest_01",
+        "name": "Small Whittlewood Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gearGrease",
+    "name": "Gear Grease",
+    "icon": "/assets/images/items/itm_gearGrease.png",
+    "tier": 1,
+    "level": 12,
+    "energy": 4,
+    "speed_boost": 0,
+    "time": 5,
+    "xp": 42,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_cow_dairyFat",
+        "name": "Dairy Fat",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+      },
+      {
+        "id": "itm_oil_whittlewoo",
+        "name": "Whittlewood Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_oil_whittlewoo.png"
+      },
+      {
+        "id": "itm_beeswax",
+        "name": "Wax",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_beeswax.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_01",
+        "name": "Copperite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_01.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_02",
+        "name": "Bronzenite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_02.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_03",
+        "name": "Irontite Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_03.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      },
+      {
+        "id": "itm_gear_04",
+        "name": "Adamaxium Gear",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_gear_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_01",
+    "name": "Copperite Gear",
+    "icon": "/assets/images/items/itm_gear_01.png",
+    "tier": 1,
+    "level": 16,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 89,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_01",
+        "name": "Copperite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_01.png"
+      },
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t1",
+        "name": "Metalworking T1",
+        "icon": "metalworking_t1"
+      },
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_01",
+        "name": "Copperite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_01.png"
+      },
+      {
+        "id": "itm_lamp_01",
+        "name": "Copperite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_01.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_02",
+    "name": "Bronzeite Hardware",
+    "icon": "/assets/images/items/itm_hardware_02.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 16,
+    "speed_boost": 0,
+    "time": 17,
+    "xp": 262,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_02",
+        "name": "Medium Craftbark Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      },
+      {
+        "id": "itm_woodbeam_02",
+        "name": "Craftbark Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_02",
+    "name": "Bronzenite Nail",
+    "icon": "/assets/images/items/itm_nail_02.png",
+    "tier": 2,
+    "level": 21,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 15.5,
+    "xp": 240,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_02",
+        "name": "Bronzenite Ore",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalore_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_alchemicForge01",
+        "name": "Grade I Alchemic Forge Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alchemicForge01.png"
+      },
+      {
+        "id": "itm_woodwork_kit_03",
+        "name": "Refined Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_03.png"
+      },
+      {
+        "id": "itm_woodbhouse_02",
+        "name": "Craftbark Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_02",
+    "name": "Bronzenite Gear",
+    "icon": "/assets/images/items/itm_gear_02.png",
+    "tier": 2,
+    "level": 36,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 401,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_woodoil_02",
+        "name": "Craftbark Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Metalworking T2",
+        "icon": "metalworking_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_fishing_rod_2",
+        "name": "Fish Finder Ten Thousand",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishing_rod_2.png"
+      },
+      {
+        "id": "itm_telescope_02",
+        "name": "Bronzenite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_02.png"
+      },
+      {
+        "id": "itm_lamp_02",
+        "name": "Bronzenite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_03",
+    "name": "Irontite Hardware",
+    "icon": "/assets/images/items/itm_hardware_03.png",
+    "tier": 3,
+    "level": 40,
+    "energy": 29,
+    "speed_boost": 0,
+    "time": 31,
+    "xp": 948,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      },
+      {
+        "id": "itm_woodbeam_03",
+        "name": "Sawstump Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_03",
+    "name": "Irontite Nail",
+    "icon": "/assets/images/items/itm_nail_03.png",
+    "tier": 3,
+    "level": 41,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 739,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_03",
+        "name": "Irontite Ore",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalore_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_03",
+        "name": "Large Sawstump Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_03.png"
+      },
+      {
+        "id": "itm_featherFastener",
+        "name": "Featherlight Fastener",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_featherFastener.png"
+      },
+      {
+        "id": "itm_woodwork_kit_04",
+        "name": "Elite Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_04.png"
+      },
+      {
+        "id": "itm_woodbhouse_03",
+        "name": "Sawstump Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_03",
+    "name": "Irontite Gear",
+    "icon": "/assets/images/items/itm_gear_03.png",
+    "tier": 3,
+    "level": 56,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 38.2,
+    "xp": 1144,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      },
+      {
+        "id": "itm_woodoil_03",
+        "name": "Sawstump Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Metalworking T3",
+        "icon": "metalworking_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_03",
+        "name": "Irontite Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_03.png"
+      },
+      {
+        "id": "itm_lamp_03",
+        "name": "Irontite Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hardware_04",
+    "name": "Adamaxium Hardware",
+    "icon": "/assets/images/items/itm_hardware_04.png",
+    "tier": 4,
+    "level": 60,
+    "energy": 39,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 2544,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      },
+      {
+        "id": "itm_woodbeam_04",
+        "name": "Borebranch Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbeam_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_nail_04",
+    "name": "Adamaxium Nail",
+    "icon": "/assets/images/items/itm_nail_04.png",
+    "tier": 4,
+    "level": 61,
+    "energy": 37,
+    "speed_boost": 0,
+    "time": 42,
+    "xp": 2408,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_metalore_04",
+        "name": "Adamaxium Ore",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalore_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woodchest_04",
+        "name": "Huge Borebranch Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodchest_04.png"
+      },
+      {
+        "id": "itm_woodwork_kit_05",
+        "name": "Master Woodworking Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodwork_kit_05.png"
+      },
+      {
+        "id": "itm_woodbhouse_04",
+        "name": "Borebranch Birdhouse",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodbhouse_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_gear_04",
+    "name": "Adamaxium Gear",
+    "icon": "/assets/images/items/itm_gear_04.png",
+    "tier": 4,
+    "level": 76,
+    "energy": 45,
+    "speed_boost": 0,
+    "time": 48,
+    "xp": 2848,
+    "xp_type": "metalworking",
+    "skill": "metalworking",
+    "output": 1,
+    "station": "Metalworking",
+    "ingredients": [
+      {
+        "id": "itm_gearGrease",
+        "name": "Gear Grease",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_gearGrease.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      },
+      {
+        "id": "itm_woodoil_04",
+        "name": "Borebranch Oil",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woodoil_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Metalworking T4",
+        "icon": "metalworking_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_telescope_04",
+        "name": "Adamaxium Telescope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_telescope_04.png"
+      },
+      {
+        "id": "itm_lamp_04",
+        "name": "Adamaxium Lamp",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lamp_04.png"
+      }
+    ]
+  }
+]

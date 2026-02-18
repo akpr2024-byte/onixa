@@ -1,0 +1,529 @@
+[
+  {
+    "id": "itm_offspring_pig",
+    "name": "Pig Offspring",
+    "icon": "/assets/images/items/itm_offspring_pig.png",
+    "tier": null,
+    "level": 18,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Pig",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_pig_mudCast",
+    "name": "Mud Cast",
+    "icon": "/assets/images/items/itm_pig_mudCast.png",
+    "tier": null,
+    "level": 18,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_dairyTemperedBrick",
+        "name": "Dairy Tempered Brick",
+        "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_pig_pigMilk",
+    "name": "Pig Milk",
+    "icon": "/assets/images/items/itm_pig_pigMilk.png",
+    "tier": null,
+    "level": 18,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 380,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Pig2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Pig3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+      },
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_miniBarrels.png"
+      },
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_pigmilkPutty",
+        "name": "Pigmilk Emulsified Putty",
+        "icon": "/assets/images/items/itm_pigmilkPutty.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_miniBarrels",
+        "name": "Miniature Milk Barrel Set",
+        "icon": "/assets/images/items/itm_miniBarrels.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_pig_truffles",
+    "name": "Truffles",
+    "icon": "/assets/images/items/itm_pig_truffles.png",
+    "tier": null,
+    "level": 18,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 150,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Pig2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Pig3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      },
+      {
+        "id": "itm_pondShrooms",
+        "name": "Pond Slime Seared Mushrooms",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondShrooms.png"
+      },
+      {
+        "id": "itm_60dayflower_land_seed",
+        "name": "Terra Flower Seeds",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_60dayflower_land_seed.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "icon": "/assets/images/items/itm_trufflePowder.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "icon": "/assets/images/items/itm_trufflePowder.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_60dayflower_land_seed",
+        "name": "Terra Flower Seeds",
+        "icon": "/assets/images/items/itm_60dayflower_land_seed.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_pondShrooms",
+        "name": "Pond Slime Seared Mushrooms",
+        "icon": "/assets/images/items/itm_pondShrooms.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_pig_veggieBacon",
+    "name": "Veggie Bacon",
+    "icon": "/assets/images/items/itm_pig_veggieBacon.png",
+    "tier": null,
+    "level": 18,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Pig2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Pig3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sizzledBacon.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_sizzledBacon",
+        "name": "Sizzled Veggie Bacon",
+        "icon": "/assets/images/items/itm_sizzledBacon.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_pig_wings",
+    "name": "Baby Pig Wings",
+    "icon": "/assets/images/items/itm_pig_wings.png",
+    "tier": null,
+    "level": 18,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Pig2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_honeyJava",
+        "name": "Honey-Glazed Hover-Java",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_honeyJava.png"
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_impossibleStew.png"
+      },
+      {
+        "id": "itm_honeyJava",
+        "name": "Honey-Glazed Hover-Java",
+        "icon": "/assets/images/items/itm_honeyJava.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "icon": "/assets/images/items/itm_impossibleStew.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 70,
+    "xp": 60,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Pig",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Pig1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Pig2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Pig3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Pig4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]

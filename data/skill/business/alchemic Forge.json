@@ -1,0 +1,266 @@
+[
+  {
+    "id": "itm_tempboost_speed_25",
+    "name": "Winery Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_25.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_hotato_hotka",
+        "name": "Hotka",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_28",
+    "name": "Mixed Speed Boost I",
+    "icon": "/assets/images/items/itm_tempboost_speed_28.png",
+    "tier": 2,
+    "level": 30,
+    "energy": 120,
+    "speed_boost": 0,
+    "time": 1200,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_lanolinFiber",
+        "name": "Lanolin-Softened Fiber",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_lanolinFiber.png"
+      },
+      {
+        "id": "itm_spicy_bbq_sauce",
+        "name": "Spicy BBQ Sauce",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Alchemic Forge T2",
+        "icon": "alchemic forge_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_26",
+    "name": "Winery Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_26.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_slothmato_schnapps",
+        "name": "Slothmato Schnapps",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
+      },
+      {
+        "id": "itm_napricot_toddy",
+        "name": "Napricot Toddy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_29",
+    "name": "Mixed Speed Boost II",
+    "icon": "/assets/images/items/itm_tempboost_speed_29.png",
+    "tier": 3,
+    "level": 50,
+    "energy": 140,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_featherwovenCloth",
+        "name": "Featherwoven Cloth",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+      },
+      {
+        "id": "itm_moist_salt_encrusted_popberry_skewers",
+        "name": "Moist Salt-Encrusted Popberry Skewers",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png"
+      },
+      {
+        "id": "itm_cubecumbergreenpigment",
+        "name": "Green Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumbergreenpigment.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Alchemic Forge T3",
+        "icon": "alchemic forge_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_27",
+    "name": "Winery Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_27.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_butterberry_butterbrew",
+        "name": "Butterbrew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
+      },
+      {
+        "id": "itm_cubecumber_encumber_wine",
+        "name": "Encumber Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_tempboost_speed_30",
+    "name": "Mixed Speed Boost III",
+    "icon": "/assets/images/items/itm_tempboost_speed_30.png",
+    "tier": 4,
+    "level": 85,
+    "energy": 180,
+    "speed_boost": 0,
+    "time": 1800,
+    "xp": 0,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Alchemic Forge",
+    "ingredients": [
+      {
+        "id": "itm_artisanPaintbrush",
+        "name": "Artisan Paint Brush",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+      },
+      {
+        "id": "itm_irontiteredpigment",
+        "name": "Red Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_irontiteredpigment.png"
+      },
+      {
+        "id": "itm_starry_butterberry_brisket",
+        "name": "Starry Butterberry Brisket",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_starry_butterberry_brisket.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t4",
+        "name": "Alchemic Forge T4",
+        "icon": "alchemic forge_t4"
+      }
+    ]
+  }
+]

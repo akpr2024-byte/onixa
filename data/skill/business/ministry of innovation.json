@@ -1,0 +1,392 @@
+[
+  {
+    "id": "itm_sushi_kit_01",
+    "name": "Basic Sushi Kit",
+    "icon": "/assets/images/items/itm_sushi_kit_01.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 200,
+    "speed_boost": 0,
+    "time": 600,
+    "xp": 1200,
+    "xp_type": "exploration",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_woodmould_01",
+        "name": "Whittlewood Mould",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodmould_01.png"
+      },
+      {
+        "id": "itm_screw",
+        "name": "Copperite Screw",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_screw.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 4,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sushi_kit_02",
+    "name": "Improved Sushi Kit",
+    "icon": "/assets/images/items/itm_sushi_kit_02.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 250,
+    "speed_boost": 0,
+    "time": 720,
+    "xp": 2000,
+    "xp_type": "exploration",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_sushi_kit_01",
+        "name": "Basic Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_01.png"
+      },
+      {
+        "id": "itm_woodmould_02",
+        "name": "Craftbark Mould",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_woodmould_02.png"
+      },
+      {
+        "id": "itm_brick_02",
+        "name": "Marbleite Brick",
+        "qty": 8,
+        "icon": "/assets/images/items/itm_brick_02.png"
+      },
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sushi_kit_03",
+    "name": "Refined Sushi Kit",
+    "icon": "/assets/images/items/itm_sushi_kit_03.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 300,
+    "speed_boost": 0,
+    "time": 1080,
+    "xp": 3500,
+    "xp_type": "exploration",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_sushi_kit_02",
+        "name": "Improved Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_02.png"
+      },
+      {
+        "id": "itm_brick_03",
+        "name": "Bedrock Brick",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_brick_03.png"
+      },
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      },
+      {
+        "id": "itm_woodmould_03",
+        "name": "Sawstump Mould",
+        "qty": 7,
+        "icon": "/assets/images/items/itm_woodmould_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_sushi_kit_04",
+        "name": "Elite Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_04.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_sushi_kit_04",
+    "name": "Elite Sushi Kit",
+    "icon": "/assets/images/items/itm_sushi_kit_04.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 450,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 4800,
+    "xp_type": "exploration",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_sushi_kit_03",
+        "name": "Refined Sushi Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sushi_kit_03.png"
+      },
+      {
+        "id": "itm_brick_04",
+        "name": "Claricite Brick",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_brick_04.png"
+      },
+      {
+        "id": "itm_metalbar_04",
+        "name": "Adamaxium Bar",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_metalbar_04.png"
+      },
+      {
+        "id": "itm_woodmould_04",
+        "name": "Borebranch Mould",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woodmould_04.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ]
+  },
+  {
+    "id": "itm_textilemillblueprints",
+    "name": "Textile Station Kit",
+    "icon": "/assets/images/items/itm_textilemillblueprints.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 55,
+    "speed_boost": 0,
+    "time": 45,
+    "xp": 1035,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_Glue",
+        "name": "Glue",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_Glue.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 20,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ]
+  },
+  {
+    "id": "itm_silkslughutchblueprints",
+    "name": "Basic Silk Slug Hutch Kit",
+    "icon": "/assets/images/items/itm_silkslughutchblueprints.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 100,
+    "speed_boost": 0,
+    "time": 1440,
+    "xp": 1000,
+    "xp_type": "Animal Care",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_woodplank_01",
+        "name": "Whittlewood Plank",
+        "qty": 32,
+        "icon": "/assets/images/items/itm_woodplank_01.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 16,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_brick_01",
+        "name": "Clayum Brick",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_brick_01.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 42,
+        "icon": "/assets/images/items/itm_plaster.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ]
+  },
+  {
+    "id": "itm_landbbqblueprints",
+    "name": "Barney's BBQ Kit",
+    "icon": "/assets/images/items/itm_landbbqblueprints.png",
+    "tier": 1,
+    "level": 1,
+    "energy": 600,
+    "speed_boost": 0,
+    "time": 480,
+    "xp": 1170,
+    "xp_type": "cooking",
+    "skill": "Business",
+    "output": 1,
+    "station": "Ministry Of Innovation",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_02",
+        "name": "Bronzenite Bar",
+        "qty": 48,
+        "icon": "/assets/images/items/itm_metalbar_02.png"
+      },
+      {
+        "id": "itm_woodbeam_01",
+        "name": "Whittlewood Beam",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_woodbeam_01.png"
+      },
+      {
+        "id": "itm_plaster",
+        "name": "Plaster",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_plaster.png"
+      },
+      {
+        "id": "itm_clover4LeafFruit",
+        "name": "4-Leaf Clover",
+        "qty": 50,
+        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+      },
+      {
+        "id": "itm_constructionPowder",
+        "name": "Construction Powder",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_constructionPowder.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "ministry_of_innovation",
+        "name": "Ministry Of Innovation",
+        "icon": "ministry_of_innovation"
+      }
+    ]
+  }
+]

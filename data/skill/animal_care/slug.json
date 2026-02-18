@@ -1,0 +1,805 @@
+[
+  {
+    "id": "itm_offspring_slug",
+    "name": "Slug Offspring",
+    "icon": "/assets/images/items/itm_offspring_slug.png",
+    "tier": null,
+    "level": 0,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 160,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Alpha_Slug",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_QueenSpider",
+    "name": "Queen Spider",
+    "icon": "/assets/images/items/itm_QueenSpider.png",
+    "tier": null,
+    "level": 0,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      },
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "icon": "/assets/images/items/itm_spiderShard.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_silkfiber",
+    "name": "Silk Fiber",
+    "icon": "/assets/images/items/itm_silkfiber.png",
+    "tier": null,
+    "level": 0,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 20,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Slug2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Slug3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_silkcloth.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "icon": "/assets/images/items/itm_woolenThread.png",
+        "qty": 150
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "icon": "/assets/images/items/itm_woolenThread.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "icon": "/assets/images/items/itm_organicPaste.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "icon": "/assets/images/items/itm_organicPaste.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "icon": "/assets/images/items/itm_silkcloth.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_silkcloth",
+        "name": "Silk Cloth",
+        "icon": "/assets/images/items/itm_silkcloth.png",
+        "qty": 120
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "icon": "/assets/images/items/itm_silkrope.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "icon": "/assets/images/items/itm_silkrope.png",
+        "qty": 180
+      }
+    ]
+  },
+  {
+    "id": "itm_silkslugslime",
+    "name": "Silk Slug Slime",
+    "icon": "/assets/images/items/itm_silkslugslime.png",
+    "tier": null,
+    "level": 0,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 50,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Slug2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Slug3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_Plastic.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mashPopberry.png"
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_mashPopberry.png"
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mashClover.png"
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_mashClover.png"
+      },
+      {
+        "id": "itm_woolslimeStorage",
+        "name": "Woolslime Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+      },
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "icon": "/assets/images/items/itm_tatobrownpigment.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_woolslimeStorage",
+        "name": "Woolslime Storage Chest",
+        "icon": "/assets/images/items/itm_woolslimeStorage.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_ochruxblackpigment",
+        "name": "Black Colorpot",
+        "icon": "/assets/images/items/itm_ochruxblackpigment.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "icon": "/assets/images/items/itm_squishyslime.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "icon": "/assets/images/items/itm_squishyslime.png",
+        "qty": 30
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_grainbow_grainshine",
+        "name": "Grainshine",
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mashPopberry",
+        "name": "Popberry Mash",
+        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "qty": 36
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "icon": "/assets/images/items/itm_grumpkinwine.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_grumpkinwine",
+        "name": "Blue Grumpkin Wine",
+        "icon": "/assets/images/items/itm_grumpkinwine.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_wintermint_whiskey",
+        "name": "Watermint Whiskey",
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "icon": "/assets/images/items/itm_mashClover.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_mashClover",
+        "name": "Clover Mash",
+        "icon": "/assets/images/items/itm_mashClover.png",
+        "qty": 48
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "icon": "/assets/images/items/itm_Plastic.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_Plastic",
+        "name": "Clearshell",
+        "icon": "/assets/images/items/itm_Plastic.png",
+        "qty": 48
+      }
+    ]
+  },
+  {
+    "id": "itm_silkslugspider",
+    "name": "Silk Slug Spider",
+    "icon": "/assets/images/items/itm_silkslugspider.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Slug2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_silkrope.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_squishyslime.png"
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_02.png"
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "icon": "/assets/images/items/itm_squishyslime.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_squishyslime",
+        "name": "Squishy Slime Mash",
+        "icon": "/assets/images/items/itm_squishyslime.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_duraAxe_02",
+        "name": "More Durable T2 Axe",
+        "icon": "/assets/images/items/itm_duraAxe_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "icon": "/assets/images/items/itm_silkrope.png",
+        "qty": 4
+      },
+      {
+        "id": "itm_silkrope",
+        "name": "Silk Rope",
+        "icon": "/assets/images/items/itm_silkrope.png",
+        "qty": 48
+      }
+    ]
+  },
+  {
+    "id": "itm_slug_shimmerSlime",
+    "name": "Shimmer Slime",
+    "icon": "/assets/images/items/itm_slug_shimmerSlime.png",
+    "tier": null,
+    "level": 0,
+    "energy": 14,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Slug2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Slug3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_stickySlimewood.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "icon": "/assets/images/items/itm_stickySlimewood.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_stickySlimewood",
+        "name": "Sticky Slimewood",
+        "icon": "/assets/images/items/itm_stickySlimewood.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 9,
+    "speed_boost": 0,
+    "time": 25,
+    "xp": 10,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Slug",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Slug1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Slug2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Slug3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Slug4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_apimix",
+        "name": "Apimix",
+        "icon": "/assets/images/items/itm_apimix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]

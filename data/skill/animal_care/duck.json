@@ -1,0 +1,499 @@
+[
+  {
+    "id": "itm_duck_egg",
+    "name": "Duck Egg",
+    "icon": "/assets/images/items/itm_duck_egg.png",
+    "tier": null,
+    "level": 40,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Duck1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Duck2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Duck3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Duck4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_saltSkewers",
+        "name": "Salt-Cured Yolk Skewer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_saltSkewers.png"
+      },
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fishermanGrill.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_saltSkewers",
+        "name": "Salt-Cured Yolk Skewer",
+        "icon": "/assets/images/items/itm_saltSkewers.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_fishermanGrill",
+        "name": "Fishermans Breakfast Grill",
+        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_duck_feather",
+    "name": "Duck Feather",
+    "icon": "/assets/images/items/itm_duck_feather.png",
+    "tier": null,
+    "level": 40,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Duck1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Duck2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Duck3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Duck4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_duckResin.png"
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "icon": "/assets/images/items/itm_duckResin.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_duckResin",
+        "name": "Duck Feather Resin",
+        "icon": "/assets/images/items/itm_duckResin.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_duck_pondSlime",
+    "name": "Pond Slime",
+    "icon": "/assets/images/items/itm_duck_pondSlime.png",
+    "tier": null,
+    "level": 40,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Duck1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Duck4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_caramelBaste.png"
+      },
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_caramelBaste.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "icon": "/assets/images/items/itm_caramelBaste.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_caramelBaste",
+        "name": "Caramelized Slime Imbued Baste",
+        "icon": "/assets/images/items/itm_caramelBaste.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "icon": "/assets/images/items/itm_pondMastic.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "icon": "/assets/images/items/itm_pondMastic.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_duck_waterweed",
+    "name": "Waterweed",
+    "icon": "/assets/images/items/itm_duck_waterweed.png",
+    "tier": null,
+    "level": 40,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Duck1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Duck4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_flameGreens",
+        "name": "Flame Seared Pond Greens",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_flameGreens.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMayo.png"
+      },
+      {
+        "id": "itm_waterweedStorage",
+        "name": "Waterweed Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_waterweedStorage.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_flameGreens",
+        "name": "Flame Seared Pond Greens",
+        "icon": "/assets/images/items/itm_flameGreens.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_pondMayo",
+        "name": "Pond-Reed Mayo",
+        "icon": "/assets/images/items/itm_pondMayo.png",
+        "qty": 6
+      },
+      {
+        "id": "itm_waterweedStorage",
+        "name": "Waterweed Storage Chest",
+        "icon": "/assets/images/items/itm_waterweedStorage.png",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "itm_offspring_duck",
+    "name": "Duck Offspring",
+    "icon": "/assets/images/items/itm_offspring_duck.png",
+    "tier": null,
+    "level": 40,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 100,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Alpha_Duck",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 40,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 180,
+    "xp": 100,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Duck",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Duck1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Duck2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Duck3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Duck4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "icon": "/assets/images/items/itm_algamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]

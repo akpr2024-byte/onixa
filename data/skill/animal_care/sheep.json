@@ -1,0 +1,649 @@
+[
+  {
+    "id": "itm_offspring_sheep",
+    "name": "Sheep Offspring",
+    "icon": "/assets/images/items/itm_offspring_sheep.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 350,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Alpha_Sheep",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_sheep_babyWoolPuff",
+    "name": "Fine Baby Wool Puff",
+    "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png",
+    "tier": null,
+    "level": 0,
+    "energy": 24,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Sheep2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_softPackingKit.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_baadownInsulation.png"
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraPick_03.png"
+      },
+      {
+        "id": "itm_softPackingKit",
+        "name": "Soft Packing Kit",
+        "icon": "/assets/images/items/itm_softPackingKit.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "icon": "/assets/images/items/itm_baadownInsulation.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_baadownInsulation",
+        "name": "Baadown Insulation",
+        "icon": "/assets/images/items/itm_baadownInsulation.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_duraPick_03",
+        "name": "More Durable T3 Pickaxe",
+        "icon": "/assets/images/items/itm_duraPick_03.png",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "itm_sheep_hoofDust",
+    "name": "Mini Hoof Dust",
+    "icon": "/assets/images/items/itm_sheep_hoofDust.png",
+    "tier": null,
+    "level": 0,
+    "energy": 33,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_03.png"
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fineGritPowder.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_rainbowPlank.png"
+      },
+      {
+        "id": "itm_duraShears_03",
+        "name": "More Durable T3 Shears",
+        "icon": "/assets/images/items/itm_duraShears_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_fineGritPowder",
+        "name": "Fine Grit Polishing Powder",
+        "icon": "/assets/images/items/itm_fineGritPowder.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "icon": "/assets/images/items/itm_rainbowPlank.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_rainbowPlank",
+        "name": "Rainbow Planks",
+        "icon": "/assets/images/items/itm_rainbowPlank.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_sheep_knottedWool",
+    "name": "Knotted Wool",
+    "icon": "/assets/images/items/itm_sheep_knottedWool.png",
+    "tier": null,
+    "level": 0,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Sheep2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Sheep3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_woolTimber.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "icon": "/assets/images/items/itm_woolTimber.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_woolTimber",
+        "name": "Wool-Bound Timber",
+        "icon": "/assets/images/items/itm_woolTimber.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_sturdyWoolRope",
+        "name": "Sturdy Wool Rope",
+        "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_sheep_lanolinOil",
+    "name": "Lanolin Oil",
+    "icon": "/assets/images/items/itm_sheep_lanolinOil.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 180,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Sheep2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Sheep3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinBaste.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_lanolinRub.png"
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "icon": "/assets/images/items/itm_lanolinRub.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_lanolinRub",
+        "name": "Lanolin Polishing Rub",
+        "icon": "/assets/images/items/itm_lanolinRub.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "icon": "/assets/images/items/itm_lanolinBaste.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_lanolinBaste",
+        "name": "Lanolin Oil Grill-Baste",
+        "icon": "/assets/images/items/itm_lanolinBaste.png",
+        "qty": 18
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 60,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Sheep2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Sheep3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_woolyweedFruit",
+    "name": "Wool Wad",
+    "icon": "/assets/images/items/itm_woolyweedFruit.png",
+    "tier": null,
+    "level": 0,
+    "energy": 19,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 120,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Sheep",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Sheep1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Sheep2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Sheep3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Sheep4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_choco_sauce",
+        "name": "Choco Sauce",
+        "icon": "/assets/images/items/itm_choco_sauce.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolenThread.png"
+      },
+      {
+        "id": "itm_toyteddy_01",
+        "name": "Toy Teddy",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_toyteddy_01.png"
+      },
+      {
+        "id": "itm_woolslimeStorage",
+        "name": "Woolslime Storage Chest",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+      },
+      {
+        "id": "itm_toyteddy_01",
+        "name": "Toy Teddy",
+        "icon": "/assets/images/items/itm_toyteddy_01.png",
+        "qty": 9
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "icon": "/assets/images/items/itm_woolenThread.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_woolenThread",
+        "name": "Woolen Thread",
+        "icon": "/assets/images/items/itm_woolenThread.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_woolslimeStorage",
+        "name": "Woolslime Storage Chest",
+        "icon": "/assets/images/items/itm_woolslimeStorage.png",
+        "qty": 5
+      }
+    ]
+  }
+]

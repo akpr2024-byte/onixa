@@ -1,0 +1,690 @@
+[
+  {
+    "id": "itm_hay",
+    "name": "MooMunch",
+    "icon": "/assets/images/items/itm_hay.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 10,
+    "speed_boost": 0,
+    "time": 0.5,
+    "xp": 10,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_algamix.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_hay",
+    "name": "MooMunch",
+    "icon": "/assets/images/items/itm_hay.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 160,
+    "speed_boost": 0,
+    "time": 10,
+    "xp": 120,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 12,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      },
+      {
+        "id": "itm_popberryFruit",
+        "name": "Popberry",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_popberryFruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_algamix",
+        "name": "Algamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_algamix.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_coffeepod",
+    "name": "Insta-Java Packet",
+    "icon": "/assets/images/items/itm_coffeepod.png",
+    "tier": 2,
+    "level": 32,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 3,
+    "xp": 28,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_coffeefruit",
+        "name": "Java Berry",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_coffeefruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_coffeepod",
+    "name": "Insta-Java Packet",
+    "icon": "/assets/images/items/itm_coffeepod.png",
+    "tier": 2,
+    "level": 38,
+    "energy": 69,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 185,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_coffeefruit",
+        "name": "Java Berry",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_coffeefruit.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tatobrownpigment",
+        "name": "Brown Colorpot",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatobrownpigment.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_flour",
+    "name": "Grainbow Flour",
+    "icon": "/assets/images/items/itm_flour.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 65,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_bluecottoncandypie",
+        "name": "Blue Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bluecottoncandypie.png"
+      },
+      {
+        "id": "itm_pinkcottoncandypie",
+        "name": "Pink Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pinkcottoncandypie.png"
+      },
+      {
+        "id": "itm_mixedcottoncandypie",
+        "name": "Mixed Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mixedcottoncandypie.png"
+      },
+      {
+        "id": "itm_popberryLoaf",
+        "name": "Popberry Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberryLoaf.png"
+      },
+      {
+        "id": "itm_grainbowtart",
+        "name": "Grainbow Tart",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbowtart.png"
+      },
+      {
+        "id": "itm_scarrotcake",
+        "name": "Slice of Scarrot Cake",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotcake.png"
+      },
+      {
+        "id": "itm_butterberrypie",
+        "name": "Butterberry Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_butterberrypie.png"
+      },
+      {
+        "id": "itm_scarrotPie",
+        "name": "Scarrot Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotPie.png"
+      },
+      {
+        "id": "itm_slothmatopizza",
+        "name": "Slice of Slothmato Pizza",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmatopizza.png"
+      },
+      {
+        "id": "itm_cubecumberloaf",
+        "name": "Cubecumber Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumberloaf.png"
+      },
+      {
+        "id": "itm_scarrotLoaf",
+        "name": "Scarrot Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+      },
+      {
+        "id": "itm_scarrotStrgnff",
+        "name": "Scarrot Stroganoff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+      },
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_buttermilkDough.png"
+      },
+      {
+        "id": "itm_meadowMilkBread",
+        "name": "Meadow Milk Grilled Bread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+      },
+      {
+        "id": "itm_meadowMilkBread",
+        "name": "Meadow Milk Grilled Bread",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+      },
+      {
+        "id": "itm_kikosPancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kikosPancakes.png"
+      },
+      {
+        "id": "itm_grumpkinLoaf",
+        "name": "Blue Grumpkin Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_petfood.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Shrapnel",
+    "name": "Shrapnel",
+    "icon": "/assets/images/items/itm_Shrapnel.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 65,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_Shrapnel",
+    "name": "Shrapnel",
+    "icon": "/assets/images/items/itm_Shrapnel.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 194,
+    "speed_boost": 0,
+    "time": 106,
+    "xp": 780,
+    "xp_type": "business",
+    "skill": "Farming",
+    "output": 12,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_metalbar_03",
+        "name": "Irontite Bar",
+        "qty": 24,
+        "icon": "/assets/images/items/itm_metalbar_03.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spiderShard",
+        "name": "Spiderbound Shard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spiderShard.png"
+      },
+      {
+        "id": "itm_Bomb_Shell",
+        "name": "Bomb Shell",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamProtein",
+    "name": "Seltsam Egg Protein",
+    "icon": "/assets/images/items/itm_seltsamProtein.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 6,
+    "xp": 94,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_seltsamEgg",
+        "name": "Seltsam Egg",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_seltsamEgg.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_seltsamCustard",
+        "name": "Seltsam Egg Grilled Custard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCustard.png"
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_impossibleStew.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamProtein",
+    "name": "Seltsam Egg Protein",
+    "icon": "/assets/images/items/itm_seltsamProtein.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 35,
+    "speed_boost": 0,
+    "time": 41.4,
+    "xp": 620,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_seltsamEgg",
+        "name": "Seltsam Egg",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_seltsamEgg.png"
+      },
+      {
+        "id": "itm_grindstone_01",
+        "name": "Clayum Grinding Stone",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grindstone_01.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_seltsamOmelet",
+        "name": "Seltsam Omelet",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+      },
+      {
+        "id": "itm_seltsamCustard",
+        "name": "Seltsam Egg Grilled Custard",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCustard.png"
+      },
+      {
+        "id": "itm_impossibleStew",
+        "name": "Impossible Stew",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_impossibleStew.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      },
+      {
+        "id": "itm_seltsamCatalyst",
+        "name": "Seltsam Catalyst",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_4_leaf_cloveregano",
+    "name": "4-Leaf Cloveregano",
+    "icon": "/assets/images/items/itm_4_leaf_cloveregano.png",
+    "tier": 1,
+    "level": 15,
+    "energy": 12,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 290,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_clover4LeafFruit",
+        "name": "4-Leaf Clover",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+      },
+      {
+        "id": "itm_eggsplosive",
+        "name": "Eggsplosive",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_eggsplosive.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_herbPotatoes",
+        "name": "Herb-Buttermilk Grilled Tatos",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_herbPotatoes.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      },
+      {
+        "id": "itm_starry_maple_glazed_popberry_slabs",
+        "name": "Starry Maple-Glazed Popberry Slabs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_maple_glazed_popberry_slabs.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_4_leaf_cloveregano",
+    "name": "4-Leaf Cloveregano",
+    "icon": "/assets/images/items/itm_4_leaf_cloveregano.png",
+    "tier": 2,
+    "level": 20,
+    "energy": 90,
+    "speed_boost": 0,
+    "time": 200,
+    "xp": 1900,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_clover4LeafFruit",
+        "name": "4-Leaf Clover",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+      },
+      {
+        "id": "itm_eggsplosive",
+        "name": "Eggsplosive",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_eggsplosive.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_herbPotatoes",
+        "name": "Herb-Buttermilk Grilled Tatos",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_herbPotatoes.png"
+      },
+      {
+        "id": "itm_traditional_bbq_sauce",
+        "name": "Traditional BBQ Sauce",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
+      },
+      {
+        "id": "itm_starry_maple_glazed_popberry_slabs",
+        "name": "Starry Maple-Glazed Popberry Slabs",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_starry_maple_glazed_popberry_slabs.png"
+      }
+    ]
+  }
+]

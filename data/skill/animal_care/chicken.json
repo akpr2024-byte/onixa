@@ -1,0 +1,697 @@
+[
+  {
+    "id": "itm_chicken_spaceEgg",
+    "name": "Space Egg",
+    "icon": "/assets/images/items/itm_chicken_spaceEgg.png",
+    "tier": null,
+    "level": null,
+    "energy": 18,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": null,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 0
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spaceBatter.png"
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_spaceBatter.png"
+      },
+      {
+        "id": "itm_60dayflower_space_seed",
+        "name": "Astra Flower Seeds",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_60dayflower_space_seed.png"
+      },
+      {
+        "id": "itm_hotatoseed",
+        "name": "Hotato Seeds",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hotatoseed.png"
+      },
+      {
+        "id": "itm_60dayflower_space_seed",
+        "name": "Astra Flower Seeds",
+        "icon": "/assets/images/items/itm_60dayflower_space_seed.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_hotatoseed",
+        "name": "Hotato Seeds",
+        "icon": "/assets/images/items/itm_hotatoseed.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_egg",
+    "name": "Egg",
+    "icon": "/assets/images/items/itm_egg.png",
+    "tier": null,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 15,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Chicken",
+        "chance": null
+      },
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Chicken1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Chicken2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Chicken3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_fireBlessing",
+        "name": "Fire Blessing",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fireBlessing.png"
+      },
+      {
+        "id": "itm_slothmatopizza",
+        "name": "Slice of Slothmato Pizza",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmatopizza.png"
+      },
+      {
+        "id": "itm_cubecumberloaf",
+        "name": "Cubecumber Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumberloaf.png"
+      },
+      {
+        "id": "itm_scarrotLoaf",
+        "name": "Scarrot Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+      },
+      {
+        "id": "itm_whipped_cream",
+        "name": "Whipped Cream",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_whipped_cream.png"
+      },
+      {
+        "id": "itm_kikosPancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kikosPancakes.png"
+      },
+      {
+        "id": "itm_grumpkinLoaf",
+        "name": "Blue Grumpkin Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "icon": "/assets/images/items/itm_petfood.png",
+        "qty": 15
+      },
+      {
+        "id": "itm_slothmatopizza",
+        "name": "Slice of Slothmato Pizza",
+        "icon": "/assets/images/items/itm_slothmatopizza.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_cubecumberloaf",
+        "name": "Cubecumber Loaf",
+        "icon": "/assets/images/items/itm_cubecumberloaf.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_scarrotLoaf",
+        "name": "Scarrot Loaf",
+        "icon": "/assets/images/items/itm_scarrotLoaf.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_fireBlessing",
+        "name": "Fire Blessing",
+        "icon": "/assets/images/items/itm_fireBlessing.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_whipped_cream",
+        "name": "Whipped Cream",
+        "icon": "/assets/images/items/itm_whipped_cream.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_kikosPancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "icon": "/assets/images/items/itm_kikosPancakes.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_grumpkinLoaf",
+        "name": "Blue Grumpkin Loaf",
+        "icon": "/assets/images/items/itm_grumpkinLoaf.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_slthmatoAlfred",
+        "name": "Slothmato Alfredo",
+        "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "id": "itm_eggsplosive",
+    "name": "Eggsplosive",
+    "icon": "/assets/images/items/itm_eggsplosive.png",
+    "tier": null,
+    "level": null,
+    "energy": 11,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": null,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Chicken2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 0
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png"
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_volatileyolkcompound",
+        "name": "Volatile Yolk Compound",
+        "icon": "/assets/images/items/itm_volatileyolkcompound.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_4_leaf_cloveregano",
+        "name": "4-Leaf Cloveregano",
+        "icon": "/assets/images/items/itm_4_leaf_cloveregano.png",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "id": "itm_goldenEgg",
+    "name": "Golden Egg",
+    "icon": "/assets/images/items/itm_goldenEgg.png",
+    "tier": null,
+    "level": null,
+    "energy": 11,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": null,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Chicken3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 0
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_goldenCharre",
+        "name": "Golden Ember Charré",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_goldenCharre.png"
+      },
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_buttermilkDough.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mulch.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mulch.png"
+      },
+      {
+        "id": "itm_goldenCharre",
+        "name": "Golden Ember Charré",
+        "icon": "/assets/images/items/itm_goldenCharre.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "icon": "/assets/images/items/itm_mulch.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "icon": "/assets/images/items/itm_mulch.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_buttermilkDough",
+        "name": "Buttermilk Dough",
+        "icon": "/assets/images/items/itm_buttermilkDough.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_offspring_chicken",
+    "name": "Chicken Offspring",
+    "icon": "/assets/images/items/itm_offspring_chicken.png",
+    "tier": null,
+    "level": null,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 100,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Chicken",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "itm_seltsamEgg",
+    "name": "Seltsam Egg",
+    "icon": "/assets/images/items/itm_seltsamEgg.png",
+    "tier": null,
+    "level": null,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": null,
+    "xp": 45,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Chicken1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Chicken2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Chicken3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tatoscramble",
+        "name": "Tato Scramble",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tatoscramble.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_seltsamProtein.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_pondMastic.png"
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "icon": "/assets/images/items/itm_seltsamProtein.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_seltsamProtein",
+        "name": "Seltsam Egg Protein",
+        "icon": "/assets/images/items/itm_seltsamProtein.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "icon": "/assets/images/items/itm_pondMastic.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_pondMastic",
+        "name": "Pondslime Stone Mastic",
+        "icon": "/assets/images/items/itm_pondMastic.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_tatoscramble",
+        "name": "Tato Scramble",
+        "icon": "/assets/images/items/itm_tatoscramble.png",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 18,
+    "xp": 5,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Chicken",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Chicken",
+        "chance": null
+      },
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Chicken1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Chicken2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Chicken3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Chicken4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]

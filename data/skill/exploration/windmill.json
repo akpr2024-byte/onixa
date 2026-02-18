@@ -1,0 +1,102 @@
+[
+  {
+    "id": "itm_grice",
+    "name": "Grice",
+    "icon": "/assets/images/items/itm_grice.png",
+    "tier": 1,
+    "level": 5,
+    "energy": 34.5,
+    "speed_boost": 0,
+    "time": 20.7,
+    "xp": 132,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 6,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_grice",
+    "name": "Grice",
+    "icon": "/assets/images/items/itm_grice.png",
+    "tier": 1,
+    "level": 0,
+    "energy": 5,
+    "speed_boost": 0,
+    "time": 3,
+    "xp": 20,
+    "xp_type": "exploration",
+    "skill": "Exploration",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_farmamix.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      },
+      {
+        "id": "itm_fluffgrice",
+        "name": "Fluffgrice",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fluffgrice.png"
+      }
+    ]
+  }
+]

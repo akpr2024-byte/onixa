@@ -1,0 +1,384 @@
+[
+  {
+    "id": "itm_mulch",
+    "name": "Mulch",
+    "icon": "/assets/images/items/itm_mulch.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 13,
+    "speed_boost": 0,
+    "time": 15,
+    "xp": 233,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_cloverFruit",
+        "name": "Clover",
+        "qty": 5,
+        "icon": "/assets/images/items/itm_cloverFruit.png"
+      },
+      {
+        "id": "itm_goldenEgg",
+        "name": "Golden Egg",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_goldenEgg.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Recycler T2",
+        "icon": "recycler_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_mortarBox",
+        "name": "Mortared Planter Box",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mortarBox.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_mulch",
+    "name": "Mulch",
+    "icon": "/assets/images/items/itm_mulch.png",
+    "tier": 2,
+    "level": 22,
+    "energy": 90,
+    "speed_boost": 0,
+    "time": 103.5,
+    "xp": 1538,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_cloverFruit",
+        "name": "Clover",
+        "qty": 30,
+        "icon": "/assets/images/items/itm_cloverFruit.png"
+      },
+      {
+        "id": "itm_goldenEgg",
+        "name": "Golden Egg",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_goldenEgg.png"
+      },
+      {
+        "id": "itm_trufflePowder",
+        "name": "Truffle Powder",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_trufflePowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Recycler T2",
+        "icon": "recycler_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_mortarBox",
+        "name": "Mortared Planter Box",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mortarBox.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_betterFertilizer",
+    "name": "Better Fertilizer",
+    "icon": "/assets/images/items/itm_betterFertilizer.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 30,
+    "xp": 570,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_goat_goatFur",
+        "name": "Shedded Goat Fur",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_goat_goatFur.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mulch.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Recycler T2",
+        "icon": "recycler_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_betterFertilizer",
+    "name": "Better Fertilizer",
+    "icon": "/assets/images/items/itm_betterFertilizer.png",
+    "tier": 2,
+    "level": 28,
+    "energy": 186,
+    "speed_boost": 0,
+    "time": 207,
+    "xp": 3762,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_goat_goatFur",
+        "name": "Shedded Goat Fur",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_goat_goatFur.png"
+      },
+      {
+        "id": "itm_mulch",
+        "name": "Mulch",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mulch.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t2",
+        "name": "Recycler T2",
+        "icon": "recycler_t2"
+      },
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      },
+      {
+        "id": "itm_evenBtrFert",
+        "name": "Even Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_evenBtrFert.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_evenBtrFert",
+    "name": "Even Better Fertilizer",
+    "icon": "/assets/images/items/itm_evenBtrFert.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 52,
+    "speed_boost": 0,
+    "time": 60,
+    "xp": 2190,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 1,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 18,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_turkey_colorfulFeather",
+        "name": "Colorful Feather",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 2,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ]
+  },
+  {
+    "id": "itm_evenBtrFert",
+    "name": "Even Better Fertilizer",
+    "icon": "/assets/images/items/itm_evenBtrFert.png",
+    "tier": 3,
+    "level": 55,
+    "energy": 359,
+    "speed_boost": 0,
+    "time": 414,
+    "xp": 14454,
+    "xp_type": "farming",
+    "skill": "Farming",
+    "output": 6,
+    "station": "Recycler",
+    "ingredients": [
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_cubecumber",
+        "name": "Cubecumber",
+        "qty": 108,
+        "icon": "/assets/images/items/itm_cubecumber.png"
+      },
+      {
+        "id": "itm_turkey_colorfulFeather",
+        "name": "Colorful Feather",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+      },
+      {
+        "id": "itm_sheep_hoofDust",
+        "name": "Mini Hoof Dust",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "stage": "t3",
+        "name": "Recycler T3",
+        "icon": "recycler_t3"
+      },
+      {
+        "stage": "t4",
+        "name": "Recycler T4",
+        "icon": "recycler_t4"
+      }
+    ]
+  }
+]

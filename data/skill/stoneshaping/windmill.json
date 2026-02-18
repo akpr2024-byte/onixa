@@ -1,0 +1,38 @@
+[
+  {
+    "id": "itm_limestone_paving_stones",
+    "name": "Paving Stones, Limestone",
+    "icon": "/assets/images/items/itm_limestone_paving_stones.png",
+    "tier": 1,
+    "level": 10,
+    "energy": 27,
+    "speed_boost": 0,
+    "time": 21,
+    "xp": 149,
+    "xp_type": "stoneshaping",
+    "skill": "Stoneshaping",
+    "output": 1,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_roughstone_02",
+        "name": "Marbleite Matrix",
+        "qty": 36,
+        "icon": "/assets/images/items/itm_roughstone_02.png"
+      },
+      {
+        "id": "itm_craftingPowder",
+        "name": "Crafting Mix",
+        "qty": 3,
+        "icon": "/assets/images/items/itm_craftingPowder.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "windmill"
+      }
+    ]
+  }
+]

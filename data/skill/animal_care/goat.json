@@ -1,0 +1,584 @@
+[
+  {
+    "id": "itm_goat_goatFur",
+    "name": "Shedded Goat Fur",
+    "icon": "/assets/images/items/itm_goat_goatFur.png",
+    "tier": null,
+    "level": 25,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 300,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Goat2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Goat3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_alpineRug.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraShears_02.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_betterFertilizer.png"
+      },
+      {
+        "id": "itm_duraShears_02",
+        "name": "More Durable T2 Shears",
+        "icon": "/assets/images/items/itm_duraShears_02.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "icon": "/assets/images/items/itm_betterFertilizer.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_betterFertilizer",
+        "name": "Better Fertilizer",
+        "icon": "/assets/images/items/itm_betterFertilizer.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_alpineRug",
+        "name": "Alpine Rug",
+        "icon": "/assets/images/items/itm_alpineRug.png",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "id": "itm_goat_goatMilk",
+    "name": "Goat Milk",
+    "icon": "/assets/images/items/itm_goat_goatMilk.png",
+    "tier": null,
+    "level": 25,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 600,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Goat2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Goat3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_spaceBatter.png"
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_spaceBatter.png"
+      },
+      {
+        "id": "itm_goatFondue",
+        "name": "Goat Milk Grill-Fondue",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_goatFondue.png"
+      },
+      {
+        "id": "itm_goatFondue",
+        "name": "Goat Milk Grill-Fondue",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_goatFondue.png"
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_spaceBatter",
+        "name": "Space-Egg Aerated Batter",
+        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_goatFondue",
+        "name": "Goat Milk Grill-Fondue",
+        "icon": "/assets/images/items/itm_goatFondue.png",
+        "qty": 1
+      },
+      {
+        "id": "itm_goatFondue",
+        "name": "Goat Milk Grill-Fondue",
+        "icon": "/assets/images/items/itm_goatFondue.png",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "id": "itm_goat_hornFlakes",
+    "name": "Tiny Horn Flakes",
+    "icon": "/assets/images/items/itm_goat_hornFlakes.png",
+    "tier": null,
+    "level": 25,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+      },
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_03.png"
+      },
+      {
+        "id": "itm_hornChimes",
+        "name": "Horn-Flake Chimes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_hornChimes.png"
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_hornAbrasivePowder",
+        "name": "Horn-Flake Abrasive Powder",
+        "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+        "qty": 12
+      },
+      {
+        "id": "itm_duraAxe_03",
+        "name": "More Durable T3 Axe",
+        "icon": "/assets/images/items/itm_duraAxe_03.png",
+        "qty": 2
+      },
+      {
+        "id": "itm_hornChimes",
+        "name": "Horn-Flake Chimes",
+        "icon": "/assets/images/items/itm_hornChimes.png",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "id": "itm_goat_mohair",
+    "name": "Goat Mohair",
+    "icon": "/assets/images/items/itm_goat_mohair.png",
+    "tier": null,
+    "level": 25,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Goat2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Goat3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_mohairSpool.png"
+      },
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_duraAxe_04.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png",
+        "qty": 5
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "icon": "/assets/images/items/itm_mohairSpool.png",
+        "qty": 3
+      },
+      {
+        "id": "itm_mohairSpool",
+        "name": "Mohair Thread Spool",
+        "icon": "/assets/images/items/itm_mohairSpool.png",
+        "qty": 18
+      },
+      {
+        "id": "itm_duraAxe_04",
+        "name": "More Durable T4 Axe",
+        "icon": "/assets/images/items/itm_duraAxe_04.png",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "id": "itm_goat_sunHorn",
+    "name": "Sunbaked Horn Tip",
+    "icon": "/assets/images/items/itm_goat_sunHorn.png",
+    "tier": null,
+    "level": 25,
+    "energy": 0,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png",
+        "qty": 10
+      },
+      {
+        "id": "itm_sunhornFrameBeam",
+        "name": "Sunhorn Frame Beam",
+        "icon": "/assets/images/items/itm_sunhornFrameBeam.png",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "itm_offspring_goat",
+    "name": "Goat Offspring",
+    "icon": "/assets/images/items/itm_offspring_goat.png",
+    "tier": null,
+    "level": 25,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 0,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "alpha",
+        "icon": "CC_Alpha_Goat",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ]
+  },
+  {
+    "id": "itm_turd",
+    "name": "Animal Turd",
+    "icon": "/assets/images/items/itm_turd.png",
+    "tier": null,
+    "level": 25,
+    "energy": 22,
+    "speed_boost": 0,
+    "time": 90,
+    "xp": 50,
+    "xp_type": "animal_care",
+    "skill": "Animal_care",
+    "station": "Goat",
+    "drops_from": [
+      {
+        "stage": "baby-i",
+        "icon": "CC_Baby_Goat1",
+        "chance": null
+      },
+      {
+        "stage": "baby-ii",
+        "icon": "CC_Baby_Goat2",
+        "chance": null
+      },
+      {
+        "stage": "baby-iii",
+        "icon": "CC_Baby_Goat3",
+        "chance": null
+      },
+      {
+        "stage": "baby-iv",
+        "icon": "CC_Baby_Goat4",
+        "chance": null
+      }
+    ],
+    "yield_boost": 0,
+    "avg cost per x1": null,
+    "You get it using this tool": [
+      {
+        "id": "itm_farmamix",
+        "name": "Farmamix",
+        "icon": "/assets/images/items/itm_farmamix.png",
+        "qty": 1,
+        "cost per x1": null
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_tempboost_yield_10",
+        "name": "Animal Care Yield Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_10.png"
+      },
+      {
+        "id": "itm_tempboost_yield_11",
+        "name": "Animal Care Yield Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_11.png"
+      },
+      {
+        "id": "itm_tempboost_yield_12",
+        "name": "Animal Care Yield Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_yield_12.png"
+      },
+      {
+        "id": "itm_tempboost_speed_13",
+        "name": "Animal Care Speed Boost I",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_13.png"
+      },
+      {
+        "id": "itm_tempboost_speed_14",
+        "name": "Animal Care Speed Boost II",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_14.png"
+      },
+      {
+        "id": "itm_tempboost_speed_15",
+        "name": "Animal Care Speed Boost III",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_tempboost_speed_15.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_organicPaste",
+        "name": "Organic Paste",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_organicPaste.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      },
+      {
+        "id": "itm_fertilizer",
+        "name": "Fertilizer",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_fertilizer.png"
+      }
+    ]
+  }
+]
