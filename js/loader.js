@@ -128,41 +128,21 @@ function injectAuthModal() {
       <h2 class="auth-title">Coming soon</h2>
 
       <button class="auth-btn google">
-        
         Connect Pixel Account
       </button>
 
       <button class="auth-btn apple">
-        
         Install Extension
       </button>
 
       <button class="auth-btn email">
-        
         Sign up with Email
       </button>
-
-      <div class="auth-divider">
-        <span></span><small>or</small><span></span>
-      </div>
-
-      <button class="auth-btn wallet">
-        Continue with Wallet
-      </button>
-
-      <div class="auth-footer">
-        Already have an account?
-        <a href="#">Sign in</a>
-      </div>
-
-      <p class="auth-terms">
-        By continuing, you agree to our
-        <a href="#">Terms</a> and <a href="#">Privacy Policy</a>
-      </p>
 
     </div>
   </div>
   `;
+
   document.body.insertAdjacentHTML("beforeend", html);
 }
 
@@ -508,19 +488,28 @@ document.addEventListener("keydown", (e) => {
 window.SKILL_PROMISES ||= {};
 
 async function getSkillData(skill) {
-  if (window.SKILL_DATA[skill]) {
-    return window.SKILL_DATA[skill];
+  const cacheKey = "SKILL_CACHE_" + skill;
+
+  // 1️⃣ اول از localStorage بخون
+  const cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    try {
+      const parsed = JSON.parse(cached);
+      window.SKILL_DATA[skill] = parsed;
+      return parsed;
+    } catch {}
   }
 
-  if (!window.SKILL_PROMISES[skill]) {
-    window.SKILL_PROMISES[skill] = fetch(`/data/skill/${skill}/${skill}.json`)
-      .then((r) => (r.ok ? r.json() : []))
-      .then((data) => {
-        window.SKILL_DATA[skill] = data;
-        return data;
-      })
-      .catch(() => []);
-  }
+  // 2️⃣ اگر نبود fetch کن
+  const res = await fetch(`/data/skill/${skill}/${skill}.json`);
+  const data = res.ok ? await res.json() : [];
 
-  return window.SKILL_PROMISES[skill];
+  window.SKILL_DATA[skill] = data;
+
+  // 3️⃣ ذخیره کن
+  localStorage.setItem(cacheKey, JSON.stringify(data));
+
+  return data;
 }
+
+const jsonCache = {};
