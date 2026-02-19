@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta name="description" content="Pixel Market Data" />
-    <meta name="theme-color" content="#0f0f14" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>OnixA</title>
     <meta charset="UTF-8" />
@@ -20,6 +18,21 @@
       property="og:description"
       content="Advanced game market & crafting tool"
     />
+
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="
+default-src 'self';
+script-src 'self';
+style-src 'self' 'unsafe-inline';
+img-src 'self' data: https:;
+connect-src 'self' https://script.google.com https://script.googleusercontent.com;
+font-src 'self';
+object-src 'none';
+base-uri 'self';
+"
+    />
+
     <meta property="og:image" content="https://yourdomain.com/preview.png" />
   </head>
 

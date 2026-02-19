@@ -511,7 +511,7 @@ function fillIngredientsTable(item) {
 
     tr.innerHTML = `
       <td class="item-cell clickable"
-          onclick="openItemPopupById('${ing.id}')">
+      data-item-id="${ing.id}">
         <img src="${getIcon("item", ing.id)}" loading="lazy" decoding="async">
         <span>${ing.name}</span>
       </td>
@@ -574,7 +574,8 @@ function fillUsedInTable(item) {
 
     tr.innerHTML = `
       <td class="item-cell clickable"
-          onclick="openItemPopupById('${id}')">
+    data-item-id="${id}">
+
         <img src="${displayIcon}" loading="lazy" decoding="async">
         <span>${displayName}</span>
       </td>
@@ -723,3 +724,12 @@ function recalcPopup() {
   // فعلاً فقط summary رو دوباره رندر می‌کنیم
   renderIngredientSummary(CURRENT_ITEM);
 }
+document.addEventListener("click", (e) => {
+  const cell = e.target.closest(".item-cell.clickable");
+  if (!cell) return;
+
+  const id = cell.dataset.itemId;
+  if (!id) return;
+
+  openItemPopupById(id);
+});

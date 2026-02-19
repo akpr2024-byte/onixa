@@ -4,66 +4,144 @@ import { initMarketCore } from "./market-core.js";
 const UGC_API =
   "https://script.google.com/macros/s/AKfycbw2BJxdEjBooLKIyNVFNwm7-T2tEOuuedj638MUTgPqiZ7qGvAz2NnEMY6bEUfGxCR-7A/exec?action=ugc";
 
-const UGC_CACHE_KEY = "pixel_ugc_cache_v1";
-const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const UGC_CACHE_KEY = "pixel_ugc_cache_v2";
+const CACHE_TTL = 5 * 60 * 1000;
+const FETCH_TIMEOUT = 8000;
 
-async function loadUGCFast() {
-  const cached = localStorage.getItem(UGC_CACHE_KEY);
-  let hasValidCache = false;
+let fetchInProgress = false;
 
-  // ================= LOAD CACHE FIRST =================
-  if (cached) {
-    try {
-      const parsed = JSON.parse(cached);
+// ================= SANITIZE =================
+function cleanString(str) {
+  if (typeof str !== "string") return "";
+  return str.replace(/[^\w\- ]/g, "").trim();
+}
 
-      if (
-        parsed &&
-        Array.isArray(parsed.items) &&
-        Date.now() - parsed.time < CACHE_TTL
-      ) {
-        initMarketCore(parsed.items);
-        hasValidCache = true;
-      } else {
-        localStorage.removeItem(UGC_CACHE_KEY);
-      }
-    } catch {
-      localStorage.removeItem(UGC_CACHE_KEY);
-    }
-  }
+function safeNumber(val) {
+  const n = Number(val);
+  return Number.isFinite(n) ? n : null;
+}
 
-  if (!hasValidCache) {
-    showLoading();
-  }
+function isValidItem(item) {
+  return item && typeof item.id === "string";
+}
 
-  // ================= FETCH FRESH DATA =================
+// ================= SAFE UI MESSAGE =================
+function showMessage(text, isError = false) {
+  const tbody = document.querySelector("#dataTable tbody");
+  if (!tbody) return;
+
+  tbody.textContent = "";
+
+  const tr = document.createElement("tr");
+  const td = document.createElement("td");
+
+  td.colSpan = 4;
+  td.style.textAlign = "center";
+  td.style.opacity = isError ? "1" : ".6";
+  if (isError) td.style.color = "#f66";
+
+  td.textContent = text;
+
+  tr.appendChild(td);
+  tbody.appendChild(tr);
+}
+
+// ================= FETCH WITH TIMEOUT =================
+async function fetchWithTimeout(url, timeout) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeout);
+
   try {
-    const res = await fetch(UGC_API);
-    if (!res.ok) throw new Error("UGC API failed");
+    const res = await fetch(url, { signal: controller.signal });
+
+    if (!res.ok) throw new Error("Network response not ok");
 
     const json = await res.json();
+    return json;
+  } finally {
+    clearTimeout(id);
+  }
+}
 
-    if (!json || !Array.isArray(json.items)) {
-      throw new Error("Invalid UGC response");
+// ================= CACHE =================
+function loadFromCache() {
+  const raw = localStorage.getItem(UGC_CACHE_KEY);
+  if (!raw) return null;
+
+  try {
+    const parsed = JSON.parse(raw);
+
+    if (
+      parsed &&
+      Array.isArray(parsed.items) &&
+      typeof parsed.time === "number" &&
+      Date.now() - parsed.time < CACHE_TTL
+    ) {
+      return parsed.items;
     }
 
-    const mapped = json.items.map((item) => ({
-      id: String(item.id).toLowerCase(),
-      displayName:
-        item.name ||
-        item.id?.replace("itm_ugc-", "").replace(/-/g, " ").toLowerCase(),
-      price: item.price ?? null,
-      supply: item.supply ?? null,
-      icon: getIcon("item", item.id),
-      description: item.description || "",
-    }));
+    localStorage.removeItem(UGC_CACHE_KEY);
+  } catch {
+    localStorage.removeItem(UGC_CACHE_KEY);
+  }
+
+  return null;
+}
+
+// ================= MAIN =================
+async function loadUGCFast() {
+  const cached = loadFromCache();
+
+  if (cached) {
+    initMarketCore(cached);
+    refreshUGCInBackground();
+    return;
+  }
+
+  showMessage("Loading data...");
+  refreshUGCInBackground();
+}
+
+async function refreshUGCInBackground() {
+  if (fetchInProgress) return;
+  fetchInProgress = true;
+
+  try {
+    const json = await fetchWithTimeout(UGC_API, FETCH_TIMEOUT);
+
+    if (!json || !Array.isArray(json.items)) {
+      throw new Error("Invalid UGC structure");
+    }
+
+    const mapped = json.items
+      .filter(isValidItem)
+      .map((item) => {
+        const id = cleanString(String(item.id).toLowerCase());
+
+        return {
+          id,
+          displayName:
+            cleanString(item.name) ||
+            id.replace("itm_ugc-", "").replace(/-/g, " "),
+          price: safeNumber(item.price),
+          supply: item.supply ?? null,
+          icon: getIcon("item", id),
+          description: cleanString(item.description || ""),
+        };
+      })
+      .filter((item) => item.id);
+
+    if (!mapped.length) {
+      throw new Error("Empty UGC dataset");
+    }
 
     initMarketCore(mapped);
 
-    // preload first 20 icons
-    mapped.slice(0, 20).forEach((item) => {
+    // preload first 6 safely
+    for (let i = 0; i < Math.min(6, mapped.length); i++) {
       const img = new Image();
-      img.src = item.icon;
-    });
+      img.src = mapped[i].icon;
+    }
 
     localStorage.setItem(
       UGC_CACHE_KEY,
@@ -73,40 +151,16 @@ async function loadUGCFast() {
       }),
     );
   } catch (err) {
-    console.warn("UGC API failed");
+    console.warn("UGC refresh failed:", err.message);
 
-    if (!hasValidCache) {
-      showError();
+    const hasCache = loadFromCache();
+    if (!hasCache) {
+      showMessage("Unable to load UGC data", true);
     }
+  } finally {
+    fetchInProgress = false;
   }
 }
 
-// ================= UI STATES =================
-
-function showLoading() {
-  const tbody = document.querySelector("#dataTable tbody");
-  if (!tbody) return;
-
-  tbody.innerHTML = `
-    <tr>
-      <td colspan="4" style="text-align:center;opacity:.6">
-        Loading data...
-      </td>
-    </tr>
-  `;
-}
-
-function showError() {
-  const tbody = document.querySelector("#dataTable tbody");
-  if (!tbody) return;
-
-  tbody.innerHTML = `
-    <tr>
-      <td colspan="4" style="text-align:center;color:#f66;">
-        Unable to load UGC data
-      </td>
-    </tr>
-  `;
-}
-
+// ================= INIT =================
 loadUGCFast();

@@ -2,26 +2,73 @@ import { getIcon } from "./core/icon-system.js";
 
 window.ITEM_BY_ID = {};
 window.SKILL_DATA = {};
+window.GLOBAL_ITEM_INDEX = [];
+window.USED_IN_INDEX = {};
+window.MARKET_PRICE_INDEX ||= {};
 
-document.addEventListener("DOMContentLoaded", async () => {
-  // HEADER
-  await loadHTML("header", "/components/header.html");
-  bindProfileAuth(); // 👈 اینجا
+function escapeHTML(str) {
+  if (!str) return "";
+  return String(str).replace(
+    /[&<>"']/g,
+    (m) =>
+      ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#039;",
+      })[m],
+  );
+}
 
-  // اضافه کن
+/* ------------------------------
+   DOM READY – NON BLOCKING
+--------------------------------*/
+document.addEventListener("DOMContentLoaded", () => {
+  // Header
+  loadHTML("header", "/components/header.html").then(() => bindProfileAuth());
 
-  // NAVBAR (مهم‌ترین بخش)
-  await loadHTML("navbar", "/components/navbar.html");
-  await Promise.all([initSkillDropdowns(), buildGlobalIndex()]);
+  // Navbar
+  loadHTML("navbar", "/components/navbar.html").then(() => {
+    setupDropdownUX();
 
-  setupDropdownUX();
+    // بعد از اولین paint index ساخته شود
+    if ("requestIdleCallback" in window) {
+      requestIdleCallback(() => {
+        initSkillDropdowns();
+        buildGlobalIndex();
+      });
+    } else {
+      setTimeout(() => {
+        initSkillDropdowns();
+        buildGlobalIndex();
+      }, 200);
+    }
+  });
 
-  // FOOTER
+  // Footer
   loadHTML("footer", "/components/footer.html");
 
-  // POPUP
-  injectPopup();
+  if (!document.getElementById("popup-overlay")) {
+    injectPopup();
+  }
+  if (!document.getElementById("auth-overlay")) {
+    injectAuthModal();
+  }
 });
+
+async function loadHTML(id, path) {
+  const container = document.getElementById(id);
+  if (!container) return;
+
+  try {
+    const res = await fetch(path);
+    if (!res.ok) return;
+    container.innerHTML = await res.text();
+  } catch (err) {
+    console.warn("Failed loading:", path);
+  }
+}
 function bindProfileAuth() {
   const profileBtn = document.getElementById("profileBtn");
   const authOverlay = document.getElementById("auth-overlay");
@@ -53,26 +100,23 @@ function bindProfileAuth() {
 
   console.log("Profile auth bound ✅");
 }
-
-async function loadHTML(id, path) {
-  const res = await fetch(path);
-  const html = await res.text();
-  document.getElementById(id).innerHTML = html;
-  return true; // 👈 مهم
-}
-
 function injectPopup() {
   const popupHTML = `
-  <div id="popup-overlay" class="hidden">
-    <div class="popup">
-      <button class="close-btn" onclick="closePopup()">✖</button>
-      <h3 id="popup-title"></h3>
-      <div id="popup-variant-selectors"></div>
-      <div id="popup-content"></div>
+    <div id="popup-overlay" class="hidden">
+      <div class="popup">
+        <button class="close-btn" id="popup-close-btn">✖</button>
+        <h3 id="popup-title"></h3>
+        <div id="popup-variant-selectors"></div>
+        <div id="popup-content"></div>
+      </div>
     </div>
-  </div>
   `;
   document.body.insertAdjacentHTML("beforeend", popupHTML);
+  document.addEventListener("click", (e) => {
+    if (e.target.id === "popup-close-btn") {
+      closePopup();
+    }
+  });
 }
 
 function injectAuthModal() {
@@ -125,41 +169,37 @@ function injectAuthModal() {
 async function initSkillDropdowns() {
   const dropdowns = document.querySelectorAll(".nav-item.dropdown");
 
-  for (const dd of dropdowns) {
-    const skill = dd.dataset.skill;
-    const menu = dd.querySelector(".dropdown-menu");
-    if (!menu) continue;
+  await Promise.all(
+    [...dropdowns].map(async (dd) => {
+      const skill = dd.dataset.skill;
+      const menu = dd.querySelector(".dropdown-menu");
+      if (!menu) return;
 
-    try {
-      // خواندن فایل اصلی skill
-      const items = await getSkillData(skill);
-      if (!items.length) continue;
+      try {
+        const items = await getSkillData(skill);
+        if (!items.length) return;
 
-      // گرفتن stationهای یکتا از آیتم‌ها
-      const stations = [
-        ...new Set(items.map((i) => i.station).filter(Boolean)),
-      ].sort();
+        const stations = [
+          ...new Set(items.map((i) => i.station).filter(Boolean)),
+        ].sort();
 
-      stations.forEach((station) => {
-        const a = document.createElement("a");
-        a.href = `/pages/station.html?skill=${encodeURIComponent(
-          skill,
-        )}&station=${encodeURIComponent(station)}`;
+        stations.forEach((station) => {
+          const a = document.createElement("a");
+          a.href = `/pages/station.html?skill=${encodeURIComponent(skill)}&station=${encodeURIComponent(station)}`;
 
-        const img = document.createElement("img");
-        img.src = getIcon("station", station);
-        a.appendChild(img);
+          const img = document.createElement("img");
+          img.src = getIcon("station", station);
 
-        const span = document.createElement("span");
-        span.textContent = station;
+          const span = document.createElement("span");
+          span.textContent = station;
 
-        a.appendChild(span);
-        menu.appendChild(a);
-      });
-    } catch (e) {
-      // skill هایی مثل home / calculations
-    }
-  }
+          a.appendChild(img);
+          a.appendChild(span);
+          menu.appendChild(a);
+        });
+      } catch {}
+    }),
+  );
 }
 
 function setupDropdownUX() {
@@ -219,16 +259,14 @@ async function loadMarketIndex() {
     const json = await res.json();
     const items = json.items || [];
 
-    // اگر cache قبلاً ست شده، دست نزن
-    window.MARKET_PRICE_INDEX ||= {};
-
     items.forEach((item) => {
       if (item.id && item.price != null) {
-        window.MARKET_PRICE_INDEX[item.id] = Number(item.price);
+        const price = Number(item.price);
+        if (!Number.isFinite(price)) return;
+        window.MARKET_PRICE_INDEX[item.id] = price;
       }
     });
 
-    // 💾 cache prices
     localStorage.setItem(
       "MARKET_PRICE_CACHE",
       JSON.stringify({
@@ -237,38 +275,25 @@ async function loadMarketIndex() {
       }),
     );
 
-    // 🔁 sync UI (بدون بلاک)
-    window.updatePricesInTable?.();
-    window.updateOpenPopupPrice?.();
-
-    console.log(
-      "Market prices indexed:",
-      Object.keys(window.MARKET_PRICE_INDEX).length,
-    );
-
     document.dispatchEvent(new Event("market-ready"));
-  } catch (err) {
-    console.error("Failed to load market index", err);
-    window.MARKET_PRICE_INDEX = {};
+  } catch {
     document.dispatchEvent(new Event("market-ready"));
   }
 }
+
 // 🔥 FAST: load cached market prices first (non-blocking)
 const cachedPrices = localStorage.getItem("MARKET_PRICE_CACHE");
 if (cachedPrices) {
   try {
     const parsed = JSON.parse(cachedPrices);
     window.MARKET_PRICE_INDEX = parsed.prices || {};
-    console.log("Market prices loaded from cache");
   } catch {}
 }
+// Load fresh prices async
 loadMarketIndex();
-if (!document.getElementById("auth-overlay")) {
-  injectAuthModal();
-}
 
 window.formatValue = function (type, value) {
-  if (value === null || value === undefined || value === "-") return "-";
+  if (value == null || value === "-") return "-";
 
   const num = Number(value);
   const formatted = Number.isInteger(num)
@@ -281,16 +306,10 @@ window.formatValue = function (type, value) {
   switch (type) {
     case "coin":
       return `${formatted} <img src="${getIcon("ui", "coin")}" class="ui-icon">`;
-
     case "energy":
       return `${formatted} <img src="${getIcon("ui", "energy")}" class="ui-icon">`;
-
     case "xp":
       return `+ ${formatted}`;
-
-    case "time":
-      return formatTime(value);
-
     default:
       return formatted;
   }
@@ -318,6 +337,7 @@ function formatTime(minutes) {
 async function buildGlobalIndex() {
   window.GLOBAL_ITEM_INDEX = [];
   window.ITEM_BY_ID = {};
+  window.USED_IN_INDEX = {};
 
   const skills = [
     "farming",
@@ -332,76 +352,69 @@ async function buildGlobalIndex() {
     "woodwork",
   ];
 
-  try {
-    const promises = skills.map((skill) =>
-      getSkillData(skill)
-        .then((items) => ({ skill, items }))
-        .catch((err) => {
-          console.warn("Index failed for skill:", skill);
-          return null;
-        }),
-    );
+  for (const skill of skills) {
+    try {
+      const items = await getSkillData(skill);
+      processSkill(skill, items);
 
-    const results = await Promise.all(promises);
+      // اجازه بده UI render بشه
+      await new Promise(requestAnimationFrame);
+    } catch {
+      console.warn("Index failed:", skill);
+    }
+  }
 
-    // 🔥 پردازش نتایج
-    results.forEach((result) => {
-      if (!result) return;
+  document.dispatchEvent(new Event("global-index-ready"));
+  console.log("Global index ready ✅");
+}
+function processSkill(skill, items) {
+  items.forEach((item) => {
+    if (!item.id) return;
 
-      const { skill, items } = result;
-
-      items.forEach((item) => {
-        if (!item.id) return;
-
-        // برای popup
-        window.ITEM_BY_ID[item.id] ??= [];
-        window.ITEM_BY_ID[item.id].push({
-          id: item.id,
-          recipe_id: item.recipe_id,
-          skill: item.skill,
-          station: item.station,
-          multi_recipe: item.multi_recipe === true,
-        });
-
-        // برای سرچ
-        window.GLOBAL_ITEM_INDEX.push({
-          id: item.id,
-          name: item.name,
-          skill,
-          station: item.station || skill,
-          output: item.output || 1,
-          ingredients: item.ingredients || [],
-          recipeKey: `${item.id}__${item.output || 1}`,
-        });
-      });
+    // popup index
+    window.ITEM_BY_ID[item.id] ??= [];
+    window.ITEM_BY_ID[item.id].push({
+      id: item.id,
+      recipe_id: item.recipe_id,
+      skill: item.skill,
+      station: item.station,
+      multi_recipe: item.multi_recipe === true,
     });
 
-    console.log("ITEM_BY_ID indexed:", Object.keys(window.ITEM_BY_ID).length);
-    // 🔥 Build USED_IN_INDEX بعد از ساخت GLOBAL_ITEM_INDEX
-    window.USED_IN_INDEX = {};
+    // search index
+    const indexItem = {
+      id: item.id,
+      name: item.name,
+      skill,
+      station: item.station || skill,
+      output: item.output || 1,
+      ingredients: item.ingredients || [],
+      recipeKey: `${item.id}__${item.output || 1}`,
+    };
 
-    window.GLOBAL_ITEM_INDEX.forEach((item) => {
-      if (!Array.isArray(item.ingredients)) return;
+    window.GLOBAL_ITEM_INDEX.push(indexItem);
 
+    // used-in index
+    if (Array.isArray(item.ingredients)) {
       item.ingredients.forEach((ing) => {
         window.USED_IN_INDEX[ing.id] ||= [];
-
         window.USED_IN_INDEX[ing.id].push({
           id: item.id,
           name: item.name,
           qty: ing.qty,
         });
       });
-    });
-
-    document.dispatchEvent(new Event("global-index-ready"));
-  } catch (err) {
-    console.error("Global index build failed:", err);
-  }
+    }
+  });
 }
-
 window.openItemPopup = function (itemId, marketItem = null) {
   // 🟩 Craftable
+  const overlay = document.getElementById("popup-overlay");
+  if (!overlay) {
+    console.warn("Popup not ready yet");
+    return;
+  }
+
   if (window.ITEM_BY_ID?.[itemId]) {
     window.openItemPopupById(itemId);
     return;
@@ -431,7 +444,7 @@ window.openMarketOnlyPopup = function (item) {
     <span class="popup-title-wrap">
       <img src="${item.icon || getIcon("ui", "unknown")}"
      class="popup-title-icon">
-      <span>${item.displayName || item.name || item.id}</span>
+      <span>${escapeHTML(item.displayName || item.name || item.id)}</span>
     </span>
   `;
 
@@ -456,7 +469,7 @@ window.openMarketOnlyPopup = function (item) {
       <div class="market-only-desc">
         <div class="desc-title">Description</div>
         <div class="desc-box">
-          ${item.description || "This item is a market-only item."}
+          ${escapeHTML(item.description || "This item is a market-only item.")}
         </div>
       </div>
     </div>
@@ -492,16 +505,22 @@ document.addEventListener("keydown", (e) => {
 
   closePopup();
 });
+window.SKILL_PROMISES ||= {};
+
 async function getSkillData(skill) {
   if (window.SKILL_DATA[skill]) {
     return window.SKILL_DATA[skill];
   }
 
-  const res = await fetch(`/data/skill/${skill}/${skill}.json`);
-  if (!res.ok) return [];
+  if (!window.SKILL_PROMISES[skill]) {
+    window.SKILL_PROMISES[skill] = fetch(`/data/skill/${skill}/${skill}.json`)
+      .then((r) => (r.ok ? r.json() : []))
+      .then((data) => {
+        window.SKILL_DATA[skill] = data;
+        return data;
+      })
+      .catch(() => []);
+  }
 
-  const items = await res.json();
-  window.SKILL_DATA[skill] = items;
-
-  return items;
+  return window.SKILL_PROMISES[skill];
 }

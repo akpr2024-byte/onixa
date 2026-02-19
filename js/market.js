@@ -4,60 +4,137 @@ import { initMarketCore } from "./market-core.js";
 const MARKET_API =
   "https://script.google.com/macros/s/AKfycbw2BJxdEjBooLKIyNVFNwm7-T2tEOuuedj638MUTgPqiZ7qGvAz2NnEMY6bEUfGxCR-7A/exec?action=market";
 
-const MARKET_CACHE_KEY = "pixel_market_cache_v1";
+const MARKET_CACHE_KEY = "pixel_market_cache_v2";
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const FETCH_TIMEOUT = 8000;
 
-async function loadMarketFast() {
-  const cached = localStorage.getItem(MARKET_CACHE_KEY);
-  let hasValidCache = false;
+let refreshInProgress = false;
 
-  if (cached) {
-    try {
-      const parsed = JSON.parse(cached);
+// ================= SAFE VALIDATION =================
+function isValidItem(item) {
+  return (
+    item &&
+    typeof item.id === "string" &&
+    (typeof item.price === "number" || item.price === null) &&
+    (typeof item.supply === "number" ||
+      typeof item.supply === "string" ||
+      item.supply === null)
+  );
+}
 
-      if (
-        parsed &&
-        Array.isArray(parsed.items) &&
-        Date.now() - parsed.time < CACHE_TTL
-      ) {
-        initMarketCore(parsed.items);
-        hasValidCache = true;
-      } else {
-        localStorage.removeItem(MARKET_CACHE_KEY);
-      }
-    } catch {
-      localStorage.removeItem(MARKET_CACHE_KEY);
-    }
-  }
+function safeNumber(value) {
+  const n = Number(value);
+  return Number.isFinite(n) ? n : null;
+}
 
-  if (!hasValidCache) {
-    showLoading();
-  }
+// ================= LOADING UI =================
+function showMessage(text, isError = false) {
+  const tbody = document.querySelector("#dataTable tbody");
+  if (!tbody) return;
+
+  tbody.textContent = "";
+
+  const tr = document.createElement("tr");
+  const td = document.createElement("td");
+
+  td.colSpan = 4;
+  td.style.textAlign = "center";
+  td.style.opacity = isError ? "1" : ".6";
+  if (isError) td.style.color = "#f66";
+
+  td.textContent = text;
+  tr.appendChild(td);
+  tbody.appendChild(tr);
+}
+
+// ================= FETCH WITH TIMEOUT =================
+async function fetchWithTimeout(url, timeout) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeout);
 
   try {
-    const res = await fetch(MARKET_API);
-    const json = await res.json();
+    const res = await fetch(url, { signal: controller.signal });
 
-    if (!json || !Array.isArray(json.items)) {
-      throw new Error("Invalid market response");
+    if (!res.ok) throw new Error("Network response not ok");
+
+    const json = await res.json();
+    return json;
+  } finally {
+    clearTimeout(id);
+  }
+}
+
+// ================= CACHE LOAD =================
+function loadFromCache() {
+  const cached = localStorage.getItem(MARKET_CACHE_KEY);
+  if (!cached) return null;
+
+  try {
+    const parsed = JSON.parse(cached);
+
+    if (
+      parsed &&
+      Array.isArray(parsed.items) &&
+      typeof parsed.time === "number" &&
+      Date.now() - parsed.time < CACHE_TTL
+    ) {
+      return parsed.items;
     }
 
-    const mapped = json.items.map((item) => ({
+    localStorage.removeItem(MARKET_CACHE_KEY);
+  } catch {
+    localStorage.removeItem(MARKET_CACHE_KEY);
+  }
+
+  return null;
+}
+
+// ================= MAIN LOAD =================
+async function loadMarketFast() {
+  const cachedItems = loadFromCache();
+
+  if (cachedItems) {
+    initMarketCore(cachedItems);
+    refreshMarketInBackground(); // non blocking
+    return;
+  }
+
+  showMessage("Loading data...");
+  refreshMarketInBackground();
+}
+
+async function refreshMarketInBackground() {
+  if (refreshInProgress) return;
+  refreshInProgress = true;
+
+  try {
+    const json = await fetchWithTimeout(MARKET_API, FETCH_TIMEOUT);
+
+    if (!json || !Array.isArray(json.items)) {
+      throw new Error("Invalid API structure");
+    }
+
+    const mapped = json.items.filter(isValidItem).map((item) => ({
       id: item.id,
       displayName: item.name || item.id,
-      price: item.price,
-      supply: item.supply,
+      price: safeNumber(item.price),
+      supply: item.supply ?? null,
       icon: getIcon("item", item.id),
     }));
 
+    if (!mapped.length) {
+      throw new Error("Empty dataset");
+    }
+
     initMarketCore(mapped);
 
-    // preload first 20 icons
-    mapped.slice(0, 20).forEach((item) => {
+    // preload first 6 icons
+    for (let i = 0; i < Math.min(6, mapped.length); i++) {
       const img = new Image();
-      img.src = item.icon;
-    });
+      img.src = mapped[i].icon;
+    }
 
+    // save only sanitized data
     localStorage.setItem(
       MARKET_CACHE_KEY,
       JSON.stringify({
@@ -65,39 +142,17 @@ async function loadMarketFast() {
         items: mapped,
       }),
     );
-  } catch (e) {
-    console.warn("Market API failed");
+  } catch (err) {
+    console.warn("Market refresh failed:", err.message);
 
-    if (!hasValidCache) {
-      showError();
+    const hasCache = loadFromCache();
+    if (!hasCache) {
+      showMessage("Unable to load market data", true);
     }
+  } finally {
+    refreshInProgress = false;
   }
 }
 
-function showLoading() {
-  const tbody = document.querySelector("#dataTable tbody");
-  if (!tbody) return;
-
-  tbody.innerHTML = `
-    <tr>
-      <td colspan="4" style="text-align:center;opacity:.6">
-        Loading data...
-      </td>
-    </tr>
-  `;
-}
-
-function showError() {
-  const tbody = document.querySelector("#dataTable tbody");
-  if (!tbody) return;
-
-  tbody.innerHTML = `
-    <tr>
-      <td colspan="4" style="text-align:center;color:#f66;">
-        Unable to load market data
-      </td>
-    </tr>
-  `;
-}
-
+// ================= INIT =================
 loadMarketFast();

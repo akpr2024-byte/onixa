@@ -2,9 +2,17 @@ import { formatNumber } from "./core/economy.js";
 import { getIcon } from "./core/icon-system.js";
 
 let searchTimeout;
+let imageObserver;
+let searchBound = false;
+
+// ================= SAFE ESCAPE =================
+function sanitizeString(value) {
+  if (typeof value !== "string") return "";
+  return value.replace(/[&<>"']/g, "");
+}
 
 // ================= GLOBAL STATE =================
-let allData = [];
+let allData = Object.freeze([]);
 let filteredData = [];
 let currentPage = 1;
 let ITEMS_PER_PAGE = 10;
@@ -30,65 +38,72 @@ function renderTable() {
   const tbody = document.querySelector(TABLE_BODY);
   if (!tbody) return;
 
-  tbody.innerHTML = "";
+  tbody.textContent = "";
 
   const start = (currentPage - 1) * ITEMS_PER_PAGE;
   const pageItems = filteredData.slice(start, start + ITEMS_PER_PAGE);
 
   if (pageItems.length === 0) {
-    tbody.innerHTML = `
-      <tr>
-        <td colspan="4" style="text-align:center;opacity:.6">
-          No results found
-        </td>
-      </tr>
-    `;
+    const tr = document.createElement("tr");
+    const td = document.createElement("td");
+    td.colSpan = 4;
+    td.style.textAlign = "center";
+    td.style.opacity = ".6";
+    td.textContent = "No results found";
+    tr.appendChild(td);
+    tbody.appendChild(tr);
     return;
   }
 
   const fragment = document.createDocumentFragment();
 
-  pageItems.forEach((item, index) => {
+  for (let index = 0; index < pageItems.length; index++) {
+    const item = pageItems[index];
+
     const tr = document.createElement("tr");
 
-    tr.innerHTML = `
-      <td class="icon-cell">
-        <img
-          src="${item.icon || getIcon("ui", "unknown")}"
-          class="icon"
-          loading="lazy"
-          decoding="async"/>
-      </td>
+    // ICON
+    const tdIcon = document.createElement("td");
+    tdIcon.className = "icon-cell";
 
-      <td class="item-name"
-          data-item-id="${item.id}"
-          data-market-index="${start + index}">
-        ${item.displayName || item.name || item.id}
-      </td>
+    const img = document.createElement("img");
+    img.dataset.src = item.icon || getIcon("ui", "unknown");
+    img.className = "icon";
+    img.width = 28;
+    img.height = 28;
+    img.loading = "lazy";
+    img.decoding = "async";
 
-      <td>${item.price != null ? formatNumber(item.price) : "-"}</td>
-      <td>${item.supply ?? "-"}</td>
-    `;
+    tdIcon.appendChild(img);
+
+    // NAME
+    const tdName = document.createElement("td");
+    tdName.className = "item-name";
+    tdName.dataset.itemId = sanitizeString(item.id);
+    tdName.dataset.marketIndex = start + index;
+    tdName.textContent = sanitizeString(
+      item.displayName || item.name || item.id,
+    );
+
+    // PRICE
+    const tdPrice = document.createElement("td");
+    tdPrice.textContent = item.price != null ? formatNumber(item.price) : "-";
+
+    // SUPPLY
+    const tdSupply = document.createElement("td");
+    tdSupply.textContent = sanitizeString(item.supply ?? "-");
+
+    tr.appendChild(tdIcon);
+    tr.appendChild(tdName);
+    tr.appendChild(tdPrice);
+    tr.appendChild(tdSupply);
 
     fragment.appendChild(tr);
-  });
+  }
 
   tbody.appendChild(fragment);
 
-  tbody.onclick = (e) => {
-    const el = e.target.closest(".item-name");
-    if (!el) return;
-
-    const id = el.dataset.itemId;
-    const index = Number(el.dataset.marketIndex);
-    const marketItem = filteredData[index];
-
-    if (window.ITEM_BY_ID?.[id]) {
-      openItemPopupById(id, { output: 1 });
-    } else {
-      openMarketOnlyPopup(marketItem);
-    }
-  };
+  requestAnimationFrame(hydrateImages);
 }
 
 // ================= PAGINATION =================
@@ -96,7 +111,7 @@ function renderPagination() {
   const container = document.getElementById(PAGINATION_ID);
   if (!container) return;
 
-  container.innerHTML = "";
+  container.textContent = "";
 
   const totalPages = Math.max(
     1,
@@ -109,13 +124,7 @@ function renderPagination() {
     const btn = document.createElement("button");
     btn.textContent = label;
     if (active) btn.classList.add("active");
-
-    btn.onclick = () => {
-      currentPage = page;
-      renderTable();
-      renderPagination();
-    };
-
+    btn.dataset.page = page;
     container.appendChild(btn);
   };
 
@@ -135,8 +144,12 @@ function renderPagination() {
 
 // ================= SEARCH =================
 function setupSearch() {
+  if (searchBound) return;
+
   const input = document.getElementById(SEARCH_ID);
   if (!input) return;
+
+  searchBound = true;
 
   input.addEventListener("input", () => {
     clearTimeout(searchTimeout);
@@ -155,7 +168,7 @@ function setupSearch() {
       currentPage = 1;
       renderTable();
       renderPagination();
-    }, 120);
+    }, 100);
   });
 }
 
@@ -163,35 +176,116 @@ function setupSearch() {
 export function initMarketCore(data) {
   if (!Array.isArray(data)) return;
 
-  allData = data;
-  filteredData = [...data];
+  const safeData = data.filter((item) => item && typeof item.id === "string");
+
+  // ⚡ فقط page اول فوری render شود
+  allData = Object.freeze([...safeData]);
+  filteredData = allData.slice(0, 100); // فقط 100 اول فوری
+
   currentPage = 1;
 
   calcItemsPerPage();
   renderTable();
   renderPagination();
   setupSearch();
+
+  // ⏳ بقیه دیتا در background آماده شود
+  if (safeData.length > 100) {
+    requestIdleCallback(() => {
+      filteredData = [...allData];
+      renderPagination();
+    });
+  }
 }
 
 // ================= RESIZE =================
 let resizeTimeout;
 
-window.addEventListener("resize", () => {
-  clearTimeout(resizeTimeout);
+window.addEventListener(
+  "resize",
+  () => {
+    clearTimeout(resizeTimeout);
 
-  resizeTimeout = setTimeout(() => {
-    calcItemsPerPage();
+    resizeTimeout = setTimeout(() => {
+      const prev = ITEMS_PER_PAGE;
+      calcItemsPerPage();
 
-    const totalPages = Math.max(
-      1,
-      Math.ceil(filteredData.length / ITEMS_PER_PAGE),
+      if (prev === ITEMS_PER_PAGE) return;
+
+      const totalPages = Math.max(
+        1,
+        Math.ceil(filteredData.length / ITEMS_PER_PAGE),
+      );
+
+      if (currentPage > totalPages) {
+        currentPage = totalPages;
+      }
+
+      renderTable();
+      renderPagination();
+    }, 120);
+  },
+  { passive: true },
+);
+
+// ================= IMAGE LAZY LOAD =================
+function hydrateImages() {
+  if (!imageObserver) {
+    imageObserver = new IntersectionObserver(
+      (entries, obs) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+
+          const img = entry.target;
+          img.src = img.dataset.src;
+          obs.unobserve(img);
+        }
+      },
+      { rootMargin: "200px" },
     );
+  }
 
-    if (currentPage > totalPages) {
-      currentPage = totalPages;
-    }
+  const imgs = document.querySelectorAll("#dataTable img[data-src]:not([src])");
 
-    renderTable();
-    renderPagination();
-  }, 100);
+  imgs.forEach((img) => imageObserver.observe(img));
+}
+
+// ================= PAGINATION CLICK =================
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest("#pagination button");
+  if (!btn) return;
+
+  const page = Number(btn.dataset.page);
+  if (!page) return;
+
+  currentPage = page;
+  renderTable();
+  renderPagination();
+});
+// ================= ITEM CLICK (POPUP FIX) =================
+// ================= ITEM CLICK (CRAFT + MARKET FIX) =================
+document.addEventListener("click", (e) => {
+  const cell = e.target.closest(".item-name");
+  if (!cell) return;
+
+  const itemId = cell.dataset.itemId;
+  const marketIndex = Number(cell.dataset.marketIndex);
+
+  if (!itemId || typeof window.openItemPopup !== "function") return;
+
+  // اگر craftable باشد
+  if (window.ITEM_BY_ID && window.ITEM_BY_ID[itemId]) {
+    window.openItemPopup(itemId);
+    return;
+  }
+
+  // اگر فقط market باشد
+  if (
+    Array.isArray(filteredData) &&
+    Number.isInteger(marketIndex) &&
+    filteredData[marketIndex]
+  ) {
+    const marketItem = filteredData[marketIndex];
+    window.openItemPopup(itemId, marketItem);
+  }
 });

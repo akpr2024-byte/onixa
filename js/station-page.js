@@ -26,27 +26,27 @@ function expandItemsToRecipes(items) {
   if (!Array.isArray(items)) return [];
 
   const expanded = [];
+  const indexMap = {};
+
+  (window.GLOBAL_ITEM_INDEX || []).forEach((i) => {
+    const key = `${i.id}_${i.skill}_${i.station}`;
+    if (!indexMap[key]) indexMap[key] = [];
+    indexMap[key].push(i);
+  });
 
   for (const meta of items) {
-    const variants =
-      window.GLOBAL_ITEM_INDEX?.filter(
-        (i) =>
-          i.id === meta.id &&
-          i.skill === meta.skill &&
-          i.station === meta.station,
-      ) || [];
+    const key = `${meta.id}_${meta.skill}_${meta.station}`;
+    const variants = indexMap[key] || [];
 
-    // اگر recipeهای متعدد داشت
     if (variants.length > 0) {
       variants.forEach((v) => {
         expanded.push({
           ...meta,
           output: v.output || meta.output || 1,
-          _recipe: v, // فقط برای شفافیت
+          _recipe: v,
         });
       });
     } else {
-      // fallback: همان meta
       expanded.push(meta);
     }
   }
@@ -219,15 +219,18 @@ function renderTable(items) {
 
     tr.innerHTML = `
       <td>${item.skill || ""}</td>
-      <td>${item.level != null ? Number(item.level).toLocaleString() : ""}</td>
+      <td>${item.level ?? ""}</td>
       <td>${item.tier || ""}</td>
       <td>
-        <img 
-          src="${getIcon("item", item.id)}" 
-          height="28"
-          loading="lazy"
-          decoding="async"
-        >
+        <div class="icon-wrapper">
+          <img 
+            data-src="${getIcon("item", item.id)}"
+            height="28"
+            width="28"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
       </td>
       <td class="item-name clickable"
         data-item-id="${item.id.startsWith("itm_") ? item.id : "itm_" + item.id}">
@@ -237,9 +240,9 @@ function renderTable(items) {
       <td class="market-price" data-item-id="${item.id}">-</td>
       <td>-</td>
       <td>-</td>
-      <td>${item.energy != null ? formatValue("energy", item.energy) : "-"}</td>
-      <td>${item.xp != null ? formatValue("xp", item.xp) : "-"}</td>
-      <td>${item.time != null ? formatValue("time", item.time) : "-"}</td>
+      <td>${item.energy ?? "-"}</td>
+      <td>${item.xp ?? "-"}</td>
+      <td>${item.time ?? "-"}</td>
     `;
 
     fragment.appendChild(tr);
@@ -247,6 +250,35 @@ function renderTable(items) {
 
   tbody.innerHTML = "";
   tbody.appendChild(fragment);
+
+  hydrateImages();
+}
+function hydrateImages() {
+  const imgs = document.querySelectorAll("#items-body img");
+
+  const observer = new IntersectionObserver(
+    (entries, obs) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const img = entry.target;
+          img.src = img.dataset.src;
+          obs.unobserve(img);
+        }
+      });
+    },
+    { rootMargin: "200px" },
+  );
+
+  imgs.forEach((img) => observer.observe(img));
+}
+
+function preloadVisibleIcons() {
+  const icons = document.querySelectorAll("#items-body img");
+  icons.forEach((img, index) => {
+    if (index < 10) {
+      img.loading = "eager";
+    }
+  });
 }
 
 document.addEventListener("click", (e) => {
@@ -424,41 +456,50 @@ async function preloadEconomyForTable(items) {
   if (!Array.isArray(items) || items.length === 0) return;
 
   const market = window.MARKET_PRICE_INDEX || {};
+  const BATCH_SIZE = 20;
 
-  const promises = items.map(async (meta) => {
-    try {
+  for (let i = 0; i < items.length; i += BATCH_SIZE) {
+    const batch = items.slice(i, i + BATCH_SIZE);
+
+    await Promise.all(
+      batch.map(async (meta) => {
+        const output = meta.output ?? 1;
+        const fullItem = await getItemById(meta.id, { output });
+        if (!fullItem) return;
+
+        const hasIngredients =
+          Array.isArray(fullItem.ingredients) &&
+          fullItem.ingredients.length > 0;
+
+        const marketPrice = market[fullItem.id];
+
+        let craftCost = null;
+        let netProfit = null;
+
+        if (hasIngredients) {
+          const result = calcNetProfit(fullItem, market);
+          craftCost = result.craft.total;
+          if (marketPrice != null) netProfit = result.netProfit;
+        } else {
+          craftCost = 0;
+          if (marketPrice != null) netProfit = marketPrice;
+        }
+
+        const key = `${meta.id}__${output}`;
+        window.ITEM_CRAFT_COSTS[key] = craftCost;
+        window.ITEM_NET_PROFITS[key] = netProfit;
+      }),
+    );
+
+    // 🔥 اجازه بده UI نفس بکشه
+    await new Promise((r) => setTimeout(r, 0));
+
+    // حالا DOM رو آپدیت کن
+    batch.forEach((meta) => {
       const output = meta.output ?? 1;
-      const fullItem = await getItemById(meta.id, { output });
-      if (!fullItem) return;
-
-      const hasIngredients =
-        Array.isArray(fullItem.ingredients) && fullItem.ingredients.length > 0;
-
-      const marketPrice = market[fullItem.id];
-
-      let craftCost = null;
-      let netProfit = null;
-
-      if (hasIngredients) {
-        const result = calcNetProfit(fullItem, market);
-        craftCost = result.craft.total;
-        if (marketPrice != null) netProfit = result.netProfit;
-      } else {
-        craftCost = 0;
-        if (marketPrice != null) netProfit = marketPrice;
-      }
-
-      const key = `${meta.id}__${output}`;
-      window.ITEM_CRAFT_COSTS[key] = craftCost;
-      window.ITEM_NET_PROFITS[key] = netProfit;
-
       updateTableRow(meta.id, output);
-    } catch (err) {
-      console.warn("Economy skip:", meta?.id);
-    }
-  });
-
-  await Promise.all(promises);
+    });
+  }
 }
 
 function tryRunEconomyPreload() {
@@ -482,3 +523,33 @@ document.addEventListener("market-ready", () => {
 
 // وقتی index آیتم‌ها آماده شد
 document.addEventListener("global-index-ready", tryRunEconomyPreload);
+async function preloadEconomyData() {
+  if (!window.CURRENT_ITEMS?.length) return;
+
+  await waitForMarket();
+
+  for (const item of window.CURRENT_ITEMS) {
+    const output = item.output ?? 1;
+    const key = `${item.id}__${output}`;
+
+    const marketPrice = window.MARKET_PRICE_INDEX?.[item.id] ?? null;
+
+    const craft = calcCraftCost(item, window.MARKET_PRICE_INDEX);
+    const net = calcNetProfit(item, window.MARKET_PRICE_INDEX);
+
+    window.ITEM_CRAFT_COSTS[key] = craft?.total ?? null;
+    window.ITEM_NET_PROFITS[key] = net ?? null;
+
+    const row = document.querySelector(`[data-item-key="${key}"]`);
+    if (!row) continue;
+
+    row.querySelector(".market-price").innerHTML =
+      marketPrice != null ? formatNumber(marketPrice) : "-";
+
+    row.querySelector(".craft-cost").innerHTML =
+      craft?.total != null ? formatNumber(craft.total) : "-";
+
+    row.querySelector(".net-profit").innerHTML =
+      net != null ? formatNumber(net) : "-";
+  }
+}

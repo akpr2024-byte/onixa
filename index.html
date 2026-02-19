@@ -10,16 +10,22 @@
       content="Advanced game market & crafting tool"
     />
     <meta property="og:image" content="https://yourdomain.com/preview.png" />
-     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0JC8HENGVH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="
+default-src 'self';
+script-src 'self';
+style-src 'self' 'unsafe-inline';
+img-src 'self' data: https:;
+connect-src 'self' https://script.google.com https://script.googleusercontent.com;
+font-src 'self';
+object-src 'none';
+base-uri 'self';
+"
+    />
 
-  gtag('config', 'G-0JC8HENGVH');
-</script>
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <link rel="stylesheet" href="css/style.css" />
     <link rel="icon" type="image/png" href="/assets/images/logo/favicon.png" />
   </head>

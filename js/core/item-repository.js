@@ -1,4 +1,5 @@
 const SKILL_CACHE = {};
+const SKILL_PROMISES = {};
 
 function waitForItemIndex() {
   if (window.ITEM_BY_ID) return Promise.resolve();
@@ -19,22 +20,18 @@ export async function getItemById(id, options = {}) {
 
   let meta = null;
 
-  // 1️⃣ recipe_id
   if (options.recipe_id) {
     meta = metas.find((m) => m.recipe_id === options.recipe_id);
   }
 
-  // 2️⃣ station
   if (!meta && options.station) {
     meta = metas.find((m) => m.station === options.station);
   }
 
-  // 3️⃣ skill
   if (!meta && options.skill) {
     meta = metas.find((m) => m.skill === options.skill);
   }
 
-  // 4️⃣ fallback
   if (!meta) {
     meta = metas[0];
   }
@@ -42,27 +39,29 @@ export async function getItemById(id, options = {}) {
   const skill = meta.skill.toLowerCase();
   const path = `/data/skill/${skill}/${skill}.json`;
 
-  // 🔥 SMART CACHE
+  // 🔥 FIXED PROMISE CACHE
   if (!SKILL_CACHE[skill]) {
-    const res = await fetch(path);
-    if (!res.ok) return null;
-    SKILL_CACHE[skill] = await res.json();
+    if (!SKILL_PROMISES[skill]) {
+      SKILL_PROMISES[skill] = fetch(path).then(async (res) => {
+        if (!res.ok) throw new Error("Skill JSON failed");
+        return res.json();
+      });
+    }
+
+    SKILL_CACHE[skill] = await SKILL_PROMISES[skill];
   }
 
   const items = SKILL_CACHE[skill];
 
-  // 🔎 Find variants
   const variants = items.filter((i) => {
     if (meta.multi_recipe === true) {
       return i.recipe_id === meta.recipe_id;
     }
-
     return i.id === id && i.station === meta.station;
   });
 
   if (!variants.length) return null;
 
-  // 🎯 Resolve output
   let selected = null;
 
   if (options.output != null) {
@@ -79,15 +78,12 @@ export async function getItemById(id, options = {}) {
     selected = variants[0];
   }
 
-  // ✅ IMPORTANT: clone before decorate
   const baseItem = structuredClone(selected);
 
-  // 🔁 Build output selector
   baseItem.outputVariants = variants.map((v) => ({
     count: Number(v.output ?? 1),
   }));
 
-  // 🧩 Decorate safely
   baseItem._is_multi = meta.multi_recipe === true;
   baseItem._recipe_id = meta.recipe_id || null;
   baseItem.skill = meta.skill;
