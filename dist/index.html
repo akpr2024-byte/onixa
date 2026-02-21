@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>OnixA</title>
+    <meta name="description" content="OnixA - Game Market & Craft Calculator" />
+    <meta property="og:title" content="OnixA" />
+    <meta
+      property="og:description"
+      content="Advanced game market & crafting tool"
+    />
+    <meta property="og:image" content="https://yourdomain.com/preview.png" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="
+default-src 'self';
+script-src 'self';
+style-src 'self' 'unsafe-inline';
+img-src 'self' data: https:;
+connect-src 'self' https://script.google.com https://script.googleusercontent.com;
+font-src 'self';
+object-src 'none';
+base-uri 'self';
+"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" type="image/png" href="/assets/favicon-CVuuus5X.png" />
+    <script type="module" crossorigin src="/assets/index-DJwM-vcY.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CZTl0K7r.css">
+  </head>
+  <body>
+    <div id="header"></div>
+    <div id="navbar"></div>
+    <div id="sidebar"></div>
+
+    <main class="container">
+      <section class="row blue">
+        <a href="/pages/station.html?skill=mining"
+          ><div class="card">
+            <div class="card-icons">
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACRklEQVRYR+2Vy0sCURTGr72wCCqRXmSLlKCSiGjVY1UYuIk20bql0F8TtOwPaCNtgsQgqFxFREi10E1FL8RqU2Gh+R0843UcvXd6bvyBnKPjzPfde865I2rU+G8chViRpeBcrpASm9tR5T12qPiwmfHx3NyUl/JBT9FDeO+J4k8ZsXwIxAsp4XT5KU4PvZKZWLyOvt+n0t82oryZzbCJlcCLYQDABICR1dkFw/ja7paWMW33MCLvROq5eCtM3N6lRWh5QLR7u8VT8k7Edt61TBSXomD/+Njxlo5TfnDeLNxtxSpBfKzDQ+KAow7aBoDZxEk8YRjp7HHQygHiyeMV5Sq0S8BwKWAEkXuiM5sRD7c5QxhmKVFgaweAvAsyD3VNhnhPt6tskiph2wADETQjzoVJf5Z+G/P76NPldtF1Hb5sYMTbQfEx0ys2Ii3UC3JjwoT5FLXCtgF5a9GIACVBjtE0m1CVwpYBPAzjBqKHSYpyP1zcOMkIl4SpthPaBnDKBYb7RTDkoZkHsjhy+TsOJ3xUvaA1KhCHMJ9wmPnI2SVdM48bj6l8ZMvHNSUSyh2A+OR8I+UsjnkHVrMujyk3JjesFVUN8MrBUfiaIh82qoMGk6FDRQOyOOBV64jLYDLQsHhfWGH5IIhjqycW+6juidMP7ZUzPH6q/5ddZHHfaAO91bbXr4yms7NyXUpKYN52iIPfEgf1hUji6Hanq1W0NOVHKN/xwG7N7VKyA6g11xz8tjgom4KvNNx3KBGQXxx/IV5DCCE+Abe1RZMYpA4ZAAAAAElFTkSuQmCC"
+                  alt="Mining"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnUlEQVRYR+2VP2hTURSHb6sRalV0aGNKHaIBBaG1rYMWYweRWh2sILqIgqNQ6OwgEcFBcCp0FhcRDDhZOopSHGxtUgeHaKDapqmggn/AKka+k3eeL8lrch8JWeoH4bx738v9/d45595n/rPhaXGiy7HBkQIxHOmQMeRzHyU+n5mqeL5eShbs6oyKuJK4PS5xPvVKYn75j5hppJF1F1Ize2MHzOWrp2RuempWIiST9xtiouYiGMEEYERNNCoTVgv4mdC+ADXS3xt3SziXema1tvUbqIkf37+ZI8f3ST+Eu1rdvniXeSM9oxnKZrJWJlqdWJPl1WwLIiu5D+bxw6euOJH53ZFu58lgWBsATBAR85pgHI1FZbcMjwzIPEZtsC6BQim8b7u1fZvpGQib9GxexpQIcTVbi0AZABbWtyMifv3uhLlyY0zEIUg5AmcA9IwYvTgk47WOPolzyUeSEcVmmwbOgKLi8Dk1K+KaEeAo12O9GoEN8PaIk/a+Mxek9mw5LQvNiQm2ppakGpucaM329l2JtZ9t5vXKV7O09MkspuZLOp76v3yxYIZOHjSh0E7TtmVHIpdfvOncriBQD2jtvU3mFQe9xzyZYptWO5SsDYydOOvWM7mQdq7+nQ3gNajbU5mcuOerZdUDiJ++tscMDoecmaJw+V73zlH/Q73F3QHe74SXmgYe3Dkv4jAz/Uvevly4HE033wVMUAZOSj+qGkA8k/4t108m31uJK/QAtQeOZvDLwroGbl0aFfHD57oDi4P3WbLAN8IP3wURR/jL2xXrtPtBUx6Nx91MQPluqFgU8VjPZrmuRxx0V1T7f8kNul07vV5xW9we8IpT+2aIgwgg3hkpaq3mCk0TBzcDCDdbvIT90f4CP2e4UTDmL1VSdhWf5kNnAAAAAElFTkSuQmCC"
+                  alt="Mining"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACLUlEQVRYR+WWy0pCQRjHR9ftgi52AamonWkQSVlEi2hVi9BFL1ALpUdoET2AEvUCLbotWkULCTKpTRdrE1QIEXZBwl4g4/91vhjnpGeOx9z4g+HMiGf+//kuwxENj8t4mgj4QkVjSlxmUmX/6wTTpp4WLwnPRSZo/Zb7omerxy3OTx5rbqTsZmxkZW2Z1sx15qqmRipuwiba2jvFYnSefoMBphZGtF6GEZgAbITZTOw5MqH9omri6PCC5iD7kK3ahK2XZBMj4z2/BQrYRHRqltKWSB5o7W3bdSUTnsKniG+EaB5bSmmZcBtPbXLvWdfryzPNUYRoT4AIRCafaG4H2wZkYEQ2AXDyjrF17RRUZUCOAhj0+YW31ytiu00inf8QwVDIdJOWw3YNMFwLXAfTM0MlnQF0usNRCiAOIIT7ACYwGETFKhKODADUAEBKYAI3pVwTViaqSgH3+v7tDV3TXA/cngCXlc61bdvA6aqfxLePu2kNEypsROfGtJUCiA8E+4zVjzg6Qh0cEa4LpAQD6VDRNgDx0fACzXF6FqcfFGQTAG2KATNqPWgZkMXvzu4rijNsAlEAqAcMNQqWBmTx9M6WCMcLluKMGgmgRqGiATnndsVlEAVOg0rZzVi8uWvYkTjArYlvTNyY6ATA3fDnhvLJkXMn4gAGjKlpH9OmtRa3oqQGcMPVU7wEiOeTYRqIghy2/4ROB3H5a6aeJze1YV3DLtPvDRQxjGWjIMQ3kW5h0vxOVAwAAAAASUVORK5CYII="
+                  alt="Mining"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnElEQVRYR9WVTUhUURTHzzhYgdHHQnBCAiMLaqFTYBJFMhWZ0KI2tUmqKSEI2trGebbJbbVLDSshIqhFZLpoiII+ZpFEHxBTCcNQkWBZLVIXN/6ndx7P55t5X9eBfvDevffx3v3/77nn3BejMpw8f1GZXRroOVv23bB4Tlrf2KEyl89w/0Uur92Ir8lgov3oPtrW0sgmgC4jviexm9if2klG31V+HtVIoI/FBDC6T9CD7JPI2xL4Q90mQn0kJkZvjNGdh9306t1vKzfwTAwC3UlrARMoU7S5wmPVPzrCfTwrzv7iZ7jspexGldkGppgficlqD+3u48REue4Yvmm+4Y/QBoCYsJNK1HJerKlL8tZUBHvosRWFXQfU0IZWa4vM11yJFAEnn7+O81aMnTtNc5d6FiSkG5EzFCuESNexJI+vDI1zeQJsBShXploiAHHsN8RB6+bDfDVtWs5jnJ6lqiFSBI6vTap0F9GRawkr1JKUGKP//O0t3hoAg85IhDaAJFvfOWOO/pkAqAy0sjVeJkIZgDjKLftlkmAiPRij9xMvF8zlNOGWE4ENiDjITBTpadxdXBATAMmJSCBfTrV38DeBktAujtV7iQP7YYVfOA4olKokpW8DTvELc7Oe4oLdBCKAC5UB4nz3IIq48HMq3/utWGVMqxra2pygutolpFY3G54R0CHuBDng6z+BOse5Lmf7xoYtZc91PyAp5deNq+RKIN7bUM99XSsHEEUr54XrhFjpYFrRh+tLeaxL3I15k+7d02mFONP2mttSh4wurIkh3nIwxf3c3Sy3hY9vFlUccBlCfOW6VfRo+DbFa6qpqW07Pbt/b9HFAQuIATD96UdFVi5wBKpV3FgWW0Ez3/9UVHweyHwddf6fQfQXcqGXKN3EV7oAAAAASUVORK5CYII="
+                  alt="Mining"
+                />
+              </div>
+            </div>
+            <span class="card-title">Mining</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=farming"
+          ><div class="card">
+            <div class="card-icons">
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAB3RJTUUH6AYSAikICoqaTAAAABd0RVh0U29mdHdhcmUAR0xEUE5HIHZlciAzLjRxhaThAAAACHRwTkdHTEQzAAAAAEqAKR8AAAAEZ0FNQQAAsY8L/GEFAAAABmJLR0QA/wD/AP+gvaeTAAABrElEQVR4nGOYNWsWw0DiAbV81AFYHWBt4P0fGdPaAUwMWICMnCIcL5y28X9B45z/2NRRBWBzFcjn4X45KCHBJW1Gk9DAKYHsCBhNC0fglaSHIwgqgFmOjKnpCKIUwdIBzAHUDAmiFYIsRE+c1HAESYpBFiKHAjUcQbIGbI4A5mayHYG1IMIHJtSnMG4+e4p6BRHIRzCMXgzjwsbq9mBfg/D5MNf/a93dwWIgDJKPcvH6X5bq/n91rycG7ipxB8uB1IBCgBFksa+xGYqjnjy6D2eDimOYGIwNAxUcNxmWnnoEZp/8y8HA4ujFIPnsIoOM4l8GEX4GBkVJJob7z//B1V+4wIwRAEywIIVZCrMIhpHFQDQyvvcRNQZ/XbqEwgdZ/uYjgg9yGAjDwM3HXxkwEhg+DAt2ZGwrqw/GIDYsGmBRAKLR2TAMUkdWLsDIRkiOAcW/Y1wl3BKaZEN8DgFZCkpkIAxKcMQ4gmoOAGGYA2CpnRhHUNUBMEcgZzkQhsU3XRyAHhKwBIjLETRxAMwRMIfgcwTNHIDsCPSsRzcHgDCsbKB7FBCLRx0w6gAAupySHhDKpVsAAAAASUVORK5CYII="
+                  alt="Farming"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAB3RJTUUH6AYSAikPlO4P7wAAABd0RVh0U29mdHdhcmUAR0xEUE5HIHZlciAzLjRxhaThAAAACHRwTkdHTEQzAAAAAEqAKR8AAAAEZ0FNQQAAsY8L/GEFAAAABmJLR0QA/wD/AP+gvaeTAAABfElEQVR4nO2Uv0pDMRTGr518Al/BjiLq6GC7SNEOIoJIt0JdnfwzOxQnwemi4OAkDg6+gV19EB/AxSXyBb5ybjjx3mhyszTw0TT3hO+Xk3NSlGVZ5FRW8wWACrDTGxmpLAAXV7dW4/FlchB1EYY3dw9zCIKsd7ejg3g/wLQNiF8/uhAAwG9MiNqA1JloFOTWBAszBkTjQAkh2/S/EEHBhIiZheANMJS1AG12N/4M0SkCx+TsZOnjfRa6zT94CtlmmmQMsoBTS2ENsi9pf2Cmwz3zeHxg3k53K8IahBh7BXx6cbea+CzLOWVT//pirs+f7ByATc2peXH5Tu6eXgqmw8mR2V87tHP39K6wDtF8tNU3lQrXQHzmTLl2DYRwDaVgrnaBZiLnlNxDAMLSJEkb+gQAmMqUN4GIBgARQBZeHUTwO1A3Pr++K/9XV5aL2f2z8W6ImQFmQbYhr4NFl/QKNAhZDxpEEgAJobVeKwAQDLMCEIJqrQZCtADIDvADE0oSblOv6EEAAAAASUVORK5CYII="
+                  alt="Farming"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAB3RJTUUH6AYSAikVaYz2lQAAABd0RVh0U29mdHdhcmUAR0xEUE5HIHZlciAzLjRxhaThAAAACHRwTkdHTEQzAAAAAEqAKR8AAAAEZ0FNQQAAsY8L/GEFAAAABmJLR0QA/wD/AP+gvaeTAAABfElEQVR4nO2Vv0oDQRDGxzyJaS4PYGeTgAoxKFiIhQp2dlqJor5CGhEL7wG0UHyFlD6BRWyCnb2N3cosjHwZz73N3WyuycLH/du97zezM3eU5zk1qUbNFwCFACsbfYdKDdAiGPdPL+7y6oJY/a1tarczf284fHCUaoSifx6N3PXNnds9PvXXWdYzz0jwIRtqEGuIqEkIItmYKwCCWEPMvMAaotIiNraqiVZ5n/wdXx/fNH4b02TybtuGEp0WR6mln9feAn4Rp5T3VwvTjeYIhC8931xzov31QRDu11ybiQQMTfGoQdjw9nDgHk+6XnweAiH9oQmZFwFoczZjU4RAEIERIN9WZeZHqwdeZ8sdL14jRwQRAIRAGLyeAqgqgZoqzk7XS6IsgsEtqfURKYISY4bAuXIf018bQMPgFsR0gCmARIlpjm5DK8l+Y8GVQZgCSBbY9L+qTw6A2YjJRDIArIlQPVT6G8aO3t7O0uvnjH/DVJmYew3EagHQOMAPzk/GqqXK4x4AAAAASUVORK5CYII="
+                  alt="Farming"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAB3RJTUUH6AYSAika+TPrBAAAABd0RVh0U29mdHdhcmUAR0xEUE5HIHZlciAzLjRxhaThAAAACHRwTkdHTEQzAAAAAEqAKR8AAAAEZ0FNQQAAsY8L/GEFAAAABmJLR0QA/wD/AP+gvaeTAAABqElEQVR4nO2Uvy4FQRTGJ3qNl9hCuY1I/CfhSlQ0JG6ioNOoRHgHhcISHoB4BPfyBEqtaBRoFArF2G+Sb3Nmrr077u7sNneTLzOZnd3vN+ecOSpJEtWkGjUfAvQAHJ2eaalaAWD4/vaU6bbTMRDru/tBQXJP74LUXgM4OUFCQhRuAEhICK9NMhLx0nKlEF6bEAWYQ1UX5YhynpfvHy11fnOn5ftoPFLuWqlHhhknlFcRQsiZ/4fFA92e3OpJw1q8oKGTiSlL3ilwrx3n7ANYg/nGhdJz24cGgKLx1WxLd1u2no83jfD+enUlA8M3cTRjAK0CozlPzJxjjpPDnBHAej9z6ONyz4hz7IMkhFVgrjmbEgw5WvP0BzL0NKAed9pGnMv0WAA+ojHNuUYIVww7Q8+R77MU/OfKyNxnYOmPqGB9IBcmNWXoMQ4CUaqJyPyz8HyvX24jGvS5//wy4/zYqJp+7fo3qrKt1G1AqHZcOawHT4GEgGjOq4cmVAuABOF9J0hRYVYKICEYBagfROUAf9WFbDy1AEBuh6wdgBBFXTIogI+GAI0D/AJ9SlmjOKTj/QAAAABJRU5ErkJggg=="
+                  alt="Farming"
+                />
+              </div>
+            </div>
+            <span class="card-title">Farming</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=forestry"
+          ><div class="card">
+            <div class="card-icons">
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABv0lEQVRYR+2VTUsCQRjHn+2Ngl50sdLILnaqiJBORRAkBV7CSx8i6NMEfYboEl2Cwk69nMJD9AKRHSrKQLRCUErY+k8zsuiuzox6KX+wPOPAzu+Z/zq71KLFv8fgVZu1aMTiQ9rZjyuv18arFpDHFj00GfISqr0ZWbQTEPLbR4Ouklk++4tKEloJuMmRBFBJQjkBLC5EJzc9rAq8Xc+sifS7Qa/pjFQSSgkshMOucpD9HKH4aZJ8AxYN+0ypJJQfAQS4sFsnus2pUhMATbOBC9p/QrFwwG+yndspZC5ZjcyHWDPHiYSrR/sYYlFcL6kMn6mk/HQ4oZ2AHaSB6PFYRENIBuNquwd1N7CxtGoNBQw6vH7gM/Jy0M6rFkIO+or9lCp8sHEul5eSA+0EIJ9b6WTju4tiKQFZsUCrASH3hPx0vvvE5KpigdJNIvLZ2Ci9JVOlnevKgfSNzZCDmjcL8fh0B4sccrC1fV+3HLguADFqdD3IfoNGy4HjMYQc4kEz//Nu72VzzZCDioUgF8fLHnmjnnk5jt8CyID4s50dfDVFDhwXxLt9eWKMjSGe8QZp82iv4fKqoIla3/IWfwCib7TK6F9JZU2PAAAAAElFTkSuQmCC"
+                  alt="forestry"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACAElEQVRYR+2WO0sDQRSFR9FGbWNMiIWawsbEJz4gWlgINkYUtEihnQRS5SfYpjKF/gVFwZQKFhLQKmjWJkU0jeTZiKiN4soZ94Z12U12hk0R8IPhzkySOWfundkN+6fticZ2VDRtKEynFoUh4fHgBB97+4ekTHRoUQi98H32jlWK37x/m06zYrUgtKawAb34UfKUx7nFEWkTQgYmgyF1L7ZZ33WlVNM+YSww5eYR8yImhAzQYTOKE2QCnB9fs42xAO8nr1KWOrYNYPdItZKpMLfHpc3+BaZgAgYPZmvMtRvh8/HtE0sTwrfg4/2NFfIF04bPYFDPq5LSeuYIZaBcetZGjA37R3mkbFBJYALfmw+FeBbATCJneSZsGzBC937A4+Njoqe3j8enfI6Ft5aa3g7pBxEWQ8Nu9ZlBBtCQIRxEt7exhLQBI3oTACYAzkSjayldAoAy0FU7e1B4REnIDPWtxIG0gdjymrqw0s3yyherln5fA2QC2BEHUiWA+Gp0kPeN4iRoRxwIZ4DEXx7LfPeHl1k+b0fMDKEf7UfCqj/QxYUBxGWFCdslgPj0uq9ecyfEgS0DJA4gjno7IQ6aLkLiqPnNxaej4qBhBnDgUHOA1DstDiwXo3tOxBMZx8VB0zOAnbdKHJgaMHvKtQrLDJB4K+puC7xoZP/r/9NGMPYDlatHmCfsmwEAAAAASUVORK5CYII="
+                  alt="Forestry"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACMklEQVRYR2MYaMAIpYkGG1L9/x+9xAxmd59cR7J+dECSASDLlezUGV4bxYP5+/YcYGjNz6bIEUxQmiCAWQ4CIIv1hX8zOLk4MFRPnPofLEgmIMoByJavfCfPcPPqTYb+lUep4ghIZOIBIMs9misYhJU1Gaad+Q62HATevn7LcPvVN4YAU2kGLkllBll17YbDO7Y1giVJAARDAObzHbUdYFpdWx2OsYVESFoeSaGBNwHBfA+yfAmjPNhSdAByBEjcUE8LKsLAkBeeBKafvbpPMIHiDQGQ72/tXg9mY7McBGAhAQKCYmIMezrrGTpjdMFYSkyRYGjgdADI9yB68ZQ7DFkbL8EtwQZgjgNFBakAZxDBHBAweyNcDchHVgG+cAuRgx/k+/evXjE4aAoy1CTkgeVDe6czxDr64I0KgnGEDSA7BNny85eugeULw63BNAjo6QVS3wEgAHLEpJXzMCyHRVVEZCA4MRJKiATLAVyAl1uw4eOffwwqSnJkWw4CZIcACCBHBTmWgwDZIQCy3M9IlmHP/tMMXMLCYDGQQ9rzyom2HATICoEMD7v/1loCYPbRax8YNp17DGaDACmWgwDRtSEMIFuODEAWk2o5CJCkAd1ymO/JsRgGSA4BGKCG5SBAtGZs8U6p5SBAlAG0shwECBpCS8tBAK9BtLYcBHAaRg/LQQCrgfSyHAQwDKWn5SCAUg6Aynd6Wg4COAsielgOAhgOAPkchAcMgKIBhKHc4Q4YGADjcT1ggWPUuQAAAABJRU5ErkJggg=="
+                  alt="Forestry"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  class="tools-icon"
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACOUlEQVRYR2MYaMAIpYkGIWl5/9W11cHs1vxskvVTBECWv3lx4f/eq1f/r9m//3/1xKn/oVJkAyYoTRCALMvMTwez9+05AKYN9bQYFqhZUOQIooIQZHlhuDXDxbescMtBoMVQCUwvTGlkSLh1gqzoIKgJZjkIHLj+HkyDgFhxM5i2nVAKpsl1BEENoLh20BREsdysoQ/KYmB48Pkrg214MJi9cO5ikh2BVzHI904uDijBnr5uB5SFAHBHWCqBQ6Lqw0uw+LNX9wk6Bm8iBCUyZOC+cC2UhQoUeLnBvmc4fo9BJe4nw6XlpmAsJaZIMIHidAAoywmKiaH4Hh9Q4uGCOIJEgDOIQA4A0cc2bAbzQaBNQBxMgyzDBu59+QamQaEAAncWsRNMEyQlGFiQntDUAfNxAVISJkkOgAGQQ1bIKEJ5uAEoiz6uncYgd3AzdR0AAiBHwKIEG4BFEyFHEF0UowNQFoNlN0oA2Q4AhcCqPAFwngf5FoZBfBCOeHIfohCYNfc9fw1hUwscaTH8/2ZvGBiD2CDHwDBUCRiA+P87p2KIIwOSQwBkoYalKpSHAKAoQS/5QHzp3h68JSJJiRDd8hvHbzOETfpAVJGLC5CdBqhhOQgQ7QAjfdv//ed1wWxqWQ4CRBkAslxRBVLw3L9zn+HF8ydUsRwECBpCS8tBAK9BtLYcBHAaRg/LQQCrgfSyHAQwDKWn5SCAkg1BRSY9LQcBnOUAPSwHAQwHgHwOwgMGsNVqwxgwMAAArckzlBTnVigAAAAASUVORK5CYII="
+                  alt="Forestry"
+                />
+              </div>
+            </div>
+            <span class="card-title">Forestry</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=animal_care"
+          ><div class="card">
+            <div class="card-icons">
+              <div class="icon">
+                <img
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB7UlEQVRYR+2TPUoEQRBG90CKoWAmiiCGGhm4YKLBJmK8V/AEKwaeQ1AjQQwFF4zNNPEAI2+YNxRtz7Lzs4lY8LHdO1X1vq6eGf1Hl7g52C9yqh6vLgS9TY+Lz9lZLfZopUYEN8FTI1XZMEHDr4fLRnhOg5o439otDeTgOSPkUlOV9w+aOQUngVK4z8kf1MD22k79gj2ejmtQKsGImqq8f9BMExhQmlIRPqiBi/WNspmNmwxE8GAGgGtgPHkukKBUR1f3pcj1P9adI4JpfHuyWcxnh/Wds05FHmByqe1lAgM0mty9lHLUOTDyObkY/P547zcFDNj8ev5aNkSLJqBZ1r0MeHpNeCIUgUqwcPKpxXgnExpAcfSePAKjeEYtepru9TdAE5ryqxG/hiih1iFeyM7XYCNOFe+ftfLUmIsSjrFeBhAN4/2zTmFRgIWzp0drAxR5MseeglUKFu4BUOspaMAxawIJdvyLwBrrZEBQeudAUqVQazXF9FobsJH3z28qvg6/kCigwtnTq5UBki0GhIEIoGEqoYq9PejXygChCZo1GYjAqAgnbyk4iRQ4Vv6jkOvIQXISbK+lT25BvFfvlucaEZCK+qilwYYGgOZesCqtNLKMqvR2oXuAmkH+rxnWVclqQ3C1/bX/IzEa/QArKLDwgw9W7gAAAABJRU5ErkJggg=="
+                  alt="animal_care"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACfUlEQVRYR7WTsWpUQRhG9zXs7CSVBElhAlYpXOyCWCgo2JjGKjaKYh9JJ8RCzAvY+AAWEUECgp34AoKFCoIBC/HKGe5Zvszee3eTbAY+/juzM/85d7g7Oul4tPuieX5wUMJzu3z2Q/Dnw19HqiJnKtMFr6NMe2Rx48K51WZ/favk4+bOJMxrGeYLvQngX7fHU/A6KbMwCeHf396YZEhmYRJ718bNu7t3GgQSnukSYb62sVuiAL3atvMNDvx4ea/An74ZT91AJiWoKbCyst0sLT1uvjy5Ob9Ewq88vFUEagmfswo3wJFAgF5zSbCBa1fgz7cPRySuv7paag3vEvAG8hboPSghXIF/f3+XIEJSQnBG+N6l2xM48QZm3kIKbK6uF2ifRJ8AcOqD85cnbz+3AD+yCYHy/PpZgVKRoHoDn+5fLNCsCecZOLHvTAHe+uf+1kSCeUpQEeC7oNYSggnPCginN7fR4qYHQAxTgrkiRDgV8Pvl5UkFmsk3p+faxs58AkoQJGyijBIJp9ZQwYT1YwnwQWYDko2Hkmfoad+ZAvxYC3gDzLPxUAQKP5aAm7sErMQ91DpdAsCpvQL8YNgo0PQJCBgS8M174Qw2Cs/DCe4SyDN17EkGr98m+WyDjHAFWGN/QnPdAB8U8EA77fw3sFZHQNdarg/CGR5sp1P/hvwQjWdyH2s8CzYnEmCtT4D13HNqAX7kYDstw2Y0Bq4Aa+wnzt3nmYSTQThDATa3S2Ut35rfEi6U6rN7BBN6zBRg1BI2M8yFCx4S8NZmXn8OJTJCCd8C6RIgQolrc8MdCTT1bSjix1lDiTfWtj39oKFJUEboQsFdI2VOBx2N/gOYMy8MXHEjFAAAAABJRU5ErkJggg=="
+                  alt="animal care"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAB3RJTUUH6QsVEDobXmLCswAAABd0RVh0U29mdHdhcmUAR0xEUE5HIHZlciAzLjRxhaThAAAACHRwTkdHTEQzAAAAAEqAKR8AAAAEZ0FNQQAAsY8L/GEFAAAABmJLR0QA/wD/AP+gvaeTAAADCUlEQVR4nMWVO2gUURiF7/pA0CCSQNBocJGs5LEqGkwwhUHZgI/CRhARLIKgwVIbG20DQVOtpTYKSgSxEEylaXygFuoGi4iuzQZWNolBLYJwzbnhzP77753J7KrkwuE+Zpjz/efO3DHZbNaspP67Qeto3krVDHAs+cxS9QLsnLC2vWStef+7CmJZ88FOa2+cs38FAGMCaIhVJqQ9Humym9f3m3Rf2B3xW/vW1eEXo6pH5VK1piDjZwLoYyUgW+75Up/J9Ltkwu4bXjhupWLFE0a/b+2oq5rvAPuoJFixlK5eJxAbQI9xPeqzk+bQ9ofzrsd6bAAYopfvg0zEB9Fz4mZgps119csC0IBpaAANAXMYwBBitTTX1QcAB6+csVRUGvIdIADGuN7W2lNhzq2QSYSehDA+eeuIk4bhFkQBwJzVQ9wGCQMArIcCXHt01AGg5zh98byTBJDRS3MCSHMJhPiXBRh7cTqAwFiD0FxHTwC5DdKca5EAunpCUASRPycCUHIbIK4TxPd+BQOZAiE0iIaQAExBpnE5ecDpdvdZp4nMpUBeAJrKypmKnAMidXggkEyBwjNh/ubCdVsYHq8Q1ghREQch0GsImQjn/FokRMehq65qPpMQGoQQVT+jrqaE6+9/nDW54pwbp5s3BetPXzaayZJ18+ZUya1t6W0237vy4hkp82XkjoUwbkmmnQr5XHAP5p9nv5k1vh/UzHyDmXnbYEz318XZnAMow5VMcarJ9bJ17B0w0wtFY2wZYtf+Pc4IDeYcj4/d9f8N+SJijzFHL2PXZ4Q8tOR24IVj7Iya0eOa9KzaAsTLNtS5O7FUbfkarzdu/OGS8rXJ0pTrP7x+Z35+KpgNbS1B5b8GexMVN+sE9P9AnpLyS+EcFcsE+IXoFHTl3gRObetLQN6yFtv0q6KRiaCt69jh1tHCErn35EF15b4EfGLV/OZ9+86qeWQzAUh+kpEnYRQAt4UmPgB9OMUxjwWgpSFoLgF4BMd5Xs0AEsJnXuuz6gIghFY9z6kb4F9pxQH+AMLYEoF2FeGnAAAAAElFTkSuQmCC"
+                  alt="animal_care"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACMklEQVRYR+2Vv2oVQRhHbyG+g62N6dLERoSUEQTBVLERfAMVDZbWEXyBvEFeQRCNL6ClhfgAPoBgc+Usc5afk9ndWZMyH/zYndmZ75w799/muq5rTd2/ebZ9f/dLMzwzZfnVVEJfPPk95M3nX5PheQqVNutL8LuXf4YIsPFUpmRK275iQ4IZ79x4vb1z696Q0929MUcHx2M+nTwc1pGUQaRbIuEt8NfDB9sfz5+NOd/f3756ejrm24dHTZEuCRZ47AkHDKiGE+ZSgpNoSXS9HcLJFDwlhLMmBVoSCCyeQi1AYwUE0RxwwoXuHLwdrwikRJeAR+VboEBCWnMAE14L2HdRAFM/MJ6CjRNegwV6D1Q4EU5v3taCu1gAMXz8/ecowViRVnyljoWSfOXAP94+7hNQgiBhk5QRnK/U/a4XTJhfJcAHkg2KeCo9EUoG4dJ3UYCHtYBhTMMUytRQeghfJeDiloBX4hqudVoC7OU6KcADw0Ka9wgImBNgn70L7mKxUHhuBjInkHvq2JMoUXD/lk3y3gYZ4SQBCc15A3xWwA1l2Pw2MFdHQGsu52fhlBvLcPLbwL1xT65jjnvB5r8EmJsSYD7XXFqAh2wsw6FsVgswx3ri2HXuSTiZhVMKsLhMDXP8qtE4mwsXytV71wgm9FgUoGoJmxnGwgV79d49gsni8WcpkRFK+GMiLQEilDjXDbcSaOrTUCT/KRNKPLHS9vKlSC2TEXql4FYJqVMer6jN5i82Sz8r76XO6QAAAABJRU5ErkJggg=="
+                  alt="animal care"
+                />
+              </div>
+              <div class="icon">
+                <img
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAYAAACcuBHKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAKOSURBVFhH7ZY/TBNRGMB/QgmlvTYpUoMDSDBstQuDYSksJJgY0jRNBwdG0oHVxGgIIboZmSRpHBnrykDiZKJxUBdsWIyENhELV3ukLX+U6rncPa+v/7j2TBz4Te++93rfL+9977vCJf8RV+SAk8xPhnUAVSvxbnevaa6mE90yPxnWR2+OAZD7stdSpEcOOIWqlcTY4/MSDPiZGh/TaxYZ/BOJqfExPRjw8/HDNoVDVZ6uo+H2dEp8JqIDfM3lAAgG/KhaiWDADy1qoy5gh2QsqgMUikUwklsTYhEBGgrQqYSZ/Kh4IGIn5WMwkssizZKb2K6JZCyqHxUPcLl+M3QtKOIen1cIqFoJVSuhKEpbAezuhCmwqg0A8L5QASA9fIbH5wUgm/sm1iuKwqvtTNscbReYWAXuuwpYe0Ai72a9/xAsNXBRAS56HMlYVN/P7rKqDbASOGVxeUnMeXxeNid6ma4MgtQfLkpbCVPgaXWIlcCpKMAn6w9EDzgpH7MzUhUidmkpEZ+J6PvZXRJ5d43Ai8fPAUi9fFZzKzqlqUR8JqL/LB+RyLvZnOgVyTa2UgAszCXFsyxgpx5oJjEbDgmBzHmVu59/ibmFuWSNyJu3GR6tPbT82j51trPhkD7Q1yMEQn0uMZcePhPjja0Ud27fE8/TlUFeK0Xbu4C8E7PhkF6pVMSd3xmp1iRO5N1i7JQAsgTGPbeysZWqE7HWQLcCNJIwSQ+fkci7RQ2YIpnzv1fx1vf+rgVoJaFqpRqRxeUl0RUxBD5d/dG1AHJhmjVxY/Q6J+Vj8UGytmUcFkCWwHI7PD6vEME4exMnjsBKw5dYdwTpvwIdNKN2NH2RKSLjtACtJDBE5JjTApdc0og/zdtg4jCBjSQAAAAASUVORK5CYII="
+                  alt="animal care"
+                />
+              </div>
+            </div>
+            <span class="card-title">Animal Care</span>
+          </div></a
+        >
+      </section>
+
+      <section class="row red">
+        <a href="/pages/station.html?skill=metalworking"
+          ><div class="card">
+            <div class="icon">
+              <img
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACRklEQVRYhe2WP2vbQBjGn1hNNkM+QQhGQzqqk1EoJR4yePE36OJFlGx1MYEMGgoeUjqF4KWL9gxZPHRoySCRSRnjQZigTxDwFhGpg/OqJ929umvcodA8k3T/nt89d7oT8KIX/e/a0DW4Ojko1jV59/kn6/NKZ94d2ACATXunLM/bfbZPazlDlqTYtHeQJelqHKDgIKTCSW9YAIDrLkDmJBqUYDgQFcT1ZaJMolIgzpiTOKguldZyBgBl+6/jHMc/vlU8yyW4Ojko3n7sVTqoJNaJIGQmKm/30VrOBNA7GRJYxa6K21RZkkrQlEjTfikBgngOy/EqMxLX2hRGBKFEVMlIAABwenjOQogwnMR6AhHNuWVtiS8Ekbf7lejEJFQgXFJkmiUpLMdDEM+bAQgi9EdSInXD+oy5WZL56eG5VAc8fQW39+FGEKN4/2avUhn6I+z7X5AruwKW8/s5r73XxwE6PEATxOPNFNeXidRRPCGzJK206Q7s8j2KOnBdZgaoHcUEAexx7f+6pD2wgpA3yzqKog6CeI7b+1A6ipWXkZhEd7A+AGcOaK7j19v7a1/FAFhzLUAdZnq09bSpFoii6q6mMtddwDt7aDR9FsCkNyxcd2HUNoo60q3HSdqEnPn4Ylf6P1CpO7Axvtgt/yt00lJOesPi0/cPeLyZ/tGlRKefLgltAkE8R+iPYDmekTkAWI6H0B8pz/66Gv8JRdGxbNrWVNoloE9xerRlPCgAeGcPAJo/QSOA50CYmhsD1EF0Mj0D/gn9AicRKlNn1r1oAAAAAElFTkSuQmCC"
+                alt="Metalworking"
+              />
+            </div>
+            <span>Metalworking</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=stoneshaping"
+          ><div class="card">
+            <div class="icon">
+              <img
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFgklEQVRYhc2Xf0yUdRzHX88hORAmYBMzBGQPp801ZTC4HWFK5h9ku4w819qazX/UtcZAu2q1navmbsKpf6TYP/KHLbvF3K2NLeeYjjieOexmtmbXw0mAZjaPX3mFcPf0x/H98sABnnOtPv88t+f7fT7v9+f35+A/FiXViyXpsG3rJt6ozDVsDpV0tZBJfQCAtLJ9WMY7sKzyKkwM/zsEWl/M45mqjYbNoeJ1xbHbw9Q01RLPrqPbfVDeE+c/xbuUs5duYXB/Ub1LUgHftqmG4ZjVsDksaH4dV3stUExXSyfQSU1TLQDx7DoAXO0ddLWEjZs3byvfDeSD8fvjEXghz2oApKuFgC6Bqt11xIKt00QAOuU3NofKp2DsOjGo3B1fmIAlFQJ2e5hDFw7gqe+n2t1Mt/sgsWArR7efRPPrANIL4qn5dWwOlVfXTS6q+6EEjtWVUtNUK+McC7YC4HXFAQgESrA5VJmQnvp+appqCQRK8LrinDi13bj84VZjIf1pi4Hfv/YxxvA9Y/XKNNbu2ES3bwQl2ofNobJ5fxHP7c6hqnwMrytOz0WDXW+vQIn2ca5F4dCFA9D3Fb4zOQwO5jIYmzp8b/TuoxHIScugIGPK7TuTgzH0fULRYC6b9xcRz67DWFrKkqy7VJWPoUT7JFijx0LP6XPUNNVSVT5Gz0WD7Az9cHAokoSxaAg++1yj5+Kvit0eJhAowW4P0+iZ+aTbfZDyZ7/G64rLc1+ol3S1kECghEl9QJasmvH8vGFYtArqXO+xIfKNVN7QFsEZiAP9uNo7aGiLcHxPHjZHgpTXVYLTmgD2hXrBVYHdHsbmUAEdgitg+F7qBAB+vGE1hAcgYlKYEJtDlZVw6EIzsWArtp1XAHC1F+OpB9BpaEt2P6RYhmYxAzqtFaSrhVS7m6l2N2MZ7wDg+J48AFkZDW0RRow/5+26i3rg1CfvAihH2GvY7WGgQpKARH+AYgk8qQ+g+RPWaucr0fw6vlAE/Yl8ZTx8bV6MlDzwfme7kgjBjHS1dGJ+J6yFhAdsO6/I82jklwV1pxiCEY5qXyiAdL/NocqKMIMDs+K9ZFm6Ehu5+bgEIBL9m8v6t9ITml9H8+t46vvlHc2vS6u185X4Qr2E7syffEJSHscAmWkrWPdUgXH1+mtAsuVeVxxfqBentUKW7Y0/hpW/JgbmU/foBI7U7jV8oV6085VJZwLcLBnKsHJjNJfI2PwJ+FAC1qVZVK5cxobSHQaIrE/E2GmtkIBOawWNHgteV1w+p17Zrnz0zu6HGpVUhpbMfGryM3lzzRTqZnW6fYrmkyi/4+iJ7ic7nWU6OWeqIhXwWQR2lK6ies1LhrASmLXpWMY75Ppl7oQwk3yNngQRux2OsNf48voPytj9NPqj2oIE5DR8a9NuQ+x5Rfa1rF6ZRjwySuDMVZ5eHkYpeh2Awi3b6Tl9joL1eSjRPgA5KwrW5zH0cwSbQ0WJ9pHzYL3bYkQOL898kvGxKBNMJBFQAMoKNhqJoaJOr10zVovuBshzsZLFgq1yMRGeE2VonpqaX8dz7rZiyV7OLZYSDHYlExCZPR8B8V4Ai/diHffU908Pnv4kImJ4CSPOXi9QsqqcHPvg5RkCc71gBjSDmcVMTvPrckU3n5kbk6u9eNasCA5dU2YR2JK7itFl+QZM93LTnw/Nr1Ptbk6Kn3kICc/NbU7C8kCgRJIAsO28QnDomiIDdWn4DuMPflOys6aUhrYIml9PUjZXhMXidzy7jrSyfZIMzExOX6h3lseELNiIygo2GoBsq2YXz+eBuV4ynwlQcwMTIVhwHxAXAMMXAmegHzgpk8zmUInN+SYWbF0wFGKjMoMv6gGzCG8IcVorku6IITT33QJG/X/kH3NFx0tO12UjAAAAAElFTkSuQmCC"
+                alt="Stoneshaping"
+              />
+            </div>
+            <span>Stoneshaping</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=woodwork"
+          ><div class="card">
+            <div class="icon">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAchJREFUSImtlTFrwlAQx/9JWzehn6AUcUg3m6koRSq4uPgNshQhg5MdpODQQShC61AyZHFx7+DiaJFiEAQtFKpDcHDuIDgZ0XQoL40xL++lehCO5F3u9y55d38BDOtWbmzaWrr6JrDeJ3bMgqQennzXxEUbXcDmhVGDCERctAMTvD93uCoLrIgkUjVr57lejOD6LsN6nR+kahb0YgSGEUMyOXW8qln4yM+4QSIrQJElXOXjALDlFVnihnCBkslpoDeM2GFAh7J/g3gr4QKxjvZBQGTHfr7fMgHA8XuBAGBlztAcTtBvmVsegON5jdrRF6cpWy9GmAlUzcJ43mNOhkCQ+570jbcSRZZw32nsB/r8fqEeiJX5NxXq5Q0TRv1HiixhPdKxieawiea2AG4IAJRqIh4zt1Q5ARjT2zBiKNVEHF2q/rtctLkrYzZsvbzBeqRT10/iZ85Vfj2nVkataDko2InslzO5SzX/PXl7iXYKA2VCkSWkqw2hW4GdyO5qUhjjmnVuBR3PewK5SJ+Re0WWqPJBBbmnAPCrqN4k3sFKpCMUSNWsrcRE9NzWHE6YMaFtOSjY3mkRJoZbj3gmdVAMN8j7KcPG/ABLx9qu8UFvDwAAAABJRU5ErkJggg==" alt="Woodwork" />
+            </div>
+            <span>Woodwork</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=cooking"
+          ><div class="card">
+            <div class="icon">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAkNJREFUSIm1lr9rGmEYxz9ek26FUDIHKhZMShYn0UmHULo4dHeRgEjJEJQScLhNQm0nKS5Z7j9wkWJAkOIhBC5ZSh2OtPgXFJyi1etg3st7+t55DfG73Ms9772f9/nxPu/BBtSrZpxatuBsYm0P5O7q2Lm7Ot4cTED2d9JOLVtw9nfSLujZU0KSuRiDls3Lv68xrCE///Qjwh4J+vgxENOMrkCeBBQGAqA9FiByEAYCPh71qhlltZhmFADDGgLQ/PDcfR8EUYJ61YyT1uu+nmjjtjs+f//bhQZBVkACoo3bfP/cpdiYAJBPxAFIpW7duWIz2rjNm1ff1oLcHMmeyJBlJXMxkrkYs+smfb3M/MU7fvx6y7rDuVIMh7snSojsDcCgZQPQ18tB67vakr053D3xGEXI4KEQTHMOgGFNJHuXSqcORzhn3QtlCLf8dqDKi1dxDGtIPhFfbEIvA9Fgj1QQAUjmYiv2Qcu+tz/A1mklRyrIdmzP8xTvT8818om4W+Li6QsS8ZelgkztEduxPQYtG9ERhFRrBHq0rKk9cscCJkMMa+h2iNAg1QdicVmyJ2GliV3Nrpuk9TqVTskTBgGZ2iMP0DSjFBsTbi4PMM1oQHUupKy6SqdEXy8r4y4SfnOpccoBXz7OQ3nkHq5atuBUOiXfiaKZCq9E+OSOHtTvfA+s3KWn9ojZ/XgZAItDbVi+e1ysJwZn3YvIp6OvgZNVRZBK3VJsTP7vmgDcLizCKIdMFS5YfxcpQULyr5KfwgCE/gGCzUHQtghnrAAAAABJRU5ErkJggg==" alt="Cooking" />
+            </div>
+            <span>Cooking</span>
+          </div></a
+        >
+      </section>
+
+      <section class="row gold">
+        <a href="/pages/station.html?skill=business"
+          ><div class="card">
+            <div class="icon">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAVUExURX5GYvLNdbd/TPzwkvz80iYROQAAAB+HjP8AAAAHdFJOU////////wAaSwNGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAkElEQVQoU82SUQ6EMAhEKbS9/5F3BrDCbkz83GdiYZ6NJSr7kVdKBimPnhJGVasT9EQgRNCNK4GySRDImMyFrRnV1KFolLdckLhK/BAk+7Krcu2Kd3XMTLbEON/gNH+gMBbVPewBc4VCkZHD9uxqLlrVReXfosEkFK4OE6i1UKyOJ/gBUGGtZPLqj/rhUe39AfFvCBTXSQiOAAAAAElFTkSuQmCC" alt="Business" />
+            </div>
+            <span>Business</span>
+          </div></a
+        >
+
+        <a href="/pages/station.html?skill=exploration"
+          ><div class="card">
+            <div class="icon">
+              <img
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAABzUlEQVRIibWVu0oDQRSGvxUxYhUfwRDUBCQEROKms7ANFoKtBCvtJU+QRuwEQULASrAQHyB2rhqCiyhqgvgGklRi467FuuvsZfaG+buZObPf/mfOnFFIqfnZVdM7NxjeKLL4ybSA7XLRt9bWMWXARKD52VXzZHf6d/QeEFF0gF6Y1KpXzbW6qarWx8sby641/aLnGmtajrb+7HIWCxQGkQG9sEiQFzJT2gLg8+EsEWwi0s6vREgahRaD6EaUzI1X1t4ibR0zVtXZ5xIXEKTYqQNSpc7OSCJQlCNvmYtKBArSTGlL6lS8CqGgxlVL0bSc9E/FUpfF7Bx9MRjeKIl7nagwQHlj2bUWWd5t/Rmrh/V8m2Wy42w3oSD7DqnqNDtH8WD2mWSMEZqWYzBsOZ0nMnWVWp7HGiytPzkw8aOiMsYIgMN9g8ZVy9XepKDT+1dgkUoNbi/f2C4X+UsjQI9KLe/ac7hvAPggIGmqhWzVPN6bAqzGaEvsxs21uu+FDQJIQYVs1bzrqIB1ATvdOc67fb4VI/SpjpJro+ik050D4Lzb52V0nRrgA4lODhof/wpxQON04oAK2aq5ubLgmvxvCAT0unFAQEidPTEOCMAPR6XrhB/swKwAAAAASUVORK5CYII="
+                alt="Exploration"
+              />
+            </div>
+            <span>Exploration</span>
+          </div></a
+        >
+      </section>
+
+      <section class="row cyan">
+        <div class="card large">
+          <div class="card-icons">
+            <div class="icon">
+              <img
+                src="/assets/Calculations-BQKFveHV.png"
+                alt="Calculations"
+              />
+            </div>
+          </div>
+          <span class="card-title">Calculations</span>
+        </div>
+      </section>
+    </main>
+
+    <div id="footer"></div>
+
+  </body>
+</html>

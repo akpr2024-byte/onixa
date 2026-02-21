@@ -1,8 +1,7 @@
 import { getIcon } from "./core/icon-system.js";
 import { initMarketCore } from "./market-core.js";
 
-const UGC_API =
-  "https://script.google.com/macros/s/AKfycbw2BJxdEjBooLKIyNVFNwm7-T2tEOuuedj638MUTgPqiZ7qGvAz2NnEMY6bEUfGxCR-7A/exec?action=ugc";
+const UGC_API = "https://pixel-market-api.a-kpr2024.workers.dev/api/ugc";
 
 const UGC_CACHE_KEY = "pixel_ugc_cache_v2";
 const CACHE_TTL = 5 * 60 * 1000;

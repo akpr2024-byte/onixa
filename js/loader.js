@@ -25,50 +25,40 @@ function escapeHTML(str) {
    DOM READY – NON BLOCKING
 --------------------------------*/
 document.addEventListener("DOMContentLoaded", () => {
-  // Header
-  loadHTML("header", "/components/header.html").then(() => bindProfileAuth());
+  // ✅ همیشه UX و Dropdown فعال باشد
+  setupDropdownUX();
+  initSkillDropdowns();
 
-  // Navbar
-  loadHTML("navbar", "/components/navbar.html").then(() => {
-    setupDropdownUX();
-
-    // بعد از اولین paint index ساخته شود
+  // ✅ فقط در صفحات سنگین index ساخته شود
+  if (
+    document.body.classList.contains("station-page") ||
+    document.body.classList.contains("home-page")
+  ) {
     if ("requestIdleCallback" in window) {
       requestIdleCallback(() => {
-        initSkillDropdowns();
         buildGlobalIndex();
       });
     } else {
       setTimeout(() => {
-        initSkillDropdowns();
         buildGlobalIndex();
       }, 200);
     }
-  });
+  }
 
-  // Footer
-  loadHTML("footer", "/components/footer.html");
-
+  // ✅ Popup همیشه آماده باشد
   if (!document.getElementById("popup-overlay")) {
     injectPopup();
   }
+
+  // ✅ Auth modal اگر خواستی فعال باشد
   if (!document.getElementById("auth-overlay")) {
     injectAuthModal();
   }
+
+  // اگر bindProfileAuth استفاده می‌کنی
+  bindProfileAuth();
 });
 
-async function loadHTML(id, path) {
-  const container = document.getElementById(id);
-  if (!container) return;
-
-  try {
-    const res = await fetch(path);
-    if (!res.ok) return;
-    container.innerHTML = await res.text();
-  } catch (err) {
-    console.warn("Failed loading:", path);
-  }
-}
 function bindProfileAuth() {
   const profileBtn = document.getElementById("profileBtn");
   const authOverlay = document.getElementById("auth-overlay");
@@ -183,57 +173,49 @@ async function initSkillDropdowns() {
 }
 
 function setupDropdownUX() {
-  let openedItem = null;
+  // فقط فلش‌ها کنترل‌کننده باشند
+  document.querySelectorAll(".dropdown-toggle").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
 
-  document.querySelectorAll(".nav-item").forEach((item) => {
-    const menu = item.querySelector(".dropdown-menu");
-    if (!menu) return; // ⭐ اگر لیست نداره، دست نزن
+      const parent = btn.closest(".nav-item.dropdown");
+      const isOpen = parent.classList.contains("open");
 
-    const trigger = item.querySelector("a");
+      // بستن همه
+      document
+        .querySelectorAll(".nav-item.dropdown")
+        .forEach((item) => item.classList.remove("open"));
 
-    trigger.addEventListener("click", (e) => {
-      const isOpen = item.classList.contains("open");
-
-      // اگر قبلاً باز بوده → برو به صفحه Skill
-      if (isOpen) {
-        return; // اجازه بده لینک کار خودش رو بکنه
+      // اگر قبلاً باز نبود → باز کن
+      if (!isOpen) {
+        parent.classList.add("open");
       }
-
-      // اگر بسته بوده → فقط باز کن
-      e.preventDefault();
-
-      closeAll();
-      item.classList.add("open");
-      openedItem = item;
     });
   });
 
   // کلیک بیرون → ببند
   document.addEventListener("click", (e) => {
     if (!e.target.closest(".nav-item.dropdown")) {
-      closeAll();
+      document
+        .querySelectorAll(".nav-item.dropdown")
+        .forEach((item) => item.classList.remove("open"));
     }
   });
 
   // ESC → ببند
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
-      closeAll();
+      document
+        .querySelectorAll(".nav-item.dropdown")
+        .forEach((item) => item.classList.remove("open"));
     }
   });
-
-  function closeAll() {
-    document
-      .querySelectorAll(".nav-item.dropdown")
-      .forEach((i) => i.classList.remove("open"));
-    openedItem = null;
-  }
 }
 
 async function loadMarketIndex() {
   try {
     const res = await fetch(
-      "https://script.google.com/macros/s/AKfycbw2BJxdEjBooLKIyNVFNwm7-T2tEOuuedj638MUTgPqiZ7qGvAz2NnEMY6bEUfGxCR-7A/exec?action=market",
+      "https://pixel-market-api.a-kpr2017.workers.dev?action=market",
     );
 
     const json = await res.json();
@@ -388,26 +370,50 @@ function processSkill(skill, items) {
   });
 }
 window.openItemPopup = function (itemId, marketItem = null) {
-  // 🟩 Craftable
   const overlay = document.getElementById("popup-overlay");
-  if (!overlay) {
-    console.warn("Popup not ready yet");
+  if (!overlay) return;
+
+  // اگر index هنوز آماده نیست
+  if (!window.ITEM_BY_ID || Object.keys(window.ITEM_BY_ID).length === 0) {
+    overlay.classList.remove("hidden");
+
+    document.getElementById("popup-title").innerHTML = "Loading...";
+    document.getElementById("popup-content").innerHTML =
+      "<div>Loading item data...</div>";
+
+    if (!window.__INDEX_BUILDING__) {
+      window.__INDEX_BUILDING__ = true;
+
+      buildGlobalIndex();
+    }
+
+    document.addEventListener(
+      "global-index-ready",
+      () => {
+        window.__INDEX_BUILDING__ = false;
+        window.openItemPopup(itemId, marketItem);
+      },
+      { once: true },
+    );
+
     return;
   }
 
-  if (window.ITEM_BY_ID?.[itemId]) {
+  // craftable
+  if (window.ITEM_BY_ID[itemId]) {
     window.openItemPopupById(itemId);
     return;
   }
 
-  // 🟨 Market-only
+  // market only
   if (marketItem) {
-    openMarketOnlyPopup(marketItem);
+    window.openMarketOnlyPopup(marketItem);
     return;
   }
 
   console.warn("No popup available for item:", itemId);
 };
+
 window.openMarketOnlyPopup = function (item) {
   if (!item) return;
 
@@ -513,3 +519,22 @@ async function getSkillData(skill) {
 }
 
 const jsonCache = {};
+// 🧠 Smart background prebuild
+if (
+  !document.body.classList.contains("market-a") &&
+  !document.body.classList.contains("market-b")
+) {
+  if ("requestIdleCallback" in window) {
+    requestIdleCallback(() => {
+      if (!window.GLOBAL_ITEM_INDEX?.length) {
+        buildGlobalIndex();
+      }
+    });
+  } else {
+    setTimeout(() => {
+      if (!window.GLOBAL_ITEM_INDEX?.length) {
+        buildGlobalIndex();
+      }
+    }, 1500);
+  }
+}

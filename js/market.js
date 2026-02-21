@@ -1,8 +1,7 @@
 import { getIcon } from "./core/icon-system.js";
 import { initMarketCore } from "./market-core.js";
 
-const MARKET_API =
-  "https://script.google.com/macros/s/AKfycbw2BJxdEjBooLKIyNVFNwm7-T2tEOuuedj638MUTgPqiZ7qGvAz2NnEMY6bEUfGxCR-7A/exec?action=market";
+const MARKET_API = "https://pixel-market-api.a-kpr2024.workers.dev/api/market";
 
 const MARKET_CACHE_KEY = "pixel_market_cache_v2";
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes

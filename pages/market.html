@@ -26,7 +26,10 @@ default-src 'self';
 script-src 'self';
 style-src 'self' 'unsafe-inline';
 img-src 'self' data: https:;
-connect-src 'self' https://script.google.com https://script.googleusercontent.com;
+connect-src 'self'
+  https://script.google.com
+  https://script.googleusercontent.com
+  https://pixel-market-api.a-kpr2024.workers.dev;
 font-src 'self';
 object-src 'none';
 base-uri 'self';
@@ -37,9 +40,229 @@ base-uri 'self';
   </head>
 
   <body class="market-a">
-    <div id="header"></div>
-    <div id="navbar"></div>
+    <header class="header">
+      <div class="logo">
+        <img
+          class="pic-logo"
+          src="/assets/images/logo/logo-header.png"
+          alt="Resam Logo"
+        />
+      </div>
 
+      <!-- Profile Button -->
+      <div class="profile-menu">
+        <button id="profileBtn" class="profile-btn">
+          <img src="/assets/images/ui/Profile.png" alt="Profile" />
+        </button>
+
+        <div id="profileDropdown" class="profile-dropdown hidden">
+          <a href="/pages/profile.html">Profile</a>
+          <a href="/pages/settings.html">Settings</a>
+          <hr />
+          <a href="/logout">Logout</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- شروع نوبار افقی بالای صفحه -->
+
+    <nav class="top-nav horizontal-nav fullwidth-nav">
+    <div class="nav-item dropdown market">
+      <a class="skill-link" href="/pages/market.html">
+        <div class="nav-icon market-icon">
+          <img src="/assets/images/ui/market.png" alt="market" />
+        </div>
+        <span>Market</span>
+      </a>
+    </div>
+
+    <div class="nav-item dropdown ugc-market">
+      <a class="skill-link" href="/pages/ugc-market.html">
+        <div class="nav-icon ugc-icon">
+          <img src="/assets/images/ui/ugc.png" alt="ugc" />
+        </div>
+        <span>UGC</span>
+      </a>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="home">
+      <a class="skill-link" href="/index.html">
+        <div class="nav-icon">
+          <img src="/assets/images/ui/home.png" alt="home" />
+        </div>
+        <span>Home</span>
+      </a>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="mining">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=mining"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/mining.png" alt="mining" />
+        </div>
+        <span>Mining</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="farming">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=farming"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/farming.png" alt="farming" />
+        </div>
+        <span>Farming</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="forestry">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=forestry"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/forestry.png" alt="forestry" />
+        </div>
+        <span>Forestry</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="animal_care">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=animal_care"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/animal_care.png" alt="animal-care" />
+        </div>
+        <span>Animal Care</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="metalworking">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=metalworking"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/metalworking.png" alt="metalworking" />
+        </div>
+        <span>Metalworking</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="stoneshaping">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=stoneshaping"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/stoneshaping.png" alt="stoneshaping" />
+        </div>
+        <span>Stoneshaping</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="woodwork">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=woodwork"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/woodwork.png" alt="woodwork" />
+        </div>
+        <span>Woodwork</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="cooking">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=cooking"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/cooking.png" alt="cooking" />
+        </div>
+        <span>Cooking</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="business">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=business"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/business.png" alt="business" />
+        </div>
+        <span>Business</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="exploration">
+      <a
+        class="skill-link nav-main-link"
+        href="/pages/station.html?skill=exploration"
+      >
+        <div class="nav-icon">
+          <img src="/assets/images/skill/exploration.png" alt="exploration" />
+        </div>
+        <span>Exploration</span>
+      </a>
+      <button class="dropdown-toggle">
+        <span class="arrow"></span>
+      </button>
+      <div class="dropdown-menu"></div>
+    </div>
+
+    <div class="nav-item dropdown" data-skill="calculations">
+      <a class="skill-link" href="/pages/station.html?skill=calculations">
+        <div class="nav-icon">
+          <img src="/assets/images/ui/calculations.png" alt="calculations" />
+        </div>
+        <span>Calculations</span>
+      </a>
+    </div>
+  </nav>
     <div class="table-wrapper">
       <div class="market-search-bar">
         <input id="searchBox" placeholder="Search item..." />
@@ -60,11 +283,32 @@ base-uri 'self';
       <div id="pagination"></div>
     </div>
 
-    <div id="footer"></div>
+    <footer class="footer">
+      <div class="footer-left">
+        <img
+          src="/assets/images/logo/logo-footer.png"
+          class="footer-logo"
+          alt="Resam Footer Logo"
+        />
+        <span class="footer-text">Powered by Resam</span>
+      </div>
 
-    <script type="module" src="../js/loader.js"></script>
-    <script type="module" src="../js/item-popup.js"></script>
-    <script type="module" src="../js/market-core.js"></script>
-    <script type="module" src="../js/market.js"></script>
+      <div class="footer-right">
+        <a href="#" class="social"
+          ><img src="/assets/images/social/twitter.png" alt="Twitter"
+        /></a>
+        <a href="#" class="social"
+          ><img src="/assets/images/social/discord.png" alt="Discord"
+        /></a>
+        <a href="#" class="social"
+          ><img src="/assets/images/social/telegram.png" alt="Telegram"
+        /></a>
+        <a href="#" class="social"
+          ><img src="/assets/images/social/youtube.png" alt="YouTube"
+        /></a>
+      </div>
+    </footer>
+
+    <script type="module" src="/js/main.js"></script>
   </body>
 </html>

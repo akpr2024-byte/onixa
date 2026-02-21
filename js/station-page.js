@@ -288,7 +288,7 @@ document.addEventListener("click", (e) => {
     if (el.classList?.contains("item-name")) {
       const id = el.dataset.itemId;
       if (id) {
-        window.openItemPopupById(id);
+        window.openItemPopup(id);
       }
       break;
     }
