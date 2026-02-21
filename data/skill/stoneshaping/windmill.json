@@ -21,17 +21,17 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ]
   }

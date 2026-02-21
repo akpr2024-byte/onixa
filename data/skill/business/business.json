@@ -21,16 +21,16 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 40,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -85,16 +85,16 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 6,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 240,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -149,16 +149,16 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 5,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -221,16 +221,16 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 40,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -293,10 +293,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
         "id": "itm_grainbow",
@@ -357,10 +357,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
         "id": "itm_grainbow",
@@ -421,10 +421,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_tatofruit",
@@ -488,10 +488,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_tatofruit",
@@ -555,10 +555,10 @@
         "icon": "/assets/images/items/itm_slothmato.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_coffeefruit",
@@ -622,10 +622,10 @@
         "icon": "/assets/images/items/itm_slothmato.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_coffeefruit",
@@ -689,10 +689,10 @@
         "icon": "/assets/images/items/itm_cubecumber.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_muckchuck",
@@ -756,10 +756,10 @@
         "icon": "/assets/images/items/itm_cubecumber.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_muckchuck",
@@ -817,16 +817,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 36,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_slothmato",
@@ -871,16 +871,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 288,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_slothmato",
@@ -931,10 +931,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_cubecumber",
@@ -993,10 +993,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 3,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_cubecumber",
@@ -1034,9 +1034,9 @@
     ]
   },
   {
-    "id": "itm_constructionPowder",
+    "id": "itm_constructionpowder",
     "name": "Construction Powder",
-    "icon": "/assets/images/items/itm_constructionPowder.png",
+    "icon": "/assets/images/items/itm_constructionpowder.png",
     "tier": 1,
     "level": 13,
     "energy": 184,
@@ -1071,7 +1071,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -1082,16 +1082,16 @@
         "icon": "/assets/images/items/itm_landbbqblueprints.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
         "id": "itm_magnet2",
@@ -1100,10 +1100,10 @@
         "icon": "/assets/images/items/itm_magnet2.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_hotatoseed",
@@ -1112,16 +1112,16 @@
         "icon": "/assets/images/items/itm_hotatoseed.png"
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+        "icon": "/assets/images/items/itm_small_fountain_04.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       },
       {
         "id": "itm_waterland_statue",
@@ -1132,9 +1132,9 @@
     ]
   },
   {
-    "id": "itm_constructionPowder",
+    "id": "itm_constructionpowder",
     "name": "Construction Powder",
-    "icon": "/assets/images/items/itm_constructionPowder.png",
+    "icon": "/assets/images/items/itm_constructionpowder.png",
     "tier": 1,
     "level": 13,
     "energy": 17,
@@ -1169,7 +1169,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -1180,16 +1180,16 @@
         "icon": "/assets/images/items/itm_landbbqblueprints.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
         "id": "itm_magnet2",
@@ -1198,10 +1198,10 @@
         "icon": "/assets/images/items/itm_magnet2.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_hotatoseed",
@@ -1210,16 +1210,16 @@
         "icon": "/assets/images/items/itm_hotatoseed.png"
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+        "icon": "/assets/images/items/itm_small_fountain_04.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       },
       {
         "id": "itm_waterland_statue",
@@ -1229,25 +1229,25 @@
       }
     ]
   },
-  {
+   {
     "id": "itm_flour",
     "name": "Grainbow Flour",
     "icon": "/assets/images/items/itm_flour.png",
     "tier": 1,
-    "level": 8,
-    "energy": 194,
+    "level": 2,
+    "energy": 18,
     "speed_boost": 0,
-    "time": 106,
-    "xp": 780,
+    "time": 11,
+    "xp": 65,
     "xp_type": "business",
     "skill": "Business",
-    "output": 12,
+    "output": 1,
     "station": "Windmill",
     "ingredients": [
       {
         "id": "itm_grainbow",
         "name": "Grainbow",
-        "qty": 12,
+        "qty": 1,
         "icon": "/assets/images/items/itm_grainbow.png"
       }
     ],
@@ -1255,7 +1255,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -1296,10 +1296,10 @@
         "icon": "/assets/images/items/itm_mixedcottoncandypie.png"
       },
       {
-        "id": "itm_popberryLoaf",
+        "id": "itm_popberryloaf",
         "name": "Popberry Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_popberryLoaf.png"
+        "icon": "/assets/images/items/itm_popberryloaf.png"
       },
       {
         "id": "itm_grainbowtart",
@@ -1320,10 +1320,10 @@
         "icon": "/assets/images/items/itm_butterberrypie.png"
       },
       {
-        "id": "itm_scarrotPie",
+        "id": "itm_scarrotpie",
         "name": "Scarrot Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
+        "icon": "/assets/images/items/itm_scarrotpie.png"
       },
       {
         "id": "itm_slothmatopizza",
@@ -1338,52 +1338,52 @@
         "icon": "/assets/images/items/itm_cubecumberloaf.png"
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
       },
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
-        "id": "itm_buttermilkDough",
+        "id": "itm_buttermilkdough",
         "name": "Buttermilk Dough",
         "qty": 1,
-        "icon": "/assets/images/items/itm_buttermilkDough.png"
+        "icon": "/assets/images/items/itm_buttermilkdough.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 6,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       },
       {
-        "id": "itm_kikosPancakes",
+        "id": "itm_kikospancakes",
         "name": "Kiko's Popberry Pancakes",
         "qty": 1,
-        "icon": "/assets/images/items/itm_kikosPancakes.png"
+        "icon": "/assets/images/items/itm_kikospancakes.png"
       },
       {
-        "id": "itm_grumpkinLoaf",
+        "id": "itm_grumpkinloaf",
         "name": "Blue Grumpkin Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
+        "icon": "/assets/images/items/itm_grumpkinloaf.png"
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
       },
       {
         "id": "itm_petfood",
@@ -1394,9 +1394,173 @@
     ]
   },
   {
-    "id": "itm_siftingScreen",
+    "id": "itm_flour",
+    "name": "Grainbow Flour",
+    "icon": "/assets/images/items/itm_flour.png",
+    "tier": 1,
+    "level": 2,
+    "energy": 194,
+    "speed_boost": 0,
+    "time": 11,
+    "xp": 65,
+    "xp_type": "business",
+    "skill": "Business",
+    "output": 12,
+    "station": "Windmill",
+    "ingredients": [
+      {
+        "id": "itm_grainbow",
+        "name": "Grainbow",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_grainbow.png"
+      }
+    ],
+    "craft_in": [
+      {
+        "id": "windmill",
+        "name": "Windmill",
+        "icon": "/assets/images/items/windmill.png"
+      }
+    ],
+    "used in": [
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 10,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 15,
+        "icon": "/assets/images/items/itm_petfood.png"
+      },
+      {
+        "id": "itm_bluecottoncandypie",
+        "name": "Blue Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_bluecottoncandypie.png"
+      },
+      {
+        "id": "itm_pinkcottoncandypie",
+        "name": "Pink Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_pinkcottoncandypie.png"
+      },
+      {
+        "id": "itm_mixedcottoncandypie",
+        "name": "Mixed Cotton Candy Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_mixedcottoncandypie.png"
+      },
+      {
+        "id": "itm_popberryloaf",
+        "name": "Popberry Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_popberryloaf.png"
+      },
+      {
+        "id": "itm_grainbowtart",
+        "name": "Grainbow Tart",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grainbowtart.png"
+      },
+      {
+        "id": "itm_scarrotcake",
+        "name": "Slice of Scarrot Cake",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotcake.png"
+      },
+      {
+        "id": "itm_butterberrypie",
+        "name": "Butterberry Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_butterberrypie.png"
+      },
+      {
+        "id": "itm_scarrotpie",
+        "name": "Scarrot Pie",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotpie.png"
+      },
+      {
+        "id": "itm_slothmatopizza",
+        "name": "Slice of Slothmato Pizza",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slothmatopizza.png"
+      },
+      {
+        "id": "itm_cubecumberloaf",
+        "name": "Cubecumber Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_cubecumberloaf.png"
+      },
+      {
+        "id": "itm_scarrotloaf",
+        "name": "Scarrot Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
+      },
+      {
+        "id": "itm_scarrotstrgnff",
+        "name": "Scarrot Stroganoff",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
+      },
+      {
+        "id": "itm_buttermilkdough",
+        "name": "Buttermilk Dough",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_buttermilkdough.png"
+      },
+      {
+        "id": "itm_meadowmilkbread",
+        "name": "Meadow Milk Grilled Bread",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
+      },
+      {
+        "id": "itm_meadowmilkbread",
+        "name": "Meadow Milk Grilled Bread",
+        "qty": 6,
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
+      },
+      {
+        "id": "itm_kikospancakes",
+        "name": "Kiko's Popberry Pancakes",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_kikospancakes.png"
+      },
+      {
+        "id": "itm_grumpkinloaf",
+        "name": "Blue Grumpkin Loaf",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_grumpkinloaf.png"
+      },
+      {
+        "id": "itm_slthmatoalfred",
+        "name": "Slothmato Alfredo",
+        "qty": 1,
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
+      },
+      {
+        "id": "itm_petfood",
+        "name": "Pet Treat",
+        "qty": 12,
+        "icon": "/assets/images/items/itm_petfood.png"
+      }
+    ]
+  },
+  {
+    "id": "itm_siftingscreen",
     "name": "Sifting Screen",
-    "icon": "/assets/images/items/itm_siftingScreen.png",
+    "icon": "/assets/images/items/itm_siftingscreen.png",
     "tier": 2,
     "level": 30,
     "energy": 20,
@@ -1409,31 +1573,31 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 3,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -1456,9 +1620,9 @@
     ]
   },
   {
-    "id": "itm_blanketWeave",
+    "id": "itm_blanketweave",
     "name": "Blanket Weave",
-    "icon": "/assets/images/items/itm_blanketWeave.png",
+    "icon": "/assets/images/items/itm_blanketweave.png",
     "tier": 4,
     "level": 70,
     "energy": 110,
@@ -1477,16 +1641,16 @@
         "icon": "/assets/images/items/itm_yarnyamcloth.png"
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -1505,7 +1669,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -1543,17 +1707,17 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -1601,7 +1765,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -1657,7 +1821,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -1713,7 +1877,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -1769,14 +1933,14 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
   {
-    "id": "itm_partBlanket",
+    "id": "itm_partblanket",
     "name": "Snuggle Veil",
-    "icon": "/assets/images/items/itm_partBlanket.png",
+    "icon": "/assets/images/items/itm_partblanket.png",
     "tier": 4,
     "level": 60,
     "energy": 62,
@@ -1805,22 +1969,22 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
-    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "icon": "/assets/images/items/itm_yieldreactor.png",
     "tier": 2,
     "level": 20,
     "energy": 105,
@@ -1833,10 +1997,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_mirageEgg",
+        "id": "itm_mirageegg",
         "name": "Mirage Egg",
         "qty": 10,
-        "icon": "/assets/images/items/itm_mirageEgg.png"
+        "icon": "/assets/images/items/itm_mirageegg.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -1845,17 +2009,17 @@
         "icon": "/assets/images/items/itm_tatobrownpigment.png"
       },
       {
-        "id": "itm_partBlanket",
+        "id": "itm_partblanket",
         "name": "Snuggle Veil",
         "qty": 1,
-        "icon": "/assets/images/items/itm_partBlanket.png"
+        "icon": "/assets/images/items/itm_partblanket.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "multi_recipe": true,
@@ -1889,44 +2053,44 @@
         "icon": "/assets/images/items/itm_silkslugslime.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
-        "id": "itm_brownSweatpants",
+        "id": "itm_brownsweatpants",
         "name": "Brown Sweatpants",
         "qty": 1,
-        "icon": "/assets/images/items/itm_brownSweatpants.png"
+        "icon": "/assets/images/items/itm_brownsweatpants.png"
       }
     ]
   },
   {
-    "id": "itm_fireBlessing",
+    "id": "itm_fireblessing",
     "name": "Fire Blessing",
-    "icon": "/assets/images/items/itm_fireBlessing.png",
+    "icon": "/assets/images/items/itm_fireblessing.png",
     "tier": 1,
     "level": 1,
     "energy": 80,
@@ -1957,10 +2121,10 @@
         "icon": "/assets/images/items/itm_coal_01.png"
       },
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 25,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -2054,10 +2218,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 2,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -2147,10 +2311,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
         "id": "itm_moist_salt_encrusted_popberry_skewers",
@@ -2230,10 +2394,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
         "qty": 1,
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png"
       },
       {
         "id": "itm_irontiteredpigment",
@@ -2284,10 +2448,10 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_woodplank_03",
@@ -2306,7 +2470,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -2338,23 +2502,23 @@
         "icon": "/assets/images/items/itm_woodplank_04.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -2386,10 +2550,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 10,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_silkrope",
@@ -2408,7 +2572,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -2468,7 +2632,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -2506,29 +2670,29 @@
         "icon": "/assets/images/items/itm_plaster.png"
       },
       {
-        "id": "itm_clover4LeafFruit",
+        "id": "itm_clover4leaffruit",
         "name": "4-Leaf Clover",
         "qty": 50,
-        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+        "icon": "/assets/images/items/itm_clover4leaffruit.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 24,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 15,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -2554,10 +2718,10 @@
         "icon": "/assets/images/items/itm_coal_01.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       },
       {
         "id": "itm_silkslugslime",
@@ -2570,15 +2734,15 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_fullSuitInlay",
+        "id": "itm_fullsuitinlay",
         "name": "Full Black and White Suit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+        "icon": "/assets/images/items/itm_fullsuitinlay.png"
       },
       {
         "id": "itm_lamp_01",
@@ -2610,10 +2774,10 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       },
       {
         "id": "itm_squishyslime",
@@ -2626,34 +2790,34 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_pixelsNavyShirt",
+        "id": "itm_pixelsnavyshirt",
         "name": "Pixels Navy Blue T-Shirt",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pixelsNavyShirt.png"
+        "icon": "/assets/images/items/itm_pixelsnavyshirt.png"
       }
     ]
   },
   {
-    "id": "itm_fullSuitInlay",
+    "id": "itm_fullsuitinlay",
     "name": "Full Black and White Suit",
-    "icon": "/assets/images/items/itm_fullSuitInlay.png",
+    "icon": "/assets/images/items/itm_fullsuitinlay.png",
     "tier": 2,
     "level": 25,
     "energy": 64,
@@ -2666,16 +2830,16 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 2,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
         "id": "itm_ochruxblackpigment",
@@ -2688,14 +2852,14 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_alpineRug",
+    "id": "itm_alpinerug",
     "name": "Alpine Rug",
-    "icon": "/assets/images/items/itm_alpineRug.png",
+    "icon": "/assets/images/items/itm_alpinerug.png",
     "tier": 2,
     "level": 35,
     "energy": 46,
@@ -2708,36 +2872,36 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_goat_goatFur",
+        "id": "itm_goat_goatfur",
         "name": "Shedded Goat Fur",
         "qty": 4,
-        "icon": "/assets/images/items/itm_goat_goatFur.png"
+        "icon": "/assets/images/items/itm_goat_goatfur.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 3,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_redHoodieJacket",
+    "id": "itm_redhoodiejacket",
     "name": "Red Hoodie Jacket",
-    "icon": "/assets/images/items/itm_redHoodieJacket.png",
+    "icon": "/assets/images/items/itm_redhoodiejacket.png",
     "tier": 3,
     "level": 50,
     "energy": 76,
@@ -2756,30 +2920,30 @@
         "icon": "/assets/images/items/itm_yarnyamcloth.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 2,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_pixelsNavyShirt",
+    "id": "itm_pixelsnavyshirt",
     "name": "Pixels Navy Blue T-Shirt",
-    "icon": "/assets/images/items/itm_pixelsNavyShirt.png",
+    "icon": "/assets/images/items/itm_pixelsnavyshirt.png",
     "tier": 3,
     "level": 57,
     "energy": 82,
@@ -2792,10 +2956,10 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
         "id": "itm_marbleitewhitepigment",
@@ -2804,24 +2968,24 @@
         "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_brownSweatpants",
+    "id": "itm_brownsweatpants",
     "name": "Brown Sweatpants",
-    "icon": "/assets/images/items/itm_brownSweatpants.png",
+    "icon": "/assets/images/items/itm_brownsweatpants.png",
     "tier": 4,
     "level": 60,
     "energy": 87,
@@ -2846,23 +3010,23 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 1,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -2882,16 +3046,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 36,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -2945,16 +3109,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 432,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3018,21 +3182,21 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_tent-v1-01-decoration",
@@ -3065,16 +3229,16 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_archery",
@@ -3116,21 +3280,21 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_tent-v1-01-decoration",
@@ -3163,16 +3327,16 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_archery",
@@ -3210,10 +3374,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3279,10 +3443,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3342,22 +3506,22 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 50,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_slab_orange",
@@ -3370,7 +3534,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -3396,16 +3560,16 @@
         "icon": "/assets/images/items/itm_silkcloth.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 12,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_slab_l_purple",
@@ -3418,7 +3582,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -3438,16 +3602,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 16,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3515,16 +3679,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 80,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 50,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3592,16 +3756,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 36,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3661,16 +3825,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 216,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3715,9 +3879,9 @@
     ]
   },
   {
-    "id": "itm_Plastic",
+    "id": "itm_plastic",
     "name": "Clearshell",
-    "icon": "/assets/images/items/itm_Plastic.png",
+    "icon": "/assets/images/items/itm_plastic.png",
     "tier": 1,
     "level": 15,
     "energy": 25,
@@ -3730,10 +3894,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
         "id": "itm_silkslugslime",
@@ -3746,7 +3910,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -3757,29 +3921,29 @@
         "icon": "/assets/images/items/itm_cunstruction_cone.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       }
     ]
   },
   {
-    "id": "itm_Plastic",
+    "id": "itm_plastic",
     "name": "Clearshell",
-    "icon": "/assets/images/items/itm_Plastic.png",
+    "icon": "/assets/images/items/itm_plastic.png",
     "tier": 2,
     "level": 23,
     "energy": 270,
@@ -3792,10 +3956,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 12,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
         "id": "itm_silkslugslime",
@@ -3808,7 +3972,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -3819,29 +3983,29 @@
         "icon": "/assets/images/items/itm_cunstruction_cone.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       }
     ]
   },
   {
-    "id": "itm_strainingMesh",
+    "id": "itm_strainingmesh",
     "name": "Straining Mesh",
-    "icon": "/assets/images/items/itm_strainingMesh.png",
+    "icon": "/assets/images/items/itm_strainingmesh.png",
     "tier": 1,
     "level": 15,
     "energy": 20,
@@ -3854,10 +4018,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turkeyPowder.png"
+        "icon": "/assets/images/items/itm_turkeypowder.png"
       },
       {
         "id": "itm_woodlog_01",
@@ -3870,15 +4034,15 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       },
       {
         "id": "itm_ochruxblackpigment",
@@ -3899,16 +4063,16 @@
         "icon": "/assets/images/items/itm_popberrybluepigment.png"
       },
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       }
     ]
   },
@@ -3944,7 +4108,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
@@ -3973,10 +4137,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_fireplace-pot-decoration",
@@ -4018,7 +4182,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
@@ -4047,10 +4211,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_fireplace-pot-decoration",
@@ -4088,16 +4252,16 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 4,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 15,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_void",
@@ -4110,14 +4274,14 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_turquoise_Couch",
+    "id": "itm_turquoise_couch",
     "name": "Turquoise Couch",
-    "icon": "/assets/images/items/itm_turquoise_Couch.png",
+    "icon": "/assets/images/items/itm_turquoise_couch.png",
     "tier": 2,
     "level": 21,
     "energy": 138,
@@ -4136,10 +4300,10 @@
         "icon": "/assets/images/items/itm_silkcloth.png"
       },
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 24,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_woodplank_02",
@@ -4148,10 +4312,10 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_silkrope",
@@ -4160,17 +4324,17 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -4190,10 +4354,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 25,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_squishyslime",
@@ -4202,37 +4366,37 @@
         "icon": "/assets/images/items/itm_squishyslime.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 6,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       },
       {
         "id": "itm_tent-v1-02-decoration",
@@ -4276,17 +4440,17 @@
         "icon": "/assets/images/items/itm_squishyslime.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -4332,17 +4496,17 @@
         "icon": "/assets/images/items/itm_squishyslime.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -4367,9 +4531,9 @@
     ]
   },
   {
-    "id": "itm_pinkFence",
+    "id": "itm_pinkfence",
     "name": "Pink Fence",
-    "icon": "/assets/images/items/itm_pinkFence.png",
+    "icon": "/assets/images/items/itm_pinkfence.png",
     "tier": 1,
     "level": 1,
     "energy": 330,
@@ -4400,10 +4564,10 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_heartbeetFruit",
+        "id": "itm_heartbeetfruit",
         "name": "Heartbeet",
         "qty": 100,
-        "icon": "/assets/images/items/itm_heartbeetFruit.png"
+        "icon": "/assets/images/items/itm_heartbeetfruit.png"
       }
     ],
     "craft_in": [
@@ -4430,9 +4594,9 @@
     ]
   },
   {
-    "id": "itm_greenFence",
+    "id": "itm_greenfence",
     "name": "Green Fence",
-    "icon": "/assets/images/items/itm_greenFence.png",
+    "icon": "/assets/images/items/itm_greenfence.png",
     "tier": 1,
     "level": 1,
     "energy": 330,

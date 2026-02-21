@@ -21,16 +21,16 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 40,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -85,16 +85,16 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 6,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 240,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -149,16 +149,16 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 5,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -221,16 +221,16 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 40,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_energy_01",
@@ -293,10 +293,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
         "id": "itm_grainbow",
@@ -357,10 +357,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
         "id": "itm_grainbow",
@@ -421,10 +421,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_tatofruit",
@@ -488,10 +488,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_tatofruit",
@@ -555,10 +555,10 @@
         "icon": "/assets/images/items/itm_slothmato.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_coffeefruit",
@@ -622,10 +622,10 @@
         "icon": "/assets/images/items/itm_slothmato.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_coffeefruit",
@@ -689,10 +689,10 @@
         "icon": "/assets/images/items/itm_cubecumber.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_muckchuck",
@@ -756,10 +756,10 @@
         "icon": "/assets/images/items/itm_cubecumber.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_muckchuck",
@@ -817,16 +817,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 36,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_slothmato",
@@ -871,16 +871,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 288,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 8,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_slothmato",
@@ -931,10 +931,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_cubecumber",
@@ -993,10 +993,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 3,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_cubecumber",
@@ -1049,16 +1049,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 36,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1112,16 +1112,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 432,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1181,10 +1181,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1250,10 +1250,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1313,16 +1313,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 16,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1390,16 +1390,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 80,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 50,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1467,16 +1467,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 36,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -1536,16 +1536,16 @@
     "station": "Winery",
     "ingredients": [
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 216,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",

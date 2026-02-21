@@ -32,9 +32,9 @@
     ]
   },
   {
-    "id": "itm_pig_mudCast",
+    "id": "itm_pig_mudcast",
     "name": "Mud Cast",
-    "icon": "/assets/images/items/itm_pig_mudCast.png",
+    "icon": "/assets/images/items/itm_pig_mudcast.png",
     "tier": null,
     "level": 18,
     "energy": 0,
@@ -69,35 +69,35 @@
     ],
     "used in": [
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png",
         "qty": 2
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png",
         "qty": 12
       }
     ]
   },
   {
-    "id": "itm_pig_pigMilk",
+    "id": "itm_pig_pigmilk",
     "name": "Pig Milk",
-    "icon": "/assets/images/items/itm_pig_pigMilk.png",
+    "icon": "/assets/images/items/itm_pig_pigmilk.png",
     "tier": null,
     "level": 18,
     "energy": 22,
@@ -148,16 +148,16 @@
         "icon": "/assets/images/items/itm_tempboost_yield_10.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       },
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
         "qty": 1,
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       },
       {
         "id": "itm_tempboost_yield_10",
@@ -166,15 +166,15 @@
         "qty": 5
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
-        "icon": "/assets/images/items/itm_pigmilkPutty.png",
+        "icon": "/assets/images/items/itm_pigmilkputty.png",
         "qty": 1
       },
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
-        "icon": "/assets/images/items/itm_miniBarrels.png",
+        "icon": "/assets/images/items/itm_minibarrels.png",
         "qty": 1
       }
     ]
@@ -227,22 +227,22 @@
     ],
     "used in": [
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
         "id": "itm_60dayflower_land_seed",
@@ -251,15 +251,15 @@
         "icon": "/assets/images/items/itm_60dayflower_land_seed.png"
       },
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
-        "icon": "/assets/images/items/itm_trufflePowder.png",
+        "icon": "/assets/images/items/itm_trufflepowder.png",
         "qty": 3
       },
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
-        "icon": "/assets/images/items/itm_trufflePowder.png",
+        "icon": "/assets/images/items/itm_trufflepowder.png",
         "qty": 18
       },
       {
@@ -269,17 +269,17 @@
         "qty": 2
       },
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
-        "icon": "/assets/images/items/itm_pondShrooms.png",
+        "icon": "/assets/images/items/itm_pondshrooms.png",
         "qty": 2
       }
     ]
   },
   {
-    "id": "itm_pig_veggieBacon",
+    "id": "itm_pig_veggiebacon",
     "name": "Veggie Bacon",
-    "icon": "/assets/images/items/itm_pig_veggieBacon.png",
+    "icon": "/assets/images/items/itm_pig_veggiebacon.png",
     "tier": null,
     "level": 18,
     "energy": 0,
@@ -330,10 +330,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_14.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
         "id": "itm_tempboost_speed_14",
@@ -342,9 +342,9 @@
         "qty": 5
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
-        "icon": "/assets/images/items/itm_sizzledBacon.png",
+        "icon": "/assets/images/items/itm_sizzledbacon.png",
         "qty": 2
       }
     ]
@@ -392,27 +392,27 @@
     ],
     "used in": [
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
         "qty": 1,
-        "icon": "/assets/images/items/itm_honeyJava.png"
+        "icon": "/assets/images/items/itm_honeyjava.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       },
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
-        "icon": "/assets/images/items/itm_honeyJava.png",
+        "icon": "/assets/images/items/itm_honeyjava.png",
         "qty": 2
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
-        "icon": "/assets/images/items/itm_impossibleStew.png",
+        "icon": "/assets/images/items/itm_impossiblestew.png",
         "qty": 2
       }
     ]
@@ -501,16 +501,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

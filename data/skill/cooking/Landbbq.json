@@ -27,10 +27,10 @@
         "icon": "/assets/images/items/itm_tree_sap.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
         "id": "itm_hotato",
@@ -43,7 +43,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -54,10 +54,10 @@
         "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -98,9 +98,9 @@
     ]
   },
   {
-    "id": "itm_bbqBase",
+    "id": "itm_bbqbase",
     "name": "BBQ Base",
-    "icon": "/assets/images/items/itm_bbqBase.png",
+    "icon": "/assets/images/items/itm_bbqbase.png",
     "tier": 1,
     "level": 15,
     "energy": 9,
@@ -113,10 +113,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 3,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_milk",
@@ -141,15 +141,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -184,9 +184,9 @@
     ]
   },
   {
-    "id": "itm_bbqBase",
+    "id": "itm_bbqbase",
     "name": "BBQ Base",
-    "icon": "/assets/images/items/itm_bbqBase.png",
+    "icon": "/assets/images/items/itm_bbqbase.png",
     "tier": 1,
     "level": 15,
     "energy": 62,
@@ -199,10 +199,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 18,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_milk",
@@ -227,15 +227,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -270,9 +270,9 @@
     ]
   },
   {
-    "id": "itm_seltsamCustard",
+    "id": "itm_seltsamcustard",
     "name": "Seltsam Egg Grilled Custard",
-    "icon": "/assets/images/items/itm_seltsamCustard.png",
+    "icon": "/assets/images/items/itm_seltsamcustard.png",
     "tier": 1,
     "level": 15,
     "energy": 13,
@@ -285,44 +285,44 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 10,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       }
     ]
   },
   {
-    "id": "itm_goldenCharre",
+    "id": "itm_goldencharre",
     "name": "Golden Ember Charré",
-    "icon": "/assets/images/items/itm_goldenCharre.png",
+    "icon": "/assets/images/items/itm_goldencharre.png",
     "tier": 1,
     "level": 19,
     "energy": 25,
@@ -335,36 +335,36 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goldenEgg",
+        "id": "itm_goldenegg",
         "name": "Golden Egg",
         "qty": 3,
-        "icon": "/assets/images/items/itm_goldenEgg.png"
+        "icon": "/assets/images/items/itm_goldenegg.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 11,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_goatFondue",
+    "id": "itm_goatfondue",
     "name": "Goat Milk Grill-Fondue",
-    "icon": "/assets/images/items/itm_goatFondue.png",
+    "icon": "/assets/images/items/itm_goatfondue.png",
     "tier": 2,
     "level": 35,
     "energy": 18,
@@ -377,30 +377,30 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_goatFondue",
+    "id": "itm_goatfondue",
     "name": "Goat Milk Grill-Fondue",
-    "icon": "/assets/images/items/itm_goatFondue.png",
+    "icon": "/assets/images/items/itm_goatfondue.png",
     "tier": 2,
     "level": 35,
     "energy": 124,
@@ -413,30 +413,30 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 6,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_grassSkewers",
+    "id": "itm_grassskewers",
     "name": "Grassclump Skewers",
-    "icon": "/assets/images/items/itm_grassSkewers.png",
+    "icon": "/assets/images/items/itm_grassskewers.png",
     "tier": 2,
     "level": 37,
     "energy": 44,
@@ -449,16 +449,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_cow_grassClump",
+        "id": "itm_cow_grassclump",
         "name": "Grass Clump",
         "qty": 4,
-        "icon": "/assets/images/items/itm_cow_grassClump.png"
+        "icon": "/assets/images/items/itm_cow_grassclump.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
         "id": "itm_stick",
@@ -467,24 +467,24 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_savoryJerky",
+    "id": "itm_savoryjerky",
     "name": "Savory Earth-Jerky",
-    "icon": "/assets/images/items/itm_savoryJerky.png",
+    "icon": "/assets/images/items/itm_savoryjerky.png",
     "tier": 3,
     "level": 40,
     "energy": 55,
@@ -509,30 +509,30 @@
         "icon": "/assets/images/items/itm_tatofruit.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_pondMayo",
+    "id": "itm_pondmayo",
     "name": "Pond-Reed Mayo",
-    "icon": "/assets/images/items/itm_pondMayo.png",
+    "icon": "/assets/images/items/itm_pondmayo.png",
     "tier": 4,
     "level": 70,
     "energy": 38,
@@ -573,28 +573,28 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ]
   },
   {
-    "id": "itm_pondMayo",
+    "id": "itm_pondmayo",
     "name": "Pond-Reed Mayo",
-    "icon": "/assets/images/items/itm_pondMayo.png",
+    "icon": "/assets/images/items/itm_pondmayo.png",
     "tier": 4,
     "level": 70,
     "energy": 262,
@@ -635,28 +635,28 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ]
   },
   {
-    "id": "itm_scalePlatter",
+    "id": "itm_scaleplatter",
     "name": "Scale-Smoked Feast Platter",
-    "icon": "/assets/images/items/itm_scalePlatter.png",
+    "icon": "/assets/images/items/itm_scaleplatter.png",
     "tier": 4,
     "level": 78,
     "energy": 104,
@@ -669,16 +669,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 20,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_cubecumber",
@@ -697,14 +697,14 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_draconicStew",
+    "id": "itm_draconicstew",
     "name": "Draconic Essence Searing Stew",
-    "icon": "/assets/images/items/itm_draconicStew.png",
+    "icon": "/assets/images/items/itm_draconicstew.png",
     "tier": 4,
     "level": 76,
     "energy": 114,
@@ -717,10 +717,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_butterberry",
@@ -729,10 +729,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 15,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_slothmato",
@@ -745,7 +745,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -765,10 +765,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -793,21 +793,21 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_fauxPlatter",
+        "id": "itm_fauxplatter",
         "name": "Faux-Pork Sizzle Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fauxPlatter.png"
+        "icon": "/assets/images/items/itm_fauxplatter.png"
       },
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
@@ -839,10 +839,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -867,7 +867,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -907,16 +907,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 3,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
         "id": "itm_salt",
@@ -935,15 +935,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
         "qty": 1,
-        "icon": "/assets/images/items/itm_honeyJava.png"
+        "icon": "/assets/images/items/itm_honeyjava.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
@@ -987,10 +987,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -1015,7 +1015,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -1049,10 +1049,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_4_leaf_cloveregano",
@@ -1077,15 +1077,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_saltSkewers.png"
+        "icon": "/assets/images/items/itm_saltskewers.png"
       },
       {
         "id": "itm_dry_pulled_muckchuck_platter",
@@ -1117,10 +1117,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 12,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -1135,17 +1135,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -1165,10 +1165,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -1183,10 +1183,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -1199,7 +1199,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -1219,10 +1219,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 8,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -1237,17 +1237,17 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -1285,17 +1285,17 @@
         "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -1333,17 +1333,17 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   }

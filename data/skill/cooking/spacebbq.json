@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_meadowMilkBread",
+    "id": "itm_meadowmilkbread",
     "name": "Meadow Milk Grilled Bread",
-    "icon": "/assets/images/items/itm_meadowMilkBread.png",
+    "icon": "/assets/images/items/itm_meadowmilkbread.png",
     "tier": 2,
     "level": 35,
     "energy": 28,
@@ -15,16 +15,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 2,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -37,28 +37,28 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       }
     ]
   },
   {
-    "id": "itm_meadowMilkBread",
+    "id": "itm_meadowmilkbread",
     "name": "Meadow Milk Grilled Bread",
-    "icon": "/assets/images/items/itm_meadowMilkBread.png",
+    "icon": "/assets/images/items/itm_meadowmilkbread.png",
     "tier": 2,
     "level": 35,
     "energy": 193,
@@ -71,16 +71,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 12,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 30,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -93,28 +93,28 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       }
     ]
   },
   {
-    "id": "itm_sizzledBacon",
+    "id": "itm_sizzledbacon",
     "name": "Sizzled Veggie Bacon",
-    "icon": "/assets/images/items/itm_sizzledBacon.png",
+    "icon": "/assets/images/items/itm_sizzledbacon.png",
     "tier": 2,
     "level": 38,
     "energy": 25,
@@ -127,16 +127,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_pig_veggieBacon",
+        "id": "itm_pig_veggiebacon",
         "name": "Veggie Bacon",
         "qty": 2,
-        "icon": "/assets/images/items/itm_pig_veggieBacon.png"
+        "icon": "/assets/images/items/itm_pig_veggiebacon.png"
       },
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -149,34 +149,34 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_fauxPlatter",
+        "id": "itm_fauxplatter",
         "name": "Faux-Pork Sizzle Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fauxPlatter.png"
+        "icon": "/assets/images/items/itm_fauxplatter.png"
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishermanGrill.png"
+        "icon": "/assets/images/items/itm_fishermangrill.png"
       }
     ]
   },
   {
-    "id": "itm_saltSkewers",
+    "id": "itm_saltskewers",
     "name": "Salt-Cured Yolk Skewer",
-    "icon": "/assets/images/items/itm_saltSkewers.png",
+    "icon": "/assets/images/items/itm_saltskewers.png",
     "tier": 3,
     "level": 44,
     "energy": 58,
@@ -211,14 +211,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_fishermanGrill",
+    "id": "itm_fishermangrill",
     "name": "Fishermans Breakfast Grill",
-    "icon": "/assets/images/items/itm_fishermanGrill.png",
+    "icon": "/assets/images/items/itm_fishermangrill.png",
     "tier": 3,
     "level": 45,
     "energy": 68,
@@ -237,10 +237,10 @@
         "icon": "/assets/images/items/itm_duck_egg.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
         "id": "itm_rarefish_05",
@@ -265,14 +265,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_colorfulSalad",
+    "id": "itm_colorfulsalad",
     "name": "Colorful Feather Fire Salad",
-    "icon": "/assets/images/items/itm_colorfulSalad.png",
+    "icon": "/assets/images/items/itm_colorfulsalad.png",
     "tier": 3,
     "level": 52,
     "energy": 80,
@@ -285,10 +285,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_turkey_colorfulFeather",
+        "id": "itm_turkey_colorfulfeather",
         "name": "Colorful Feather",
         "qty": 5,
-        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+        "icon": "/assets/images/items/itm_turkey_colorfulfeather.png"
       },
       {
         "id": "itm_cubecumber",
@@ -319,14 +319,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_dragonfireSauce",
+    "id": "itm_dragonfiresauce",
     "name": "Dragonfire Pit BBQ Sauce",
-    "icon": "/assets/images/items/itm_dragonfireSauce.png",
+    "icon": "/assets/images/items/itm_dragonfiresauce.png",
     "tier": 4,
     "level": 73,
     "energy": 44,
@@ -345,10 +345,10 @@
         "icon": "/assets/images/items/itm_dragon_essence.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
         "id": "itm_hotato",
@@ -357,17 +357,17 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
@@ -378,10 +378,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_6.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_draconicStew.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       }
     ]
   },
@@ -401,10 +401,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 15,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -419,17 +419,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -449,10 +449,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 6,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -467,10 +467,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_4_leaf_cloveregano",
@@ -483,7 +483,7 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -503,10 +503,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -521,10 +521,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -537,7 +537,7 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -575,17 +575,17 @@
         "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
@@ -631,17 +631,17 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   }

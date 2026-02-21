@@ -69,16 +69,16 @@
         "icon": "/assets/images/items/itm_soil_04.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       }
     ]
   },
@@ -152,23 +152,23 @@
         "icon": "/assets/images/items/itm_soil_04.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       }
     ]
   },
   {
-    "id": "itm_Glue",
+    "id": "itm_glue",
     "name": "Glue",
-    "icon": "/assets/images/items/itm_Glue.png",
+    "icon": "/assets/images/items/itm_glue.png",
     "tier": 1,
     "level": 3,
     "energy": 9,
@@ -223,10 +223,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_kiln_kit_01",
@@ -265,10 +265,10 @@
         "icon": "/assets/images/items/itm_woodmould_02.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_grindstone_01",
@@ -289,10 +289,10 @@
         "icon": "/assets/images/items/itm_woodchest_01.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       },
       {
         "id": "itm_woodchest_02",
@@ -301,41 +301,41 @@
         "icon": "/assets/images/items/itm_woodchest_02.png"
       },
       {
-        "id": "itm_puffBasket",
+        "id": "itm_puffbasket",
         "name": "Puff-lined Basket",
         "qty": 1,
-        "icon": "/assets/images/items/itm_puffBasket.png"
+        "icon": "/assets/images/items/itm_puffbasket.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
   {
-    "id": "itm_Glue",
+    "id": "itm_glue",
     "name": "Glue",
-    "icon": "/assets/images/items/itm_Glue.png",
+    "icon": "/assets/images/items/itm_glue.png",
     "tier": 1,
     "level": 6,
     "energy": 98,
@@ -390,10 +390,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_kiln_kit_01",
@@ -432,10 +432,10 @@
         "icon": "/assets/images/items/itm_woodmould_02.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_grindstone_01",
@@ -456,10 +456,10 @@
         "icon": "/assets/images/items/itm_woodchest_01.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       },
       {
         "id": "itm_woodchest_02",
@@ -468,41 +468,41 @@
         "icon": "/assets/images/items/itm_woodchest_02.png"
       },
       {
-        "id": "itm_puffBasket",
+        "id": "itm_puffbasket",
         "name": "Puff-lined Basket",
         "qty": 1,
-        "icon": "/assets/images/items/itm_puffBasket.png"
+        "icon": "/assets/images/items/itm_puffbasket.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
   {
-    "id": "itm_Wooden_Stool",
+    "id": "itm_wooden_stool",
     "name": "Wooden Stool",
-    "icon": "/assets/images/items/itm_Wooden_Stool.png",
+    "icon": "/assets/images/items/itm_wooden_stool.png",
     "tier": 1,
     "level": 1,
     "energy": 14,
@@ -566,10 +566,10 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -617,10 +617,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -647,17 +647,17 @@
     ],
     "used in": [
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
         "qty": 1,
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       }
     ]
   },
   {
-    "id": "itm_Wooden_Throne",
+    "id": "itm_wooden_throne",
     "name": "Wooden Throne",
-    "icon": "/assets/images/items/itm_Wooden_Throne.png",
+    "icon": "/assets/images/items/itm_wooden_throne.png",
     "tier": 2,
     "level": 22,
     "energy": 36,
@@ -682,16 +682,16 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 25,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 4,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -734,16 +734,16 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 24,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_woodplank_01",
@@ -752,10 +752,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_Hay_Stack_Medium",
+        "id": "itm_hay_stack_medium",
         "name": "Hay Stack Medium",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Hay_Stack_Medium.png"
+        "icon": "/assets/images/items/itm_hay_stack_medium.png"
       }
     ],
     "craft_in": [
@@ -803,10 +803,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 2,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -944,10 +944,10 @@
         "icon": "/assets/images/items/itm_pickaxe_03.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       }
     ]
   },
@@ -1005,10 +1005,10 @@
         "icon": "/assets/images/items/itm_pickaxe_04.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       }
     ]
   },
@@ -1055,10 +1055,10 @@
     ],
     "used in": [
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       }
     ]
   },
@@ -1084,16 +1084,16 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 12,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -1159,10 +1159,10 @@
         "icon": "/assets/images/items/itm_shears_01.png"
       },
       {
-        "id": "itm_rustyWateringCan",
+        "id": "itm_rustywateringcan",
         "name": "Rusty Watering Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+        "icon": "/assets/images/items/itm_rustywateringcan.png"
       },
       {
         "id": "itm_axe_01",
@@ -1171,10 +1171,10 @@
         "icon": "/assets/images/items/itm_axe_01.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 2,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -1222,10 +1222,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -1429,10 +1429,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_01.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       }
     ]
   },
@@ -1614,10 +1614,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_01.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       }
     ]
   },
@@ -1667,16 +1667,16 @@
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_Wooden_Stool",
+        "id": "itm_wooden_stool",
         "name": "Wooden Stool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Stool.png"
+        "icon": "/assets/images/items/itm_wooden_stool.png"
       },
       {
         "id": "itm_log_decoration2",
@@ -1685,10 +1685,10 @@
         "icon": "/assets/images/items/itm_log_decoration2.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_scarecrow",
@@ -1757,10 +1757,10 @@
         "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_stove_kit_03",
@@ -1769,22 +1769,22 @@
         "icon": "/assets/images/items/itm_stove_kit_03.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_pickaxe_03",
@@ -1835,22 +1835,22 @@
         "icon": "/assets/images/items/itm_fence.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 1,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 6,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodchest_02",
@@ -1871,10 +1871,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_02.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
         "id": "itm_archery",
@@ -1931,10 +1931,10 @@
         "icon": "/assets/images/items/itm_tent-v1-02-decoration.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_stove_kit_03",
@@ -1943,22 +1943,22 @@
         "icon": "/assets/images/items/itm_stove_kit_03.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_pickaxe_03",
@@ -2009,22 +2009,22 @@
         "icon": "/assets/images/items/itm_fence.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 1,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 6,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodchest_02",
@@ -2045,10 +2045,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_02.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
         "id": "itm_archery",
@@ -2142,16 +2142,16 @@
         "icon": "/assets/images/items/itm_axe_04.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
         "id": "itm_woodchest_03",
@@ -2160,10 +2160,10 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -2263,16 +2263,16 @@
         "icon": "/assets/images/items/itm_axe_04.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
         "id": "itm_woodchest_03",
@@ -2281,10 +2281,10 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -2349,16 +2349,16 @@
         "icon": "/assets/images/items/itm_woodmould_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 6,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
         "id": "itm_woodchest_04",
@@ -2429,16 +2429,16 @@
         "icon": "/assets/images/items/itm_woodmould_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 6,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
         "id": "itm_woodchest_04",
@@ -2740,10 +2740,10 @@
         "icon": "/assets/images/items/itm_wooddowel_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -2842,22 +2842,22 @@
         "icon": "/assets/images/items/itm_woodwheel_04.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 1,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 6,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
         "id": "itm_woodbeam_02",
@@ -3001,10 +3001,10 @@
         "icon": "/assets/images/items/itm_wooddowel_02.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -3050,10 +3050,10 @@
         "icon": "/assets/images/items/itm_gear_02.png"
       },
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       }
     ]
   },
@@ -3105,10 +3105,10 @@
         "icon": "/assets/images/items/itm_woodmould_03.png"
       },
       {
-        "id": "itm_hornChimes",
+        "id": "itm_hornchimes",
         "name": "Horn-Flake Chimes",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornChimes.png"
+        "icon": "/assets/images/items/itm_hornchimes.png"
       },
       {
         "id": "itm_woodbeam_03",
@@ -3172,16 +3172,16 @@
     ],
     "used in": [
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 6,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
         "id": "itm_sundial_03",
@@ -3280,10 +3280,10 @@
     ],
     "used in": [
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
         "qty": 1,
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png"
       },
       {
         "id": "itm_sushi_kit_03",
@@ -3410,10 +3410,10 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_sundial_04",
@@ -3508,10 +3508,10 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_9",
@@ -3657,10 +3657,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_7.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       }
     ]
   },
@@ -3724,10 +3724,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_8.png"
       },
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       }
     ]
   },
@@ -3780,10 +3780,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_9.png"
       },
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       }
     ]
   },
@@ -3840,9 +3840,9 @@
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
-    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "icon": "/assets/images/items/itm_yieldreactor.png",
     "tier": 2,
     "level": 20,
     "energy": 105,
@@ -4056,10 +4056,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_hardware_01",
@@ -4092,10 +4092,10 @@
     ],
     "used in": [
       {
-        "id": "itm_woolslimeStorage",
+        "id": "itm_woolslimestorage",
         "name": "Woolslime Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+        "icon": "/assets/images/items/itm_woolslimestorage.png"
       },
       {
         "id": "itm_woodchest_02",
@@ -4151,34 +4151,34 @@
     ],
     "used in": [
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_woodbeam_01",
@@ -4240,34 +4240,34 @@
     ],
     "used in": [
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_woodbeam_01",
@@ -4284,9 +4284,9 @@
     ]
   },
   {
-    "id": "itm_burnyCandle",
+    "id": "itm_burnycandle",
     "name": "Very Burny Tallow Candle",
-    "icon": "/assets/images/items/itm_burnyCandle.png",
+    "icon": "/assets/images/items/itm_burnycandle.png",
     "tier": 1,
     "level": 11,
     "energy": 27,
@@ -4299,16 +4299,16 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 3,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -4317,10 +4317,10 @@
         "icon": "/assets/images/items/itm_oil_whittlewoo.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 15,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       }
     ],
     "craft_in": [
@@ -4418,9 +4418,9 @@
     ]
   },
   {
-    "id": "itm_woolslimeStorage",
+    "id": "itm_woolslimestorage",
     "name": "Woolslime Storage Chest",
-    "icon": "/assets/images/items/itm_woolslimeStorage.png",
+    "icon": "/assets/images/items/itm_woolslimestorage.png",
     "tier": 1,
     "level": 15,
     "energy": 37,
@@ -4433,10 +4433,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_woolyweedFruit",
+        "id": "itm_woolyweedfruit",
         "name": "Wool Wad",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+        "icon": "/assets/images/items/itm_woolyweedfruit.png"
       },
       {
         "id": "itm_silkslugslime",
@@ -4502,10 +4502,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_nail_01",
@@ -4514,10 +4514,10 @@
         "icon": "/assets/images/items/itm_nail_01.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       }
     ],
     "craft_in": [
@@ -4544,9 +4544,9 @@
     ]
   },
   {
-    "id": "itm_miniBarrels",
+    "id": "itm_minibarrels",
     "name": "Miniature Milk Barrel Set",
-    "icon": "/assets/images/items/itm_miniBarrels.png",
+    "icon": "/assets/images/items/itm_minibarrels.png",
     "tier": 2,
     "level": 22,
     "energy": 49,
@@ -4565,10 +4565,10 @@
         "icon": "/assets/images/items/itm_cow_buttermilk.png"
       },
       {
-        "id": "itm_pig_pigMilk",
+        "id": "itm_pig_pigmilk",
         "name": "Pig Milk",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+        "icon": "/assets/images/items/itm_pig_pigmilk.png"
       },
       {
         "id": "itm_nail_02",
@@ -4602,17 +4602,17 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       }
     ]
   },
   {
-    "id": "itm_stickySlimewood",
+    "id": "itm_stickyslimewood",
     "name": "Sticky Slimewood",
-    "icon": "/assets/images/items/itm_stickySlimewood.png",
+    "icon": "/assets/images/items/itm_stickyslimewood.png",
     "tier": 2,
     "level": 24,
     "energy": 16,
@@ -4625,10 +4625,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_slug_shimmerSlime",
+        "id": "itm_slug_shimmerslime",
         "name": "Shimmer Slime",
         "qty": 2,
-        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+        "icon": "/assets/images/items/itm_slug_shimmerslime.png"
       },
       {
         "id": "itm_wooddowel_02",
@@ -4662,35 +4662,35 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       }
     ]
   },
   {
-    "id": "itm_stickySlimewood",
+    "id": "itm_stickyslimewood",
     "name": "Sticky Slimewood",
-    "icon": "/assets/images/items/itm_stickySlimewood.png",
+    "icon": "/assets/images/items/itm_stickyslimewood.png",
     "tier": 2,
     "level": 24,
     "energy": 110,
@@ -4703,10 +4703,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_slug_shimmerSlime",
+        "id": "itm_slug_shimmerslime",
         "name": "Shimmer Slime",
         "qty": 12,
-        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+        "icon": "/assets/images/items/itm_slug_shimmerslime.png"
       },
       {
         "id": "itm_wooddowel_02",
@@ -4740,28 +4740,28 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       }
     ]
   },
@@ -4793,10 +4793,10 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_hardware_02",
@@ -4824,10 +4824,10 @@
     ],
     "used in": [
       {
-        "id": "itm_featherStorage",
+        "id": "itm_featherstorage",
         "name": "Featherlight Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherStorage.png"
+        "icon": "/assets/images/items/itm_featherstorage.png"
       },
       {
         "id": "itm_woodchest_03",
@@ -4878,46 +4878,46 @@
     ],
     "used in": [
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       },
       {
         "id": "itm_gear_02",
@@ -4986,46 +4986,46 @@
     ],
     "used in": [
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       },
       {
         "id": "itm_gear_02",
@@ -5054,9 +5054,9 @@
     ]
   },
   {
-    "id": "itm_duraAxe_02",
+    "id": "itm_duraaxe_02",
     "name": "More Durable T2 Axe",
-    "icon": "/assets/images/items/itm_duraAxe_02.png",
+    "icon": "/assets/images/items/itm_duraaxe_02.png",
     "tier": 2,
     "level": 27,
     "energy": 57,
@@ -5075,10 +5075,10 @@
         "icon": "/assets/images/items/itm_axe_02.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 5,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -5112,9 +5112,9 @@
     ]
   },
   {
-    "id": "itm_duraPick_02",
+    "id": "itm_durapick_02",
     "name": "More Durable T2 Pickaxe",
-    "icon": "/assets/images/items/itm_duraPick_02.png",
+    "icon": "/assets/images/items/itm_durapick_02.png",
     "tier": 2,
     "level": 27,
     "energy": 57,
@@ -5133,10 +5133,10 @@
         "icon": "/assets/images/items/itm_pickaxe_02.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 5,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -5170,9 +5170,9 @@
     ]
   },
   {
-    "id": "itm_royalSealant",
+    "id": "itm_royalsealant",
     "name": "Royal Sealant",
-    "icon": "/assets/images/items/itm_royalSealant.png",
+    "icon": "/assets/images/items/itm_royalsealant.png",
     "tier": 2,
     "level": 30,
     "energy": 18,
@@ -5185,28 +5185,28 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 2,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_rustyWateringCan",
+        "id": "itm_rustywateringcan",
         "name": "Rusty Watering Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+        "icon": "/assets/images/items/itm_rustywateringcan.png"
       }
     ],
     "craft_in": [
@@ -5234,10 +5234,10 @@
         "icon": "/assets/images/items/itm_fishing_rod_2.png"
       },
       {
-        "id": "itm_featherStorage",
+        "id": "itm_featherstorage",
         "name": "Featherlight Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherStorage.png"
+        "icon": "/assets/images/items/itm_featherstorage.png"
       },
       {
         "id": "itm_woodbhouse_02",
@@ -5248,9 +5248,9 @@
     ]
   },
   {
-    "id": "itm_royalSealant",
+    "id": "itm_royalsealant",
     "name": "Royal Sealant",
-    "icon": "/assets/images/items/itm_royalSealant.png",
+    "icon": "/assets/images/items/itm_royalsealant.png",
     "tier": 2,
     "level": 30,
     "energy": 124,
@@ -5263,16 +5263,16 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 12,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       }
     ],
     "craft_in": [
@@ -5300,10 +5300,10 @@
         "icon": "/assets/images/items/itm_fishing_rod_2.png"
       },
       {
-        "id": "itm_featherStorage",
+        "id": "itm_featherstorage",
         "name": "Featherlight Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherStorage.png"
+        "icon": "/assets/images/items/itm_featherstorage.png"
       },
       {
         "id": "itm_woodbhouse_02",
@@ -5314,9 +5314,9 @@
     ]
   },
   {
-    "id": "itm_featherStorage",
+    "id": "itm_featherstorage",
     "name": "Featherlight Storage Chest",
-    "icon": "/assets/images/items/itm_featherStorage.png",
+    "icon": "/assets/images/items/itm_featherstorage.png",
     "tier": 2,
     "level": 31,
     "energy": 70,
@@ -5341,10 +5341,10 @@
         "icon": "/assets/images/items/itm_volatileyolkcompound.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 2,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       }
     ],
     "craft_in": [
@@ -5432,9 +5432,9 @@
     ]
   },
   {
-    "id": "itm_puffBasket",
+    "id": "itm_puffbasket",
     "name": "Puff-lined Basket",
-    "icon": "/assets/images/items/itm_puffBasket.png",
+    "icon": "/assets/images/items/itm_puffbasket.png",
     "tier": 2,
     "level": 35,
     "energy": 44,
@@ -5447,16 +5447,16 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_softPackingKit",
+        "id": "itm_softpackingkit",
         "name": "Soft Packing Kit",
         "qty": 2,
-        "icon": "/assets/images/items/itm_softPackingKit.png"
+        "icon": "/assets/images/items/itm_softpackingkit.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_woodlog_02",
@@ -5517,16 +5517,16 @@
         "icon": "/assets/images/items/itm_nail_02.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       }
     ],
     "craft_in": [
@@ -5548,9 +5548,9 @@
     ]
   },
   {
-    "id": "itm_babyWingDisplay",
+    "id": "itm_babywingdisplay",
     "name": "Baby Bee Wing Display",
-    "icon": "/assets/images/items/itm_babyWingDisplay.png",
+    "icon": "/assets/images/items/itm_babywingdisplay.png",
     "tier": 2,
     "level": 38,
     "energy": 54,
@@ -5563,16 +5563,16 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_bee_babyWings",
+        "id": "itm_bee_babywings",
         "name": "Baby Bee Wings",
         "qty": 4,
-        "icon": "/assets/images/items/itm_bee_babyWings.png"
+        "icon": "/assets/images/items/itm_bee_babywings.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
         "id": "itm_woodplank_02",
@@ -5606,9 +5606,9 @@
     ]
   },
   {
-    "id": "itm_woolTimber",
+    "id": "itm_wooltimber",
     "name": "Wool-Bound Timber",
-    "icon": "/assets/images/items/itm_woolTimber.png",
+    "icon": "/assets/images/items/itm_wooltimber.png",
     "tier": 3,
     "level": 43,
     "energy": 24,
@@ -5621,10 +5621,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_sheep_knottedWool",
+        "id": "itm_sheep_knottedwool",
         "name": "Knotted Wool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+        "icon": "/assets/images/items/itm_sheep_knottedwool.png"
       },
       {
         "id": "itm_woodplank_03",
@@ -5633,10 +5633,10 @@
         "icon": "/assets/images/items/itm_woodplank_03.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       }
     ],
     "craft_in": [
@@ -5653,29 +5653,29 @@
     ],
     "used in": [
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       }
     ]
   },
   {
-    "id": "itm_woolTimber",
+    "id": "itm_wooltimber",
     "name": "Wool-Bound Timber",
-    "icon": "/assets/images/items/itm_woolTimber.png",
+    "icon": "/assets/images/items/itm_wooltimber.png",
     "tier": 3,
     "level": 43,
     "energy": 166,
@@ -5688,10 +5688,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_sheep_knottedWool",
+        "id": "itm_sheep_knottedwool",
         "name": "Knotted Wool",
         "qty": 12,
-        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+        "icon": "/assets/images/items/itm_sheep_knottedwool.png"
       },
       {
         "id": "itm_woodplank_03",
@@ -5700,10 +5700,10 @@
         "icon": "/assets/images/items/itm_woodplank_03.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 6,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       }
     ],
     "craft_in": [
@@ -5720,29 +5720,29 @@
     ],
     "used in": [
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       }
     ]
   },
   {
-    "id": "itm_mortarBox",
+    "id": "itm_mortarbox",
     "name": "Mortared Planter Box",
-    "icon": "/assets/images/items/itm_mortarBox.png",
+    "icon": "/assets/images/items/itm_mortarbox.png",
     "tier": 3,
     "level": 45,
     "energy": 71,
@@ -5755,10 +5755,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 10,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
         "id": "itm_mulch",
@@ -5852,10 +5852,10 @@
     ],
     "used in": [
       {
-        "id": "itm_wingedStorage",
+        "id": "itm_wingedstorage",
         "name": "Winged Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_wingedStorage.png"
+        "icon": "/assets/images/items/itm_wingedstorage.png"
       },
       {
         "id": "itm_woodchest_04",
@@ -5901,34 +5901,34 @@
     ],
     "used in": [
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "name": "Grade II Alchemic Forge",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       },
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       },
       {
         "id": "itm_gear_03",
@@ -5992,34 +5992,34 @@
     ],
     "used in": [
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "name": "Grade II Alchemic Forge",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       },
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       },
       {
         "id": "itm_gear_03",
@@ -6048,9 +6048,9 @@
     ]
   },
   {
-    "id": "itm_featherResinBoards",
+    "id": "itm_featherresinboards",
     "name": "Featherlight Resin Boards",
-    "icon": "/assets/images/items/itm_featherResinBoards.png",
+    "icon": "/assets/images/items/itm_featherresinboards.png",
     "tier": 3,
     "level": 50,
     "energy": 28,
@@ -6063,10 +6063,10 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
         "id": "itm_woodplank_03",
@@ -6075,16 +6075,16 @@
         "icon": "/assets/images/items/itm_woodplank_03.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       }
     ],
     "craft_in": [
@@ -6101,17 +6101,17 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "name": "Grade II Alchemic Forge",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       }
     ]
   },
   {
-    "id": "itm_duraAxe_03",
+    "id": "itm_duraaxe_03",
     "name": "More Durable T3 Axe",
-    "icon": "/assets/images/items/itm_duraAxe_03.png",
+    "icon": "/assets/images/items/itm_duraaxe_03.png",
     "tier": 3,
     "level": 50,
     "energy": 80,
@@ -6130,16 +6130,16 @@
         "icon": "/assets/images/items/itm_axe_03.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_goat_hornFlakes",
+        "id": "itm_goat_hornflakes",
         "name": "Tiny Horn Flakes",
         "qty": 2,
-        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+        "icon": "/assets/images/items/itm_goat_hornflakes.png"
       },
       {
         "id": "itm_woodoil_03",
@@ -6162,9 +6162,9 @@
     ]
   },
   {
-    "id": "itm_duraPick_03",
+    "id": "itm_durapick_03",
     "name": "More Durable T3 Pickaxe",
-    "icon": "/assets/images/items/itm_duraPick_03.png",
+    "icon": "/assets/images/items/itm_durapick_03.png",
     "tier": 3,
     "level": 50,
     "energy": 84,
@@ -6183,16 +6183,16 @@
         "icon": "/assets/images/items/itm_pickaxe_03.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_sheep_babyWoolPuff",
+        "id": "itm_sheep_babywoolpuff",
         "name": "Fine Baby Wool Puff",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png"
+        "icon": "/assets/images/items/itm_sheep_babywoolpuff.png"
       },
       {
         "id": "itm_woodoil_03",
@@ -6276,9 +6276,9 @@
     ]
   },
   {
-    "id": "itm_wingedStorage",
+    "id": "itm_wingedstorage",
     "name": "Winged Storage Chest",
-    "icon": "/assets/images/items/itm_wingedStorage.png",
+    "icon": "/assets/images/items/itm_wingedstorage.png",
     "tier": 3,
     "level": 56,
     "energy": 110,
@@ -6297,16 +6297,16 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_bee_babyWings",
+        "id": "itm_bee_babywings",
         "name": "Baby Bee Wings",
         "qty": 3,
-        "icon": "/assets/images/items/itm_bee_babyWings.png"
+        "icon": "/assets/images/items/itm_bee_babywings.png"
       }
     ],
     "craft_in": [
@@ -6356,16 +6356,16 @@
         "icon": "/assets/images/items/itm_nail_03.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       }
     ],
     "craft_in": [
@@ -6382,9 +6382,9 @@
     ]
   },
   {
-    "id": "itm_rainbowPlank",
+    "id": "itm_rainbowplank",
     "name": "Rainbow Planks",
-    "icon": "/assets/images/items/itm_rainbowPlank.png",
+    "icon": "/assets/images/items/itm_rainbowplank.png",
     "tier": 4,
     "level": 60,
     "energy": 42,
@@ -6403,16 +6403,16 @@
         "icon": "/assets/images/items/itm_woodplank_04.png"
       },
       {
-        "id": "itm_sheep_hoofDust",
+        "id": "itm_sheep_hoofdust",
         "name": "Mini Hoof Dust",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+        "icon": "/assets/images/items/itm_sheep_hoofdust.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       }
     ],
     "craft_in": [
@@ -6424,29 +6424,29 @@
     ],
     "used in": [
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       }
     ]
   },
   {
-    "id": "itm_rainbowPlank",
+    "id": "itm_rainbowplank",
     "name": "Rainbow Planks",
-    "icon": "/assets/images/items/itm_rainbowPlank.png",
+    "icon": "/assets/images/items/itm_rainbowplank.png",
     "tier": 4,
     "level": 60,
     "energy": 290,
@@ -6465,16 +6465,16 @@
         "icon": "/assets/images/items/itm_woodplank_04.png"
       },
       {
-        "id": "itm_sheep_hoofDust",
+        "id": "itm_sheep_hoofdust",
         "name": "Mini Hoof Dust",
         "qty": 12,
-        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+        "icon": "/assets/images/items/itm_sheep_hoofdust.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 6,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       }
     ],
     "craft_in": [
@@ -6486,22 +6486,22 @@
     ],
     "used in": [
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       }
     ]
   },
@@ -6554,10 +6554,10 @@
     ],
     "used in": [
       {
-        "id": "itm_waterweedStorage",
+        "id": "itm_waterweedstorage",
         "name": "Waterweed Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_waterweedStorage.png"
+        "icon": "/assets/images/items/itm_waterweedstorage.png"
       }
     ]
   },
@@ -6592,34 +6592,34 @@
     ],
     "used in": [
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       },
       {
         "id": "itm_gear_04",
@@ -6678,34 +6678,34 @@
     ],
     "used in": [
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       },
       {
         "id": "itm_gear_04",
@@ -6734,9 +6734,9 @@
     ]
   },
   {
-    "id": "itm_duraAxe_04",
+    "id": "itm_duraaxe_04",
     "name": "More Durable T4 Axe",
-    "icon": "/assets/images/items/itm_duraAxe_04.png",
+    "icon": "/assets/images/items/itm_duraaxe_04.png",
     "tier": 4,
     "level": 70,
     "energy": 109,
@@ -6767,10 +6767,10 @@
         "icon": "/assets/images/items/itm_woodoil_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 2,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       }
     ],
     "craft_in": [
@@ -6782,9 +6782,9 @@
     ]
   },
   {
-    "id": "itm_duraPick_04",
+    "id": "itm_durapick_04",
     "name": "More Durable T4 Pickaxe",
-    "icon": "/assets/images/items/itm_duraPick_04.png",
+    "icon": "/assets/images/items/itm_durapick_04.png",
     "tier": 4,
     "level": 70,
     "energy": 114,
@@ -6803,10 +6803,10 @@
         "icon": "/assets/images/items/itm_pickaxe_04.png"
       },
       {
-        "id": "itm_turkey_colorfulFeather",
+        "id": "itm_turkey_colorfulfeather",
         "name": "Colorful Feather",
         "qty": 5,
-        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+        "icon": "/assets/images/items/itm_turkey_colorfulfeather.png"
       },
       {
         "id": "itm_woodoil_04",
@@ -6815,10 +6815,10 @@
         "icon": "/assets/images/items/itm_woodoil_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 2,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       }
     ],
     "craft_in": [
@@ -6830,9 +6830,9 @@
     ]
   },
   {
-    "id": "itm_waterweedStorage",
+    "id": "itm_waterweedstorage",
     "name": "Waterweed Storage Chest",
-    "icon": "/assets/images/items/itm_waterweedStorage.png",
+    "icon": "/assets/images/items/itm_waterweedstorage.png",
     "tier": 4,
     "level": 72,
     "energy": 137,
@@ -6857,10 +6857,10 @@
         "icon": "/assets/images/items/itm_duck_waterweed.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       }
     ],
     "craft_in": [
@@ -6953,16 +6953,16 @@
         "icon": "/assets/images/items/itm_nail_04.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       }
     ],
     "craft_in": [
@@ -6974,9 +6974,9 @@
     ]
   },
   {
-    "id": "itm_sunhornFrameBeam",
+    "id": "itm_sunhornframebeam",
     "name": "Sunhorn Frame Beam",
-    "icon": "/assets/images/items/itm_sunhornFrameBeam.png",
+    "icon": "/assets/images/items/itm_sunhornframebeam.png",
     "tier": 4,
     "level": 75,
     "energy": 38,
@@ -6989,16 +6989,16 @@
     "station": "Woodwork",
     "ingredients": [
       {
-        "id": "itm_goat_sunHorn",
+        "id": "itm_goat_sunhorn",
         "name": "Sunbaked Horn Tip",
         "qty": 3,
-        "icon": "/assets/images/items/itm_goat_sunHorn.png"
+        "icon": "/assets/images/items/itm_goat_sunhorn.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 2,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
         "id": "itm_woodbeam_04",
@@ -7049,10 +7049,10 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_silkcloth",
@@ -7119,10 +7119,10 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -7376,10 +7376,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_04.png"
       },
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+        "icon": "/assets/images/items/itm_sunhornframebeam.png"
       }
     ]
   },
@@ -7438,10 +7438,10 @@
         "icon": "/assets/images/items/itm_woodbhouse_04.png"
       },
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+        "icon": "/assets/images/items/itm_sunhornframebeam.png"
       }
     ]
   },
@@ -7793,16 +7793,16 @@
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_Wooden_Stool",
+        "id": "itm_wooden_stool",
         "name": "Wooden Stool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Stool.png"
+        "icon": "/assets/images/items/itm_wooden_stool.png"
       },
       {
         "id": "itm_log_decoration2",
@@ -7811,10 +7811,10 @@
         "icon": "/assets/images/items/itm_log_decoration2.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_scarecrow",

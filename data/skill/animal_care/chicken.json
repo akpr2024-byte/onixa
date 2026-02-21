@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_chicken_spaceEgg",
+    "id": "itm_chicken_spaceegg",
     "name": "Space Egg",
-    "icon": "/assets/images/items/itm_chicken_spaceEgg.png",
+    "icon": "/assets/images/items/itm_chicken_spaceegg.png",
     "tier": null,
     "level": null,
     "energy": 18,
@@ -30,16 +30,16 @@
     ],
     "used in": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 6,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
         "id": "itm_60dayflower_space_seed",
@@ -60,15 +60,15 @@
         "qty": 2
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
-        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "icon": "/assets/images/items/itm_spacebatter.png",
         "qty": 3
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
-        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "icon": "/assets/images/items/itm_spacebatter.png",
         "qty": 18
       },
       {
@@ -148,10 +148,10 @@
         "icon": "/assets/images/items/itm_petfood.png"
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fireBlessing.png"
+        "icon": "/assets/images/items/itm_fireblessing.png"
       },
       {
         "id": "itm_slothmatopizza",
@@ -166,10 +166,10 @@
         "icon": "/assets/images/items/itm_cubecumberloaf.png"
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
       },
       {
         "id": "itm_whipped_cream",
@@ -178,22 +178,22 @@
         "icon": "/assets/images/items/itm_whipped_cream.png"
       },
       {
-        "id": "itm_kikosPancakes",
+        "id": "itm_kikospancakes",
         "name": "Kiko's Popberry Pancakes",
         "qty": 1,
-        "icon": "/assets/images/items/itm_kikosPancakes.png"
+        "icon": "/assets/images/items/itm_kikospancakes.png"
       },
       {
-        "id": "itm_grumpkinLoaf",
+        "id": "itm_grumpkinloaf",
         "name": "Blue Grumpkin Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
+        "icon": "/assets/images/items/itm_grumpkinloaf.png"
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
       },
       {
         "id": "itm_petfood",
@@ -238,15 +238,15 @@
         "qty": 2
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
-        "icon": "/assets/images/items/itm_scarrotLoaf.png",
+        "icon": "/assets/images/items/itm_scarrotloaf.png",
         "qty": 2
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
-        "icon": "/assets/images/items/itm_fireBlessing.png",
+        "icon": "/assets/images/items/itm_fireblessing.png",
         "qty": 10
       },
       {
@@ -256,21 +256,21 @@
         "qty": 5
       },
       {
-        "id": "itm_kikosPancakes",
+        "id": "itm_kikospancakes",
         "name": "Kiko's Popberry Pancakes",
-        "icon": "/assets/images/items/itm_kikosPancakes.png",
+        "icon": "/assets/images/items/itm_kikospancakes.png",
         "qty": 5
       },
       {
-        "id": "itm_grumpkinLoaf",
+        "id": "itm_grumpkinloaf",
         "name": "Blue Grumpkin Loaf",
-        "icon": "/assets/images/items/itm_grumpkinLoaf.png",
+        "icon": "/assets/images/items/itm_grumpkinloaf.png",
         "qty": 2
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+        "icon": "/assets/images/items/itm_slthmatoalfred.png",
         "qty": 5
       }
     ]
@@ -361,9 +361,9 @@
     ]
   },
   {
-    "id": "itm_goldenEgg",
+    "id": "itm_goldenegg",
     "name": "Golden Egg",
-    "icon": "/assets/images/items/itm_goldenEgg.png",
+    "icon": "/assets/images/items/itm_goldenegg.png",
     "tier": null,
     "level": null,
     "energy": 11,
@@ -396,16 +396,16 @@
     ],
     "used in": [
       {
-        "id": "itm_goldenCharre",
+        "id": "itm_goldencharre",
         "name": "Golden Ember Charré",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goldenCharre.png"
+        "icon": "/assets/images/items/itm_goldencharre.png"
       },
       {
-        "id": "itm_buttermilkDough",
+        "id": "itm_buttermilkdough",
         "name": "Buttermilk Dough",
         "qty": 1,
-        "icon": "/assets/images/items/itm_buttermilkDough.png"
+        "icon": "/assets/images/items/itm_buttermilkdough.png"
       },
       {
         "id": "itm_mulch",
@@ -420,9 +420,9 @@
         "icon": "/assets/images/items/itm_mulch.png"
       },
       {
-        "id": "itm_goldenCharre",
+        "id": "itm_goldencharre",
         "name": "Golden Ember Charré",
-        "icon": "/assets/images/items/itm_goldenCharre.png",
+        "icon": "/assets/images/items/itm_goldencharre.png",
         "qty": 3
       },
       {
@@ -438,9 +438,9 @@
         "qty": 12
       },
       {
-        "id": "itm_buttermilkDough",
+        "id": "itm_buttermilkdough",
         "name": "Buttermilk Dough",
-        "icon": "/assets/images/items/itm_buttermilkDough.png",
+        "icon": "/assets/images/items/itm_buttermilkdough.png",
         "qty": 1
       }
     ]
@@ -476,9 +476,9 @@
     ]
   },
   {
-    "id": "itm_seltsamEgg",
+    "id": "itm_seltsamegg",
     "name": "Seltsam Egg",
-    "icon": "/assets/images/items/itm_seltsamEgg.png",
+    "icon": "/assets/images/items/itm_seltsamegg.png",
     "tier": null,
     "level": null,
     "energy": 5,
@@ -527,51 +527,51 @@
         "icon": "/assets/images/items/itm_tatoscramble.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
-        "icon": "/assets/images/items/itm_seltsamProtein.png",
+        "icon": "/assets/images/items/itm_seltsamprotein.png",
         "qty": 3
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
-        "icon": "/assets/images/items/itm_seltsamProtein.png",
+        "icon": "/assets/images/items/itm_seltsamprotein.png",
         "qty": 18
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
-        "icon": "/assets/images/items/itm_pondMastic.png",
+        "icon": "/assets/images/items/itm_pondmastic.png",
         "qty": 2
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
-        "icon": "/assets/images/items/itm_pondMastic.png",
+        "icon": "/assets/images/items/itm_pondmastic.png",
         "qty": 12
       },
       {
@@ -669,16 +669,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

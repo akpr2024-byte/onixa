@@ -47,51 +47,51 @@
     ],
     "used in": [
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_saltSkewers.png"
+        "icon": "/assets/images/items/itm_saltskewers.png"
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishermanGrill.png"
+        "icon": "/assets/images/items/itm_fishermangrill.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
-        "icon": "/assets/images/items/itm_saltSkewers.png",
+        "icon": "/assets/images/items/itm_saltskewers.png",
         "qty": 2
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
-        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "icon": "/assets/images/items/itm_fishermangrill.png",
         "qty": 2
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 2
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 12
       }
     ]
@@ -144,35 +144,35 @@
     ],
     "used in": [
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
-        "icon": "/assets/images/items/itm_duckResin.png",
+        "icon": "/assets/images/items/itm_duckresin.png",
         "qty": 2
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
-        "icon": "/assets/images/items/itm_duckResin.png",
+        "icon": "/assets/images/items/itm_duckresin.png",
         "qty": 12
       }
     ]
   },
   {
-    "id": "itm_duck_pondSlime",
+    "id": "itm_duck_pondslime",
     "name": "Pond Slime",
-    "icon": "/assets/images/items/itm_duck_pondSlime.png",
+    "icon": "/assets/images/items/itm_duck_pondslime.png",
     "tier": null,
     "level": 40,
     "energy": 0,
@@ -207,51 +207,51 @@
     ],
     "used in": [
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
-        "icon": "/assets/images/items/itm_caramelBaste.png",
+        "icon": "/assets/images/items/itm_caramelbaste.png",
         "qty": 2
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
-        "icon": "/assets/images/items/itm_caramelBaste.png",
+        "icon": "/assets/images/items/itm_caramelbaste.png",
         "qty": 12
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
-        "icon": "/assets/images/items/itm_pondMastic.png",
+        "icon": "/assets/images/items/itm_pondmastic.png",
         "qty": 2
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
-        "icon": "/assets/images/items/itm_pondMastic.png",
+        "icon": "/assets/images/items/itm_pondmastic.png",
         "qty": 12
       }
     ]
@@ -300,28 +300,28 @@
         "icon": "/assets/images/items/itm_tempboost_yield_12.png"
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
         "qty": 1,
-        "icon": "/assets/images/items/itm_flameGreens.png"
+        "icon": "/assets/images/items/itm_flamegreens.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_waterweedStorage",
+        "id": "itm_waterweedstorage",
         "name": "Waterweed Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_waterweedStorage.png"
+        "icon": "/assets/images/items/itm_waterweedstorage.png"
       },
       {
         "id": "itm_tempboost_yield_12",
@@ -330,27 +330,27 @@
         "qty": 5
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
-        "icon": "/assets/images/items/itm_flameGreens.png",
+        "icon": "/assets/images/items/itm_flamegreens.png",
         "qty": 3
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 1
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 6
       },
       {
-        "id": "itm_waterweedStorage",
+        "id": "itm_waterweedstorage",
         "name": "Waterweed Storage Chest",
-        "icon": "/assets/images/items/itm_waterweedStorage.png",
+        "icon": "/assets/images/items/itm_waterweedstorage.png",
         "qty": 3
       }
     ]
@@ -471,16 +471,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

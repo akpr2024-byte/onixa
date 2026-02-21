@@ -25,7 +25,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -75,7 +75,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [

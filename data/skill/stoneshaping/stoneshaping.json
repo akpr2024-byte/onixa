@@ -93,16 +93,16 @@
         "icon": "/assets/images/items/itm_grindstone_01.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       }
     ]
   },
@@ -200,16 +200,16 @@
         "icon": "/assets/images/items/itm_grindstone_01.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       }
     ]
   },
@@ -429,16 +429,16 @@
         "icon": "/assets/images/items/itm_soil_03.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
         "id": "itm_grindstone_03",
@@ -453,10 +453,10 @@
         "icon": "/assets/images/items/itm_grindstone_03.png"
       },
       {
-        "id": "itm_roughcutBoulder",
+        "id": "itm_roughcutboulder",
         "name": "Roughcut Garden Boulder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+        "icon": "/assets/images/items/itm_roughcutboulder.png"
       }
     ]
   },
@@ -520,16 +520,16 @@
         "icon": "/assets/images/items/itm_soil_03.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
         "id": "itm_grindstone_03",
@@ -544,10 +544,10 @@
         "icon": "/assets/images/items/itm_grindstone_03.png"
       },
       {
-        "id": "itm_roughcutBoulder",
+        "id": "itm_roughcutboulder",
         "name": "Roughcut Garden Boulder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+        "icon": "/assets/images/items/itm_roughcutboulder.png"
       }
     ]
   },
@@ -733,10 +733,10 @@
         "icon": "/assets/images/items/itm_sundial_01.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       }
     ]
   },
@@ -810,10 +810,10 @@
         "icon": "/assets/images/items/itm_sundial_01.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       }
     ]
   },
@@ -1108,10 +1108,10 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_12",
@@ -1164,10 +1164,10 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_12",
@@ -1289,10 +1289,10 @@
         "icon": "/assets/images/items/itm_metalworking_kit_04.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       }
     ]
   },
@@ -1402,10 +1402,10 @@
         "icon": "/assets/images/items/itm_metalworking_kit_04.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       }
     ]
   },
@@ -1760,10 +1760,10 @@
         "icon": "/assets/images/items/itm_tree_04.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       }
     ]
   },
@@ -1837,10 +1837,10 @@
         "icon": "/assets/images/items/itm_metalbar_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -1908,10 +1908,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -1979,10 +1979,10 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 5,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -2045,10 +2045,10 @@
         "icon": "/assets/images/items/itm_woodplank_03.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 10,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -2562,16 +2562,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_5.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
         "id": "itm_empty_choco_sauce",
@@ -2855,16 +2855,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_5.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
         "id": "itm_empty_choco_sauce",
@@ -2968,24 +2968,24 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ]
   },
   {
-    "id": "itm_Trashcan",
+    "id": "itm_trashcan",
     "name": "Trash Can",
-    "icon": "/assets/images/items/itm_Trashcan.png",
+    "icon": "/assets/images/items/itm_trashcan.png",
     "tier": 4,
     "level": 60,
     "energy": 80,
@@ -2998,28 +2998,28 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 50,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 4,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_woodplank_02",
@@ -3217,10 +3217,10 @@
         "icon": "/assets/images/items/itm_dew.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 4,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -3247,16 +3247,16 @@
     ],
     "used in": [
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
         "id": "itm_squishyslime",
@@ -3277,34 +3277,34 @@
         "icon": "/assets/images/items/itm_sundial_01.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       }
     ]
   },
@@ -3336,10 +3336,10 @@
         "icon": "/assets/images/items/itm_dew.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 24,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -3366,16 +3366,16 @@
     ],
     "used in": [
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
-        "id": "itm_trufflePowder",
+        "id": "itm_trufflepowder",
         "name": "Truffle Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_trufflePowder.png"
+        "icon": "/assets/images/items/itm_trufflepowder.png"
       },
       {
         "id": "itm_squishyslime",
@@ -3396,34 +3396,34 @@
         "icon": "/assets/images/items/itm_sundial_01.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       }
     ]
   },
@@ -3485,9 +3485,9 @@
     ]
   },
   {
-    "id": "itm_dairyFat",
+    "id": "itm_dairyfat",
     "name": "Rendered Dairy Fat",
-    "icon": "/assets/images/items/itm_dairyFat.png",
+    "icon": "/assets/images/items/itm_dairyfat.png",
     "tier": 1,
     "level": 10,
     "energy": 6,
@@ -3500,16 +3500,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_cow_dairyFat",
+        "id": "itm_cow_dairyfat",
         "name": "Dairy Fat",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+        "icon": "/assets/images/items/itm_cow_dairyfat.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       }
     ],
     "craft_in": [
@@ -3536,53 +3536,53 @@
     ],
     "used in": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 6,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       }
     ]
   },
   {
-    "id": "itm_dairyFat",
+    "id": "itm_dairyfat",
     "name": "Rendered Dairy Fat",
-    "icon": "/assets/images/items/itm_dairyFat.png",
+    "icon": "/assets/images/items/itm_dairyfat.png",
     "tier": 1,
     "level": 10,
     "energy": 41,
@@ -3595,16 +3595,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_cow_dairyFat",
+        "id": "itm_cow_dairyfat",
         "name": "Dairy Fat",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+        "icon": "/assets/images/items/itm_cow_dairyfat.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 6,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       }
     ],
     "craft_in": [
@@ -3631,53 +3631,53 @@
     ],
     "used in": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 6,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       }
     ]
   },
   {
-    "id": "itm_seltsamCatalyst",
+    "id": "itm_seltsamcatalyst",
     "name": "Seltsam Catalyst",
-    "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+    "icon": "/assets/images/items/itm_seltsamcatalyst.png",
     "tier": 1,
     "level": 11,
     "energy": 6,
@@ -3690,10 +3690,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 2,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
         "id": "itm_metalore_01",
@@ -3708,10 +3708,10 @@
         "icon": "/assets/images/items/itm_grindstone_01.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       }
     ],
     "craft_in": [
@@ -3738,17 +3738,17 @@
     ],
     "used in": [
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+        "icon": "/assets/images/items/itm_sunhornframebeam.png"
       }
     ]
   },
   {
-    "id": "itm_seltsamCatalyst",
+    "id": "itm_seltsamcatalyst",
     "name": "Seltsam Catalyst",
-    "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+    "icon": "/assets/images/items/itm_seltsamcatalyst.png",
     "tier": 1,
     "level": 11,
     "energy": 41,
@@ -3761,10 +3761,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 12,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
         "id": "itm_metalore_01",
@@ -3779,10 +3779,10 @@
         "icon": "/assets/images/items/itm_grindstone_01.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 12,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       }
     ],
     "craft_in": [
@@ -3809,17 +3809,17 @@
     ],
     "used in": [
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+        "icon": "/assets/images/items/itm_sunhornframebeam.png"
       }
     ]
   },
   {
-    "id": "itm_lanolinRub",
+    "id": "itm_lanolinrub",
     "name": "Lanolin Polishing Rub",
-    "icon": "/assets/images/items/itm_lanolinRub.png",
+    "icon": "/assets/images/items/itm_lanolinrub.png",
     "tier": 1,
     "level": 15,
     "energy": 7,
@@ -3832,10 +3832,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_stonepowder01",
@@ -3868,16 +3868,16 @@
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_woodbhouse_01",
@@ -3886,29 +3886,29 @@
         "icon": "/assets/images/items/itm_woodbhouse_01.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+        "icon": "/assets/images/items/itm_small_fountain_04.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       }
     ]
   },
   {
-    "id": "itm_lanolinRub",
+    "id": "itm_lanolinrub",
     "name": "Lanolin Polishing Rub",
-    "icon": "/assets/images/items/itm_lanolinRub.png",
+    "icon": "/assets/images/items/itm_lanolinrub.png",
     "tier": 1,
     "level": 15,
     "energy": 48,
@@ -3921,10 +3921,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 18,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_stonepowder01",
@@ -3957,16 +3957,16 @@
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_woodbhouse_01",
@@ -3975,22 +3975,22 @@
         "icon": "/assets/images/items/itm_woodbhouse_01.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+        "icon": "/assets/images/items/itm_small_fountain_04.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       }
     ]
   },
@@ -4016,10 +4016,10 @@
         "icon": "/assets/images/items/itm_eggsplosive.png"
       },
       {
-        "id": "itm_slug_shimmerSlime",
+        "id": "itm_slug_shimmerslime",
         "name": "Shimmer Slime",
         "qty": 2,
-        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+        "icon": "/assets/images/items/itm_slug_shimmerslime.png"
       },
       {
         "id": "itm_glass_bottle",
@@ -4047,22 +4047,22 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_featherStorage",
+        "id": "itm_featherstorage",
         "name": "Featherlight Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherStorage.png"
+        "icon": "/assets/images/items/itm_featherstorage.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
@@ -4088,10 +4088,10 @@
         "icon": "/assets/images/items/itm_eggsplosive.png"
       },
       {
-        "id": "itm_slug_shimmerSlime",
+        "id": "itm_slug_shimmerslime",
         "name": "Shimmer Slime",
         "qty": 12,
-        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+        "icon": "/assets/images/items/itm_slug_shimmerslime.png"
       },
       {
         "id": "itm_glass_bottle",
@@ -4119,29 +4119,29 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_featherStorage",
+        "id": "itm_featherstorage",
         "name": "Featherlight Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherStorage.png"
+        "icon": "/assets/images/items/itm_featherstorage.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
   {
-    "id": "itm_pigmilkPutty",
+    "id": "itm_pigmilkputty",
     "name": "Pigmilk Emulsified Putty",
-    "icon": "/assets/images/items/itm_pigmilkPutty.png",
+    "icon": "/assets/images/items/itm_pigmilkputty.png",
     "tier": 2,
     "level": 21,
     "energy": 19,
@@ -4154,16 +4154,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_pig_pigMilk",
+        "id": "itm_pig_pigmilk",
         "name": "Pig Milk",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+        "icon": "/assets/images/items/itm_pig_pigmilk.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_grindstone_01",
@@ -4172,10 +4172,10 @@
         "icon": "/assets/images/items/itm_grindstone_01.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       }
     ],
     "craft_in": [
@@ -4209,10 +4209,10 @@
         "icon": "/assets/images/items/itm_grindstone_02.png"
       },
       {
-        "id": "itm_roughcutBoulder",
+        "id": "itm_roughcutboulder",
         "name": "Roughcut Garden Boulder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+        "icon": "/assets/images/items/itm_roughcutboulder.png"
       }
     ]
   },
@@ -4238,10 +4238,10 @@
         "icon": "/assets/images/items/itm_stonepowder02.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       }
     ],
     "craft_in": [
@@ -4292,10 +4292,10 @@
         "icon": "/assets/images/items/itm_stonepowder02.png"
       },
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       }
     ],
     "craft_in": [
@@ -4385,9 +4385,9 @@
     ]
   },
   {
-    "id": "itm_beePollenResin",
+    "id": "itm_beepollenresin",
     "name": "Bee Pollen Resin",
-    "icon": "/assets/images/items/itm_beePollenResin.png",
+    "icon": "/assets/images/items/itm_beepollenresin.png",
     "tier": 2,
     "level": 28,
     "energy": 17,
@@ -4437,16 +4437,16 @@
     ],
     "used in": [
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 6,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
         "id": "itm_grindstone_03",
@@ -4463,9 +4463,9 @@
     ]
   },
   {
-    "id": "itm_dairyTemperedBrick",
+    "id": "itm_dairytemperedbrick",
     "name": "Dairy Tempered Brick",
-    "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+    "icon": "/assets/images/items/itm_dairytemperedbrick.png",
     "tier": 3,
     "level": 42,
     "energy": 25,
@@ -4478,16 +4478,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
-        "id": "itm_pig_mudCast",
+        "id": "itm_pig_mudcast",
         "name": "Mud Cast",
         "qty": 2,
-        "icon": "/assets/images/items/itm_pig_mudCast.png"
+        "icon": "/assets/images/items/itm_pig_mudcast.png"
       },
       {
         "id": "itm_stonepowder03",
@@ -4516,23 +4516,23 @@
     ],
     "used in": [
       {
-        "id": "itm_mortarBox",
+        "id": "itm_mortarbox",
         "name": "Mortared Planter Box",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mortarBox.png"
+        "icon": "/assets/images/items/itm_mortarbox.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       }
     ]
   },
   {
-    "id": "itm_dairyTemperedBrick",
+    "id": "itm_dairytemperedbrick",
     "name": "Dairy Tempered Brick",
-    "icon": "/assets/images/items/itm_dairyTemperedBrick.png",
+    "icon": "/assets/images/items/itm_dairytemperedbrick.png",
     "tier": 3,
     "level": 42,
     "energy": 173,
@@ -4545,16 +4545,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 6,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
-        "id": "itm_pig_mudCast",
+        "id": "itm_pig_mudcast",
         "name": "Mud Cast",
         "qty": 12,
-        "icon": "/assets/images/items/itm_pig_mudCast.png"
+        "icon": "/assets/images/items/itm_pig_mudcast.png"
       },
       {
         "id": "itm_stonepowder03",
@@ -4583,16 +4583,16 @@
     ],
     "used in": [
       {
-        "id": "itm_mortarBox",
+        "id": "itm_mortarbox",
         "name": "Mortared Planter Box",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mortarBox.png"
+        "icon": "/assets/images/items/itm_mortarbox.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       }
     ]
   },
@@ -4618,10 +4618,10 @@
         "icon": "/assets/images/items/itm_stonepowder03.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       }
     ],
     "craft_in": [
@@ -4638,16 +4638,16 @@
     ],
     "used in": [
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
         "id": "itm_sundial_03",
@@ -4656,10 +4656,10 @@
         "icon": "/assets/images/items/itm_sundial_03.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       }
     ]
   },
@@ -4685,10 +4685,10 @@
         "icon": "/assets/images/items/itm_stonepowder03.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       }
     ],
     "craft_in": [
@@ -4705,16 +4705,16 @@
     ],
     "used in": [
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
         "id": "itm_sundial_03",
@@ -4723,17 +4723,17 @@
         "icon": "/assets/images/items/itm_sundial_03.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       }
     ]
   },
   {
-    "id": "itm_earthSlab",
+    "id": "itm_earthslab",
     "name": "Earth-Oven Baking Slab",
-    "icon": "/assets/images/items/itm_earthSlab.png",
+    "icon": "/assets/images/items/itm_earthslab.png",
     "tier": 3,
     "level": 45,
     "energy": 27,
@@ -4746,10 +4746,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_dairyTemperedBrick",
+        "id": "itm_dairytemperedbrick",
         "name": "Dairy Tempered Brick",
         "qty": 8,
-        "icon": "/assets/images/items/itm_dairyTemperedBrick.png"
+        "icon": "/assets/images/items/itm_dairytemperedbrick.png"
       },
       {
         "id": "itm_soil_03",
@@ -4778,17 +4778,17 @@
     ],
     "used in": [
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       }
     ]
   },
   {
-    "id": "itm_duckResin",
+    "id": "itm_duckresin",
     "name": "Duck Feather Resin",
-    "icon": "/assets/images/items/itm_duckResin.png",
+    "icon": "/assets/images/items/itm_duckresin.png",
     "tier": 3,
     "level": 45,
     "energy": 26,
@@ -4839,22 +4839,22 @@
     ],
     "used in": [
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       },
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
         "id": "itm_woodbhouse_03",
@@ -4865,9 +4865,9 @@
     ]
   },
   {
-    "id": "itm_duckResin",
+    "id": "itm_duckresin",
     "name": "Duck Feather Resin",
-    "icon": "/assets/images/items/itm_duckResin.png",
+    "icon": "/assets/images/items/itm_duckresin.png",
     "tier": 3,
     "level": 45,
     "energy": 179,
@@ -4918,22 +4918,22 @@
     ],
     "used in": [
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       },
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
         "id": "itm_woodbhouse_03",
@@ -4999,9 +4999,9 @@
     ]
   },
   {
-    "id": "itm_hornAbrasivePowder",
+    "id": "itm_hornabrasivepowder",
     "name": "Horn-Flake Abrasive Powder",
-    "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+    "icon": "/assets/images/items/itm_hornabrasivepowder.png",
     "tier": 3,
     "level": 48,
     "energy": 26,
@@ -5014,10 +5014,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_goat_hornFlakes",
+        "id": "itm_goat_hornflakes",
         "name": "Tiny Horn Flakes",
         "qty": 2,
-        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+        "icon": "/assets/images/items/itm_goat_hornflakes.png"
       },
       {
         "id": "itm_sawdust",
@@ -5040,23 +5040,23 @@
     ],
     "used in": [
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       }
     ]
   },
   {
-    "id": "itm_hornAbrasivePowder",
+    "id": "itm_hornabrasivepowder",
     "name": "Horn-Flake Abrasive Powder",
-    "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+    "icon": "/assets/images/items/itm_hornabrasivepowder.png",
     "tier": 3,
     "level": 48,
     "energy": 179,
@@ -5069,10 +5069,10 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_goat_hornFlakes",
+        "id": "itm_goat_hornflakes",
         "name": "Tiny Horn Flakes",
         "qty": 12,
-        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+        "icon": "/assets/images/items/itm_goat_hornflakes.png"
       },
       {
         "id": "itm_sawdust",
@@ -5095,23 +5095,23 @@
     ],
     "used in": [
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       }
     ]
   },
   {
-    "id": "itm_fineGritPowder",
+    "id": "itm_finegritpowder",
     "name": "Fine Grit Polishing Powder",
-    "icon": "/assets/images/items/itm_fineGritPowder.png",
+    "icon": "/assets/images/items/itm_finegritpowder.png",
     "tier": 3,
     "level": 52,
     "energy": 33,
@@ -5124,16 +5124,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_sheep_hoofDust",
+        "id": "itm_sheep_hoofdust",
         "name": "Mini Hoof Dust",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+        "icon": "/assets/images/items/itm_sheep_hoofdust.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
         "id": "itm_metalore_03",
@@ -5162,17 +5162,17 @@
     ],
     "used in": [
       {
-        "id": "itm_roughcutBoulder",
+        "id": "itm_roughcutboulder",
         "name": "Roughcut Garden Boulder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_roughcutBoulder.png"
+        "icon": "/assets/images/items/itm_roughcutboulder.png"
       }
     ]
   },
   {
-    "id": "itm_roughcutBoulder",
+    "id": "itm_roughcutboulder",
     "name": "Roughcut Garden Boulder",
-    "icon": "/assets/images/items/itm_roughcutBoulder.png",
+    "icon": "/assets/images/items/itm_roughcutboulder.png",
     "tier": 3,
     "level": 53,
     "energy": 80,
@@ -5185,16 +5185,16 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_pigmilkPutty",
+        "id": "itm_pigmilkputty",
         "name": "Pigmilk Emulsified Putty",
         "qty": 3,
-        "icon": "/assets/images/items/itm_pigmilkPutty.png"
+        "icon": "/assets/images/items/itm_pigmilkputty.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 2,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       },
       {
         "id": "itm_stonepowder03",
@@ -5217,9 +5217,9 @@
     ]
   },
   {
-    "id": "itm_pondMastic",
+    "id": "itm_pondmastic",
     "name": "Pondslime Stone Mastic",
-    "icon": "/assets/images/items/itm_pondMastic.png",
+    "icon": "/assets/images/items/itm_pondmastic.png",
     "tier": 4,
     "level": 60,
     "energy": 36,
@@ -5232,22 +5232,22 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 2,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
-        "id": "itm_seltsamEgg",
+        "id": "itm_seltsamegg",
         "name": "Seltsam Egg",
         "qty": 2,
-        "icon": "/assets/images/items/itm_seltsamEgg.png"
+        "icon": "/assets/images/items/itm_seltsamegg.png"
       }
     ],
     "craft_in": [
@@ -5265,10 +5265,10 @@
         "icon": "/assets/images/items/itm_grindstone_04.png"
       },
       {
-        "id": "itm_waterweedStorage",
+        "id": "itm_waterweedstorage",
         "name": "Waterweed Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_waterweedStorage.png"
+        "icon": "/assets/images/items/itm_waterweedstorage.png"
       },
       {
         "id": "itm_woodbhouse_04",
@@ -5279,9 +5279,9 @@
     ]
   },
   {
-    "id": "itm_pondMastic",
+    "id": "itm_pondmastic",
     "name": "Pondslime Stone Mastic",
-    "icon": "/assets/images/items/itm_pondMastic.png",
+    "icon": "/assets/images/items/itm_pondmastic.png",
     "tier": 4,
     "level": 60,
     "energy": 248,
@@ -5294,22 +5294,22 @@
     "station": "Stoneshaping",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 12,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 18,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
-        "id": "itm_seltsamEgg",
+        "id": "itm_seltsamegg",
         "name": "Seltsam Egg",
         "qty": 12,
-        "icon": "/assets/images/items/itm_seltsamEgg.png"
+        "icon": "/assets/images/items/itm_seltsamegg.png"
       }
     ],
     "craft_in": [
@@ -5327,10 +5327,10 @@
         "icon": "/assets/images/items/itm_grindstone_04.png"
       },
       {
-        "id": "itm_waterweedStorage",
+        "id": "itm_waterweedstorage",
         "name": "Waterweed Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_waterweedStorage.png"
+        "icon": "/assets/images/items/itm_waterweedstorage.png"
       },
       {
         "id": "itm_woodbhouse_04",
@@ -5362,10 +5362,10 @@
         "icon": "/assets/images/items/itm_stonepowder04.png"
       },
       {
-        "id": "itm_pondMastic",
+        "id": "itm_pondmastic",
         "name": "Pondslime Stone Mastic",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMastic.png"
+        "icon": "/assets/images/items/itm_pondmastic.png"
       }
     ],
     "craft_in": [
@@ -5435,9 +5435,9 @@
     ]
   },
   {
-    "id": "itm_Fireplace",
+    "id": "itm_fireplace",
     "name": "Fireplace",
-    "icon": "/assets/images/items/itm_Fireplace.png",
+    "icon": "/assets/images/items/itm_fireplace.png",
     "tier": 1,
     "level": 8,
     "energy": 42,
@@ -5456,10 +5456,10 @@
         "icon": "/assets/images/items/itm_brick_01.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 24,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_woodplank_01",
@@ -5474,10 +5474,10 @@
         "icon": "/assets/images/items/itm_silkcloth.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       }
     ],
     "craft_in": [
@@ -5504,9 +5504,9 @@
     ]
   },
   {
-    "id": "itm_Small_Fountain_04",
+    "id": "itm_small_fountain_04",
     "name": "Statue Fountain",
-    "icon": "/assets/images/items/itm_Small_Fountain_04.png",
+    "icon": "/assets/images/items/itm_small_fountain_04.png",
     "tier": 1,
     "level": 18,
     "energy": 27,
@@ -5525,22 +5525,22 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 2,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 2,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       }
     ],
     "craft_in": [
@@ -5567,9 +5567,9 @@
     ]
   },
   {
-    "id": "itm_Small_Fountain_03",
+    "id": "itm_small_fountain_03",
     "name": "Triple Fountain",
-    "icon": "/assets/images/items/itm_Small_Fountain_03.png",
+    "icon": "/assets/images/items/itm_small_fountain_03.png",
     "tier": 1,
     "level": 18,
     "energy": 49,
@@ -5588,28 +5588,28 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 3,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 8,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       }
     ],
     "craft_in": [
@@ -5663,10 +5663,10 @@
         "icon": "/assets/images/items/itm_roughstone_02.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
         "id": "itm_beeswax",
@@ -5675,10 +5675,10 @@
         "icon": "/assets/images/items/itm_beeswax.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 15,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
@@ -5700,9 +5700,9 @@
     ]
   },
   {
-    "id": "itm_Bomb_Shell",
+    "id": "itm_bomb_shell",
     "name": "Bomb Shell",
-    "icon": "/assets/images/items/itm_Bomb_Shell.png",
+    "icon": "/assets/images/items/itm_bomb_shell.png",
     "tier": 2,
     "level": 21,
     "energy": 27,
@@ -5721,16 +5721,16 @@
         "icon": "/assets/images/items/itm_volatileyolkcompound.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_beeswax",

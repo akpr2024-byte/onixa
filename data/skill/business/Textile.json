@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_siftingScreen",
+    "id": "itm_siftingscreen",
     "name": "Sifting Screen",
-    "icon": "/assets/images/items/itm_siftingScreen.png",
+    "icon": "/assets/images/items/itm_siftingscreen.png",
     "tier": 2,
     "level": 30,
     "energy": 20,
@@ -15,31 +15,31 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 3,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -62,9 +62,9 @@
     ]
   },
   {
-    "id": "itm_blanketWeave",
+    "id": "itm_blanketweave",
     "name": "Blanket Weave",
-    "icon": "/assets/images/items/itm_blanketWeave.png",
+    "icon": "/assets/images/items/itm_blanketweave.png",
     "tier": 4,
     "level": 70,
     "energy": 110,
@@ -83,16 +83,16 @@
         "icon": "/assets/images/items/itm_yarnyamcloth.png"
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -111,7 +111,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -149,24 +149,24 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_partBlanket",
+    "id": "itm_partblanket",
     "name": "Snuggle Veil",
-    "icon": "/assets/images/items/itm_partBlanket.png",
+    "icon": "/assets/images/items/itm_partblanket.png",
     "tier": 4,
     "level": 60,
     "energy": 62,
@@ -195,15 +195,15 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
@@ -235,10 +235,10 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_woodplank_03",
@@ -257,7 +257,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -289,30 +289,30 @@
         "icon": "/assets/images/items/itm_woodplank_04.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_fullSuitInlay",
+    "id": "itm_fullsuitinlay",
     "name": "Full Black and White Suit",
-    "icon": "/assets/images/items/itm_fullSuitInlay.png",
+    "icon": "/assets/images/items/itm_fullsuitinlay.png",
     "tier": 2,
     "level": 25,
     "energy": 64,
@@ -325,16 +325,16 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 2,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
         "id": "itm_ochruxblackpigment",
@@ -347,14 +347,14 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_alpineRug",
+    "id": "itm_alpinerug",
     "name": "Alpine Rug",
-    "icon": "/assets/images/items/itm_alpineRug.png",
+    "icon": "/assets/images/items/itm_alpinerug.png",
     "tier": 2,
     "level": 35,
     "energy": 46,
@@ -367,36 +367,36 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_goat_goatFur",
+        "id": "itm_goat_goatfur",
         "name": "Shedded Goat Fur",
         "qty": 4,
-        "icon": "/assets/images/items/itm_goat_goatFur.png"
+        "icon": "/assets/images/items/itm_goat_goatfur.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 3,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_redHoodieJacket",
+    "id": "itm_redhoodiejacket",
     "name": "Red Hoodie Jacket",
-    "icon": "/assets/images/items/itm_redHoodieJacket.png",
+    "icon": "/assets/images/items/itm_redhoodiejacket.png",
     "tier": 3,
     "level": 50,
     "energy": 76,
@@ -415,30 +415,30 @@
         "icon": "/assets/images/items/itm_yarnyamcloth.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 2,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_pixelsNavyShirt",
+    "id": "itm_pixelsnavyshirt",
     "name": "Pixels Navy Blue T-Shirt",
-    "icon": "/assets/images/items/itm_pixelsNavyShirt.png",
+    "icon": "/assets/images/items/itm_pixelsnavyshirt.png",
     "tier": 3,
     "level": 57,
     "energy": 82,
@@ -451,10 +451,10 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
         "id": "itm_marbleitewhitepigment",
@@ -463,24 +463,24 @@
         "icon": "/assets/images/items/itm_marbleitewhitepigment.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_brownSweatpants",
+    "id": "itm_brownsweatpants",
     "name": "Brown Sweatpants",
-    "icon": "/assets/images/items/itm_brownSweatpants.png",
+    "icon": "/assets/images/items/itm_brownsweatpants.png",
     "tier": 4,
     "level": 60,
     "energy": 87,
@@ -505,23 +505,23 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 2,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 1,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -551,21 +551,21 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_tent-v1-01-decoration",
@@ -598,17 +598,16 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
-
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_archery",
@@ -650,21 +649,21 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_tent-v1-01-decoration",
@@ -697,16 +696,16 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_archery",
@@ -738,22 +737,22 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 50,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_slab_orange",
@@ -766,7 +765,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -792,16 +791,16 @@
         "icon": "/assets/images/items/itm_silkcloth.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 12,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_slab_l_purple",
@@ -814,7 +813,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
@@ -850,7 +849,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
@@ -879,10 +878,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_fireplace-pot-decoration",
@@ -924,7 +923,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [
@@ -953,10 +952,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_fireplace-pot-decoration",
@@ -994,16 +993,16 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 4,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 15,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_void",
@@ -1016,14 +1015,14 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   },
   {
-    "id": "itm_turquoise_Couch",
+    "id": "itm_turquoise_couch",
     "name": "Turquoise Couch",
-    "icon": "/assets/images/items/itm_turquoise_Couch.png",
+    "icon": "/assets/images/items/itm_turquoise_couch.png",
     "tier": 2,
     "level": 21,
     "energy": 138,
@@ -1042,10 +1041,10 @@
         "icon": "/assets/images/items/itm_silkcloth.png"
       },
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 24,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_woodplank_02",
@@ -1054,10 +1053,10 @@
         "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_silkrope",
@@ -1066,17 +1065,17 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ]
   }

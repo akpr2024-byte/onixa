@@ -114,16 +114,16 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 2,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 4,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ],
     "craft_in": [

@@ -331,35 +331,39 @@ function processSkill(skill, items) {
   items.forEach((item) => {
     if (!item.id) return;
 
-    // popup index
-    window.ITEM_BY_ID[item.id] ??= [];
-    window.ITEM_BY_ID[item.id].push({
-      id: item.id,
+    const safeId = String(item.id).toLowerCase();
+
+    // ---------------- POPUP INDEX ----------------
+    window.ITEM_BY_ID[safeId] ??= [];
+    window.ITEM_BY_ID[safeId].push({
+      id: safeId,
       recipe_id: item.recipe_id,
       skill: item.skill,
       station: item.station,
       multi_recipe: item.multi_recipe === true,
     });
 
-    // search index
+    // ---------------- SEARCH INDEX ----------------
     const indexItem = {
-      id: item.id,
+      id: safeId, // ✅ مهم
       name: item.name,
       skill,
       station: item.station || skill,
       output: item.output || 1,
       ingredients: item.ingredients || [],
-      recipeKey: `${item.id}__${item.output || 1}`,
+      recipeKey: `${safeId}__${item.output || 1}`, // ✅ مهم
     };
 
     window.GLOBAL_ITEM_INDEX.push(indexItem);
 
-    // used-in index
+    // ---------------- USED-IN INDEX ----------------
     if (Array.isArray(item.ingredients)) {
       item.ingredients.forEach((ing) => {
-        window.USED_IN_INDEX[ing.id] ||= [];
-        window.USED_IN_INDEX[ing.id].push({
-          id: item.id,
+        const ingSafe = String(ing.id).toLowerCase();
+
+        window.USED_IN_INDEX[ingSafe] ||= [];
+        window.USED_IN_INDEX[ingSafe].push({
+          id: safeId,
           name: item.name,
           qty: ing.qty,
         });
@@ -368,6 +372,7 @@ function processSkill(skill, items) {
   });
 }
 window.openItemPopup = function (itemId, marketItem = null) {
+  itemId = String(itemId).toLowerCase();
   const overlay = document.getElementById("popup-overlay");
   if (!overlay) return;
 

@@ -32,9 +32,9 @@
     ]
   },
   {
-    "id": "itm_QueenSpider",
+    "id": "itm_queenspider",
     "name": "Queen Spider",
-    "icon": "/assets/images/items/itm_QueenSpider.png",
+    "icon": "/assets/images/items/itm_queenspider.png",
     "tier": null,
     "level": 0,
     "energy": 18,
@@ -69,15 +69,15 @@
     ],
     "used in": [
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
-        "icon": "/assets/images/items/itm_spiderShard.png",
+        "icon": "/assets/images/items/itm_spidershard.png",
         "qty": 2
       }
     ]
@@ -130,28 +130,28 @@
     ],
     "used in": [
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_silkcloth",
@@ -178,27 +178,27 @@
         "icon": "/assets/images/items/itm_silkrope.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
-        "icon": "/assets/images/items/itm_woolenThread.png",
+        "icon": "/assets/images/items/itm_woolenthread.png",
         "qty": 150
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
-        "icon": "/assets/images/items/itm_woolenThread.png",
+        "icon": "/assets/images/items/itm_woolenthread.png",
         "qty": 30
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
-        "icon": "/assets/images/items/itm_organicPaste.png",
+        "icon": "/assets/images/items/itm_organicpaste.png",
         "qty": 5
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
-        "icon": "/assets/images/items/itm_organicPaste.png",
+        "icon": "/assets/images/items/itm_organicpaste.png",
         "qty": 30
       },
       {
@@ -323,16 +323,16 @@
         "icon": "/assets/images/items/itm_wintermint_whiskey.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Plastic.png"
+        "icon": "/assets/images/items/itm_plastic.png"
       },
       {
         "id": "itm_squishyslime",
@@ -347,34 +347,34 @@
         "icon": "/assets/images/items/itm_squishyslime.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
-        "id": "itm_woolslimeStorage",
+        "id": "itm_woolslimestorage",
         "name": "Woolslime Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+        "icon": "/assets/images/items/itm_woolslimestorage.png"
       },
       {
         "id": "itm_tatobrownpigment",
@@ -383,9 +383,9 @@
         "qty": 2
       },
       {
-        "id": "itm_woolslimeStorage",
+        "id": "itm_woolslimestorage",
         "name": "Woolslime Storage Chest",
-        "icon": "/assets/images/items/itm_woolslimeStorage.png",
+        "icon": "/assets/images/items/itm_woolslimestorage.png",
         "qty": 2
       },
       {
@@ -419,15 +419,15 @@
         "qty": 12
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
-        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "icon": "/assets/images/items/itm_mashpopberry.png",
         "qty": 3
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
-        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "icon": "/assets/images/items/itm_mashpopberry.png",
         "qty": 36
       },
       {
@@ -455,27 +455,27 @@
         "qty": 6
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
-        "icon": "/assets/images/items/itm_mashClover.png",
+        "icon": "/assets/images/items/itm_mashclover.png",
         "qty": 4
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
-        "icon": "/assets/images/items/itm_mashClover.png",
+        "icon": "/assets/images/items/itm_mashclover.png",
         "qty": 48
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
-        "icon": "/assets/images/items/itm_Plastic.png",
+        "icon": "/assets/images/items/itm_plastic.png",
         "qty": 4
       },
       {
-        "id": "itm_Plastic",
+        "id": "itm_plastic",
         "name": "Clearshell",
-        "icon": "/assets/images/items/itm_Plastic.png",
+        "icon": "/assets/images/items/itm_plastic.png",
         "qty": 48
       }
     ]
@@ -547,10 +547,10 @@
         "icon": "/assets/images/items/itm_squishyslime.png"
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_02.png"
+        "icon": "/assets/images/items/itm_duraaxe_02.png"
       },
       {
         "id": "itm_squishyslime",
@@ -565,9 +565,9 @@
         "qty": 18
       },
       {
-        "id": "itm_duraAxe_02",
+        "id": "itm_duraaxe_02",
         "name": "More Durable T2 Axe",
-        "icon": "/assets/images/items/itm_duraAxe_02.png",
+        "icon": "/assets/images/items/itm_duraaxe_02.png",
         "qty": 2
       },
       {
@@ -585,9 +585,9 @@
     ]
   },
   {
-    "id": "itm_slug_shimmerSlime",
+    "id": "itm_slug_shimmerslime",
     "name": "Shimmer Slime",
-    "icon": "/assets/images/items/itm_slug_shimmerSlime.png",
+    "icon": "/assets/images/items/itm_slug_shimmerslime.png",
     "tier": null,
     "level": 0,
     "energy": 14,
@@ -650,16 +650,16 @@
         "icon": "/assets/images/items/itm_volatileyolkcompound.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 1,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 6,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_tempboost_speed_13",
@@ -680,15 +680,15 @@
         "qty": 12
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
-        "icon": "/assets/images/items/itm_stickySlimewood.png",
+        "icon": "/assets/images/items/itm_stickyslimewood.png",
         "qty": 2
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
-        "icon": "/assets/images/items/itm_stickySlimewood.png",
+        "icon": "/assets/images/items/itm_stickyslimewood.png",
         "qty": 12
       }
     ]
@@ -777,16 +777,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

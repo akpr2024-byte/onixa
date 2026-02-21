@@ -47,16 +47,16 @@
     ],
     "used in": [
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 6,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
         "id": "itm_tempboost_yield_10",
@@ -77,10 +77,10 @@
         "icon": "/assets/images/items/itm_60dayflower_water_seed.png"
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_02.png"
+        "icon": "/assets/images/items/itm_durapick_02.png"
       },
       {
         "id": "itm_toyteddy_01",
@@ -89,15 +89,15 @@
         "qty": 1
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
-        "icon": "/assets/images/items/itm_featherFluff.png",
+        "icon": "/assets/images/items/itm_featherfluff.png",
         "qty": 12
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
-        "icon": "/assets/images/items/itm_featherFluff.png",
+        "icon": "/assets/images/items/itm_featherfluff.png",
         "qty": 2
       },
       {
@@ -113,9 +113,9 @@
         "qty": 2
       },
       {
-        "id": "itm_duraPick_02",
+        "id": "itm_durapick_02",
         "name": "More Durable T2 Pickaxe",
-        "icon": "/assets/images/items/itm_duraPick_02.png",
+        "icon": "/assets/images/items/itm_durapick_02.png",
         "qty": 2
       }
     ]
@@ -215,99 +215,99 @@
     ],
     "used in": [
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turkeyPowder.png"
+        "icon": "/assets/images/items/itm_turkeypowder.png"
       },
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
         "qty": 5,
-        "icon": "/assets/images/items/itm_turkeyPowder.png"
+        "icon": "/assets/images/items/itm_turkeypowder.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 6,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 2
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 12
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 2
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 12
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 2
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 12
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
-        "icon": "/assets/images/items/itm_seltsamOmelet.png",
+        "icon": "/assets/images/items/itm_seltsamomelet.png",
         "qty": 3
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
-        "icon": "/assets/images/items/itm_seltsamOmelet.png",
+        "icon": "/assets/images/items/itm_seltsamomelet.png",
         "qty": 18
       },
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
-        "icon": "/assets/images/items/itm_turkeyPowder.png",
+        "icon": "/assets/images/items/itm_turkeypowder.png",
         "qty": 3
       },
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
-        "icon": "/assets/images/items/itm_turkeyPowder.png",
+        "icon": "/assets/images/items/itm_turkeypowder.png",
         "qty": 15
       }
     ]
@@ -396,16 +396,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",
@@ -456,15 +456,15 @@
         "qty": 20
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
-        "icon": "/assets/images/items/itm_organicPaste.png",
+        "icon": "/assets/images/items/itm_organicpaste.png",
         "qty": 2
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
-        "icon": "/assets/images/items/itm_organicPaste.png",
+        "icon": "/assets/images/items/itm_organicpaste.png",
         "qty": 12
       },
       {
@@ -482,9 +482,9 @@
     ]
   },
   {
-    "id": "itm_turkey_blueFeather",
+    "id": "itm_turkey_bluefeather",
     "name": "Blue Feather",
-    "icon": "/assets/images/items/itm_turkey_blueFeather.png",
+    "icon": "/assets/images/items/itm_turkey_bluefeather.png",
     "tier": null,
     "level": 0,
     "energy": 0,
@@ -524,47 +524,47 @@
     ],
     "used in": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 6,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
-        "icon": "/assets/images/items/itm_featherwovenCloth.png",
+        "icon": "/assets/images/items/itm_featherwovencloth.png",
         "qty": 3
       },
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
-        "icon": "/assets/images/items/itm_featherwovenCloth.png",
+        "icon": "/assets/images/items/itm_featherwovencloth.png",
         "qty": 18
       },
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
-        "icon": "/assets/images/items/itm_featherBlade.png",
+        "icon": "/assets/images/items/itm_featherblade.png",
         "qty": 2
       }
     ]
   },
   {
-    "id": "itm_turkey_colorfulFeather",
+    "id": "itm_turkey_colorfulfeather",
     "name": "Colorful Feather",
-    "icon": "/assets/images/items/itm_turkey_colorfulFeather.png",
+    "icon": "/assets/images/items/itm_turkey_colorfulfeather.png",
     "tier": null,
     "level": 0,
     "energy": 0,
@@ -615,28 +615,28 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 6,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_04.png"
+        "icon": "/assets/images/items/itm_durapick_04.png"
       },
       {
         "id": "itm_tempboost_speed_15",
@@ -645,35 +645,35 @@
         "qty": 5
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
-        "icon": "/assets/images/items/itm_colorfulSalad.png",
+        "icon": "/assets/images/items/itm_colorfulsalad.png",
         "qty": 5
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
-        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "icon": "/assets/images/items/itm_evenbtrfert.png",
         "qty": 2
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
-        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "icon": "/assets/images/items/itm_evenbtrfert.png",
         "qty": 12
       },
       {
-        "id": "itm_duraPick_04",
+        "id": "itm_durapick_04",
         "name": "More Durable T4 Pickaxe",
-        "icon": "/assets/images/items/itm_duraPick_04.png",
+        "icon": "/assets/images/items/itm_durapick_04.png",
         "qty": 5
       }
     ]
   },
   {
-    "id": "itm_turkey_rainbowBristles",
+    "id": "itm_turkey_rainbowbristles",
     "name": "Rainbow Turkey Bristles",
-    "icon": "/assets/images/items/itm_turkey_rainbowBristles.png",
+    "icon": "/assets/images/items/itm_turkey_rainbowbristles.png",
     "tier": null,
     "level": 0,
     "energy": 0,
@@ -708,27 +708,27 @@
     ],
     "used in": [
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
         "qty": 1,
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       },
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png",
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png",
         "qty": 2
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
-        "icon": "/assets/images/items/itm_duraShears_04.png",
+        "icon": "/assets/images/items/itm_durashears_04.png",
         "qty": 2
       }
     ]

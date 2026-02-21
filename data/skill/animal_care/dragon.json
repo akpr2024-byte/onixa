@@ -23,9 +23,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -60,9 +60,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -112,24 +112,24 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
     ],
     "used in": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
-        "icon": "/assets/images/items/itm_dragonfireSauce.png",
+        "icon": "/assets/images/items/itm_dragonfiresauce.png",
         "qty": 1
       }
     ]
@@ -178,36 +178,36 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
     ],
     "used in": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
-        "icon": "/assets/images/items/itm_spicyOmelet.png",
+        "icon": "/assets/images/items/itm_spicyomelet.png",
         "qty": 2
       },
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
-        "icon": "/assets/images/items/itm_instantHotplate.png",
+        "icon": "/assets/images/items/itm_instanthotplate.png",
         "qty": 1
       }
     ]
@@ -241,9 +241,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -273,9 +273,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -325,9 +325,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -370,16 +370,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

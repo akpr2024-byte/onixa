@@ -15,10 +15,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cottoncandyFruit_blue",
+        "id": "itm_cottoncandyfruit_blue",
         "name": "Bluzberry Cotton Candy",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cottoncandyFruit_blue.png"
+        "icon": "/assets/images/items/itm_cottoncandyfruit_blue.png"
       }
     ],
     "craft_in": [
@@ -53,10 +53,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cottoncandyFruit_pink",
+        "id": "itm_cottoncandyfruit_pink",
         "name": "Razzleberry Cotton Candy",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cottoncandyFruit_pink.png"
+        "icon": "/assets/images/items/itm_cottoncandyfruit_pink.png"
       }
     ],
     "craft_in": [
@@ -91,10 +91,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cottoncandyFruit_mixed",
+        "id": "itm_cottoncandyfruit_mixed",
         "name": "Bluzzleberry Swirl Cotton Candy",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cottoncandyFruit_mixed.png"
+        "icon": "/assets/images/items/itm_cottoncandyfruit_mixed.png"
       }
     ],
     "craft_in": [
@@ -129,10 +129,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 2,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       }
     ],
     "craft_in": [
@@ -165,16 +165,16 @@
         "icon": "/assets/images/items/itm_mini_farmamix.png"
       },
       {
-        "id": "itm_popberryPie",
+        "id": "itm_popberrypie",
         "name": "Popberry Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_popberryPie.png"
+        "icon": "/assets/images/items/itm_popberrypie.png"
       },
       {
-        "id": "itm_popberryLoaf",
+        "id": "itm_popberryloaf",
         "name": "Popberry Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_popberryLoaf.png"
+        "icon": "/assets/images/items/itm_popberryloaf.png"
       },
       {
         "id": "itm_grainbowtart",
@@ -200,10 +200,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 24,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       }
     ],
     "craft_in": [
@@ -236,16 +236,16 @@
         "icon": "/assets/images/items/itm_mini_farmamix.png"
       },
       {
-        "id": "itm_popberryPie",
+        "id": "itm_popberrypie",
         "name": "Popberry Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_popberryPie.png"
+        "icon": "/assets/images/items/itm_popberrypie.png"
       },
       {
-        "id": "itm_popberryLoaf",
+        "id": "itm_popberryloaf",
         "name": "Popberry Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_popberryLoaf.png"
+        "icon": "/assets/images/items/itm_popberryloaf.png"
       },
       {
         "id": "itm_grainbowtart",
@@ -277,10 +277,10 @@
         "icon": "/assets/images/items/itm_bluecottoncandyjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -319,10 +319,10 @@
         "icon": "/assets/images/items/itm_pinkcottoncandyjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -361,10 +361,10 @@
         "icon": "/assets/images/items/itm_mixedcottoncandyjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -433,10 +433,10 @@
         "icon": "/assets/images/items/itm_apimix.png"
       },
       {
-        "id": "itm_scarrotPie",
+        "id": "itm_scarrotpie",
         "name": "Scarrot Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
+        "icon": "/assets/images/items/itm_scarrotpie.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
@@ -552,10 +552,10 @@
         "icon": "/assets/images/items/itm_apimix.png"
       },
       {
-        "id": "itm_scarrotPie",
+        "id": "itm_scarrotpie",
         "name": "Scarrot Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
+        "icon": "/assets/images/items/itm_scarrotpie.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
@@ -635,10 +635,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 2,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       }
     ],
     "craft_in": [
@@ -665,22 +665,22 @@
     ],
     "used in": [
       {
-        "id": "itm_grumpkinPie",
+        "id": "itm_grumpkinpie",
         "name": "Blue Grumpkin Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grumpkinPie.png"
+        "icon": "/assets/images/items/itm_grumpkinpie.png"
       },
       {
-        "id": "itm_bttrbrryBorsch",
+        "id": "itm_bttrbrryborsch",
         "name": "Butterberry Borsch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bttrbrryBorsch.png"
+        "icon": "/assets/images/items/itm_bttrbrryborsch.png"
       },
       {
-        "id": "itm_grumpkinLoaf",
+        "id": "itm_grumpkinloaf",
         "name": "Blue Grumpkin Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
+        "icon": "/assets/images/items/itm_grumpkinloaf.png"
       }
     ]
   },
@@ -798,10 +798,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 3,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       }
     ],
     "craft_in": [
@@ -819,16 +819,16 @@
         "icon": "/assets/images/items/itm_scarrotcake.png"
       },
       {
-        "id": "itm_scarrotPie",
+        "id": "itm_scarrotpie",
         "name": "Scarrot Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
+        "icon": "/assets/images/items/itm_scarrotpie.png"
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
       }
     ]
   },
@@ -848,10 +848,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 36,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       }
     ],
     "craft_in": [
@@ -869,23 +869,23 @@
         "icon": "/assets/images/items/itm_scarrotcake.png"
       },
       {
-        "id": "itm_scarrotPie",
+        "id": "itm_scarrotpie",
         "name": "Scarrot Pie",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
+        "icon": "/assets/images/items/itm_scarrotpie.png"
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
       }
     ]
   },
   {
-    "id": "itm_popberryPie",
+    "id": "itm_popberrypie",
     "name": "Popberry Pie",
-    "icon": "/assets/images/items/itm_popberryPie.png",
+    "icon": "/assets/images/items/itm_popberrypie.png",
     "tier": 1,
     "level": 2,
     "energy": 12,
@@ -904,10 +904,10 @@
         "icon": "/assets/images/items/itm_jam_popberry.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -934,9 +934,9 @@
     ]
   },
   {
-    "id": "itm_popberryLoaf",
+    "id": "itm_popberryloaf",
     "name": "Popberry Loaf",
-    "icon": "/assets/images/items/itm_popberryLoaf.png",
+    "icon": "/assets/images/items/itm_popberryloaf.png",
     "tier": 1,
     "level": 6,
     "energy": 16,
@@ -1042,9 +1042,9 @@
     ]
   },
   {
-    "id": "itm_Vinegar",
+    "id": "itm_vinegar",
     "name": "Vinegar",
-    "icon": "/assets/images/items/itm_Vinegar.png",
+    "icon": "/assets/images/items/itm_vinegar.png",
     "tier": 1,
     "level": 10,
     "energy": 22,
@@ -1063,10 +1063,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1093,10 +1093,10 @@
     ],
     "used in": [
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
         "id": "itm_hot_sauce",
@@ -1143,9 +1143,9 @@
     ]
   },
   {
-    "id": "itm_Vinegar",
+    "id": "itm_vinegar",
     "name": "Vinegar",
-    "icon": "/assets/images/items/itm_Vinegar.png",
+    "icon": "/assets/images/items/itm_vinegar.png",
     "tier": 1,
     "level": 15,
     "energy": 238,
@@ -1164,10 +1164,10 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1194,10 +1194,10 @@
     ],
     "used in": [
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
         "id": "itm_hot_sauce",
@@ -1244,9 +1244,9 @@
     ]
   },
   {
-    "id": "itm_grumpkinPie",
+    "id": "itm_grumpkinpie",
     "name": "Blue Grumpkin Pie",
-    "icon": "/assets/images/items/itm_grumpkinPie.png",
+    "icon": "/assets/images/items/itm_grumpkinpie.png",
     "tier": 1,
     "level": 15,
     "energy": 22,
@@ -1265,10 +1265,10 @@
         "icon": "/assets/images/items/itm_bluegrumpkinpuree.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1316,10 +1316,10 @@
         "icon": "/assets/images/items/itm_orangegrumpkinpuree.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1356,10 +1356,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 2,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       }
     ],
     "craft_in": [
@@ -1409,10 +1409,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 3,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       }
     ],
     "craft_in": [
@@ -1463,10 +1463,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 36,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       }
     ],
     "craft_in": [
@@ -1523,10 +1523,10 @@
         "icon": "/assets/images/items/itm_cloverfruitjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1594,10 +1594,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_4.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       },
       {
         "id": "itm_tatoscramble",
@@ -1737,10 +1737,10 @@
         "icon": "/assets/images/items/itm_coffeefruitjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1879,10 +1879,10 @@
         "icon": "/assets/images/items/itm_muckchuckfruitjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1977,10 +1977,10 @@
         "icon": "/assets/images/items/itm_napricotfruitjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2149,10 +2149,10 @@
         "icon": "/assets/images/items/itm_scarrotpuree.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -2191,10 +2191,10 @@
         "icon": "/assets/images/items/itm_butterberryjam.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -2212,17 +2212,17 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
   {
-    "id": "itm_scarrotPie",
+    "id": "itm_scarrotpie",
     "name": "Scarrot Pie",
-    "icon": "/assets/images/items/itm_scarrotPie.png",
+    "icon": "/assets/images/items/itm_scarrotpie.png",
     "tier": 4,
     "level": 67,
     "energy": 79,
@@ -2562,10 +2562,10 @@
         "icon": "/assets/images/items/itm_slothmatopaste.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -2615,10 +2615,10 @@
         "icon": "/assets/images/items/itm_cubecumberrelish.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -2647,9 +2647,9 @@
     ]
   },
   {
-    "id": "itm_scarrotLoaf",
+    "id": "itm_scarrotloaf",
     "name": "Scarrot Loaf",
-    "icon": "/assets/images/items/itm_scarrotLoaf.png",
+    "icon": "/assets/images/items/itm_scarrotloaf.png",
     "tier": 4,
     "level": 64,
     "energy": 79,
@@ -2689,17 +2689,17 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
   {
-    "id": "itm_muckchuckMouss",
+    "id": "itm_muckchuckmouss",
     "name": "Muckchuck Mousse",
-    "icon": "/assets/images/items/itm_muckchuckMouss.png",
+    "icon": "/assets/images/items/itm_muckchuckmouss.png",
     "tier": 2,
     "level": 30,
     "energy": 30,
@@ -2730,10 +2730,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2755,9 +2755,9 @@
     ]
   },
   {
-    "id": "itm_cremdCubecumbr",
+    "id": "itm_cremdcubecumbr",
     "name": "Creamed Cubecumber",
-    "icon": "/assets/images/items/itm_cremdCubecumbr.png",
+    "icon": "/assets/images/items/itm_cremdcubecumbr.png",
     "tier": 3,
     "level": 40,
     "energy": 49,
@@ -2788,10 +2788,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2808,9 +2808,9 @@
     ]
   },
   {
-    "id": "itm_scarrotStrgnff",
+    "id": "itm_scarrotstrgnff",
     "name": "Scarrot Stroganoff",
-    "icon": "/assets/images/items/itm_scarrotStrgnff.png",
+    "icon": "/assets/images/items/itm_scarrotstrgnff.png",
     "tier": 3,
     "level": 50,
     "energy": 75,
@@ -2829,10 +2829,10 @@
         "icon": "/assets/images/items/itm_milk.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 16,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_salt",
@@ -2847,16 +2847,16 @@
         "icon": "/assets/images/items/itm_flour.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2873,9 +2873,9 @@
     ]
   },
   {
-    "id": "itm_bttrbrryBorsch",
+    "id": "itm_bttrbrryborsch",
     "name": "Butterberry Borsch",
-    "icon": "/assets/images/items/itm_bttrbrryBorsch.png",
+    "icon": "/assets/images/items/itm_bttrbrryborsch.png",
     "tier": 4,
     "level": 65,
     "energy": 81,
@@ -2912,10 +2912,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2954,10 +2954,10 @@
         "icon": "/assets/images/items/itm_tree_sap.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
         "id": "itm_hotato",
@@ -2970,7 +2970,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -2981,10 +2981,10 @@
         "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -3025,9 +3025,9 @@
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
-    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "icon": "/assets/images/items/itm_yieldreactor.png",
     "tier": 2,
     "level": 20,
     "energy": 105,
@@ -3052,10 +3052,10 @@
         "icon": "/assets/images/items/itm_butterberrypie.png"
       },
       {
-        "id": "itm_scarrotLoaf",
+        "id": "itm_scarrotloaf",
         "name": "Scarrot Loaf",
         "qty": 2,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
+        "icon": "/assets/images/items/itm_scarrotloaf.png"
       }
     ],
     "craft_in": [
@@ -3079,9 +3079,9 @@
     "recipe_id": "cooking_yield_reactor"
   },
   {
-    "id": "itm_mashNapricot",
+    "id": "itm_mashnapricot",
     "name": "Napricot Mash",
-    "icon": "/assets/images/items/itm_mashNapricot.png",
+    "icon": "/assets/images/items/itm_mashnapricot.png",
     "tier": 2,
     "level": 20,
     "energy": 17,
@@ -3100,10 +3100,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3163,9 +3163,9 @@
     ]
   },
   {
-    "id": "itm_mashNapricot",
+    "id": "itm_mashnapricot",
     "name": "Napricot Mash",
-    "icon": "/assets/images/items/itm_mashNapricot.png",
+    "icon": "/assets/images/items/itm_mashnapricot.png",
     "tier": 2,
     "level": 20,
     "energy": 184,
@@ -3184,10 +3184,10 @@
         "icon": "/assets/images/items/itm_napricot.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -3361,16 +3361,16 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 2,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 4,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ],
     "craft_in": [
@@ -3382,9 +3382,9 @@
     ]
   },
   {
-    "id": "itm_bbqBase",
+    "id": "itm_bbqbase",
     "name": "BBQ Base",
-    "icon": "/assets/images/items/itm_bbqBase.png",
+    "icon": "/assets/images/items/itm_bbqbase.png",
     "tier": 1,
     "level": 15,
     "energy": 9,
@@ -3397,10 +3397,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 3,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_milk",
@@ -3425,15 +3425,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -3468,9 +3468,9 @@
     ]
   },
   {
-    "id": "itm_bbqBase",
+    "id": "itm_bbqbase",
     "name": "BBQ Base",
-    "icon": "/assets/images/items/itm_bbqBase.png",
+    "icon": "/assets/images/items/itm_bbqbase.png",
     "tier": 1,
     "level": 15,
     "energy": 62,
@@ -3483,10 +3483,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 18,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_milk",
@@ -3511,15 +3511,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -3554,9 +3554,9 @@
     ]
   },
   {
-    "id": "itm_seltsamOmelet",
+    "id": "itm_seltsamomelet",
     "name": "Seltsam Omelet",
-    "icon": "/assets/images/items/itm_seltsamOmelet.png",
+    "icon": "/assets/images/items/itm_seltsamomelet.png",
     "tier": 1,
     "level": 11,
     "energy": 22,
@@ -3569,10 +3569,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
         "id": "itm_thanksgiving_turkeyegg",
@@ -3605,9 +3605,9 @@
     ]
   },
   {
-    "id": "itm_seltsamOmelet",
+    "id": "itm_seltsamomelet",
     "name": "Seltsam Omelet",
-    "icon": "/assets/images/items/itm_seltsamOmelet.png",
+    "icon": "/assets/images/items/itm_seltsamomelet.png",
     "tier": 1,
     "level": 11,
     "energy": 152,
@@ -3620,10 +3620,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
         "id": "itm_thanksgiving_turkeyegg",
@@ -3656,9 +3656,9 @@
     ]
   },
   {
-    "id": "itm_seltsamCustard",
+    "id": "itm_seltsamcustard",
     "name": "Seltsam Egg Grilled Custard",
-    "icon": "/assets/images/items/itm_seltsamCustard.png",
+    "icon": "/assets/images/items/itm_seltsamcustard.png",
     "tier": 1,
     "level": 15,
     "energy": 13,
@@ -3671,44 +3671,44 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 10,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       }
     ]
   },
   {
-    "id": "itm_toffeeGlaze",
+    "id": "itm_toffeeglaze",
     "name": "Custard Rich Toffee Glaze",
-    "icon": "/assets/images/items/itm_toffeeGlaze.png",
+    "icon": "/assets/images/items/itm_toffeeglaze.png",
     "tier": 1,
     "level": 18,
     "energy": 9,
@@ -3721,22 +3721,22 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 2,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
-        "id": "itm_seltsamCustard",
+        "id": "itm_seltsamcustard",
         "name": "Seltsam Egg Grilled Custard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCustard.png"
+        "icon": "/assets/images/items/itm_seltsamcustard.png"
       },
       {
-        "id": "itm_rustyWateringCan",
+        "id": "itm_rustywateringcan",
         "name": "Rusty Watering Can",
         "qty": 2,
-        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+        "icon": "/assets/images/items/itm_rustywateringcan.png"
       }
     ],
     "craft_in": [
@@ -3763,35 +3763,35 @@
     ],
     "used in": [
       {
-        "id": "itm_goldenCharre",
+        "id": "itm_goldencharre",
         "name": "Golden Ember Charré",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goldenCharre.png"
+        "icon": "/assets/images/items/itm_goldencharre.png"
       },
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       }
     ]
   },
   {
-    "id": "itm_goldenCharre",
+    "id": "itm_goldencharre",
     "name": "Golden Ember Charré",
-    "icon": "/assets/images/items/itm_goldenCharre.png",
+    "icon": "/assets/images/items/itm_goldencharre.png",
     "tier": 1,
     "level": 19,
     "energy": 25,
@@ -3804,29 +3804,29 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goldenEgg",
+        "id": "itm_goldenegg",
         "name": "Golden Egg",
         "qty": 3,
-        "icon": "/assets/images/items/itm_goldenEgg.png"
+        "icon": "/assets/images/items/itm_goldenegg.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 11,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -3912,16 +3912,16 @@
         "icon": "/assets/images/items/itm_irontiteredpigment.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       }
     ]
   },
@@ -4007,23 +4007,23 @@
         "icon": "/assets/images/items/itm_irontiteredpigment.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       }
     ]
   },
   {
-    "id": "itm_lanolinBaste",
+    "id": "itm_lanolinbaste",
     "name": "Lanolin Oil Grill-Baste",
-    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "icon": "/assets/images/items/itm_lanolinbaste.png",
     "tier": 1,
     "level": 16,
     "energy": 11,
@@ -4036,10 +4036,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -4058,34 +4058,34 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       }
     ]
   },
   {
-    "id": "itm_lanolinBaste",
+    "id": "itm_lanolinbaste",
     "name": "Lanolin Oil Grill-Baste",
-    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "icon": "/assets/images/items/itm_lanolinbaste.png",
     "tier": 1,
     "level": 16,
     "energy": 76,
@@ -4098,10 +4098,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 18,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -4120,34 +4120,34 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       }
     ]
   },
   {
-    "id": "itm_royalJellyBbq",
+    "id": "itm_royaljellybbq",
     "name": "Royal Jelly Caramelized Fluppy BBQ",
-    "icon": "/assets/images/items/itm_royalJellyBbq.png",
+    "icon": "/assets/images/items/itm_royaljellybbq.png",
     "tier": 2,
     "level": 24,
     "energy": 58,
@@ -4160,10 +4160,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 2,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
         "id": "itm_woodlog_02",
@@ -4172,10 +4172,10 @@
         "icon": "/assets/images/items/itm_woodlog_02.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
         "id": "itm_commonfish_all",
@@ -4184,24 +4184,24 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_buttermilkDough",
+    "id": "itm_buttermilkdough",
     "name": "Buttermilk Dough",
-    "icon": "/assets/images/items/itm_buttermilkDough.png",
+    "icon": "/assets/images/items/itm_buttermilkdough.png",
     "tier": 2,
     "level": 25,
     "energy": 14,
@@ -4226,10 +4226,10 @@
         "icon": "/assets/images/items/itm_flour.png"
       },
       {
-        "id": "itm_goldenEgg",
+        "id": "itm_goldenegg",
         "name": "Golden Egg",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goldenEgg.png"
+        "icon": "/assets/images/items/itm_goldenegg.png"
       }
     ],
     "craft_in": [
@@ -4251,17 +4251,17 @@
     ],
     "used in": [
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       }
     ]
   },
   {
-    "id": "itm_herbPotatoes",
+    "id": "itm_herbpotatoes",
     "name": "Herb-Buttermilk Grilled Tatos",
-    "icon": "/assets/images/items/itm_herbPotatoes.png",
+    "icon": "/assets/images/items/itm_herbpotatoes.png",
     "tier": 2,
     "level": 26,
     "energy": 44,
@@ -4274,10 +4274,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_buttermilkDough",
+        "id": "itm_buttermilkdough",
         "name": "Buttermilk Dough",
         "qty": 1,
-        "icon": "/assets/images/items/itm_buttermilkDough.png"
+        "icon": "/assets/images/items/itm_buttermilkdough.png"
       },
       {
         "id": "itm_tatofruit",
@@ -4292,24 +4292,24 @@
         "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_spaceBatter",
+    "id": "itm_spacebatter",
     "name": "Space-Egg Aerated Batter",
-    "icon": "/assets/images/items/itm_spaceBatter.png",
+    "icon": "/assets/images/items/itm_spacebatter.png",
     "tier": 2,
     "level": 31,
     "energy": 18,
@@ -4322,16 +4322,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 2,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_chicken_spaceEgg",
+        "id": "itm_chicken_spaceegg",
         "name": "Space Egg",
         "qty": 3,
-        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+        "icon": "/assets/images/items/itm_chicken_spaceegg.png"
       }
     ],
     "craft_in": [
@@ -4359,23 +4359,23 @@
         "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 6,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       }
     ]
   },
   {
-    "id": "itm_spaceBatter",
+    "id": "itm_spacebatter",
     "name": "Space-Egg Aerated Batter",
-    "icon": "/assets/images/items/itm_spaceBatter.png",
+    "icon": "/assets/images/items/itm_spacebatter.png",
     "tier": 2,
     "level": 31,
     "energy": 124,
@@ -4388,16 +4388,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 12,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_chicken_spaceEgg",
+        "id": "itm_chicken_spaceegg",
         "name": "Space Egg",
         "qty": 18,
-        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+        "icon": "/assets/images/items/itm_chicken_spaceegg.png"
       }
     ],
     "craft_in": [
@@ -4425,23 +4425,23 @@
         "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 6,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       }
     ]
   },
   {
-    "id": "itm_cheesePaste",
+    "id": "itm_cheesepaste",
     "name": "Cheese Paste",
-    "icon": "/assets/images/items/itm_cheesePaste.png",
+    "icon": "/assets/images/items/itm_cheesepaste.png",
     "tier": 2,
     "level": 32,
     "energy": 19,
@@ -4454,10 +4454,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cow_cheeseClump",
+        "id": "itm_cow_cheeseclump",
         "name": "Cheese Clump",
         "qty": 3,
-        "icon": "/assets/images/items/itm_cow_cheeseClump.png"
+        "icon": "/assets/images/items/itm_cow_cheeseclump.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -4485,29 +4485,29 @@
     ],
     "used in": [
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 6,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       }
     ]
   },
   {
-    "id": "itm_cheesePaste",
+    "id": "itm_cheesepaste",
     "name": "Cheese Paste",
-    "icon": "/assets/images/items/itm_cheesePaste.png",
+    "icon": "/assets/images/items/itm_cheesepaste.png",
     "tier": 2,
     "level": 32,
     "energy": 131,
@@ -4520,10 +4520,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cow_cheeseClump",
+        "id": "itm_cow_cheeseclump",
         "name": "Cheese Clump",
         "qty": 18,
-        "icon": "/assets/images/items/itm_cow_cheeseClump.png"
+        "icon": "/assets/images/items/itm_cow_cheeseclump.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -4551,22 +4551,22 @@
     ],
     "used in": [
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 6,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       }
     ]
   },
@@ -4592,10 +4592,10 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
         "id": "itm_tenta",
@@ -4604,10 +4604,10 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       }
     ],
     "craft_in": [
@@ -4629,9 +4629,9 @@
     ]
   },
   {
-    "id": "itm_meadowMilkBread",
+    "id": "itm_meadowmilkbread",
     "name": "Meadow Milk Grilled Bread",
-    "icon": "/assets/images/items/itm_meadowMilkBread.png",
+    "icon": "/assets/images/items/itm_meadowmilkbread.png",
     "tier": 2,
     "level": 35,
     "energy": 28,
@@ -4644,16 +4644,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 2,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 5,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -4666,28 +4666,28 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       }
     ]
   },
   {
-    "id": "itm_meadowMilkBread",
+    "id": "itm_meadowmilkbread",
     "name": "Meadow Milk Grilled Bread",
-    "icon": "/assets/images/items/itm_meadowMilkBread.png",
+    "icon": "/assets/images/items/itm_meadowmilkbread.png",
     "tier": 2,
     "level": 35,
     "energy": 193,
@@ -4700,16 +4700,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 12,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 30,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_flour",
@@ -4722,28 +4722,28 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       }
     ]
   },
   {
-    "id": "itm_goatFondue",
+    "id": "itm_goatfondue",
     "name": "Goat Milk Grill-Fondue",
-    "icon": "/assets/images/items/itm_goatFondue.png",
+    "icon": "/assets/images/items/itm_goatfondue.png",
     "tier": 2,
     "level": 35,
     "energy": 18,
@@ -4756,30 +4756,30 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_goatFondue",
+    "id": "itm_goatfondue",
     "name": "Goat Milk Grill-Fondue",
-    "icon": "/assets/images/items/itm_goatFondue.png",
+    "icon": "/assets/images/items/itm_goatfondue.png",
     "tier": 2,
     "level": 35,
     "energy": 124,
@@ -4792,30 +4792,30 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_goat_goatMilk",
+        "id": "itm_goat_goatmilk",
         "name": "Goat Milk",
         "qty": 6,
-        "icon": "/assets/images/items/itm_goat_goatMilk.png"
+        "icon": "/assets/images/items/itm_goat_goatmilk.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_honeyJava",
+    "id": "itm_honeyjava",
     "name": "Honey-Glazed Hover-Java",
-    "icon": "/assets/images/items/itm_honeyJava.png",
+    "icon": "/assets/images/items/itm_honeyjava.png",
     "tier": 2,
     "level": 36,
     "energy": 44,
@@ -4850,14 +4850,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_grassSkewers",
+    "id": "itm_grassskewers",
     "name": "Grassclump Skewers",
-    "icon": "/assets/images/items/itm_grassSkewers.png",
+    "icon": "/assets/images/items/itm_grassskewers.png",
     "tier": 2,
     "level": 37,
     "energy": 44,
@@ -4870,16 +4870,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_cow_grassClump",
+        "id": "itm_cow_grassclump",
         "name": "Grass Clump",
         "qty": 4,
-        "icon": "/assets/images/items/itm_cow_grassClump.png"
+        "icon": "/assets/images/items/itm_cow_grassclump.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
         "id": "itm_stick",
@@ -4888,24 +4888,24 @@
         "icon": "/assets/images/items/itm_stick.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_sizzledBacon",
+    "id": "itm_sizzledbacon",
     "name": "Sizzled Veggie Bacon",
-    "icon": "/assets/images/items/itm_sizzledBacon.png",
+    "icon": "/assets/images/items/itm_sizzledbacon.png",
     "tier": 2,
     "level": 38,
     "energy": 25,
@@ -4918,16 +4918,16 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_pig_veggieBacon",
+        "id": "itm_pig_veggiebacon",
         "name": "Veggie Bacon",
         "qty": 2,
-        "icon": "/assets/images/items/itm_pig_veggieBacon.png"
+        "icon": "/assets/images/items/itm_pig_veggiebacon.png"
       },
       {
-        "id": "itm_dairyFat",
+        "id": "itm_dairyfat",
         "name": "Rendered Dairy Fat",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dairyFat.png"
+        "icon": "/assets/images/items/itm_dairyfat.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -4940,34 +4940,34 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_fauxPlatter",
+        "id": "itm_fauxplatter",
         "name": "Faux-Pork Sizzle Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fauxPlatter.png"
+        "icon": "/assets/images/items/itm_fauxplatter.png"
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishermanGrill.png"
+        "icon": "/assets/images/items/itm_fishermangrill.png"
       }
     ]
   },
   {
-    "id": "itm_savoryJerky",
+    "id": "itm_savoryjerky",
     "name": "Savory Earth-Jerky",
-    "icon": "/assets/images/items/itm_savoryJerky.png",
+    "icon": "/assets/images/items/itm_savoryjerky.png",
     "tier": 3,
     "level": 40,
     "energy": 55,
@@ -4992,30 +4992,30 @@
         "icon": "/assets/images/items/itm_tatofruit.png"
       },
       {
-        "id": "itm_cheesePaste",
+        "id": "itm_cheesepaste",
         "name": "Cheese Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cheesePaste.png"
+        "icon": "/assets/images/items/itm_cheesepaste.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_fauxPlatter",
+    "id": "itm_fauxplatter",
     "name": "Faux-Pork Sizzle Platter",
-    "icon": "/assets/images/items/itm_fauxPlatter.png",
+    "icon": "/assets/images/items/itm_fauxplatter.png",
     "tier": 3,
     "level": 41,
     "energy": 63,
@@ -5028,10 +5028,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 4,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -5044,14 +5044,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_impossibleStew",
+    "id": "itm_impossiblestew",
     "name": "Impossible Stew",
-    "icon": "/assets/images/items/itm_impossibleStew.png",
+    "icon": "/assets/images/items/itm_impossiblestew.png",
     "tier": 3,
     "level": 42,
     "energy": 70,
@@ -5070,16 +5070,16 @@
         "icon": "/assets/images/items/itm_pig_wings.png"
       },
       {
-        "id": "itm_seltsamProtein",
+        "id": "itm_seltsamprotein",
         "name": "Seltsam Egg Protein",
         "qty": 3,
-        "icon": "/assets/images/items/itm_seltsamProtein.png"
+        "icon": "/assets/images/items/itm_seltsamprotein.png"
       },
       {
-        "id": "itm_meadowMilkBread",
+        "id": "itm_meadowmilkbread",
         "name": "Meadow Milk Grilled Bread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
+        "icon": "/assets/images/items/itm_meadowmilkbread.png"
       },
       {
         "id": "itm_cow_buttermilk",
@@ -5108,9 +5108,9 @@
     ]
   },
   {
-    "id": "itm_saltSkewers",
+    "id": "itm_saltskewers",
     "name": "Salt-Cured Yolk Skewer",
-    "icon": "/assets/images/items/itm_saltSkewers.png",
+    "icon": "/assets/images/items/itm_saltskewers.png",
     "tier": 3,
     "level": 44,
     "energy": 58,
@@ -5145,14 +5145,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_fishermanGrill",
+    "id": "itm_fishermangrill",
     "name": "Fishermans Breakfast Grill",
-    "icon": "/assets/images/items/itm_fishermanGrill.png",
+    "icon": "/assets/images/items/itm_fishermangrill.png",
     "tier": 3,
     "level": 45,
     "energy": 68,
@@ -5171,10 +5171,10 @@
         "icon": "/assets/images/items/itm_duck_egg.png"
       },
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
         "id": "itm_rarefish_05",
@@ -5199,14 +5199,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_colorfulSalad",
+    "id": "itm_colorfulsalad",
     "name": "Colorful Feather Fire Salad",
-    "icon": "/assets/images/items/itm_colorfulSalad.png",
+    "icon": "/assets/images/items/itm_colorfulsalad.png",
     "tier": 3,
     "level": 52,
     "energy": 80,
@@ -5219,10 +5219,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_turkey_colorfulFeather",
+        "id": "itm_turkey_colorfulfeather",
         "name": "Colorful Feather",
         "qty": 5,
-        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+        "icon": "/assets/images/items/itm_turkey_colorfulfeather.png"
       },
       {
         "id": "itm_cubecumber",
@@ -5253,14 +5253,14 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
   {
-    "id": "itm_caramelBaste",
+    "id": "itm_caramelbaste",
     "name": "Caramelized Slime Imbued Baste",
-    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "icon": "/assets/images/items/itm_caramelbaste.png",
     "tier": 3,
     "level": 58,
     "energy": 36,
@@ -5273,50 +5273,50 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 2,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
         "qty": 1,
-        "icon": "/assets/images/items/itm_flameGreens.png"
+        "icon": "/assets/images/items/itm_flamegreens.png"
       }
     ]
   },
   {
-    "id": "itm_caramelBaste",
+    "id": "itm_caramelbaste",
     "name": "Caramelized Slime Imbued Baste",
-    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "icon": "/assets/images/items/itm_caramelbaste.png",
     "tier": 3,
     "level": 58,
     "energy": 248,
@@ -5329,50 +5329,50 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 12,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 6,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
         "qty": 1,
-        "icon": "/assets/images/items/itm_flameGreens.png"
+        "icon": "/assets/images/items/itm_flamegreens.png"
       }
     ]
   },
   {
-    "id": "itm_pondShrooms",
+    "id": "itm_pondshrooms",
     "name": "Pond Slime Seared Mushrooms",
-    "icon": "/assets/images/items/itm_pondShrooms.png",
+    "icon": "/assets/images/items/itm_pondshrooms.png",
     "tier": 4,
     "level": 60,
     "energy": 83,
@@ -5391,10 +5391,10 @@
         "icon": "/assets/images/items/itm_pig_truffles.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -5407,14 +5407,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_flameGreens",
+    "id": "itm_flamegreens",
     "name": "Flame Seared Pond Greens",
-    "icon": "/assets/images/items/itm_flameGreens.png",
+    "icon": "/assets/images/items/itm_flamegreens.png",
     "tier": 4,
     "level": 68,
     "energy": 83,
@@ -5433,24 +5433,24 @@
         "icon": "/assets/images/items/itm_duck_waterweed.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_pondMayo",
+    "id": "itm_pondmayo",
     "name": "Pond-Reed Mayo",
-    "icon": "/assets/images/items/itm_pondMayo.png",
+    "icon": "/assets/images/items/itm_pondmayo.png",
     "tier": 4,
     "level": 70,
     "energy": 38,
@@ -5491,28 +5491,28 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ]
   },
   {
-    "id": "itm_pondMayo",
+    "id": "itm_pondmayo",
     "name": "Pond-Reed Mayo",
-    "icon": "/assets/images/items/itm_pondMayo.png",
+    "icon": "/assets/images/items/itm_pondmayo.png",
     "tier": 4,
     "level": 70,
     "energy": 262,
@@ -5553,28 +5553,28 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spicyOmelet",
+        "id": "itm_spicyomelet",
         "name": "Spicy Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spicyOmelet.png"
+        "icon": "/assets/images/items/itm_spicyomelet.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       }
     ]
   },
   {
-    "id": "itm_spicyOmelet",
+    "id": "itm_spicyomelet",
     "name": "Spicy Omelet",
-    "icon": "/assets/images/items/itm_spicyOmelet.png",
+    "icon": "/assets/images/items/itm_spicyomelet.png",
     "tier": 4,
     "level": 72,
     "energy": 83,
@@ -5593,10 +5593,10 @@
         "icon": "/assets/images/items/itm_dragon_scale.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
         "id": "itm_hot_sauce",
@@ -5622,9 +5622,9 @@
     ]
   },
   {
-    "id": "itm_dragonfireSauce",
+    "id": "itm_dragonfiresauce",
     "name": "Dragonfire Pit BBQ Sauce",
-    "icon": "/assets/images/items/itm_dragonfireSauce.png",
+    "icon": "/assets/images/items/itm_dragonfiresauce.png",
     "tier": 4,
     "level": 73,
     "energy": 44,
@@ -5643,10 +5643,10 @@
         "icon": "/assets/images/items/itm_dragon_essence.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
         "id": "itm_hotato",
@@ -5655,17 +5655,17 @@
         "icon": "/assets/images/items/itm_hotato.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
@@ -5676,17 +5676,17 @@
         "icon": "/assets/images/items/itm_tempboost_speed_6.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_draconicStew.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       }
     ]
   },
   {
-    "id": "itm_scalePlatter",
+    "id": "itm_scaleplatter",
     "name": "Scale-Smoked Feast Platter",
-    "icon": "/assets/images/items/itm_scalePlatter.png",
+    "icon": "/assets/images/items/itm_scaleplatter.png",
     "tier": 4,
     "level": 78,
     "energy": 104,
@@ -5699,16 +5699,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 20,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_cubecumber",
@@ -5727,14 +5727,14 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
   {
-    "id": "itm_draconicStew",
+    "id": "itm_draconicstew",
     "name": "Draconic Essence Searing Stew",
-    "icon": "/assets/images/items/itm_draconicStew.png",
+    "icon": "/assets/images/items/itm_draconicstew.png",
     "tier": 4,
     "level": 76,
     "energy": 114,
@@ -5747,10 +5747,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_butterberry",
@@ -5759,10 +5759,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 15,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_slothmato",
@@ -5775,7 +5775,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -5831,16 +5831,16 @@
     ],
     "used in": [
       {
-        "id": "itm_muckchuckMouss",
+        "id": "itm_muckchuckmouss",
         "name": "Muckchuck Mousse",
         "qty": 1,
-        "icon": "/assets/images/items/itm_muckchuckMouss.png"
+        "icon": "/assets/images/items/itm_muckchuckmouss.png"
       },
       {
-        "id": "itm_cremdCubecumbr",
+        "id": "itm_cremdcubecumbr",
         "name": "Creamed Cubecumber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cremdCubecumbr.png"
+        "icon": "/assets/images/items/itm_cremdcubecumbr.png"
       },
       {
         "id": "itm_clover_creme",
@@ -5866,10 +5866,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 8,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_milk",
@@ -5902,9 +5902,9 @@
     ]
   },
   {
-    "id": "itm_mashPopberry",
+    "id": "itm_mashpopberry",
     "name": "Popberry Mash",
-    "icon": "/assets/images/items/itm_mashPopberry.png",
+    "icon": "/assets/images/items/itm_mashpopberry.png",
     "tier": 1,
     "level": 10,
     "energy": 12,
@@ -5917,16 +5917,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 10,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -6003,9 +6003,9 @@
     ]
   },
   {
-    "id": "itm_mashPopberry",
+    "id": "itm_mashpopberry",
     "name": "Popberry Mash",
-    "icon": "/assets/images/items/itm_mashPopberry.png",
+    "icon": "/assets/images/items/itm_mashpopberry.png",
     "tier": 1,
     "level": 10,
     "energy": 130,
@@ -6018,16 +6018,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 120,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -6104,9 +6104,9 @@
     ]
   },
   {
-    "id": "itm_kikosPancakes",
+    "id": "itm_kikospancakes",
     "name": "Kiko's Popberry Pancakes",
-    "icon": "/assets/images/items/itm_kikosPancakes.png",
+    "icon": "/assets/images/items/itm_kikospancakes.png",
     "tier": 1,
     "level": 11,
     "energy": 12,
@@ -6119,10 +6119,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 15,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_flour",
@@ -6167,9 +6167,9 @@
     ]
   },
   {
-    "id": "itm_mashClover",
+    "id": "itm_mashclover",
     "name": "Clover Mash",
-    "icon": "/assets/images/items/itm_mashClover.png",
+    "icon": "/assets/images/items/itm_mashclover.png",
     "tier": 1,
     "level": 15,
     "energy": 12,
@@ -6182,16 +6182,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -6268,9 +6268,9 @@
     ]
   },
   {
-    "id": "itm_mashClover",
+    "id": "itm_mashclover",
     "name": "Clover Mash",
-    "icon": "/assets/images/items/itm_mashClover.png",
+    "icon": "/assets/images/items/itm_mashclover.png",
     "tier": 1,
     "level": 15,
     "energy": 130,
@@ -6283,16 +6283,16 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 120,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -6369,9 +6369,9 @@
     ]
   },
   {
-    "id": "itm_grumpkinLoaf",
+    "id": "itm_grumpkinloaf",
     "name": "Blue Grumpkin Loaf",
-    "icon": "/assets/images/items/itm_grumpkinLoaf.png",
+    "icon": "/assets/images/items/itm_grumpkinloaf.png",
     "tier": 1,
     "level": 17,
     "energy": 22,
@@ -6447,10 +6447,10 @@
         "icon": "/assets/images/items/itm_whipped_cream.png"
       },
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       }
     ],
     "craft_in": [
@@ -6492,10 +6492,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -6520,21 +6520,21 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_fauxPlatter",
+        "id": "itm_fauxplatter",
         "name": "Faux-Pork Sizzle Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fauxPlatter.png"
+        "icon": "/assets/images/items/itm_fauxplatter.png"
       },
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
@@ -6566,10 +6566,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -6594,7 +6594,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -6634,16 +6634,16 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 3,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
         "id": "itm_salt",
@@ -6662,15 +6662,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
         "qty": 1,
-        "icon": "/assets/images/items/itm_honeyJava.png"
+        "icon": "/assets/images/items/itm_honeyjava.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
@@ -6714,10 +6714,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_salt",
@@ -6742,7 +6742,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
@@ -6776,10 +6776,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
         "id": "itm_4_leaf_cloveregano",
@@ -6804,15 +6804,15 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_saltSkewers.png"
+        "icon": "/assets/images/items/itm_saltskewers.png"
       },
       {
         "id": "itm_dry_pulled_muckchuck_platter",
@@ -6844,10 +6844,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 12,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -6862,17 +6862,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -6892,16 +6892,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 8,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 10,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_honey_bbq_sauce",
@@ -6910,17 +6910,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -6940,10 +6940,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 15,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -6958,17 +6958,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -6988,10 +6988,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -7006,10 +7006,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -7022,7 +7022,7 @@
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -7042,10 +7042,10 @@
     "station": "Landbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 8,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_grainbow",
@@ -7060,17 +7060,17 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -7108,17 +7108,17 @@
         "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -7156,17 +7156,17 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "landbbq",
         "name": "Landbbq",
-        "icon": "landbbq"
+        "icon": "/assets/images/items/landbbq.png"
       }
     ]
   },
@@ -7186,16 +7186,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 8,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 4,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_syrup",
@@ -7204,10 +7204,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
@@ -7220,7 +7220,7 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -7240,16 +7240,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 6,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 4,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_salt",
@@ -7258,10 +7258,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
@@ -7274,7 +7274,7 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
@@ -7302,10 +7302,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 4,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_butterberry",
@@ -7314,10 +7314,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 1,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_traditional_bbq_sauce",
@@ -7326,17 +7326,17 @@
         "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -7362,10 +7362,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 3,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -7374,17 +7374,17 @@
         "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -7404,10 +7404,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 6,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -7422,10 +7422,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_4_leaf_cloveregano",
@@ -7438,7 +7438,7 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -7458,10 +7458,10 @@
     "station": "Spacebbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
         "id": "itm_tenta",
@@ -7476,10 +7476,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -7492,7 +7492,7 @@
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -7530,17 +7530,17 @@
         "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ],
     "used in": [
@@ -7586,17 +7586,17 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "spacebbq",
         "name": "Spacebbq",
-        "icon": "spacebbq"
+        "icon": "/assets/images/items/spacebbq.png"
       }
     ]
   },
@@ -7622,16 +7622,16 @@
         "icon": "/assets/images/items/itm_tatohash.png"
       },
       {
-        "id": "itm_cloverFruit",
+        "id": "itm_cloverfruit",
         "name": "Clover",
         "qty": 6,
-        "icon": "/assets/images/items/itm_cloverFruit.png"
+        "icon": "/assets/images/items/itm_cloverfruit.png"
       },
       {
-        "id": "itm_seltsamEgg",
+        "id": "itm_seltsamegg",
         "name": "Seltsam Egg",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamEgg.png"
+        "icon": "/assets/images/items/itm_seltsamegg.png"
       }
     ],
     "craft_in": [
@@ -7653,9 +7653,9 @@
     ]
   },
   {
-    "id": "itm_slthmatoAlfred",
+    "id": "itm_slthmatoalfred",
     "name": "Slothmato Alfredo",
-    "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+    "icon": "/assets/images/items/itm_slthmatoalfred.png",
     "tier": 2,
     "level": 35,
     "energy": 46,
@@ -7698,10 +7698,10 @@
         "icon": "/assets/images/items/itm_flour.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -7738,10 +7738,10 @@
     "station": "Cooking",
     "ingredients": [
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 6,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_honey",
@@ -7750,10 +7750,10 @@
         "icon": "/assets/images/items/itm_honey.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       },
       {
         "id": "itm_glass_bottle",

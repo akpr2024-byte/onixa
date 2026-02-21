@@ -1,6 +1,6 @@
 [
   {
-    "id": "itm_pinkFence",
+    "id": "itm_pinkfence",
     "name": "Pink Fence",
     "tier": 1,
     "level": 1,
@@ -17,28 +17,28 @@
         "id": "itm_magnoot",
         "name": "Magnoot",
         "qty": 60,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_magnoot/285363fa-5c2d-4f47-9793-87207180d313.png"
+        "icon": "/assets/images/items/itm_magnoot.png"
       },
       {
         "id": "itm_screw",
         "name": "Copperite Screw",
         "qty": 120,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_screw/544172a9-5279-4bf3-9bc7-3dd232b518b7.png"
+        "icon": "/assets/images/items/itm_screw.png"
       },
       {
         "id": "itm_woodplank_02",
         "name": "Craftbark Plank",
         "qty": 60,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_woodplank_02/647deb6a-d7d1-4f88-b06b-d7b163416b08.png"
+        "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
-        "id": "itm_heartbeetFruit",
+        "id": "itm_heartbeetfruit",
         "name": "Heartbeet",
         "qty": 100,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//3cb811c3-ded5-4d76-ad13-9ec157bdeedd.png"
+        "icon": "/assets/images/items/itm_heartbeetfruit.png"
       }
     ],
-    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_pinkFence/6f60fd60-dd83-4eec-a55d-731100081e4b.png",
+    "icon": "/assets/images/items/itm_pinkfence.png",
     "craft_in": [
       {
         "stage": "t1",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "itm_greenFence",
+    "id": "itm_greenfence",
     "name": "Green Fence",
     "tier": 1,
     "level": 1,
@@ -80,28 +80,28 @@
         "id": "itm_magnoot",
         "name": "Magnoot",
         "qty": 60,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_magnoot/285363fa-5c2d-4f47-9793-87207180d313.png"
+        "icon": "/assets/images/items/itm_magnoot.png"
       },
       {
         "id": "itm_screw",
         "name": "Copperite Screw",
         "qty": 120,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_screw/544172a9-5279-4bf3-9bc7-3dd232b518b7.png"
+        "icon": "/assets/images/items/itm_screw.png"
       },
       {
         "id": "itm_woodplank_02",
         "name": "Craftbark Plank",
         "qty": 60,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_woodplank_02/647deb6a-d7d1-4f88-b06b-d7b163416b08.png"
+        "icon": "/assets/images/items/itm_woodplank_02.png"
       },
       {
         "id": "itm_cubecumber",
         "name": "Cubecumber",
         "qty": 100,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//6b482d96-58a2-4bad-81dc-71b18e250bfa.png"
+        "icon": "/assets/images/items/itm_cubecumber.png"
       }
     ],
-    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_greenFence/19fcf75f-681c-4e1d-b76e-e584e96c5913.png",
+    "icon": "/assets/images/items/itm_greenfence.png",
     "craft_in": [
       {
         "stage": "t1",

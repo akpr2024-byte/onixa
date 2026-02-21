@@ -27,10 +27,10 @@
         "icon": "/assets/images/items/itm_feather_01.png"
       },
       {
-        "id": "itm_pig_pigMilk",
+        "id": "itm_pig_pigmilk",
         "name": "Pig Milk",
         "qty": 5,
-        "icon": "/assets/images/items/itm_pig_pigMilk.png"
+        "icon": "/assets/images/items/itm_pig_pigmilk.png"
       },
       {
         "id": "itm_dew",
@@ -79,16 +79,16 @@
         "icon": "/assets/images/items/itm_turd.png"
       },
       {
-        "id": "itm_sheep_knottedWool",
+        "id": "itm_sheep_knottedwool",
         "name": "Knotted Wool",
         "qty": 10,
-        "icon": "/assets/images/items/itm_sheep_knottedWool.png"
+        "icon": "/assets/images/items/itm_sheep_knottedwool.png"
       },
       {
-        "id": "itm_bee_babyWings",
+        "id": "itm_bee_babywings",
         "name": "Baby Bee Wings",
         "qty": 5,
-        "icon": "/assets/images/items/itm_bee_babyWings.png"
+        "icon": "/assets/images/items/itm_bee_babywings.png"
       },
       {
         "id": "itm_dew",
@@ -132,10 +132,10 @@
         "icon": "/assets/images/items/itm_turd.png"
       },
       {
-        "id": "itm_goat_sunHorn",
+        "id": "itm_goat_sunhorn",
         "name": "Sunbaked Horn Tip",
         "qty": 10,
-        "icon": "/assets/images/items/itm_goat_sunHorn.png"
+        "icon": "/assets/images/items/itm_goat_sunhorn.png"
       },
       {
         "id": "itm_duck_waterweed",
@@ -186,10 +186,10 @@
         "icon": "/assets/images/items/itm_cow_buttermilk.png"
       },
       {
-        "id": "itm_slug_shimmerSlime",
+        "id": "itm_slug_shimmerslime",
         "name": "Shimmer Slime",
         "qty": 5,
-        "icon": "/assets/images/items/itm_slug_shimmerSlime.png"
+        "icon": "/assets/images/items/itm_slug_shimmerslime.png"
       },
       {
         "id": "itm_dew",
@@ -244,10 +244,10 @@
         "icon": "/assets/images/items/itm_bee_pollen.png"
       },
       {
-        "id": "itm_pig_veggieBacon",
+        "id": "itm_pig_veggiebacon",
         "name": "Veggie Bacon",
         "qty": 5,
-        "icon": "/assets/images/items/itm_pig_veggieBacon.png"
+        "icon": "/assets/images/items/itm_pig_veggiebacon.png"
       },
       {
         "id": "itm_dew",
@@ -291,10 +291,10 @@
         "icon": "/assets/images/items/itm_turd.png"
       },
       {
-        "id": "itm_turkey_colorfulFeather",
+        "id": "itm_turkey_colorfulfeather",
         "name": "Colorful Feather",
         "qty": 5,
-        "icon": "/assets/images/items/itm_turkey_colorfulFeather.png"
+        "icon": "/assets/images/items/itm_turkey_colorfulfeather.png"
       },
       {
         "id": "itm_goat_mohair",

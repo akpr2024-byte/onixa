@@ -15,10 +15,10 @@
     "station": "Quantum Recombinator",
     "ingredients": [
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_magnetite_ore",
@@ -67,10 +67,10 @@
     "station": "Quantum Recombinator",
     "ingredients": [
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_salt",
@@ -119,10 +119,10 @@
     "station": "Quantum Recombinator",
     "ingredients": [
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
         "id": "itm_tenta",
@@ -131,10 +131,10 @@
         "icon": "/assets/images/items/itm_tenta.png"
       },
       {
-        "id": "itm_chicken_spaceEgg",
+        "id": "itm_chicken_spaceegg",
         "name": "Space Egg",
         "qty": 2,
-        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+        "icon": "/assets/images/items/itm_chicken_spaceegg.png"
       }
     ],
     "craft_in": [
@@ -177,22 +177,22 @@
         "icon": "/assets/images/items/itm_void.png"
       },
       {
-        "id": "itm_chicken_spaceEgg",
+        "id": "itm_chicken_spaceegg",
         "name": "Space Egg",
         "qty": 1,
-        "icon": "/assets/images/items/itm_chicken_spaceEgg.png"
+        "icon": "/assets/images/items/itm_chicken_spaceegg.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 3,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 3,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       }
     ],
     "craft_in": [

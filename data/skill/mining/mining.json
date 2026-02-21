@@ -64,16 +64,16 @@
     "space": true,
     "used in": [
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 12,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
         "id": "itm_glass01",
@@ -166,15 +166,15 @@
         "qty": 80
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 120
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 10
       },
       {
@@ -250,22 +250,22 @@
     "space": true,
     "used in": [
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 12,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fireBlessing.png"
+        "icon": "/assets/images/items/itm_fireblessing.png"
       },
       {
         "id": "itm_ochruxblackpigment",
@@ -280,21 +280,21 @@
         "icon": "/assets/images/items/itm_fireplace-pot-decoration.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 240
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 20
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
-        "icon": "/assets/images/items/itm_fireBlessing.png",
+        "icon": "/assets/images/items/itm_fireblessing.png",
         "qty": 18
       },
       {
@@ -448,16 +448,16 @@
         "icon": "/assets/images/items/itm_woodwork_kit_01.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
         "id": "itm_metalbar_01",
@@ -532,15 +532,15 @@
         "qty": 10
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png",
         "qty": 8
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png",
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png",
         "qty": 48
       }
     ]
@@ -610,16 +610,16 @@
     "space": true,
     "used in": [
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 12,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
         "id": "itm_stove_kit_01",
@@ -706,15 +706,15 @@
         "qty": 10
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 720
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
-        "icon": "/assets/images/items/itm_constructionPowder.png",
+        "icon": "/assets/images/items/itm_constructionpowder.png",
         "qty": 60
       },
       {
@@ -968,16 +968,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_1.png"
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png"
+        "icon": "/assets/images/items/itm_small_fountain_04.png"
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png"
+        "icon": "/assets/images/items/itm_small_fountain_03.png"
       },
       {
         "id": "itm_waterland_statue",
@@ -1028,15 +1028,15 @@
         "qty": 15
       },
       {
-        "id": "itm_Small_Fountain_04",
+        "id": "itm_small_fountain_04",
         "name": "Statue Fountain",
-        "icon": "/assets/images/items/itm_Small_Fountain_04.png",
+        "icon": "/assets/images/items/itm_small_fountain_04.png",
         "qty": 18
       },
       {
-        "id": "itm_Small_Fountain_03",
+        "id": "itm_small_fountain_03",
         "name": "Triple Fountain",
-        "icon": "/assets/images/items/itm_Small_Fountain_03.png",
+        "icon": "/assets/images/items/itm_small_fountain_03.png",
         "qty": 6
       },
       {
@@ -1134,10 +1134,10 @@
         "icon": "/assets/images/items/itm_nail_03.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       },
       {
         "id": "itm_metalbar_03",
@@ -1182,9 +1182,9 @@
         "qty": 18
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
-        "icon": "/assets/images/items/itm_fineGritPowder.png",
+        "icon": "/assets/images/items/itm_finegritpowder.png",
         "qty": 10
       }
     ]
@@ -1640,27 +1640,27 @@
     "space": true,
     "used in": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mysticMix.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
-        "icon": "/assets/images/items/itm_yieldReactor.png",
+        "icon": "/assets/images/items/itm_yieldreactor.png",
         "qty": 10
       },
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 2
       }
     ]
@@ -1720,22 +1720,22 @@
     "space": false,
     "used in": [
       {
-        "id": "itm_cremdCubecumbr",
+        "id": "itm_cremdcubecumbr",
         "name": "Creamed Cubecumber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cremdCubecumbr.png"
+        "icon": "/assets/images/items/itm_cremdcubecumbr.png"
       },
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
-        "id": "itm_bttrbrryBorsch",
+        "id": "itm_bttrbrryborsch",
         "name": "Butterberry Borsch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bttrbrryBorsch.png"
+        "icon": "/assets/images/items/itm_bttrbrryborsch.png"
       },
       {
         "id": "itm_hot_sauce",
@@ -1744,22 +1744,22 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_saltSkewers.png"
+        "icon": "/assets/images/items/itm_saltskewers.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
         "qty": 6,
-        "icon": "/assets/images/items/itm_pondMayo.png"
+        "icon": "/assets/images/items/itm_pondmayo.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -1810,10 +1810,10 @@
         "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png"
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
       },
       {
         "id": "itm_tempboost_yield_8",
@@ -1834,21 +1834,21 @@
         "icon": "/assets/images/items/itm_60dayflower_water_seed.png"
       },
       {
-        "id": "itm_cremdCubecumbr",
+        "id": "itm_cremdcubecumbr",
         "name": "Creamed Cubecumber",
-        "icon": "/assets/images/items/itm_cremdCubecumbr.png",
+        "icon": "/assets/images/items/itm_cremdcubecumbr.png",
         "qty": 2
       },
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png",
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png",
         "qty": 2
       },
       {
-        "id": "itm_bttrbrryBorsch",
+        "id": "itm_bttrbrryborsch",
         "name": "Butterberry Borsch",
-        "icon": "/assets/images/items/itm_bttrbrryBorsch.png",
+        "icon": "/assets/images/items/itm_bttrbrryborsch.png",
         "qty": 2
       },
       {
@@ -1876,21 +1876,21 @@
         "qty": 3
       },
       {
-        "id": "itm_saltSkewers",
+        "id": "itm_saltskewers",
         "name": "Salt-Cured Yolk Skewer",
-        "icon": "/assets/images/items/itm_saltSkewers.png",
+        "icon": "/assets/images/items/itm_saltskewers.png",
         "qty": 5
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 3
       },
       {
-        "id": "itm_pondMayo",
+        "id": "itm_pondmayo",
         "name": "Pond-Reed Mayo",
-        "icon": "/assets/images/items/itm_pondMayo.png",
+        "icon": "/assets/images/items/itm_pondmayo.png",
         "qty": 18
       },
       {
@@ -1942,9 +1942,9 @@
         "qty": 1
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png",
+        "icon": "/assets/images/items/itm_slthmatoalfred.png",
         "qty": 2
       }
     ]
@@ -2010,10 +2010,10 @@
         "icon": "/assets/images/items/itm_bones_hut_2.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_tempboost_yield_9",
@@ -2028,10 +2028,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_3.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       },
       {
         "id": "itm_hotatoseed",
@@ -2040,10 +2040,10 @@
         "icon": "/assets/images/items/itm_hotatoseed.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 3,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
         "id": "itm_tempboost_yield_9",
@@ -2058,10 +2058,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_3.png"
       },
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 3,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       },
       {
         "id": "itm_bones_hut_2",

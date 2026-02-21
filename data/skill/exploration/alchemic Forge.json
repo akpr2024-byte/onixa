@@ -15,16 +15,16 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 2,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
         "id": "itm_gear_02",
@@ -33,10 +33,10 @@
         "icon": "/assets/images/items/itm_gear_02.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 2,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       }
     ],
     "craft_in": [

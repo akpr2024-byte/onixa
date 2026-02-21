@@ -61,10 +61,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 2,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -154,10 +154,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 2,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
         "id": "itm_moist_salt_encrusted_popberry_skewers",
@@ -237,10 +237,10 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
         "qty": 1,
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png"
       },
       {
         "id": "itm_irontiteredpigment",

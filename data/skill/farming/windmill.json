@@ -21,17 +21,17 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 3,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -71,17 +71,17 @@
         "icon": "/assets/images/items/itm_grainbow.png"
       },
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 36,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -125,7 +125,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -163,7 +163,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -175,174 +175,11 @@
       }
     ]
   },
+
   {
-    "id": "itm_flour",
-    "name": "Grainbow Flour",
-    "icon": "/assets/images/items/itm_flour.png",
-    "tier": 1,
-    "level": 2,
-    "energy": 18,
-    "speed_boost": 0,
-    "time": 11,
-    "xp": 65,
-    "xp_type": "business",
-    "skill": "Farming",
-    "output": 1,
-    "station": "Windmill",
-    "ingredients": [
-      {
-        "id": "itm_grainbow",
-        "name": "Grainbow",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_grainbow.png"
-      }
-    ],
-    "craft_in": [
-      {
-        "id": "windmill",
-        "name": "Windmill",
-        "icon": "windmill"
-      }
-    ],
-    "used in": [
-      {
-        "id": "itm_petfood",
-        "name": "Pet Treat",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_petfood.png"
-      },
-      {
-        "id": "itm_petfood",
-        "name": "Pet Treat",
-        "qty": 10,
-        "icon": "/assets/images/items/itm_petfood.png"
-      },
-      {
-        "id": "itm_petfood",
-        "name": "Pet Treat",
-        "qty": 15,
-        "icon": "/assets/images/items/itm_petfood.png"
-      },
-      {
-        "id": "itm_bluecottoncandypie",
-        "name": "Blue Cotton Candy Pie",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_bluecottoncandypie.png"
-      },
-      {
-        "id": "itm_pinkcottoncandypie",
-        "name": "Pink Cotton Candy Pie",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_pinkcottoncandypie.png"
-      },
-      {
-        "id": "itm_mixedcottoncandypie",
-        "name": "Mixed Cotton Candy Pie",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_mixedcottoncandypie.png"
-      },
-      {
-        "id": "itm_popberryLoaf",
-        "name": "Popberry Loaf",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_popberryLoaf.png"
-      },
-      {
-        "id": "itm_grainbowtart",
-        "name": "Grainbow Tart",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_grainbowtart.png"
-      },
-      {
-        "id": "itm_scarrotcake",
-        "name": "Slice of Scarrot Cake",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotcake.png"
-      },
-      {
-        "id": "itm_butterberrypie",
-        "name": "Butterberry Pie",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_butterberrypie.png"
-      },
-      {
-        "id": "itm_scarrotPie",
-        "name": "Scarrot Pie",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotPie.png"
-      },
-      {
-        "id": "itm_slothmatopizza",
-        "name": "Slice of Slothmato Pizza",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_slothmatopizza.png"
-      },
-      {
-        "id": "itm_cubecumberloaf",
-        "name": "Cubecumber Loaf",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_cubecumberloaf.png"
-      },
-      {
-        "id": "itm_scarrotLoaf",
-        "name": "Scarrot Loaf",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotLoaf.png"
-      },
-      {
-        "id": "itm_scarrotStrgnff",
-        "name": "Scarrot Stroganoff",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
-      },
-      {
-        "id": "itm_buttermilkDough",
-        "name": "Buttermilk Dough",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_buttermilkDough.png"
-      },
-      {
-        "id": "itm_meadowMilkBread",
-        "name": "Meadow Milk Grilled Bread",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
-      },
-      {
-        "id": "itm_meadowMilkBread",
-        "name": "Meadow Milk Grilled Bread",
-        "qty": 6,
-        "icon": "/assets/images/items/itm_meadowMilkBread.png"
-      },
-      {
-        "id": "itm_kikosPancakes",
-        "name": "Kiko's Popberry Pancakes",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_kikosPancakes.png"
-      },
-      {
-        "id": "itm_grumpkinLoaf",
-        "name": "Blue Grumpkin Loaf",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_grumpkinLoaf.png"
-      },
-      {
-        "id": "itm_slthmatoAlfred",
-        "name": "Slothmato Alfredo",
-        "qty": 1,
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
-      },
-      {
-        "id": "itm_petfood",
-        "name": "Pet Treat",
-        "qty": 12,
-        "icon": "/assets/images/items/itm_petfood.png"
-      }
-    ]
-  },
-  {
-    "id": "itm_Shrapnel",
+    "id": "itm_shrapnel",
     "name": "Shrapnel",
-    "icon": "/assets/images/items/itm_Shrapnel.png",
+    "icon": "/assets/images/items/itm_shrapnel.png",
     "tier": 1,
     "level": 10,
     "energy": 18,
@@ -365,28 +202,28 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
   {
-    "id": "itm_Shrapnel",
+    "id": "itm_shrapnel",
     "name": "Shrapnel",
-    "icon": "/assets/images/items/itm_Shrapnel.png",
+    "icon": "/assets/images/items/itm_shrapnel.png",
     "tier": 1,
     "level": 10,
     "energy": 194,
@@ -409,28 +246,28 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_spiderShard",
+        "id": "itm_spidershard",
         "name": "Spiderbound Shard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spiderShard.png"
+        "icon": "/assets/images/items/itm_spidershard.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       }
     ]
   },
   {
-    "id": "itm_seltsamProtein",
+    "id": "itm_seltsamprotein",
     "name": "Seltsam Egg Protein",
-    "icon": "/assets/images/items/itm_seltsamProtein.png",
+    "icon": "/assets/images/items/itm_seltsamprotein.png",
     "tier": 1,
     "level": 10,
     "energy": 5,
@@ -443,10 +280,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_seltsamEgg",
+        "id": "itm_seltsamegg",
         "name": "Seltsam Egg",
         "qty": 3,
-        "icon": "/assets/images/items/itm_seltsamEgg.png"
+        "icon": "/assets/images/items/itm_seltsamegg.png"
       },
       {
         "id": "itm_grindstone_01",
@@ -459,52 +296,52 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_seltsamCustard",
+        "id": "itm_seltsamcustard",
         "name": "Seltsam Egg Grilled Custard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCustard.png"
+        "icon": "/assets/images/items/itm_seltsamcustard.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       }
     ]
   },
   {
-    "id": "itm_seltsamProtein",
+    "id": "itm_seltsamprotein",
     "name": "Seltsam Egg Protein",
-    "icon": "/assets/images/items/itm_seltsamProtein.png",
+    "icon": "/assets/images/items/itm_seltsamprotein.png",
     "tier": 1,
     "level": 10,
     "energy": 35,
@@ -517,10 +354,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_seltsamEgg",
+        "id": "itm_seltsamegg",
         "name": "Seltsam Egg",
         "qty": 18,
-        "icon": "/assets/images/items/itm_seltsamEgg.png"
+        "icon": "/assets/images/items/itm_seltsamegg.png"
       },
       {
         "id": "itm_grindstone_01",
@@ -533,45 +370,45 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_seltsamOmelet",
+        "id": "itm_seltsamomelet",
         "name": "Seltsam Omelet",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamOmelet.png"
+        "icon": "/assets/images/items/itm_seltsamomelet.png"
       },
       {
-        "id": "itm_seltsamCustard",
+        "id": "itm_seltsamcustard",
         "name": "Seltsam Egg Grilled Custard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCustard.png"
+        "icon": "/assets/images/items/itm_seltsamcustard.png"
       },
       {
-        "id": "itm_impossibleStew",
+        "id": "itm_impossiblestew",
         "name": "Impossible Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_impossibleStew.png"
+        "icon": "/assets/images/items/itm_impossiblestew.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       },
       {
-        "id": "itm_seltsamCatalyst",
+        "id": "itm_seltsamcatalyst",
         "name": "Seltsam Catalyst",
         "qty": 6,
-        "icon": "/assets/images/items/itm_seltsamCatalyst.png"
+        "icon": "/assets/images/items/itm_seltsamcatalyst.png"
       }
     ]
   },
@@ -591,10 +428,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_clover4LeafFruit",
+        "id": "itm_clover4leaffruit",
         "name": "4-Leaf Clover",
         "qty": 6,
-        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+        "icon": "/assets/images/items/itm_clover4leaffruit.png"
       },
       {
         "id": "itm_eggsplosive",
@@ -607,15 +444,15 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
         "id": "itm_traditional_bbq_sauce",
@@ -647,10 +484,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_clover4LeafFruit",
+        "id": "itm_clover4leaffruit",
         "name": "4-Leaf Clover",
         "qty": 36,
-        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+        "icon": "/assets/images/items/itm_clover4leaffruit.png"
       },
       {
         "id": "itm_eggsplosive",
@@ -663,15 +500,15 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
         "id": "itm_traditional_bbq_sauce",

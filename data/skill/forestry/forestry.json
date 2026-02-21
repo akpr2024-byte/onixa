@@ -65,10 +65,10 @@
     ],
     "used in": [
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fireBlessing.png"
+        "icon": "/assets/images/items/itm_fireblessing.png"
       },
       {
         "id": "itm_syrup",
@@ -89,16 +89,16 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_plaster",
@@ -119,33 +119,33 @@
         "icon": "/assets/images/items/itm_dew.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
-        "icon": "/assets/images/items/itm_Glue.png",
+        "icon": "/assets/images/items/itm_glue.png",
         "qty": 2
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
-        "icon": "/assets/images/items/itm_Glue.png",
+        "icon": "/assets/images/items/itm_glue.png",
         "qty": 24
       },
       {
@@ -179,9 +179,9 @@
         "qty": 10
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
-        "icon": "/assets/images/items/itm_fireBlessing.png",
+        "icon": "/assets/images/items/itm_fireblessing.png",
         "qty": 5
       },
       {
@@ -191,21 +191,21 @@
         "qty": 2
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
-        "icon": "/assets/images/items/itm_beePollenResin.png",
+        "icon": "/assets/images/items/itm_beepollenresin.png",
         "qty": 5
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
-        "icon": "/assets/images/items/itm_duckResin.png",
+        "icon": "/assets/images/items/itm_duckresin.png",
         "qty": 2
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
-        "icon": "/assets/images/items/itm_duckResin.png",
+        "icon": "/assets/images/items/itm_duckresin.png",
         "qty": 12
       }
     ]
@@ -256,10 +256,10 @@
     ],
     "used in": [
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       },
       {
         "id": "itm_stove_kit_01",
@@ -466,9 +466,9 @@
         "qty": 18
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
-        "icon": "/assets/images/items/itm_strainingMesh.png",
+        "icon": "/assets/images/items/itm_strainingmesh.png",
         "qty": 15
       },
       {
@@ -526,10 +526,10 @@
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -592,10 +592,10 @@
         "icon": "/assets/images/items/itm_woodoil_02.png"
       },
       {
-        "id": "itm_puffBasket",
+        "id": "itm_puffbasket",
         "name": "Puff-lined Basket",
         "qty": 1,
-        "icon": "/assets/images/items/itm_puffBasket.png"
+        "icon": "/assets/images/items/itm_puffbasket.png"
       },
       {
         "id": "itm_woodbeam_02",
@@ -652,9 +652,9 @@
         "qty": 150
       },
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
-        "icon": "/assets/images/items/itm_royalJellyBbq.png",
+        "icon": "/assets/images/items/itm_royaljellybbq.png",
         "qty": 3
       },
       {
@@ -670,9 +670,9 @@
         "qty": 18
       },
       {
-        "id": "itm_puffBasket",
+        "id": "itm_puffbasket",
         "name": "Puff-lined Basket",
-        "icon": "/assets/images/items/itm_puffBasket.png",
+        "icon": "/assets/images/items/itm_puffbasket.png",
         "qty": 6
       },
       {
@@ -883,10 +883,10 @@
     ],
     "used in": [
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
         "qty": 1,
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png"
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png"
       },
       {
         "id": "itm_woodplank_04",
@@ -961,9 +961,9 @@
         "qty": 200
       },
       {
-        "id": "itm_artisanPaintbrush",
+        "id": "itm_artisanpaintbrush",
         "name": "Artisan Paint Brush",
-        "icon": "/assets/images/items/itm_artisanPaintbrush.png",
+        "icon": "/assets/images/items/itm_artisanpaintbrush.png",
         "qty": 5
       },
       {
@@ -1036,27 +1036,27 @@
     ],
     "used in": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mysticMix.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
-        "icon": "/assets/images/items/itm_yieldReactor.png",
+        "icon": "/assets/images/items/itm_yieldreactor.png",
         "qty": 12
       },
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png",
+        "icon": "/assets/images/items/itm_mysticmix.png",
         "qty": 3
       }
     ]

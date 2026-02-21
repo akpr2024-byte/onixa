@@ -76,16 +76,16 @@
     ],
     "used in": [
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_fence",
@@ -106,39 +106,39 @@
         "icon": "/assets/images/items/itm_tempboost_speed_16.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_pinkFence/6f60fd60-dd83-4eec-a55d-731100081e4b.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_greenFence/19fcf75f-681c-4e1d-b76e-e584e96c5913.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_fence",
         "name": "Magnoot Fence",
         "station": "Woodwork",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_fence/739b0038-693b-4441-94fc-41de9873bac8.png"
+        "icon": "/assets/images/items/itm_fence.png"
       },
       {
         "id": "itm_tempboost_yield_1",
         "name": "Farming Yield Boost I",
         "station": "Alchemic Forge",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_1/d263a996-863d-49e3-aadf-053d64014f32.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_1.png"
       },
       {
         "id": "itm_tempboost_speed_16",
         "name": "Farming Speed Boost I",
         "station": "Alchemic Forge",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_16/0879a0dd-d1ae-426a-b223-0bab8c9f1442.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_16.png"
       }
     ]
   },
@@ -232,10 +232,10 @@
         "icon": "/assets/images/items/itm_coffeefruitjam.png"
       },
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
         "qty": 1,
-        "icon": "/assets/images/items/itm_honeyJava.png"
+        "icon": "/assets/images/items/itm_honeyjava.png"
       },
       {
         "id": "itm_coffeepod",
@@ -254,56 +254,56 @@
         "name": "Insta-Java Packet",
         "station": "Windmill",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_coffeepod/a7cb86ec-91f0-4d4e-9d06-713eece37b2c.png"
+        "icon": "/assets/images/items/itm_coffeepod.png"
       },
       {
         "id": "itm_coffeepod",
         "name": "Insta-Java Packet",
         "station": "Windmill",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_coffeepod/a7cb86ec-91f0-4d4e-9d06-713eece37b2c.png"
+        "icon": "/assets/images/items/itm_coffeepod.png"
       },
       {
         "id": "itm_coffeefruitjam",
         "name": "Java Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_coffeefruitjam/bb546c55-6996-443f-86bb-797547e70d91.png"
+        "icon": "/assets/images/items/itm_coffeefruitjam.png"
       },
       {
         "id": "itm_coffeefruitjam",
         "name": "Java Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_coffeefruitjam/bb546c55-6996-443f-86bb-797547e70d91.png"
+        "icon": "/assets/images/items/itm_coffeefruitjam.png"
       },
       {
         "id": "itm_slothmato_schnapps",
         "name": "Slothmato Schnapps",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//35b73427-7b3d-493d-bf6c-43a9bb1df356.png"
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
       },
       {
         "id": "itm_slothmato_schnapps",
         "name": "Slothmato Schnapps",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//35b73427-7b3d-493d-bf6c-43a9bb1df356.png"
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
       },
       {
-        "id": "itm_honeyJava",
+        "id": "itm_honeyjava",
         "name": "Honey-Glazed Hover-Java",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_honeyJava/67f8c8fa-3b89-4729-8cad-5840fe793ff3.png"
+        "icon": "/assets/images/items/itm_honeyjava.png"
       }
     ]
   },
   {
-    "id": "itm_grumpFruit",
+    "id": "itm_grumpfruit",
     "name": "Orange Grumpkin",
-    "icon": "/assets/images/items/itm_grumpFruit.png",
+    "icon": "/assets/images/items/itm_grumpfruit.png",
     "tier": 1,
     "level": 15,
     "energy": 2.25,
@@ -416,10 +416,10 @@
         "icon": "/assets/images/items/itm_orangegrumpkinpuree.png"
       },
       {
-        "id": "itm_seltsamCustard",
+        "id": "itm_seltsamcustard",
         "name": "Seltsam Egg Grilled Custard",
         "qty": 1,
-        "icon": "/assets/images/items/itm_seltsamCustard.png"
+        "icon": "/assets/images/items/itm_seltsamcustard.png"
       },
       {
         "id": "itm_empty_choco_sauce",
@@ -428,10 +428,10 @@
         "icon": "/assets/images/items/itm_empty_choco_sauce.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Wooden_Throne.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_bento_01",
@@ -440,87 +440,87 @@
         "icon": "/assets/images/items/itm_bento_01.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Fireplace.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_orangegrumpkinpuree",
         "name": "Orange Grumpkin Puree",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_orangegrumpkinpuree/a3c2d051-2807-4112-9bd1-46c62889a928.png"
+        "icon": "/assets/images/items/itm_orangegrumpkinpuree.png"
       },
       {
-        "id": "itm_Wooden_Throne",
+        "id": "itm_wooden_throne",
         "name": "Wooden Throne",
         "station": "Woodwork",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_Wooden_Throne/41e8724a-dd8b-4f82-a84e-a4ea15502d1d.png"
+        "icon": "/assets/images/items/itm_wooden_throne.png"
       },
       {
         "id": "itm_hotato_hotka",
         "name": "Hotka",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//395962b6-e14e-43c7-9790-abe19b766532.png"
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
       },
       {
         "id": "itm_hotato_hotka",
         "name": "Hotka",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//395962b6-e14e-43c7-9790-abe19b766532.png"
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
       },
       {
         "id": "itm_bento_01",
         "name": "Wiggly Fluppy Nigiri",
         "station": "Sushi",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bento_01/8aa22400-dbd4-4ed3-9499-ee8481e6c776.png"
+        "icon": "/assets/images/items/itm_bento_01.png"
       },
       {
         "id": "itm_bento_01",
         "name": "Wiggly Fluppy Nigiri",
         "station": "Publicsushi",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bento_01/8aa22400-dbd4-4ed3-9499-ee8481e6c776.png"
+        "icon": "/assets/images/items/itm_bento_01.png"
       },
       {
-        "id": "itm_seltsamCustard",
+        "id": "itm_seltsamcustard",
         "name": "Seltsam Egg Grilled Custard",
         "station": "Landbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_seltsamCustard/7ab2b897-8d4d-4f8b-b76f-f075e4a00092.png"
+        "icon": "/assets/images/items/itm_seltsamcustard.png"
       },
       {
         "id": "itm_cunstruction_cone",
         "name": "Construction Cone",
         "station": "Textile Station",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//a1b23ad4-8776-4f90-8873-c97179511f88.png"
+        "icon": "/assets/images/items/itm_cunstruction_cone.png"
       },
       {
-        "id": "itm_Fireplace",
+        "id": "itm_fireplace",
         "name": "Fireplace",
         "station": "Stoneshaping",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//de55b357-ee01-45ea-9783-24952bd4eb3f.png"
+        "icon": "/assets/images/items/itm_fireplace.png"
       },
       {
         "id": "itm_empty_choco_sauce",
         "name": "Empty Choco Sauce",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_empty_choco_sauce/bcc33da6-1495-49cb-a046-aa7b439cf27a.png"
+        "icon": "/assets/images/items/itm_empty_choco_sauce.png"
       }
     ]
   },
   {
-    "id": "itm_cloverFruit",
+    "id": "itm_cloverfruit",
     "name": "Clover",
-    "icon": "/assets/images/items/itm_cloverFruit.png",
+    "icon": "/assets/images/items/itm_cloverfruit.png",
     "tier": 2,
     "level": 20,
     "energy": 3.25,
@@ -532,9 +532,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_cloverSeeds",
+        "id": "itm_cloverseeds",
         "name": "Clover Seeds",
-        "icon": "/assets/images/items/itm_cloverSeeds.png",
+        "icon": "/assets/images/items/itm_cloverseeds.png",
         "qty": 1
       }
     ],
@@ -612,16 +612,16 @@
         "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_clover_creme",
@@ -658,77 +658,77 @@
         "name": "Clover Fruit Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_cloverfruitjam/54b2dc5a-8b1c-4abb-9a82-59fe386f3231.png"
+        "icon": "/assets/images/items/itm_cloverfruitjam.png"
       },
       {
         "id": "itm_cloverfruitjam",
         "name": "Clover Fruit Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_cloverfruitjam/54b2dc5a-8b1c-4abb-9a82-59fe386f3231.png"
+        "icon": "/assets/images/items/itm_cloverfruitjam.png"
       },
       {
         "id": "itm_tempboost_speed_16",
         "name": "Farming Speed Boost I",
         "station": "Alchemic Forge",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_16/0879a0dd-d1ae-426a-b223-0bab8c9f1442.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_16.png"
       },
       {
         "id": "itm_mulch",
         "name": "Mulch",
         "station": "Recycler",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mulch/790d115e-87f8-4d84-940a-d303bf66a2b3.png"
+        "icon": "/assets/images/items/itm_mulch.png"
       },
       {
         "id": "itm_mulch",
         "name": "Mulch",
         "station": "Recycler",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mulch/790d115e-87f8-4d84-940a-d303bf66a2b3.png"
+        "icon": "/assets/images/items/itm_mulch.png"
       },
       {
         "id": "itm_hotatoscramble",
         "name": "Hotato Scramble",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hotatoscramble/f42ea19a-d4af-4311-a8c3-2f6a1e5e6082.png"
+        "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashClover/bb5a2a1e-6d74-480e-b674-b2d31f2477a2.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashClover/bb5a2a1e-6d74-480e-b674-b2d31f2477a2.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_clover_creme",
         "name": "Clover Crème",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_clover_creme/b6718958-daf3-4e1c-bab4-f90a7313d9f7.png"
+        "icon": "/assets/images/items/itm_clover_creme.png"
       },
       {
         "id": "itm_tatoscramble",
         "name": "Tato Scramble",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tatoscramble/4fe1e86d-06ef-42ee-9ac2-bfe5923a3ac1.png"
+        "icon": "/assets/images/items/itm_tatoscramble.png"
       }
     ]
   },
   {
-    "id": "itm_wintermintFruit",
+    "id": "itm_wintermintfruit",
     "name": "Watermint",
-    "icon": "/assets/images/items/itm_wintermintFruit.png",
+    "icon": "/assets/images/items/itm_wintermintfruit.png",
     "tier": 1,
     "level": 11,
     "energy": 2.5,
@@ -740,9 +740,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_wintermintSeeds",
+        "id": "itm_wintermintseeds",
         "name": "Watermint Seeds",
-        "icon": "/assets/images/items/itm_wintermintSeeds.png",
+        "icon": "/assets/images/items/itm_wintermintseeds.png",
         "qty": 1
       }
     ],
@@ -841,10 +841,10 @@
         "icon": "/assets/images/items/itm_wintermint_whiskey.png"
       },
       {
-        "id": "itm_goldenCharre",
+        "id": "itm_goldencharre",
         "name": "Golden Ember Charré",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goldenCharre.png"
+        "icon": "/assets/images/items/itm_goldencharre.png"
       },
       {
         "id": "itm_moist_honey_kissed_grumpkin_chops",
@@ -895,108 +895,108 @@
         "icon": "/assets/images/items/itm_tempboost_speed_17.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
         "id": "itm_tentacactus_tequila",
         "name": "Astracactus Tequila",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//29274033-51a1-497e-baa7-b94947844d33.png"
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
       },
       {
         "id": "itm_tentacactus_tequila",
         "name": "Astracactus Tequila",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//29274033-51a1-497e-baa7-b94947844d33.png"
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
       },
       {
         "id": "itm_wrap_03",
         "name": "Aero-Dynamic Wrap",
         "station": "Sushi",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_wrap_03/bb3b7d73-f38a-48b7-9434-d4dd47437e3e.png"
+        "icon": "/assets/images/items/itm_wrap_03.png"
       },
       {
         "id": "itm_tempboost_yield_2",
         "name": "Farming Yield Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_2/6957aee0-8c98-4a95-a512-90caeed935f7.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_2.png"
       },
       {
         "id": "itm_tempboost_speed_17",
         "name": "Farming Speed Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_17/b267df0a-1d13-4d10-a794-7e0d0bdf1981.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_17.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_burnyCandle/27418049-f540-43a4-9835-7d747ef753ee.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
-        "id": "itm_goldenCharre",
+        "id": "itm_goldencharre",
         "name": "Golden Ember Charré",
         "station": "Landbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_goldenCharre/8c560ff5-8646-4a96-ab5a-ea360b58a30e.png"
+        "icon": "/assets/images/items/itm_goldencharre.png"
       },
       {
         "id": "itm_wintermint_whiskey",
         "name": "Watermint Whiskey",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//450535c9-44d8-4078-802c-d1a4e049b551.png"
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
       },
       {
         "id": "itm_wintermint_whiskey",
         "name": "Watermint Whiskey",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//450535c9-44d8-4078-802c-d1a4e049b551.png"
+        "icon": "/assets/images/items/itm_wintermint_whiskey.png"
       },
       {
         "id": "itm_moist_honey_kissed_grumpkin_chops",
         "name": "Moist Honey-Kissed Grumpkin Chops",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_honey_kissed_grumpkin_chops/c4059489-d50a-4d19-a147-3c57ed52abd1.png"
+        "icon": "/assets/images/items/itm_moist_honey_kissed_grumpkin_chops.png"
       },
       {
         "id": "itm_moist_maple_glazed_scarrot_slabs",
         "name": "Moist Maple-Glazed Scarrot Slabs",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_maple_glazed_scarrot_slabs/7271585c-974a-4912-96ab-23a070a2e4c8.png"
+        "icon": "/assets/images/items/itm_moist_maple_glazed_scarrot_slabs.png"
       },
       {
         "id": "itm_moist_salt_encrusted_popberry_skewers",
         "name": "Moist Salt-Encrusted Popberry Skewers",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_salt_encrusted_popberry_skewers/18318eda-5efa-45a1-82e2-49112c2f1f0e.png"
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png"
       },
       {
         "id": "itm_moist_scarrot_butterberry_kebabs",
         "name": "Moist Scarrot and Butterberry Kebabs",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_scarrot_butterberry_kebabs/6af0b6d2-a890-47d4-b77d-ab6015b6383d.png"
+        "icon": "/assets/images/items/itm_moist_scarrot_butterberry_kebabs.png"
       },
       {
         "id": "itm_moist_broiled_muckchuck_burgers",
         "name": "Moist Broiled Muckchuck Burgers",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_broiled_muckchuck_burgers/1dd6a7e8-5711-49e0-bd77-d313ddeac72b.png"
+        "icon": "/assets/images/items/itm_moist_broiled_muckchuck_burgers.png"
       }
     ]
   },
@@ -1071,16 +1071,16 @@
         "icon": "/assets/images/items/itm_butterberryjam.png"
       },
       {
-        "id": "itm_bttrbrryBorsch",
+        "id": "itm_bttrbrryborsch",
         "name": "Butterberry Borsch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bttrbrryBorsch.png"
+        "icon": "/assets/images/items/itm_bttrbrryborsch.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_draconicStew.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
         "id": "itm_dry_baby_back_butterberry_ribs",
@@ -1117,77 +1117,77 @@
         "name": "Butterberry Jam",
         "station": "Cooking",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_butterberryjam/9b1160db-151c-4b24-b8db-b84c8d0d031c.png"
+        "icon": "/assets/images/items/itm_butterberryjam.png"
       },
       {
         "id": "itm_butterberryjam",
         "name": "Butterberry Jam",
         "station": "Cooking",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_butterberryjam/9b1160db-151c-4b24-b8db-b84c8d0d031c.png"
+        "icon": "/assets/images/items/itm_butterberryjam.png"
       },
       {
         "id": "itm_butterberry_butterbrew",
         "name": "Butterbrew",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//dea622b3-1fe5-4766-a6bf-8b3d549312f7.png"
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
       },
       {
         "id": "itm_butterberry_butterbrew",
         "name": "Butterbrew",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//dea622b3-1fe5-4766-a6bf-8b3d549312f7.png"
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
       },
       {
-        "id": "itm_bttrbrryBorsch",
+        "id": "itm_bttrbrryborsch",
         "name": "Butterberry Borsch",
         "station": "Cooking",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bttrbrryBorsch/5e7df112-84be-4b2b-8c27-aebc801e967d.png"
+        "icon": "/assets/images/items/itm_bttrbrryborsch.png"
       },
       {
         "id": "itm_tempboost_yield_3",
         "name": "Farming Yield Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_3/e7d8d054-6508-4609-baaa-ad5d7bdbe2bc.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_3.png"
       },
       {
         "id": "itm_tempboost_speed_18",
         "name": "Farming Speed Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_18/742c6a56-e64e-4f0c-9b92-aa53950317f8.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_18.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_draconicStew/970596d3-6b5a-46d4-b6ee-54e5f3735915.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
         "id": "itm_dry_baby_back_butterberry_ribs",
         "name": "Dry Baby Back Butterberry Ribs",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_baby_back_butterberry_ribs/9c0d7e87-4eb4-4b94-aad4-7d8ff03f59c8.png"
+        "icon": "/assets/images/items/itm_dry_baby_back_butterberry_ribs.png"
       },
       {
         "id": "itm_moist_scarrot_butterberry_kebabs",
         "name": "Moist Scarrot and Butterberry Kebabs",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_scarrot_butterberry_kebabs/6af0b6d2-a890-47d4-b77d-ab6015b6383d.png"
+        "icon": "/assets/images/items/itm_moist_scarrot_butterberry_kebabs.png"
       },
       {
         "id": "itm_starry_butterberry_brisket",
         "name": "Starry Butterberry Brisket",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_butterberry_brisket/77802e1c-8245-47c8-aae6-72343234db26.png"
+        "icon": "/assets/images/items/itm_starry_butterberry_brisket.png"
       }
     ]
   },
@@ -1365,91 +1365,91 @@
         "name": "Astracactus Tequila",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//29274033-51a1-497e-baa7-b94947844d33.png"
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
       },
       {
         "id": "itm_tentacactus_tequila",
         "name": "Astracactus Tequila",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//29274033-51a1-497e-baa7-b94947844d33.png"
+        "icon": "/assets/images/items/itm_tentacactus_tequila.png"
       },
       {
         "id": "itm_bowl_04",
         "name": "Jelly Milky Weifish Platter",
         "station": "Sushi",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bowl_04/869669d8-8a9d-44b5-b9a4-a5dc76cc489b.png"
+        "icon": "/assets/images/items/itm_bowl_04.png"
       },
       {
         "id": "itm_tempboost_yield_3",
         "name": "Farming Yield Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_3/e7d8d054-6508-4609-baaa-ad5d7bdbe2bc.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_3.png"
       },
       {
         "id": "itm_tempboost_speed_18",
         "name": "Farming Speed Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_18/742c6a56-e64e-4f0c-9b92-aa53950317f8.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_18.png"
       },
       {
         "id": "itm_60dayflower_space_seed",
         "name": "Astra Flower Seeds",
         "station": "Quantum Recombinator",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_60dayflower_space_seed/2d1d3859-1522-4e3d-91c0-8f0637fa6ddb.png"
+        "icon": "/assets/images/items/itm_60dayflower_space_seed.png"
       },
       {
         "id": "itm_hotatoscramble",
         "name": "Hotato Scramble",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hotatoscramble/f42ea19a-d4af-4311-a8c3-2f6a1e5e6082.png"
+        "icon": "/assets/images/items/itm_hotatoscramble.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
         "name": "Tangy BBQ Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tangy_bbq_sauce/1d4f2cf4-935f-402d-8405-a84ef4b4cef6.png"
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
       },
       {
         "id": "itm_starry_honey_kissed_scarrot_chops",
         "name": "Starry Honey-Kissed Scarrot Chops",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_honey_kissed_scarrot_chops/e53ea65e-5f05-4ca9-8b27-eca03e1e6a85.png"
+        "icon": "/assets/images/items/itm_starry_honey_kissed_scarrot_chops.png"
       },
       {
         "id": "itm_starry_maple_glazed_popberry_slabs",
         "name": "Starry Maple-Glazed Popberry Slabs",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_maple_glazed_popberry_slabs/3cb1ff0c-5b47-4a05-90c6-d75ea9df734f.png"
+        "icon": "/assets/images/items/itm_starry_maple_glazed_popberry_slabs.png"
       },
       {
         "id": "itm_starry_salt_encrusted_grumpkin_skewers",
         "name": "Starry Salt-Encrusted Grumpkin Skewers",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_salt_encrusted_grumpkin_skewers/26493a65-35b6-481a-8836-b1e63191832b.png"
+        "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png"
       },
       {
         "id": "itm_starry_butterberry_brisket",
         "name": "Starry Butterberry Brisket",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_butterberry_brisket/77802e1c-8245-47c8-aae6-72343234db26.png"
+        "icon": "/assets/images/items/itm_starry_butterberry_brisket.png"
       },
       {
         "id": "itm_starry_grilled_hotato_kielbasa",
         "name": "Starry Grilled Hotato Kielbasa",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_grilled_hotato_kielbasa/4fd87dc5-c9c4-47cf-a029-e748a345befc.png"
+        "icon": "/assets/images/items/itm_starry_grilled_hotato_kielbasa.png"
       }
     ]
   },
@@ -1551,28 +1551,28 @@
         "icon": "/assets/images/items/itm_cubecumberrelish.png"
       },
       {
-        "id": "itm_cremdCubecumbr",
+        "id": "itm_cremdcubecumbr",
         "name": "Creamed Cubecumber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cremdCubecumbr.png"
+        "icon": "/assets/images/items/itm_cremdcubecumbr.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scalePlatter.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_boat_01",
@@ -1605,135 +1605,135 @@
         "icon": "/assets/images/items/itm_tempboost_yield_2.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 6,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_greenFence/19fcf75f-681c-4e1d-b76e-e584e96c5913.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_cubecumberrelish",
         "name": "Cubecumber Relish",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_cubecumberrelish/459765fc-e2d4-4e13-bf05-4a3ba6cbaa7a.png"
+        "icon": "/assets/images/items/itm_cubecumberrelish.png"
       },
       {
         "id": "itm_cubecumber_encumber_wine",
         "name": "Encumber Wine",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//52d6b5c0-1242-4abf-abef-4da54cec09b3.png"
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
       },
       {
         "id": "itm_cubecumber_encumber_wine",
         "name": "Encumber Wine",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//52d6b5c0-1242-4abf-abef-4da54cec09b3.png"
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
       },
       {
         "id": "itm_butterberry_butterbrew",
         "name": "Butterbrew",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//dea622b3-1fe5-4766-a6bf-8b3d549312f7.png"
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
       },
       {
         "id": "itm_butterberry_butterbrew",
         "name": "Butterbrew",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//dea622b3-1fe5-4766-a6bf-8b3d549312f7.png"
+        "icon": "/assets/images/items/itm_butterberry_butterbrew.png"
       },
       {
-        "id": "itm_cremdCubecumbr",
+        "id": "itm_cremdcubecumbr",
         "name": "Creamed Cubecumber",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_cremdCubecumbr/9bcd69bf-0c73-408d-af78-5e0bad3ad0bf.png"
+        "icon": "/assets/images/items/itm_cremdcubecumbr.png"
       },
       {
         "id": "itm_boat_01",
         "name": "Seaside Medley",
         "station": "Sushi",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_boat_01/d43e5b5d-89bf-4153-abef-43c50c2a7646.png"
+        "icon": "/assets/images/items/itm_boat_01.png"
       },
       {
         "id": "itm_bento_02",
         "name": "Marshland Medley",
         "station": "Sushi",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bento_02/092f5168-0f71-454c-bf58-f6bc10475fb4.png"
+        "icon": "/assets/images/items/itm_bento_02.png"
       },
       {
         "id": "itm_roll_02",
         "name": "Meadow Roll",
         "station": "Sushi",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_roll_02/3d24ee03-d3e1-41ab-b930-7484ae7332a2.png"
+        "icon": "/assets/images/items/itm_roll_02.png"
       },
       {
         "id": "itm_crunch_04",
         "name": "Spaceshark Stack",
         "station": "Sushi",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_crunch_04/6a6aa1c7-b68d-4989-b9a8-94b4c227bb52.png"
+        "icon": "/assets/images/items/itm_crunch_04.png"
       },
       {
         "id": "itm_tempboost_yield_2",
         "name": "Farming Yield Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_2/6957aee0-8c98-4a95-a512-90caeed935f7.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_2.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "station": "Spacebbq",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_colorfulSalad/8649a818-ef16-4e46-886c-a382c592cd2e.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "station": "Recycler",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_evenBtrFert/d0d69d38-429d-4c0e-b9b4-ed08b23a3edf.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "station": "Recycler",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_evenBtrFert/d0d69d38-429d-4c0e-b9b4-ed08b23a3edf.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scalePlatter/7607bd7c-0b13-4d85-a660-499f4ab9acf6.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
         "id": "itm_cubecumbergreenpigment",
         "name": "Green Colorpot",
         "station": "Windmill",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_cubecumbergreenpigment/3402b283-e921-42fc-b6ba-cdbc758c533b.png"
+        "icon": "/assets/images/items/itm_cubecumbergreenpigment.png"
       }
     ]
   },
@@ -1835,22 +1835,22 @@
         "icon": "/assets/images/items/itm_slothmatopaste.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_draconicStew.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
         "qty": 1,
-        "icon": "/assets/images/items/itm_slthmatoAlfred.png"
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
       },
       {
         "id": "itm_tempboost_speed_17",
@@ -1863,77 +1863,77 @@
         "name": "Slothmato Paste",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_slothmatopaste/c108c143-1cee-4f17-ba42-fd3617cb29c5.png"
+        "icon": "/assets/images/items/itm_slothmatopaste.png"
       },
       {
         "id": "itm_slothmatopaste",
         "name": "Slothmato Paste",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_slothmatopaste/c108c143-1cee-4f17-ba42-fd3617cb29c5.png"
+        "icon": "/assets/images/items/itm_slothmatopaste.png"
       },
       {
         "id": "itm_slothmato_schnapps",
         "name": "Slothmato Schnapps",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//35b73427-7b3d-493d-bf6c-43a9bb1df356.png"
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
       },
       {
         "id": "itm_slothmato_schnapps",
         "name": "Slothmato Schnapps",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//35b73427-7b3d-493d-bf6c-43a9bb1df356.png"
+        "icon": "/assets/images/items/itm_slothmato_schnapps.png"
       },
       {
         "id": "itm_scarrotwine",
         "name": "Scarrot Wine",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//46dbc6fc-6c1a-4128-b8c3-9c5d8f3f34ac.PNG"
+        "icon": "/assets/images/items/itm_scarrotwine.png"
       },
       {
         "id": "itm_scarrotwine",
         "name": "Scarrot Wine",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//46dbc6fc-6c1a-4128-b8c3-9c5d8f3f34ac.PNG"
+        "icon": "/assets/images/items/itm_scarrotwine.png"
       },
       {
         "id": "itm_tempboost_speed_17",
         "name": "Farming Speed Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_17/b267df0a-1d13-4d10-a794-7e0d0bdf1981.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_17.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "station": "Spacebbq",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_colorfulSalad/8649a818-ef16-4e46-886c-a382c592cd2e.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_draconicStew/970596d3-6b5a-46d4-b6ee-54e5f3735915.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
-        "id": "itm_slthmatoAlfred",
+        "id": "itm_slthmatoalfred",
         "name": "Slothmato Alfredo",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_slthmatoAlfred/4c349cf7-ecaa-4379-a444-d6710a391841.png"
+        "icon": "/assets/images/items/itm_slthmatoalfred.png"
       }
     ]
   },
   {
-    "id": "itm_popberryFruit",
+    "id": "itm_popberryfruit",
     "name": "Popberry",
-    "icon": "/assets/images/items/itm_popberryFruit.png",
+    "icon": "/assets/images/items/itm_popberryfruit.png",
     "tier": 1,
     "level": 1,
     "energy": 1.5,
@@ -1945,9 +1945,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_popberrySeeds",
+        "id": "itm_popberryseeds",
         "name": "Popberry Seeds",
-        "icon": "/assets/images/items/itm_popberrySeeds.png",
+        "icon": "/assets/images/items/itm_popberryseeds.png",
         "qty": 1
       }
     ],
@@ -2046,10 +2046,10 @@
         "icon": "/assets/images/items/itm_apimix.png"
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fireBlessing.png"
+        "icon": "/assets/images/items/itm_fireblessing.png"
       },
       {
         "id": "itm_popberrywine",
@@ -2064,10 +2064,10 @@
         "icon": "/assets/images/items/itm_popberrywine.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "qty": 1,
-        "icon": "/assets/images/items/itm_turquoise_Couch.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_popberrybluepigment",
@@ -2094,22 +2094,22 @@
         "icon": "/assets/images/items/itm_popberry_amode.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_kikosPancakes",
+        "id": "itm_kikospancakes",
         "name": "Kiko's Popberry Pancakes",
         "qty": 1,
-        "icon": "/assets/images/items/itm_kikosPancakes.png"
+        "icon": "/assets/images/items/itm_kikospancakes.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
@@ -2152,154 +2152,154 @@
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Landbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Spacebbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_hay",
         "name": "MooMunch",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hay/8afd48d2-c440-450e-8680-e409c61ae8fa.png"
+        "icon": "/assets/images/items/itm_hay.png"
       },
       {
         "id": "itm_hay",
         "name": "MooMunch",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hay/8afd48d2-c440-450e-8680-e409c61ae8fa.png"
+        "icon": "/assets/images/items/itm_hay.png"
       },
       {
         "id": "itm_jam_popberry",
         "name": "Popberry Jam",
         "station": "Tutorialcooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b7708f77-e6bb-457b-92e0-b68c647836f6.png"
+        "icon": "/assets/images/items/itm_jam_popberry.png"
       },
       {
         "id": "itm_jam_popberry",
         "name": "Popberry Jam",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b7708f77-e6bb-457b-92e0-b68c647836f6.png"
+        "icon": "/assets/images/items/itm_jam_popberry.png"
       },
       {
         "id": "itm_jam_popberry",
         "name": "Popberry Jam",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b7708f77-e6bb-457b-92e0-b68c647836f6.png"
+        "icon": "/assets/images/items/itm_jam_popberry.png"
       },
       {
-        "id": "itm_fireBlessing",
+        "id": "itm_fireblessing",
         "name": "Fire Blessing",
         "station": "Stoneshaping",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_fireBlessing/afabf53e-3177-4351-8209-c381255a395b.png"
+        "icon": "/assets/images/items/itm_fireblessing.png"
       },
       {
         "id": "itm_apimix",
         "name": "Apimix",
         "station": "Recycler",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_apimix/a02c994b-01b7-4cd3-bdba-2610e139de82.png"
+        "icon": "/assets/images/items/itm_apimix.png"
       },
       {
         "id": "itm_popberrywine",
         "name": "Popberry Wine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//9eea2f50-4491-4acf-895f-4bb81397b135.PNG"
+        "icon": "/assets/images/items/itm_popberrywine.png"
       },
       {
         "id": "itm_popberrywine",
         "name": "Popberry Wine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//9eea2f50-4491-4acf-895f-4bb81397b135.PNG"
+        "icon": "/assets/images/items/itm_popberrywine.png"
       },
       {
         "id": "itm_popberry_amode",
         "name": "Popberry à la Mode",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_popberry_amode/6be597ae-e5af-4a50-a1f3-0b949d404f00.png"
+        "icon": "/assets/images/items/itm_popberry_amode.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashPopberry/1b9815ac-4d5d-4429-99ab-c3db5c4809ff.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashPopberry/1b9815ac-4d5d-4429-99ab-c3db5c4809ff.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_kikosPancakes",
+        "id": "itm_kikospancakes",
         "name": "Kiko's Popberry Pancakes",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_kikosPancakes/ec317180-f162-4b71-925b-80f885bc8243.png"
+        "icon": "/assets/images/items/itm_kikospancakes.png"
       },
       {
-        "id": "itm_turquoise_Couch",
+        "id": "itm_turquoise_couch",
         "name": "Turquoise Couch",
         "station": "Textile Station",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//65b5880e-8d30-4050-a010-5a8b236cd0e9.png"
+        "icon": "/assets/images/items/itm_turquoise_couch.png"
       },
       {
         "id": "itm_popberrybluepigment",
         "name": "Blue Colorpot",
         "station": "Windmill",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_popberrybluepigment/32f25de3-616e-4945-8cde-44f5f1added2.png"
+        "icon": "/assets/images/items/itm_popberrybluepigment.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
         "name": "Dry Honey-Kissed Popberry Chops",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_honey_kissed_popberry_chops/7cab8fc0-a8c2-4352-80d9-3b8cbee09f8d.png"
+        "icon": "/assets/images/items/itm_dry_honey_kissed_popberry_chops.png"
       },
       {
         "id": "itm_moist_salt_encrusted_popberry_skewers",
         "name": "Moist Salt-Encrusted Popberry Skewers",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_salt_encrusted_popberry_skewers/18318eda-5efa-45a1-82e2-49112c2f1f0e.png"
+        "icon": "/assets/images/items/itm_moist_salt_encrusted_popberry_skewers.png"
       },
       {
         "id": "itm_starry_maple_glazed_popberry_slabs",
         "name": "Starry Maple-Glazed Popberry Slabs",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_maple_glazed_popberry_slabs/3cb1ff0c-5b47-4a05-90c6-d75ea9df734f.png"
+        "icon": "/assets/images/items/itm_starry_maple_glazed_popberry_slabs.png"
       }
     ]
   },
@@ -2413,16 +2413,16 @@
         "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "qty": 1,
-        "icon": "/assets/images/items/itm_dragonfireSauce.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -2465,84 +2465,84 @@
         "name": "Hotka",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//395962b6-e14e-43c7-9790-abe19b766532.png"
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
       },
       {
         "id": "itm_hotato_hotka",
         "name": "Hotka",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//395962b6-e14e-43c7-9790-abe19b766532.png"
+        "icon": "/assets/images/items/itm_hotato_hotka.png"
       },
       {
         "id": "itm_hot_sauce",
         "name": "Hot Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//f82f903f-a2ab-47df-b140-ab884ce610c5.png"
+        "icon": "/assets/images/items/itm_hot_sauce.png"
       },
       {
         "id": "itm_boat_01",
         "name": "Seaside Medley",
         "station": "Sushi",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_boat_01/d43e5b5d-89bf-4153-abef-43c50c2a7646.png"
+        "icon": "/assets/images/items/itm_boat_01.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "station": "Landbbq",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_savoryJerky/08caee56-8e4e-47cc-a6a6-4ed3252cecea.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_dragonfireSauce",
+        "id": "itm_dragonfiresauce",
         "name": "Dragonfire Pit BBQ Sauce",
         "station": "Spacebbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dragonfireSauce/24066173-cd14-467a-9976-32d0f613dad7.png"
+        "icon": "/assets/images/items/itm_dragonfiresauce.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
         "name": "Hardwood Smoked BBQ Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hardwood_smoked_bbq_sauce/b258449b-af46-4c39-9d2e-39f9aad177bd.png"
+        "icon": "/assets/images/items/itm_hardwood_smoked_bbq_sauce.png"
       },
       {
         "id": "itm_honey_bbq_sauce",
         "name": "Honey BBQ Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_honey_bbq_sauce/ffb87df3-de60-495c-8581-888ecc9d1538.png"
+        "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
         "name": "Tangy BBQ Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tangy_bbq_sauce/1d4f2cf4-935f-402d-8405-a84ef4b4cef6.png"
+        "icon": "/assets/images/items/itm_tangy_bbq_sauce.png"
       },
       {
         "id": "itm_traditional_bbq_sauce",
         "name": "Traditional BBQ Sauce",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_traditional_bbq_sauce/44e1bf11-90e4-4337-b4f8-39e3bf8978a7.png"
+        "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
       },
       {
         "id": "itm_starry_grilled_hotato_kielbasa",
         "name": "Starry Grilled Hotato Kielbasa",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_grilled_hotato_kielbasa/4fd87dc5-c9c4-47cf-a029-e748a345befc.png"
+        "icon": "/assets/images/items/itm_starry_grilled_hotato_kielbasa.png"
       }
     ]
   },
   {
-    "id": "itm_grumpkinFruit",
+    "id": "itm_grumpkinfruit",
     "name": "Blue Grumpkin",
-    "icon": "/assets/images/items/itm_grumpkinFruit.png",
+    "icon": "/assets/images/items/itm_grumpkinfruit.png",
     "tier": 1,
     "level": 10,
     "energy": 2.25,
@@ -2554,9 +2554,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_grumpkinSeeds",
+        "id": "itm_grumpkinseeds",
         "name": "Blue Grumpkin Seeds",
-        "icon": "/assets/images/items/itm_grumpkinSeeds.png",
+        "icon": "/assets/images/items/itm_grumpkinseeds.png",
         "qty": 1
       }
     ],
@@ -2713,98 +2713,98 @@
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Landbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Spacebbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_bluegrumpkinpuree",
         "name": "Blue Grumpkin Puree",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bluegrumpkinpuree/681f9aa3-4b51-4d1d-8940-d46f284f0532.png"
+        "icon": "/assets/images/items/itm_bluegrumpkinpuree.png"
       },
       {
         "id": "itm_scarecrow",
         "name": "Scarecrow",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//23660ee4-ad31-40f5-a0a3-b445cfa14042.png"
+        "icon": "/assets/images/items/itm_scarecrow.png"
       },
       {
         "id": "itm_barrel03",
         "name": "Barrel of Purple",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//7d05ef6b-b944-4c1e-b96d-ea790f611df5.png"
+        "icon": "/assets/images/items/itm_barrel03.png"
       },
       {
         "id": "itm_small_puprle_rug",
         "name": "Small Purple Rug",
         "station": "Textile Station",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//8c9fcdb8-14cd-4714-94b0-9707f3191821.png"
+        "icon": "/assets/images/items/itm_small_puprle_rug.png"
       },
       {
         "id": "itm_grumpkinwine",
         "name": "Blue Grumpkin Wine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//d7063e20-b38f-406c-863f-cd8ef32cbe3f.PNG"
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
       },
       {
         "id": "itm_grumpkinwine",
         "name": "Blue Grumpkin Wine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//d7063e20-b38f-406c-863f-cd8ef32cbe3f.PNG"
+        "icon": "/assets/images/items/itm_grumpkinwine.png"
       },
       {
         "id": "itm_moist_honey_kissed_grumpkin_chops",
         "name": "Moist Honey-Kissed Grumpkin Chops",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_honey_kissed_grumpkin_chops/c4059489-d50a-4d19-a147-3c57ed52abd1.png"
+        "icon": "/assets/images/items/itm_moist_honey_kissed_grumpkin_chops.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
         "name": "Dry Maple-Glazed Grumpkin Slabs",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_maple_glazed_grumpkin_slabs/b4db31fd-e5a3-4dff-bc80-64d7601979bb.png"
+        "icon": "/assets/images/items/itm_dry_maple_glazed_grumpkin_slabs.png"
       },
       {
         "id": "itm_starry_salt_encrusted_grumpkin_skewers",
         "name": "Starry Salt-Encrusted Grumpkin Skewers",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_salt_encrusted_grumpkin_skewers/26493a65-35b6-481a-8836-b1e63191832b.png"
+        "icon": "/assets/images/items/itm_starry_salt_encrusted_grumpkin_skewers.png"
       }
     ]
   },
   {
-    "id": "itm_heartbeetFruit",
+    "id": "itm_heartbeetfruit",
     "name": "Heartbeet",
-    "icon": "/assets/images/items/itm_heartbeetFruit.png",
+    "icon": "/assets/images/items/itm_heartbeetfruit.png",
     "tier": 1,
     "level": 3,
     "energy": 2.5,
@@ -2816,9 +2816,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_heartbeetSeeds",
+        "id": "itm_heartbeetseeds",
         "name": "Heartbeet Seeds",
-        "icon": "/assets/images/items/itm_heartbeetSeeds.png",
+        "icon": "/assets/images/items/itm_heartbeetseeds.png",
         "qty": 1
       }
     ],
@@ -2893,17 +2893,17 @@
     ],
     "used in": [
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_pinkFence/6f60fd60-dd83-4eec-a55d-731100081e4b.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       }
     ]
   },
@@ -3002,22 +3002,22 @@
         "icon": "/assets/images/items/itm_tatohash.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "qty": 1,
-        "icon": "/assets/images/items/itm_savoryJerky.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scalePlatter.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
         "id": "itm_tempboost_speed_16",
@@ -3030,49 +3030,49 @@
         "name": "Tato Hash",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tatohash/f01cec12-cf46-4ab6-af76-2b684e73e9b8.png"
+        "icon": "/assets/images/items/itm_tatohash.png"
       },
       {
         "id": "itm_napricot_toddy",
         "name": "Napricot Toddy",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//c1f6383b-30fd-453e-887a-5e75586e5069.png"
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
       },
       {
         "id": "itm_napricot_toddy",
         "name": "Napricot Toddy",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//c1f6383b-30fd-453e-887a-5e75586e5069.png"
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
       },
       {
         "id": "itm_tempboost_speed_16",
         "name": "Farming Speed Boost I",
         "station": "Alchemic Forge",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_16/0879a0dd-d1ae-426a-b223-0bab8c9f1442.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_16.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_herbPotatoes/000e9729-c108-45e4-9e02-648c46a17cc9.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_savoryJerky",
+        "id": "itm_savoryjerky",
         "name": "Savory Earth-Jerky",
         "station": "Landbbq",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_savoryJerky/08caee56-8e4e-47cc-a6a6-4ed3252cecea.png"
+        "icon": "/assets/images/items/itm_savoryjerky.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scalePlatter/7607bd7c-0b13-4d85-a660-499f4ab9acf6.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       }
     ]
   },
@@ -3091,9 +3091,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_muckchuckSeeds",
+        "id": "itm_muckchuckseeds",
         "name": "Muckchuck Seeds",
-        "icon": "/assets/images/items/itm_muckchuckSeeds.png",
+        "icon": "/assets/images/items/itm_muckchuckseeds.png",
         "qty": 1
       }
     ],
@@ -3189,16 +3189,16 @@
         "icon": "/assets/images/items/itm_muckchuckfruitjam.png"
       },
       {
-        "id": "itm_muckchuckMouss",
+        "id": "itm_muckchuckmouss",
         "name": "Muckchuck Mousse",
         "qty": 1,
-        "icon": "/assets/images/items/itm_muckchuckMouss.png"
+        "icon": "/assets/images/items/itm_muckchuckmouss.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "qty": 1,
-        "icon": "/assets/images/items/itm_colorfulSalad.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
         "id": "itm_dry_pulled_muckchuck_platter",
@@ -3223,77 +3223,77 @@
         "name": "Muckchuck Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_muckchuckfruitjam/dc661205-9b87-445a-a825-f5beb67dc5cc.png"
+        "icon": "/assets/images/items/itm_muckchuckfruitjam.png"
       },
       {
         "id": "itm_muckchuckfruitjam",
         "name": "Muckchuck Jam",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_muckchuckfruitjam/dc661205-9b87-445a-a825-f5beb67dc5cc.png"
+        "icon": "/assets/images/items/itm_muckchuckfruitjam.png"
       },
       {
         "id": "itm_muckchuck_mead",
         "name": "Muckchuck Mead",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//02dd4e44-ec0b-4aa8-86d5-1603efe22429.png"
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
       },
       {
         "id": "itm_muckchuck_mead",
         "name": "Muckchuck Mead",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//02dd4e44-ec0b-4aa8-86d5-1603efe22429.png"
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
       },
       {
         "id": "itm_cubecumber_encumber_wine",
         "name": "Encumber Wine",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//52d6b5c0-1242-4abf-abef-4da54cec09b3.png"
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
       },
       {
         "id": "itm_cubecumber_encumber_wine",
         "name": "Encumber Wine",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//52d6b5c0-1242-4abf-abef-4da54cec09b3.png"
+        "icon": "/assets/images/items/itm_cubecumber_encumber_wine.png"
       },
       {
-        "id": "itm_muckchuckMouss",
+        "id": "itm_muckchuckmouss",
         "name": "Muckchuck Mousse",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_muckchuckMouss/cd2b8648-1ac3-4387-87fb-90de192e4c9f.png"
+        "icon": "/assets/images/items/itm_muckchuckmouss.png"
       },
       {
         "id": "itm_tempboost_speed_17",
         "name": "Farming Speed Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_17/b267df0a-1d13-4d10-a794-7e0d0bdf1981.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_17.png"
       },
       {
-        "id": "itm_colorfulSalad",
+        "id": "itm_colorfulsalad",
         "name": "Colorful Feather Fire Salad",
         "station": "Spacebbq",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_colorfulSalad/8649a818-ef16-4e46-886c-a382c592cd2e.png"
+        "icon": "/assets/images/items/itm_colorfulsalad.png"
       },
       {
         "id": "itm_dry_pulled_muckchuck_platter",
         "name": "Dry Pulled Muckchuck Platter",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_pulled_muckchuck_platter/9978d763-0f43-4009-80ab-5432433abf9d.png"
+        "icon": "/assets/images/items/itm_dry_pulled_muckchuck_platter.png"
       },
       {
         "id": "itm_moist_broiled_muckchuck_burgers",
         "name": "Moist Broiled Muckchuck Burgers",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_broiled_muckchuck_burgers/1dd6a7e8-5711-49e0-bd77-d313ddeac72b.png"
+        "icon": "/assets/images/items/itm_moist_broiled_muckchuck_burgers.png"
       }
     ]
   },
@@ -3425,16 +3425,16 @@
         "icon": "/assets/images/items/itm_grainbowtart.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
@@ -3501,126 +3501,126 @@
         "name": "MooMunch",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hay/8afd48d2-c440-450e-8680-e409c61ae8fa.png"
+        "icon": "/assets/images/items/itm_hay.png"
       },
       {
         "id": "itm_hay",
         "name": "MooMunch",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_hay/8afd48d2-c440-450e-8680-e409c61ae8fa.png"
+        "icon": "/assets/images/items/itm_hay.png"
       },
       {
         "id": "itm_grainbowtart",
         "name": "Grainbow Tart",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_grainbowtart/dd92adde-5e03-48e0-a7ef-c3c4d0f75179.png"
+        "icon": "/assets/images/items/itm_grainbowtart.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//6fbf134a-5ff5-45a2-996c-fa0858f67ac7.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "station": "Cooking",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//6fbf134a-5ff5-45a2-996c-fa0858f67ac7.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       },
       {
         "id": "itm_muckchuck_mead",
         "name": "Muckchuck Mead",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//02dd4e44-ec0b-4aa8-86d5-1603efe22429.png"
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
       },
       {
         "id": "itm_muckchuck_mead",
         "name": "Muckchuck Mead",
         "station": "Winery",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//02dd4e44-ec0b-4aa8-86d5-1603efe22429.png"
+        "icon": "/assets/images/items/itm_muckchuck_mead.png"
       },
       {
         "id": "itm_flour",
         "name": "Grainbow Flour",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//d7a0dbb3-9cd9-4efe-bef3-9bf340e29560.png"
+        "icon": "/assets/images/items/itm_flour.png"
       },
       {
         "id": "itm_flour",
         "name": "Grainbow Flour",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//d7a0dbb3-9cd9-4efe-bef3-9bf340e29560.png"
+        "icon": "/assets/images/items/itm_flour.png"
       },
       {
         "id": "itm_grice",
         "name": "Grice",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_grice/3fee1439-83f5-49ef-a873-2f4abaa626dc.png"
+        "icon": "/assets/images/items/itm_grice.png"
       },
       {
         "id": "itm_grice",
         "name": "Grice",
         "station": "Windmill",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_grice/3fee1439-83f5-49ef-a873-2f4abaa626dc.png"
+        "icon": "/assets/images/items/itm_grice.png"
       },
       {
         "id": "itm_grainbow_grainshine",
         "name": "Grainshine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//1d2140ca-d58d-4eb5-b9b2-057a74bc9a5e.png"
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
       },
       {
         "id": "itm_grainbow_grainshine",
         "name": "Grainshine",
         "station": "Winery",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//1d2140ca-d58d-4eb5-b9b2-057a74bc9a5e.png"
+        "icon": "/assets/images/items/itm_grainbow_grainshine.png"
       },
       {
         "id": "itm_dry_honey_kissed_popberry_chops",
         "name": "Dry Honey-Kissed Popberry Chops",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_honey_kissed_popberry_chops/7cab8fc0-a8c2-4352-80d9-3b8cbee09f8d.png"
+        "icon": "/assets/images/items/itm_dry_honey_kissed_popberry_chops.png"
       },
       {
         "id": "itm_dry_maple_glazed_grumpkin_slabs",
         "name": "Dry Maple-Glazed Grumpkin Slabs",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_maple_glazed_grumpkin_slabs/b4db31fd-e5a3-4dff-bc80-64d7601979bb.png"
+        "icon": "/assets/images/items/itm_dry_maple_glazed_grumpkin_slabs.png"
       },
       {
         "id": "itm_dry_salt_encrusted_scarrot_skewers",
         "name": "Dry Salt-Encrusted Scarrot Skewers",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_salt_encrusted_scarrot_skewers/88525262-64f6-4803-ab4c-aae5f7983716.png"
+        "icon": "/assets/images/items/itm_dry_salt_encrusted_scarrot_skewers.png"
       },
       {
         "id": "itm_dry_pulled_muckchuck_platter",
         "name": "Dry Pulled Muckchuck Platter",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_pulled_muckchuck_platter/9978d763-0f43-4009-80ab-5432433abf9d.png"
+        "icon": "/assets/images/items/itm_dry_pulled_muckchuck_platter.png"
       },
       {
         "id": "itm_dry_baby_back_butterberry_ribs",
         "name": "Dry Baby Back Butterberry Ribs",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_baby_back_butterberry_ribs/9c0d7e87-4eb4-4b94-aad4-7d8ff03f59c8.png"
+        "icon": "/assets/images/items/itm_dry_baby_back_butterberry_ribs.png"
       }
     ]
   },
@@ -3704,16 +3704,16 @@
         "icon": "/assets/images/items/itm_napricotfruitjam.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_tempboost_yield_2",
@@ -3722,79 +3722,79 @@
         "icon": "/assets/images/items/itm_tempboost_yield_2.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 6,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
         "id": "itm_napricotfruitjam",
         "name": "Napricot Jam",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_napricotfruitjam/eb144189-bc5e-4d57-b1e0-203466050639.png"
+        "icon": "/assets/images/items/itm_napricotfruitjam.png"
       },
       {
         "id": "itm_napricot_toddy",
         "name": "Napricot Toddy",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//c1f6383b-30fd-453e-887a-5e75586e5069.png"
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
       },
       {
         "id": "itm_napricot_toddy",
         "name": "Napricot Toddy",
         "station": "Winery",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//c1f6383b-30fd-453e-887a-5e75586e5069.png"
+        "icon": "/assets/images/items/itm_napricot_toddy.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashNapricot/b2c3d4ac-32e7-48fc-892e-fcfcde1dbb08.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mashNapricot/b2c3d4ac-32e7-48fc-892e-fcfcde1dbb08.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
         "id": "itm_tempboost_yield_2",
         "name": "Farming Yield Boost II",
         "station": "Alchemic Forge",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_2/6957aee0-8c98-4a95-a512-90caeed935f7.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_2.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "station": "Stoneshaping",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_duckResin/a6b1f72c-2d4b-45ab-9f91-e835282baf13.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "station": "Stoneshaping",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_duckResin/a6b1f72c-2d4b-45ab-9f91-e835282baf13.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       }
     ]
   },
   {
-    "id": "itm_scarrotFruit",
+    "id": "itm_scarrotfruit",
     "name": "Scarrot",
-    "icon": "/assets/images/items/itm_scarrotFruit.png",
+    "icon": "/assets/images/items/itm_scarrotfruit.png",
     "tier": 4,
     "level": 60,
     "energy": 4.5,
@@ -3806,9 +3806,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_scarrotSeeds",
+        "id": "itm_scarrotseeds",
         "name": "Scarrot Seeds",
-        "icon": "/assets/images/items/itm_scarrotSeeds.png",
+        "icon": "/assets/images/items/itm_scarrotseeds.png",
         "qty": 1
       }
     ],
@@ -3880,22 +3880,22 @@
         "icon": "/assets/images/items/itm_scarrotpuree.png"
       },
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scarrotStrgnff.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scalePlatter.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "qty": 1,
-        "icon": "/assets/images/items/itm_draconicStew.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
         "id": "itm_starry_honey_kissed_scarrot_chops",
@@ -3962,140 +3962,140 @@
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Waterbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Landbbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_petfood",
         "name": "Pet Treat",
         "station": "Spacebbq",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//b0201676-fa11-4689-9c31-826ba4128ad9.png"
+        "icon": "/assets/images/items/itm_petfood.png"
       },
       {
         "id": "itm_scarrotpuree",
         "name": "Scarrot Puree",
         "station": "Cooking",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scarrotpuree/128604ec-ef92-40c9-8f2a-1923981e2b32.png"
+        "icon": "/assets/images/items/itm_scarrotpuree.png"
       },
       {
         "id": "itm_scarrotpuree",
         "name": "Scarrot Puree",
         "station": "Cooking",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scarrotpuree/128604ec-ef92-40c9-8f2a-1923981e2b32.png"
+        "icon": "/assets/images/items/itm_scarrotpuree.png"
       },
       {
         "id": "itm_scarecrow",
         "name": "Scarecrow",
         "station": "Woodwork",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//23660ee4-ad31-40f5-a0a3-b445cfa14042.png"
+        "icon": "/assets/images/items/itm_scarecrow.png"
       },
       {
         "id": "itm_scarrotwine",
         "name": "Scarrot Wine",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//46dbc6fc-6c1a-4128-b8c3-9c5d8f3f34ac.PNG"
+        "icon": "/assets/images/items/itm_scarrotwine.png"
       },
       {
         "id": "itm_scarrotwine",
         "name": "Scarrot Wine",
         "station": "Winery",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets//46dbc6fc-6c1a-4128-b8c3-9c5d8f3f34ac.PNG"
+        "icon": "/assets/images/items/itm_scarrotwine.png"
       },
       {
-        "id": "itm_scarrotStrgnff",
+        "id": "itm_scarrotstrgnff",
         "name": "Scarrot Stroganoff",
         "station": "Cooking",
         "tier": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scarrotStrgnff/1a310d2d-585a-4c5e-b960-7d85a25efe0b.png"
+        "icon": "/assets/images/items/itm_scarrotstrgnff.png"
       },
       {
         "id": "itm_bowl_01",
         "name": "Astral Feast",
         "station": "Sushi",
         "tier": 1,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bowl_01/04a5cd65-e210-4dbe-99b7-dff0f5643be0.png"
+        "icon": "/assets/images/items/itm_bowl_01.png"
       },
       {
         "id": "itm_wrap_04",
         "name": "Celestial Wrap",
         "station": "Sushi",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_wrap_04/8a97f903-f038-4c59-a167-2937125a6d41.png"
+        "icon": "/assets/images/items/itm_wrap_04.png"
       },
       {
         "id": "itm_tempboost_yield_3",
         "name": "Farming Yield Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_yield_3/e7d8d054-6508-4609-baaa-ad5d7bdbe2bc.png"
+        "icon": "/assets/images/items/itm_tempboost_yield_3.png"
       },
       {
         "id": "itm_tempboost_speed_18",
         "name": "Farming Speed Boost III",
         "station": "Alchemic Forge",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_tempboost_speed_18/742c6a56-e64e-4f0c-9b92-aa53950317f8.png"
+        "icon": "/assets/images/items/itm_tempboost_speed_18.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_scalePlatter/7607bd7c-0b13-4d85-a660-499f4ab9acf6.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
-        "id": "itm_draconicStew",
+        "id": "itm_draconicstew",
         "name": "Draconic Essence Searing Stew",
         "station": "Landbbq",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_draconicStew/970596d3-6b5a-46d4-b6ee-54e5f3735915.png"
+        "icon": "/assets/images/items/itm_draconicstew.png"
       },
       {
         "id": "itm_starry_honey_kissed_scarrot_chops",
         "name": "Starry Honey-Kissed Scarrot Chops",
         "station": "Spacebbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_starry_honey_kissed_scarrot_chops/e53ea65e-5f05-4ca9-8b27-eca03e1e6a85.png"
+        "icon": "/assets/images/items/itm_starry_honey_kissed_scarrot_chops.png"
       },
       {
         "id": "itm_dry_salt_encrusted_scarrot_skewers",
         "name": "Dry Salt-Encrusted Scarrot Skewers",
         "station": "Landbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_dry_salt_encrusted_scarrot_skewers/88525262-64f6-4803-ab4c-aae5f7983716.png"
+        "icon": "/assets/images/items/itm_dry_salt_encrusted_scarrot_skewers.png"
       },
       {
         "id": "itm_moist_maple_glazed_scarrot_slabs",
         "name": "Moist Maple-Glazed Scarrot Slabs",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_maple_glazed_scarrot_slabs/7271585c-974a-4912-96ab-23a070a2e4c8.png"
+        "icon": "/assets/images/items/itm_moist_maple_glazed_scarrot_slabs.png"
       },
       {
         "id": "itm_moist_scarrot_butterberry_kebabs",
         "name": "Moist Scarrot and Butterberry Kebabs",
         "station": "Waterbbq",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_moist_scarrot_butterberry_kebabs/6af0b6d2-a890-47d4-b77d-ab6015b6383d.png"
+        "icon": "/assets/images/items/itm_moist_scarrot_butterberry_kebabs.png"
       }
     ]
   },
@@ -4111,9 +4111,9 @@
     "station": "Soil",
     "ingredients": [
       {
-        "id": "itm_scarrotSeeds",
+        "id": "itm_scarrotseeds",
         "name": "Scarrot Seeds",
-        "icon": "/assets/images/items/itm_scarrotSeeds.png",
+        "icon": "/assets/images/items/itm_scarrotseeds.png",
         "chanse per x1": null
       },
       {
@@ -4177,30 +4177,30 @@
     ],
     "used in": [
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mysticMix.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "station": "Cooking",
         "tier": 2,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_yieldReactor/112bf22d-800e-40df-921d-15c7c2884bd1.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
         "station": "Recycler",
         "tier": 4,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_mysticMix/4bcd1b0b-7e3f-4cf5-b033-1146ecce4b10.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       }
     ]
   }

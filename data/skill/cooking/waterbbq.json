@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_lanolinBaste",
+    "id": "itm_lanolinbaste",
     "name": "Lanolin Oil Grill-Baste",
-    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "icon": "/assets/images/items/itm_lanolinbaste.png",
     "tier": 1,
     "level": 16,
     "energy": 11,
@@ -15,10 +15,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 3,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -37,34 +37,34 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       }
     ]
   },
   {
-    "id": "itm_lanolinBaste",
+    "id": "itm_lanolinbaste",
     "name": "Lanolin Oil Grill-Baste",
-    "icon": "/assets/images/items/itm_lanolinBaste.png",
+    "icon": "/assets/images/items/itm_lanolinbaste.png",
     "tier": 1,
     "level": 16,
     "energy": 76,
@@ -77,10 +77,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sheep_lanolinOil",
+        "id": "itm_sheep_lanolinoil",
         "name": "Lanolin Oil",
         "qty": 18,
-        "icon": "/assets/images/items/itm_sheep_lanolinOil.png"
+        "icon": "/assets/images/items/itm_sheep_lanolinoil.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -99,34 +99,34 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
-        "id": "itm_herbPotatoes",
+        "id": "itm_herbpotatoes",
         "name": "Herb-Buttermilk Grilled Tatos",
         "qty": 1,
-        "icon": "/assets/images/items/itm_herbPotatoes.png"
+        "icon": "/assets/images/items/itm_herbpotatoes.png"
       },
       {
-        "id": "itm_grassSkewers",
+        "id": "itm_grassskewers",
         "name": "Grassclump Skewers",
         "qty": 1,
-        "icon": "/assets/images/items/itm_grassSkewers.png"
+        "icon": "/assets/images/items/itm_grassskewers.png"
       }
     ]
   },
   {
-    "id": "itm_royalJellyBbq",
+    "id": "itm_royaljellybbq",
     "name": "Royal Jelly Caramelized Fluppy BBQ",
-    "icon": "/assets/images/items/itm_royalJellyBbq.png",
+    "icon": "/assets/images/items/itm_royaljellybbq.png",
     "tier": 2,
     "level": 24,
     "energy": 58,
@@ -139,10 +139,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_bee_royalJelly",
+        "id": "itm_bee_royaljelly",
         "name": "Royal Jelly",
         "qty": 2,
-        "icon": "/assets/images/items/itm_bee_royalJelly.png"
+        "icon": "/assets/images/items/itm_bee_royaljelly.png"
       },
       {
         "id": "itm_woodlog_02",
@@ -151,10 +151,10 @@
         "icon": "/assets/images/items/itm_woodlog_02.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
         "id": "itm_commonfish_all",
@@ -163,24 +163,24 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_herbPotatoes",
+    "id": "itm_herbpotatoes",
     "name": "Herb-Buttermilk Grilled Tatos",
-    "icon": "/assets/images/items/itm_herbPotatoes.png",
+    "icon": "/assets/images/items/itm_herbpotatoes.png",
     "tier": 2,
     "level": 26,
     "energy": 44,
@@ -193,10 +193,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_buttermilkDough",
+        "id": "itm_buttermilkdough",
         "name": "Buttermilk Dough",
         "qty": 1,
-        "icon": "/assets/images/items/itm_buttermilkDough.png"
+        "icon": "/assets/images/items/itm_buttermilkdough.png"
       },
       {
         "id": "itm_tatofruit",
@@ -211,24 +211,24 @@
         "icon": "/assets/images/items/itm_4_leaf_cloveregano.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_honeyJava",
+    "id": "itm_honeyjava",
     "name": "Honey-Glazed Hover-Java",
-    "icon": "/assets/images/items/itm_honeyJava.png",
+    "icon": "/assets/images/items/itm_honeyjava.png",
     "tier": 2,
     "level": 36,
     "energy": 44,
@@ -263,14 +263,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_fauxPlatter",
+    "id": "itm_fauxplatter",
     "name": "Faux-Pork Sizzle Platter",
-    "icon": "/assets/images/items/itm_fauxPlatter.png",
+    "icon": "/assets/images/items/itm_fauxplatter.png",
     "tier": 3,
     "level": 41,
     "energy": 63,
@@ -283,10 +283,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_sizzledBacon",
+        "id": "itm_sizzledbacon",
         "name": "Sizzled Veggie Bacon",
         "qty": 4,
-        "icon": "/assets/images/items/itm_sizzledBacon.png"
+        "icon": "/assets/images/items/itm_sizzledbacon.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -299,14 +299,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_caramelBaste",
+    "id": "itm_caramelbaste",
     "name": "Caramelized Slime Imbued Baste",
-    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "icon": "/assets/images/items/itm_caramelbaste.png",
     "tier": 3,
     "level": 58,
     "energy": 36,
@@ -319,50 +319,50 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 2,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 1,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
         "qty": 1,
-        "icon": "/assets/images/items/itm_flameGreens.png"
+        "icon": "/assets/images/items/itm_flamegreens.png"
       }
     ]
   },
   {
-    "id": "itm_caramelBaste",
+    "id": "itm_caramelbaste",
     "name": "Caramelized Slime Imbued Baste",
-    "icon": "/assets/images/items/itm_caramelBaste.png",
+    "icon": "/assets/images/items/itm_caramelbaste.png",
     "tier": 3,
     "level": 58,
     "energy": 248,
@@ -375,50 +375,50 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_duck_pondSlime",
+        "id": "itm_duck_pondslime",
         "name": "Pond Slime",
         "qty": 12,
-        "icon": "/assets/images/items/itm_duck_pondSlime.png"
+        "icon": "/assets/images/items/itm_duck_pondslime.png"
       },
       {
-        "id": "itm_toffeeGlaze",
+        "id": "itm_toffeeglaze",
         "name": "Custard Rich Toffee Glaze",
         "qty": 6,
-        "icon": "/assets/images/items/itm_toffeeGlaze.png"
+        "icon": "/assets/images/items/itm_toffeeglaze.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_pondShrooms",
+        "id": "itm_pondshrooms",
         "name": "Pond Slime Seared Mushrooms",
         "qty": 1,
-        "icon": "/assets/images/items/itm_pondShrooms.png"
+        "icon": "/assets/images/items/itm_pondshrooms.png"
       },
       {
-        "id": "itm_flameGreens",
+        "id": "itm_flamegreens",
         "name": "Flame Seared Pond Greens",
         "qty": 1,
-        "icon": "/assets/images/items/itm_flameGreens.png"
+        "icon": "/assets/images/items/itm_flamegreens.png"
       }
     ]
   },
   {
-    "id": "itm_pondShrooms",
+    "id": "itm_pondshrooms",
     "name": "Pond Slime Seared Mushrooms",
-    "icon": "/assets/images/items/itm_pondShrooms.png",
+    "icon": "/assets/images/items/itm_pondshrooms.png",
     "tier": 4,
     "level": 60,
     "energy": 83,
@@ -437,10 +437,10 @@
         "icon": "/assets/images/items/itm_pig_truffles.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       },
       {
         "id": "itm_hardwood_smoked_bbq_sauce",
@@ -453,14 +453,14 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
   {
-    "id": "itm_flameGreens",
+    "id": "itm_flamegreens",
     "name": "Flame Seared Pond Greens",
-    "icon": "/assets/images/items/itm_flameGreens.png",
+    "icon": "/assets/images/items/itm_flamegreens.png",
     "tier": 4,
     "level": 68,
     "energy": 83,
@@ -479,17 +479,17 @@
         "icon": "/assets/images/items/itm_duck_waterweed.png"
       },
       {
-        "id": "itm_caramelBaste",
+        "id": "itm_caramelbaste",
         "name": "Caramelized Slime Imbued Baste",
         "qty": 2,
-        "icon": "/assets/images/items/itm_caramelBaste.png"
+        "icon": "/assets/images/items/itm_caramelbaste.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -509,16 +509,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_grumpkinFruit",
+        "id": "itm_grumpkinfruit",
         "name": "Blue Grumpkin",
         "qty": 8,
-        "icon": "/assets/images/items/itm_grumpkinFruit.png"
+        "icon": "/assets/images/items/itm_grumpkinfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 10,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_honey_bbq_sauce",
@@ -527,17 +527,17 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -557,16 +557,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 8,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 4,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_syrup",
@@ -575,10 +575,10 @@
         "icon": "/assets/images/items/itm_syrup.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
@@ -591,7 +591,7 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -611,16 +611,16 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_popberryFruit",
+        "id": "itm_popberryfruit",
         "name": "Popberry",
         "qty": 6,
-        "icon": "/assets/images/items/itm_popberryFruit.png"
+        "icon": "/assets/images/items/itm_popberryfruit.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 4,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_salt",
@@ -629,10 +629,10 @@
         "icon": "/assets/images/items/itm_salt.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       },
       {
         "id": "itm_tangy_bbq_sauce",
@@ -645,7 +645,7 @@
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ],
     "used in": [
@@ -673,10 +673,10 @@
     "station": "Waterbbq",
     "ingredients": [
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 4,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
         "id": "itm_butterberry",
@@ -685,10 +685,10 @@
         "icon": "/assets/images/items/itm_butterberry.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 1,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_traditional_bbq_sauce",
@@ -697,17 +697,17 @@
         "icon": "/assets/images/items/itm_traditional_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   },
@@ -733,10 +733,10 @@
         "icon": "/assets/images/items/itm_muckchuck.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 3,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       },
       {
         "id": "itm_spicy_bbq_sauce",
@@ -745,17 +745,17 @@
         "icon": "/assets/images/items/itm_spicy_bbq_sauce.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
       {
         "id": "waterbbq",
         "name": "Waterbbq",
-        "icon": "waterbbq"
+        "icon": "/assets/images/items/waterbbq.png"
       }
     ]
   }

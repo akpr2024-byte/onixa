@@ -141,9 +141,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_02",
+    "id": "itm_durashears_02",
     "name": "More Durable T2 Shears",
-    "icon": "/assets/images/items/itm_duraShears_02.png",
+    "icon": "/assets/images/items/itm_durashears_02.png",
     "tier": 2,
     "level": 27,
     "energy": 64,
@@ -162,10 +162,10 @@
         "icon": "/assets/images/items/itm_shears_02.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 5,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -174,10 +174,10 @@
         "icon": "/assets/images/items/itm_woodoil_02.png"
       },
       {
-        "id": "itm_goat_goatFur",
+        "id": "itm_goat_goatfur",
         "name": "Shedded Goat Fur",
         "qty": 2,
-        "icon": "/assets/images/items/itm_goat_goatFur.png"
+        "icon": "/assets/images/items/itm_goat_goatfur.png"
       }
     ],
     "craft_in": [
@@ -199,9 +199,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_03",
+    "id": "itm_durashears_03",
     "name": "More Durable T3 Shears",
-    "icon": "/assets/images/items/itm_duraShears_03.png",
+    "icon": "/assets/images/items/itm_durashears_03.png",
     "tier": 3,
     "level": 50,
     "energy": 80,
@@ -220,16 +220,16 @@
         "icon": "/assets/images/items/itm_shears_03.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_sheep_hoofDust",
+        "id": "itm_sheep_hoofdust",
         "name": "Mini Hoof Dust",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+        "icon": "/assets/images/items/itm_sheep_hoofdust.png"
       },
       {
         "id": "itm_woodoil_03",
@@ -252,9 +252,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_04",
+    "id": "itm_durashears_04",
     "name": "More Durable T4 Shears",
-    "icon": "/assets/images/items/itm_duraShears_04.png",
+    "icon": "/assets/images/items/itm_durashears_04.png",
     "tier": 4,
     "level": 70,
     "energy": 114,
@@ -273,10 +273,10 @@
         "icon": "/assets/images/items/itm_shears_04.png"
       },
       {
-        "id": "itm_turkey_rainbowBristles",
+        "id": "itm_turkey_rainbowbristles",
         "name": "Rainbow Turkey Bristles",
         "qty": 2,
-        "icon": "/assets/images/items/itm_turkey_rainbowBristles.png"
+        "icon": "/assets/images/items/itm_turkey_rainbowbristles.png"
       },
       {
         "id": "itm_woodoil_04",
@@ -285,10 +285,10 @@
         "icon": "/assets/images/items/itm_woodoil_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 2,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       }
     ],
     "craft_in": [

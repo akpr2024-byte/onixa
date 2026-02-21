@@ -15,10 +15,10 @@
     "station": "Textile",
     "ingredients": [
       {
-        "id": "itm_rustyWateringCan",
+        "id": "itm_rustywateringcan",
         "name": "Rusty Watering Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rustyWateringCan.png"
+        "icon": "/assets/images/items/itm_rustywateringcan.png"
       },
       {
         "id": "itm_tree_sap",
@@ -37,7 +37,7 @@
       {
         "id": "textile",
         "name": "Textile",
-        "icon": "textile"
+        "icon": "/assets/images/items/textile.png"
       }
     ],
     "used in": [

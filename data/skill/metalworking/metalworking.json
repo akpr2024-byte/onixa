@@ -141,9 +141,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_02",
+    "id": "itm_durashears_02",
     "name": "More Durable T2 Shears",
-    "icon": "/assets/images/items/itm_duraShears_02.png",
+    "icon": "/assets/images/items/itm_durashears_02.png",
     "tier": 2,
     "level": 27,
     "energy": 64,
@@ -162,10 +162,10 @@
         "icon": "/assets/images/items/itm_shears_02.png"
       },
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 5,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -174,10 +174,10 @@
         "icon": "/assets/images/items/itm_woodoil_02.png"
       },
       {
-        "id": "itm_goat_goatFur",
+        "id": "itm_goat_goatfur",
         "name": "Shedded Goat Fur",
         "qty": 2,
-        "icon": "/assets/images/items/itm_goat_goatFur.png"
+        "icon": "/assets/images/items/itm_goat_goatfur.png"
       }
     ],
     "craft_in": [
@@ -199,9 +199,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_03",
+    "id": "itm_durashears_03",
     "name": "More Durable T3 Shears",
-    "icon": "/assets/images/items/itm_duraShears_03.png",
+    "icon": "/assets/images/items/itm_durashears_03.png",
     "tier": 3,
     "level": 50,
     "energy": 80,
@@ -220,16 +220,16 @@
         "icon": "/assets/images/items/itm_shears_03.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_sheep_hoofDust",
+        "id": "itm_sheep_hoofdust",
         "name": "Mini Hoof Dust",
         "qty": 2,
-        "icon": "/assets/images/items/itm_sheep_hoofDust.png"
+        "icon": "/assets/images/items/itm_sheep_hoofdust.png"
       },
       {
         "id": "itm_woodoil_03",
@@ -252,9 +252,9 @@
     ]
   },
   {
-    "id": "itm_duraShears_04",
+    "id": "itm_durashears_04",
     "name": "More Durable T4 Shears",
-    "icon": "/assets/images/items/itm_duraShears_04.png",
+    "icon": "/assets/images/items/itm_durashears_04.png",
     "tier": 4,
     "level": 70,
     "energy": 114,
@@ -273,10 +273,10 @@
         "icon": "/assets/images/items/itm_shears_04.png"
       },
       {
-        "id": "itm_turkey_rainbowBristles",
+        "id": "itm_turkey_rainbowbristles",
         "name": "Rainbow Turkey Bristles",
         "qty": 2,
-        "icon": "/assets/images/items/itm_turkey_rainbowBristles.png"
+        "icon": "/assets/images/items/itm_turkey_rainbowbristles.png"
       },
       {
         "id": "itm_woodoil_04",
@@ -285,10 +285,10 @@
         "icon": "/assets/images/items/itm_woodoil_04.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 2,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       }
     ],
     "craft_in": [
@@ -868,16 +868,16 @@
         "icon": "/assets/images/items/itm_kiln_kit_04.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
         "id": "itm_woodwheel_04",
@@ -916,10 +916,10 @@
         "icon": "/assets/images/items/itm_hardware_03.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -988,10 +988,10 @@
         "icon": "/assets/images/items/itm_kiln_kit_04.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "qty": 24,
         "name": "Shrapnel",
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
         "id": "itm_woodwheel_04",
@@ -1024,10 +1024,10 @@
         "icon": "/assets/images/items/itm_hardware_03.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "qty": 4,
         "name": "Earth-Oven Baking Slab",
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -1092,16 +1092,16 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_24",
@@ -1146,10 +1146,10 @@
         "icon": "/assets/images/items/itm_gear_04.png"
       },
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
         "id": "itm_telescope_04",
@@ -1170,15 +1170,15 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "qty": 15,
         "name": "Trash Can",
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "qty": 8,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_24",
@@ -1211,10 +1211,10 @@
         "icon": "/assets/images/items/itm_gear_04.png"
       },
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "qty": 6,
         "name": "Instant-Sizzle Hotplate",
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
         "id": "itm_telescope_04",
@@ -1231,7 +1231,7 @@
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
     "tier": 2,
     "level": 20,
@@ -1247,22 +1247,22 @@
         "id": "itm_gloomshard",
         "name": "Gloomshard",
         "qty": 10,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_gloomshard/d4c8fe7a-84f9-4cf6-a110-2bb22f270ede.png"
+        "icon": "/assets/images/items/itm_gloomshard.png"
       },
       {
         "id": "itm_brick_04",
         "name": "Claricite Brick",
         "qty": 3,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_brick_04/969c19c8-ce62-49d3-8d5d-a3ffa6596431.png"
+        "icon": "/assets/images/items/itm_brick_04.png"
       },
       {
         "id": "itm_metalbar_04",
         "name": "Adamaxium Bar",
         "qty": 8,
-        "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_metalbar_04/b8a8b2f3-857f-4988-98f5-f4d573853fa6.png"
+        "icon": "/assets/images/items/itm_metalbar_04.png"
       }
     ],
-    "icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_yieldReactor/112bf22d-800e-40df-921d-15c7c2884bd1.png"
+    "icon": "/assets/images/items/itm_yieldreactor.png"
   },
   {
     "id": "itm_screw",
@@ -1316,16 +1316,16 @@
         "icon": "/assets/images/items/itm_sushi_kit_01.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_shears_01",
@@ -1376,16 +1376,16 @@
         "icon": "/assets/images/items/itm_sushi_kit_01.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "qty": 120,
         "name": "Pink Fence",
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "qty": 120,
         "name": "Green Fence",
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_shears_01",
@@ -1662,10 +1662,10 @@
         "icon": "/assets/images/items/itm_shears_03.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       },
       {
         "id": "itm_shears_03",
@@ -1674,10 +1674,10 @@
         "icon": "/assets/images/items/itm_shears_03.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "qty": 1,
         "name": "More Durable T2 Shears",
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       }
     ]
   },
@@ -1735,10 +1735,10 @@
         "icon": "/assets/images/items/itm_shears_04.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       },
       {
         "id": "itm_shears_04",
@@ -1747,10 +1747,10 @@
         "icon": "/assets/images/items/itm_shears_04.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "qty": 1,
         "name": "More Durable T3 Shears",
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       }
     ]
   },
@@ -1797,16 +1797,16 @@
     ],
     "used in": [
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "name": "More Durable T4 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       },
       {
-        "id": "itm_duraShears_04",
+        "id": "itm_durashears_04",
         "qty": 1,
         "name": "More Durable T4 Shears",
-        "icon": "/assets/images/items/itm_duraShears_04.png"
+        "icon": "/assets/images/items/itm_durashears_04.png"
       }
     ]
   },
@@ -2129,10 +2129,10 @@
         "icon": "/assets/images/items/itm_magnetite_ore.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 2,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       }
     ],
     "craft_in": [
@@ -2680,10 +2680,10 @@
         "icon": "/assets/images/items/itm_farmamix.png"
       },
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "name": "Mystic Mix",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mysticMix.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       },
       {
         "id": "itm_farmamix",
@@ -2692,17 +2692,17 @@
         "icon": "/assets/images/items/itm_farmamix.png"
       },
       {
-        "id": "itm_mysticMix",
+        "id": "itm_mysticmix",
         "qty": 1,
         "name": "Mystic Mix",
-        "icon": "/assets/images/items/itm_mysticMix.png"
+        "icon": "/assets/images/items/itm_mysticmix.png"
       }
     ]
   },
   {
-    "id": "itm_gearGrease",
+    "id": "itm_geargrease",
     "name": "Gear Grease",
-    "icon": "/assets/images/items/itm_gearGrease.png",
+    "icon": "/assets/images/items/itm_geargrease.png",
     "tier": 1,
     "level": 12,
     "energy": 28,
@@ -2715,10 +2715,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_cow_dairyFat",
+        "id": "itm_cow_dairyfat",
         "name": "Dairy Fat",
         "qty": 12,
-        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+        "icon": "/assets/images/items/itm_cow_dairyfat.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -2733,10 +2733,10 @@
         "icon": "/assets/images/items/itm_beeswax.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       }
     ],
     "craft_in": [
@@ -2852,10 +2852,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_01",
@@ -3032,16 +3032,16 @@
     ],
     "used in": [
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
         "qty": 1,
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       },
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
         "id": "itm_woodwork_kit_03",
@@ -3056,16 +3056,16 @@
         "icon": "/assets/images/items/itm_woodbhouse_02.png"
       },
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "qty": 4,
         "name": "Miniature Milk Barrel Set",
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       },
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "qty": 10,
         "name": "Grade I Alchemic Forge Kit",
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
         "id": "itm_woodwork_kit_03",
@@ -3082,9 +3082,9 @@
     ]
   },
   {
-    "id": "itm_alchemicForge01",
+    "id": "itm_alchemicforge01",
     "name": "Grade I Alchemic Forge Kit",
-    "icon": "/assets/images/items/itm_alchemicForge01.png",
+    "icon": "/assets/images/items/itm_alchemicforge01.png",
     "tier": 2,
     "level": 27,
     "energy": 419,
@@ -3097,10 +3097,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_stickySlimewood",
+        "id": "itm_stickyslimewood",
         "name": "Sticky Slimewood",
         "qty": 18,
-        "icon": "/assets/images/items/itm_stickySlimewood.png"
+        "icon": "/assets/images/items/itm_stickyslimewood.png"
       },
       {
         "id": "itm_nail_02",
@@ -3115,10 +3115,10 @@
         "icon": "/assets/images/items/itm_volatileyolkcompound.png"
       },
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
         "qty": 2,
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       },
       {
         "id": "itm_woodoil_02",
@@ -3146,16 +3146,16 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "name": "Grade II Alchemic Forge",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       },
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "qty": 1,
         "name": "Grade II Alchemic Forge",
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       }
     ]
   },
@@ -3175,10 +3175,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_02",
@@ -3256,9 +3256,9 @@
     ]
   },
   {
-    "id": "itm_spiderShard",
+    "id": "itm_spidershard",
     "name": "Spiderbound Shard",
-    "icon": "/assets/images/items/itm_spiderShard.png",
+    "icon": "/assets/images/items/itm_spidershard.png",
     "tier": 2,
     "level": 39,
     "energy": 24,
@@ -3271,10 +3271,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_QueenSpider",
+        "id": "itm_queenspider",
         "name": "Queen Spider",
         "qty": 2,
-        "icon": "/assets/images/items/itm_QueenSpider.png"
+        "icon": "/assets/images/items/itm_queenspider.png"
       },
       {
         "id": "itm_void",
@@ -3289,10 +3289,10 @@
         "icon": "/assets/images/items/itm_plaster.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       }
     ],
     "craft_in": [
@@ -3314,22 +3314,22 @@
     ],
     "used in": [
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "qty": 6,
         "name": "Wool-Bound Timber",
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       }
     ]
   },
@@ -3442,10 +3442,10 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -3466,10 +3466,10 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "qty": 2,
         "name": "Featherlight Fastener",
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -3486,9 +3486,9 @@
     ]
   },
   {
-    "id": "itm_featherFastener",
+    "id": "itm_featherfastener",
     "name": "Featherlight Fastener",
-    "icon": "/assets/images/items/itm_featherFastener.png",
+    "icon": "/assets/images/items/itm_featherfastener.png",
     "tier": 3,
     "level": 48,
     "energy": 29,
@@ -3501,10 +3501,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       },
       {
         "id": "itm_nail_03",
@@ -3533,23 +3533,23 @@
     ],
     "used in": [
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "qty": 2,
         "name": "Featherlight Resin Boards",
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       }
     ]
   },
   {
-    "id": "itm_featherBlade",
+    "id": "itm_featherblade",
     "name": "Feather-Edge Quill Blade",
-    "icon": "/assets/images/items/itm_featherBlade.png",
+    "icon": "/assets/images/items/itm_featherblade.png",
     "tier": 3,
     "level": 50,
     "energy": 31,
@@ -3562,22 +3562,22 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_turkey_blueFeather",
+        "id": "itm_turkey_bluefeather",
         "name": "Blue Feather",
         "qty": 2,
-        "icon": "/assets/images/items/itm_turkey_blueFeather.png"
+        "icon": "/assets/images/items/itm_turkey_bluefeather.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_duckResin",
+        "id": "itm_duckresin",
         "name": "Duck Feather Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duckResin.png"
+        "icon": "/assets/images/items/itm_duckresin.png"
       }
     ],
     "craft_in": [
@@ -3594,23 +3594,23 @@
     ],
     "used in": [
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "name": "Grade II Alchemic Forge",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       },
       {
-        "id": "itm_alchemicForge02",
+        "id": "itm_alchemicforge02",
         "qty": 3,
         "name": "Grade II Alchemic Forge",
-        "icon": "/assets/images/items/itm_alchemicForge02.png"
+        "icon": "/assets/images/items/itm_alchemicforge02.png"
       }
     ]
   },
   {
-    "id": "itm_alchemicForge02",
+    "id": "itm_alchemicforge02",
     "name": "Grade II Alchemic Forge",
-    "icon": "/assets/images/items/itm_alchemicForge02.png",
+    "icon": "/assets/images/items/itm_alchemicforge02.png",
     "tier": 3,
     "level": 50,
     "energy": 525,
@@ -3623,22 +3623,22 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
-        "id": "itm_featherBlade",
+        "id": "itm_featherblade",
         "name": "Feather-Edge Quill Blade",
         "qty": 3,
-        "icon": "/assets/images/items/itm_featherBlade.png"
+        "icon": "/assets/images/items/itm_featherblade.png"
       },
       {
-        "id": "itm_featherResinBoards",
+        "id": "itm_featherresinboards",
         "name": "Featherlight Resin Boards",
         "qty": 10,
-        "icon": "/assets/images/items/itm_featherResinBoards.png"
+        "icon": "/assets/images/items/itm_featherresinboards.png"
       },
       {
         "id": "itm_woodoil_03",
@@ -3661,9 +3661,9 @@
     ]
   },
   {
-    "id": "itm_hornChimes",
+    "id": "itm_hornchimes",
     "name": "Horn-Flake Chimes",
-    "icon": "/assets/images/items/itm_hornChimes.png",
+    "icon": "/assets/images/items/itm_hornchimes.png",
     "tier": 3,
     "level": 55,
     "energy": 76,
@@ -3676,10 +3676,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_goat_hornFlakes",
+        "id": "itm_goat_hornflakes",
         "name": "Tiny Horn Flakes",
         "qty": 5,
-        "icon": "/assets/images/items/itm_goat_hornFlakes.png"
+        "icon": "/assets/images/items/itm_goat_hornflakes.png"
       },
       {
         "id": "itm_wooddowel_03",
@@ -3688,10 +3688,10 @@
         "icon": "/assets/images/items/itm_wooddowel_03.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       }
     ],
     "craft_in": [
@@ -3723,10 +3723,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_03",
@@ -3932,10 +3932,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_04",
@@ -3991,9 +3991,9 @@
     ]
   },
   {
-    "id": "itm_instantHotplate",
+    "id": "itm_instanthotplate",
     "name": "Instant-Sizzle Hotplate",
-    "icon": "/assets/images/items/itm_instantHotplate.png",
+    "icon": "/assets/images/items/itm_instanthotplate.png",
     "tier": 4,
     "level": 76,
     "energy": 54,
@@ -4018,10 +4018,10 @@
         "icon": "/assets/images/items/itm_metalbar_04.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       }
     ],
     "craft_in": [
@@ -4033,16 +4033,16 @@
     ],
     "used in": [
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "name": "Scale-Smoked Feast Platter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_scalePlatter.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       },
       {
-        "id": "itm_scalePlatter",
+        "id": "itm_scaleplatter",
         "qty": 1,
         "name": "Scale-Smoked Feast Platter",
-        "icon": "/assets/images/items/itm_scalePlatter.png"
+        "icon": "/assets/images/items/itm_scaleplatter.png"
       }
     ]
   },
@@ -4329,10 +4329,10 @@
         "icon": "/assets/images/items/itm_metalbar_02.png"
       },
       {
-        "id": "itm_lanolinFiber",
+        "id": "itm_lanolinfiber",
         "name": "Lanolin-Softened Fiber",
         "qty": 3,
-        "icon": "/assets/images/items/itm_lanolinFiber.png"
+        "icon": "/assets/images/items/itm_lanolinfiber.png"
       },
       {
         "id": "itm_gear_02",
@@ -4381,10 +4381,10 @@
         "icon": "/assets/images/items/itm_metalbar_03.png"
       },
       {
-        "id": "itm_featherwovenCloth",
+        "id": "itm_featherwovencloth",
         "name": "Featherwoven Cloth",
         "qty": 3,
-        "icon": "/assets/images/items/itm_featherwovenCloth.png"
+        "icon": "/assets/images/items/itm_featherwovencloth.png"
       },
       {
         "id": "itm_gear_03",
@@ -4825,16 +4825,16 @@
         "icon": "/assets/images/items/itm_kiln_kit_04.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
-        "id": "itm_Shrapnel",
+        "id": "itm_shrapnel",
         "name": "Shrapnel",
         "qty": 12,
-        "icon": "/assets/images/items/itm_Shrapnel.png"
+        "icon": "/assets/images/items/itm_shrapnel.png"
       },
       {
         "id": "itm_woodwheel_04",
@@ -4873,10 +4873,10 @@
         "icon": "/assets/images/items/itm_hardware_03.png"
       },
       {
-        "id": "itm_earthSlab",
+        "id": "itm_earthslab",
         "name": "Earth-Oven Baking Slab",
         "qty": 1,
-        "icon": "/assets/images/items/itm_earthSlab.png"
+        "icon": "/assets/images/items/itm_earthslab.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -4947,16 +4947,16 @@
         "icon": "/assets/images/items/itm_sushi_kit_04.png"
       },
       {
-        "id": "itm_Trashcan",
+        "id": "itm_trashcan",
         "name": "Trash Can",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Trashcan.png"
+        "icon": "/assets/images/items/itm_trashcan.png"
       },
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       },
       {
         "id": "itm_tempboost_speed_24",
@@ -5001,10 +5001,10 @@
         "icon": "/assets/images/items/itm_gear_04.png"
       },
       {
-        "id": "itm_instantHotplate",
+        "id": "itm_instanthotplate",
         "name": "Instant-Sizzle Hotplate",
         "qty": 1,
-        "icon": "/assets/images/items/itm_instantHotplate.png"
+        "icon": "/assets/images/items/itm_instanthotplate.png"
       },
       {
         "id": "itm_telescope_04",
@@ -5072,16 +5072,16 @@
         "icon": "/assets/images/items/itm_sushi_kit_01.png"
       },
       {
-        "id": "itm_pinkFence",
+        "id": "itm_pinkfence",
         "name": "Pink Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_pinkFence.png"
+        "icon": "/assets/images/items/itm_pinkfence.png"
       },
       {
-        "id": "itm_greenFence",
+        "id": "itm_greenfence",
         "name": "Green Fence",
         "qty": 10,
-        "icon": "/assets/images/items/itm_greenFence.png"
+        "icon": "/assets/images/items/itm_greenfence.png"
       },
       {
         "id": "itm_shears_01",
@@ -5270,9 +5270,9 @@
     ]
   },
   {
-    "id": "itm_gearGrease",
+    "id": "itm_geargrease",
     "name": "Gear Grease",
-    "icon": "/assets/images/items/itm_gearGrease.png",
+    "icon": "/assets/images/items/itm_geargrease.png",
     "tier": 1,
     "level": 12,
     "energy": 4,
@@ -5285,10 +5285,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_cow_dairyFat",
+        "id": "itm_cow_dairyfat",
         "name": "Dairy Fat",
         "qty": 2,
-        "icon": "/assets/images/items/itm_cow_dairyFat.png"
+        "icon": "/assets/images/items/itm_cow_dairyfat.png"
       },
       {
         "id": "itm_oil_whittlewoo",
@@ -5303,10 +5303,10 @@
         "icon": "/assets/images/items/itm_beeswax.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       }
     ],
     "craft_in": [
@@ -5398,10 +5398,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_01",
@@ -5554,16 +5554,16 @@
     ],
     "used in": [
       {
-        "id": "itm_miniBarrels",
+        "id": "itm_minibarrels",
         "name": "Miniature Milk Barrel Set",
         "qty": 1,
-        "icon": "/assets/images/items/itm_miniBarrels.png"
+        "icon": "/assets/images/items/itm_minibarrels.png"
       },
       {
-        "id": "itm_alchemicForge01",
+        "id": "itm_alchemicforge01",
         "name": "Grade I Alchemic Forge Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alchemicForge01.png"
+        "icon": "/assets/images/items/itm_alchemicforge01.png"
       },
       {
         "id": "itm_woodwork_kit_03",
@@ -5595,10 +5595,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_02",
@@ -5754,10 +5754,10 @@
         "icon": "/assets/images/items/itm_woodchest_03.png"
       },
       {
-        "id": "itm_featherFastener",
+        "id": "itm_featherfastener",
         "name": "Featherlight Fastener",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFastener.png"
+        "icon": "/assets/images/items/itm_featherfastener.png"
       },
       {
         "id": "itm_woodwork_kit_04",
@@ -5789,10 +5789,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_03",
@@ -5956,10 +5956,10 @@
     "station": "Metalworking",
     "ingredients": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
         "id": "itm_metalbar_04",

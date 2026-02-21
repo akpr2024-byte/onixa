@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_bee_babyWings",
+    "id": "itm_bee_babywings",
     "name": "Baby Bee Wings",
-    "icon": "/assets/images/items/itm_bee_babyWings.png",
+    "icon": "/assets/images/items/itm_bee_babywings.png",
     "tier": null,
     "level": 0,
     "energy": 22,
@@ -38,16 +38,16 @@
         "icon": "/assets/images/items/itm_tempboost_yield_11.png"
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
         "qty": 1,
-        "icon": "/assets/images/items/itm_babyWingDisplay.png"
+        "icon": "/assets/images/items/itm_babywingdisplay.png"
       },
       {
-        "id": "itm_wingedStorage",
+        "id": "itm_wingedstorage",
         "name": "Winged Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_wingedStorage.png"
+        "icon": "/assets/images/items/itm_wingedstorage.png"
       },
       {
         "id": "itm_tempboost_yield_11",
@@ -56,15 +56,15 @@
         "qty": 5
       },
       {
-        "id": "itm_babyWingDisplay",
+        "id": "itm_babywingdisplay",
         "name": "Baby Bee Wing Display",
-        "icon": "/assets/images/items/itm_babyWingDisplay.png",
+        "icon": "/assets/images/items/itm_babywingdisplay.png",
         "qty": 4
       },
       {
-        "id": "itm_wingedStorage",
+        "id": "itm_wingedstorage",
         "name": "Winged Storage Chest",
-        "icon": "/assets/images/items/itm_wingedStorage.png",
+        "icon": "/assets/images/items/itm_wingedstorage.png",
         "qty": 3
       }
     ]
@@ -113,10 +113,10 @@
         "icon": "/assets/images/items/itm_tempboost_speed_14.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       },
       {
         "id": "itm_tempboost_speed_14",
@@ -125,17 +125,17 @@
         "qty": 10
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
-        "icon": "/assets/images/items/itm_beePollenResin.png",
+        "icon": "/assets/images/items/itm_beepollenresin.png",
         "qty": 2
       }
     ]
   },
   {
-    "id": "itm_bee_royalJelly",
+    "id": "itm_bee_royaljelly",
     "name": "Royal Jelly",
-    "icon": "/assets/images/items/itm_bee_royalJelly.png",
+    "icon": "/assets/images/items/itm_bee_royaljelly.png",
     "tier": null,
     "level": 0,
     "energy": 13,
@@ -170,10 +170,10 @@
     ],
     "used in": [
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
         "id": "itm_honey_bbq_sauce",
@@ -182,33 +182,33 @@
         "icon": "/assets/images/items/itm_honey_bbq_sauce.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 6,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
-        "icon": "/assets/images/items/itm_royalJellyBbq.png",
+        "icon": "/assets/images/items/itm_royaljellybbq.png",
         "qty": 2
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
-        "icon": "/assets/images/items/itm_royalSealant.png",
+        "icon": "/assets/images/items/itm_royalsealant.png",
         "qty": 2
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
-        "icon": "/assets/images/items/itm_royalSealant.png",
+        "icon": "/assets/images/items/itm_royalsealant.png",
         "qty": 12
       },
       {
@@ -272,22 +272,22 @@
     ],
     "used in": [
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 1,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
         "qty": 6,
-        "icon": "/assets/images/items/itm_gearGrease.png"
+        "icon": "/assets/images/items/itm_geargrease.png"
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
         "qty": 1,
-        "icon": "/assets/images/items/itm_beePollenResin.png"
+        "icon": "/assets/images/items/itm_beepollenresin.png"
       },
       {
         "id": "itm_waterland_statue",
@@ -296,27 +296,27 @@
         "icon": "/assets/images/items/itm_waterland_statue.png"
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Bomb_Shell.png"
+        "icon": "/assets/images/items/itm_bomb_shell.png"
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
-        "icon": "/assets/images/items/itm_gearGrease.png",
+        "icon": "/assets/images/items/itm_geargrease.png",
         "qty": 2
       },
       {
-        "id": "itm_gearGrease",
+        "id": "itm_geargrease",
         "name": "Gear Grease",
-        "icon": "/assets/images/items/itm_gearGrease.png",
+        "icon": "/assets/images/items/itm_geargrease.png",
         "qty": 12
       },
       {
-        "id": "itm_beePollenResin",
+        "id": "itm_beepollenresin",
         "name": "Bee Pollen Resin",
-        "icon": "/assets/images/items/itm_beePollenResin.png",
+        "icon": "/assets/images/items/itm_beepollenresin.png",
         "qty": 1
       },
       {
@@ -326,9 +326,9 @@
         "qty": 25
       },
       {
-        "id": "itm_Bomb_Shell",
+        "id": "itm_bomb_shell",
         "name": "Bomb Shell",
-        "icon": "/assets/images/items/itm_Bomb_Shell.png",
+        "icon": "/assets/images/items/itm_bomb_shell.png",
         "qty": 4
       }
     ]
@@ -384,9 +384,9 @@
         "cost per x1": null
       },
       {
-        "id": "itm_gatheringSatchel",
+        "id": "itm_gatheringsatchel",
         "name": "Gathering",
-        "icon": "/assets/images/items/itm_gatheringSatchel.png",
+        "icon": "/assets/images/items/itm_gatheringsatchel.png",
         "qty": 1,
         "cost per x1": null
       }
@@ -459,52 +459,52 @@
         "icon": "/assets/images/items/itm_wintermint_whiskey.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashNapricot.png"
+        "icon": "/assets/images/items/itm_mashnapricot.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 1,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
         "qty": 6,
-        "icon": "/assets/images/items/itm_bbqBase.png"
+        "icon": "/assets/images/items/itm_bbqbase.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashPopberry.png"
+        "icon": "/assets/images/items/itm_mashpopberry.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
         "qty": 12,
-        "icon": "/assets/images/items/itm_mashClover.png"
+        "icon": "/assets/images/items/itm_mashclover.png"
       },
       {
         "id": "itm_empty_choco_sauce",
@@ -543,51 +543,51 @@
         "qty": 15
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
-        "icon": "/assets/images/items/itm_mashNapricot.png",
+        "icon": "/assets/images/items/itm_mashnapricot.png",
         "qty": 8
       },
       {
-        "id": "itm_mashNapricot",
+        "id": "itm_mashnapricot",
         "name": "Napricot Mash",
-        "icon": "/assets/images/items/itm_mashNapricot.png",
+        "icon": "/assets/images/items/itm_mashnapricot.png",
         "qty": 96
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 5
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 30
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 5
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 30
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 5
       },
       {
-        "id": "itm_bbqBase",
+        "id": "itm_bbqbase",
         "name": "BBQ Base",
-        "icon": "/assets/images/items/itm_bbqBase.png",
+        "icon": "/assets/images/items/itm_bbqbase.png",
         "qty": 30
       },
       {
@@ -615,15 +615,15 @@
         "qty": 120
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
-        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "icon": "/assets/images/items/itm_mashpopberry.png",
         "qty": 4
       },
       {
-        "id": "itm_mashPopberry",
+        "id": "itm_mashpopberry",
         "name": "Popberry Mash",
-        "icon": "/assets/images/items/itm_mashPopberry.png",
+        "icon": "/assets/images/items/itm_mashpopberry.png",
         "qty": 48
       },
       {
@@ -651,15 +651,15 @@
         "qty": 18
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
-        "icon": "/assets/images/items/itm_mashClover.png",
+        "icon": "/assets/images/items/itm_mashclover.png",
         "qty": 6
       },
       {
-        "id": "itm_mashClover",
+        "id": "itm_mashclover",
         "name": "Clover Mash",
-        "icon": "/assets/images/items/itm_mashClover.png",
+        "icon": "/assets/images/items/itm_mashclover.png",
         "qty": 72
       },
       {
@@ -759,16 +759,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",

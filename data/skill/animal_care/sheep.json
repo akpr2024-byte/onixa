@@ -32,9 +32,9 @@
     ]
   },
   {
-    "id": "itm_sheep_babyWoolPuff",
+    "id": "itm_sheep_babywoolpuff",
     "name": "Fine Baby Wool Puff",
-    "icon": "/assets/images/items/itm_sheep_babyWoolPuff.png",
+    "icon": "/assets/images/items/itm_sheep_babywoolpuff.png",
     "tier": null,
     "level": 0,
     "energy": 24,
@@ -74,59 +74,59 @@
     ],
     "used in": [
       {
-        "id": "itm_softPackingKit",
+        "id": "itm_softpackingkit",
         "name": "Soft Packing Kit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_softPackingKit.png"
+        "icon": "/assets/images/items/itm_softpackingkit.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 1,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 6,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraPick_03.png"
+        "icon": "/assets/images/items/itm_durapick_03.png"
       },
       {
-        "id": "itm_softPackingKit",
+        "id": "itm_softpackingkit",
         "name": "Soft Packing Kit",
-        "icon": "/assets/images/items/itm_softPackingKit.png",
+        "icon": "/assets/images/items/itm_softpackingkit.png",
         "qty": 2
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
-        "icon": "/assets/images/items/itm_baadownInsulation.png",
+        "icon": "/assets/images/items/itm_baadowninsulation.png",
         "qty": 2
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
-        "icon": "/assets/images/items/itm_baadownInsulation.png",
+        "icon": "/assets/images/items/itm_baadowninsulation.png",
         "qty": 12
       },
       {
-        "id": "itm_duraPick_03",
+        "id": "itm_durapick_03",
         "name": "More Durable T3 Pickaxe",
-        "icon": "/assets/images/items/itm_duraPick_03.png",
+        "icon": "/assets/images/items/itm_durapick_03.png",
         "qty": 2
       }
     ]
   },
   {
-    "id": "itm_sheep_hoofDust",
+    "id": "itm_sheep_hoofdust",
     "name": "Mini Hoof Dust",
-    "icon": "/assets/images/items/itm_sheep_hoofDust.png",
+    "icon": "/assets/images/items/itm_sheep_hoofdust.png",
     "tier": null,
     "level": 0,
     "energy": 33,
@@ -161,83 +161,83 @@
     ],
     "used in": [
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_03.png"
+        "icon": "/assets/images/items/itm_durashears_03.png"
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fineGritPowder.png"
+        "icon": "/assets/images/items/itm_finegritpowder.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
         "qty": 6,
-        "icon": "/assets/images/items/itm_evenBtrFert.png"
+        "icon": "/assets/images/items/itm_evenbtrfert.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 1,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
         "qty": 6,
-        "icon": "/assets/images/items/itm_rainbowPlank.png"
+        "icon": "/assets/images/items/itm_rainbowplank.png"
       },
       {
-        "id": "itm_duraShears_03",
+        "id": "itm_durashears_03",
         "name": "More Durable T3 Shears",
-        "icon": "/assets/images/items/itm_duraShears_03.png",
+        "icon": "/assets/images/items/itm_durashears_03.png",
         "qty": 2
       },
       {
-        "id": "itm_fineGritPowder",
+        "id": "itm_finegritpowder",
         "name": "Fine Grit Polishing Powder",
-        "icon": "/assets/images/items/itm_fineGritPowder.png",
+        "icon": "/assets/images/items/itm_finegritpowder.png",
         "qty": 3
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
-        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "icon": "/assets/images/items/itm_evenbtrfert.png",
         "qty": 2
       },
       {
-        "id": "itm_evenBtrFert",
+        "id": "itm_evenbtrfert",
         "name": "Even Better Fertilizer",
-        "icon": "/assets/images/items/itm_evenBtrFert.png",
+        "icon": "/assets/images/items/itm_evenbtrfert.png",
         "qty": 12
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
-        "icon": "/assets/images/items/itm_rainbowPlank.png",
+        "icon": "/assets/images/items/itm_rainbowplank.png",
         "qty": 2
       },
       {
-        "id": "itm_rainbowPlank",
+        "id": "itm_rainbowplank",
         "name": "Rainbow Planks",
-        "icon": "/assets/images/items/itm_rainbowPlank.png",
+        "icon": "/assets/images/items/itm_rainbowplank.png",
         "qty": 12
       }
     ]
   },
   {
-    "id": "itm_sheep_knottedWool",
+    "id": "itm_sheep_knottedwool",
     "name": "Knotted Wool",
-    "icon": "/assets/images/items/itm_sheep_knottedWool.png",
+    "icon": "/assets/images/items/itm_sheep_knottedwool.png",
     "tier": null,
     "level": 0,
     "energy": 0,
@@ -288,28 +288,28 @@
         "icon": "/assets/images/items/itm_tempboost_yield_11.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
         "qty": 6,
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png"
+        "icon": "/assets/images/items/itm_sturdywoolrope.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
         "qty": 6,
-        "icon": "/assets/images/items/itm_woolTimber.png"
+        "icon": "/assets/images/items/itm_wooltimber.png"
       },
       {
         "id": "itm_tempboost_yield_11",
@@ -318,35 +318,35 @@
         "qty": 10
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
-        "icon": "/assets/images/items/itm_woolTimber.png",
+        "icon": "/assets/images/items/itm_wooltimber.png",
         "qty": 2
       },
       {
-        "id": "itm_woolTimber",
+        "id": "itm_wooltimber",
         "name": "Wool-Bound Timber",
-        "icon": "/assets/images/items/itm_woolTimber.png",
+        "icon": "/assets/images/items/itm_wooltimber.png",
         "qty": 12
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+        "icon": "/assets/images/items/itm_sturdywoolrope.png",
         "qty": 2
       },
       {
-        "id": "itm_sturdyWoolRope",
+        "id": "itm_sturdywoolrope",
         "name": "Sturdy Wool Rope",
-        "icon": "/assets/images/items/itm_sturdyWoolRope.png",
+        "icon": "/assets/images/items/itm_sturdywoolrope.png",
         "qty": 12
       }
     ]
   },
   {
-    "id": "itm_sheep_lanolinOil",
+    "id": "itm_sheep_lanolinoil",
     "name": "Lanolin Oil",
-    "icon": "/assets/images/items/itm_sheep_lanolinOil.png",
+    "icon": "/assets/images/items/itm_sheep_lanolinoil.png",
     "tier": null,
     "level": 0,
     "energy": 19,
@@ -391,51 +391,51 @@
     ],
     "used in": [
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinBaste.png"
+        "icon": "/assets/images/items/itm_lanolinbaste.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 1,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
         "qty": 6,
-        "icon": "/assets/images/items/itm_lanolinRub.png"
+        "icon": "/assets/images/items/itm_lanolinrub.png"
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
-        "icon": "/assets/images/items/itm_lanolinRub.png",
+        "icon": "/assets/images/items/itm_lanolinrub.png",
         "qty": 3
       },
       {
-        "id": "itm_lanolinRub",
+        "id": "itm_lanolinrub",
         "name": "Lanolin Polishing Rub",
-        "icon": "/assets/images/items/itm_lanolinRub.png",
+        "icon": "/assets/images/items/itm_lanolinrub.png",
         "qty": 18
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
-        "icon": "/assets/images/items/itm_lanolinBaste.png",
+        "icon": "/assets/images/items/itm_lanolinbaste.png",
         "qty": 3
       },
       {
-        "id": "itm_lanolinBaste",
+        "id": "itm_lanolinbaste",
         "name": "Lanolin Oil Grill-Baste",
-        "icon": "/assets/images/items/itm_lanolinBaste.png",
+        "icon": "/assets/images/items/itm_lanolinbaste.png",
         "qty": 18
       }
     ]
@@ -524,16 +524,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",
@@ -550,9 +550,9 @@
     ]
   },
   {
-    "id": "itm_woolyweedFruit",
+    "id": "itm_woolyweedfruit",
     "name": "Wool Wad",
-    "icon": "/assets/images/items/itm_woolyweedFruit.png",
+    "icon": "/assets/images/items/itm_woolyweedfruit.png",
     "tier": null,
     "level": 0,
     "energy": 19,
@@ -597,16 +597,16 @@
     ],
     "used in": [
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 5,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       },
       {
         "id": "itm_toyteddy_01",
@@ -615,10 +615,10 @@
         "icon": "/assets/images/items/itm_toyteddy_01.png"
       },
       {
-        "id": "itm_woolslimeStorage",
+        "id": "itm_woolslimestorage",
         "name": "Woolslime Storage Chest",
         "qty": 1,
-        "icon": "/assets/images/items/itm_woolslimeStorage.png"
+        "icon": "/assets/images/items/itm_woolslimestorage.png"
       },
       {
         "id": "itm_toyteddy_01",
@@ -627,21 +627,21 @@
         "qty": 9
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
-        "icon": "/assets/images/items/itm_woolenThread.png",
+        "icon": "/assets/images/items/itm_woolenthread.png",
         "qty": 15
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
-        "icon": "/assets/images/items/itm_woolenThread.png",
+        "icon": "/assets/images/items/itm_woolenthread.png",
         "qty": 3
       },
       {
-        "id": "itm_woolslimeStorage",
+        "id": "itm_woolslimestorage",
         "name": "Woolslime Storage Chest",
-        "icon": "/assets/images/items/itm_woolslimeStorage.png",
+        "icon": "/assets/images/items/itm_woolslimestorage.png",
         "qty": 5
       }
     ]

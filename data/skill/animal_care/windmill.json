@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_woolenThread",
+    "id": "itm_woolenthread",
     "name": "Woolen Thread",
-    "icon": "/assets/images/items/itm_woolenThread.png",
+    "icon": "/assets/images/items/itm_woolenthread.png",
     "tier": 1,
     "level": 18,
     "energy": 69,
@@ -15,10 +15,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_woolyweedFruit",
+        "id": "itm_woolyweedfruit",
         "name": "Wool Wad",
         "qty": 15,
-        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+        "icon": "/assets/images/items/itm_woolyweedfruit.png"
       },
       {
         "id": "itm_silkfiber",
@@ -31,7 +31,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -48,40 +48,40 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 6,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       },
       {
-        "id": "itm_fullSuitInlay",
+        "id": "itm_fullsuitinlay",
         "name": "Full Black and White Suit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+        "icon": "/assets/images/items/itm_fullsuitinlay.png"
       },
       {
-        "id": "itm_redHoodieJacket",
+        "id": "itm_redhoodiejacket",
         "name": "Red Hoodie Jacket",
         "qty": 1,
-        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+        "icon": "/assets/images/items/itm_redhoodiejacket.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
         "id": "itm_fishing_rod_2",
@@ -92,9 +92,9 @@
     ]
   },
   {
-    "id": "itm_woolenThread",
+    "id": "itm_woolenthread",
     "name": "Woolen Thread",
-    "icon": "/assets/images/items/itm_woolenThread.png",
+    "icon": "/assets/images/items/itm_woolenthread.png",
     "tier": 1,
     "level": 10,
     "energy": 12,
@@ -107,10 +107,10 @@
     "station": "Windmill",
     "ingredients": [
       {
-        "id": "itm_woolyweedFruit",
+        "id": "itm_woolyweedfruit",
         "name": "Wool Wad",
         "qty": 3,
-        "icon": "/assets/images/items/itm_woolyweedFruit.png"
+        "icon": "/assets/images/items/itm_woolyweedfruit.png"
       },
       {
         "id": "itm_silkfiber",
@@ -123,7 +123,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -140,40 +140,40 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 6,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_siftingScreen",
+        "id": "itm_siftingscreen",
         "name": "Sifting Screen",
         "qty": 1,
-        "icon": "/assets/images/items/itm_siftingScreen.png"
+        "icon": "/assets/images/items/itm_siftingscreen.png"
       },
       {
-        "id": "itm_fullSuitInlay",
+        "id": "itm_fullsuitinlay",
         "name": "Full Black and White Suit",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fullSuitInlay.png"
+        "icon": "/assets/images/items/itm_fullsuitinlay.png"
       },
       {
-        "id": "itm_redHoodieJacket",
+        "id": "itm_redhoodiejacket",
         "name": "Red Hoodie Jacket",
         "qty": 1,
-        "icon": "/assets/images/items/itm_redHoodieJacket.png"
+        "icon": "/assets/images/items/itm_redhoodiejacket.png"
       },
       {
-        "id": "itm_burnyCandle",
+        "id": "itm_burnycandle",
         "name": "Very Burny Tallow Candle",
         "qty": 1,
-        "icon": "/assets/images/items/itm_burnyCandle.png"
+        "icon": "/assets/images/items/itm_burnycandle.png"
       },
       {
         "id": "itm_fishing_rod_2",
@@ -184,9 +184,9 @@
     ]
   },
   {
-    "id": "itm_featherFluff",
+    "id": "itm_featherfluff",
     "name": "Feather Fluff",
-    "icon": "/assets/images/items/itm_featherFluff.png",
+    "icon": "/assets/images/items/itm_featherfluff.png",
     "tier": 2,
     "level": 28,
     "energy": 89.7,
@@ -205,17 +205,17 @@
         "icon": "/assets/images/items/itm_feather_01.png"
       },
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
         "qty": 12,
-        "icon": "/assets/images/items/itm_turkeyPowder.png"
+        "icon": "/assets/images/items/itm_turkeypowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -232,29 +232,29 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 1,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 6,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       }
     ]
   },
   {
-    "id": "itm_featherFluff",
+    "id": "itm_featherfluff",
     "name": "Feather Fluff",
-    "icon": "/assets/images/items/itm_featherFluff.png",
+    "icon": "/assets/images/items/itm_featherfluff.png",
     "tier": 2,
     "level": 20,
     "energy": 13,
@@ -273,17 +273,17 @@
         "icon": "/assets/images/items/itm_feather_01.png"
       },
       {
-        "id": "itm_turkeyPowder",
+        "id": "itm_turkeypowder",
         "name": "Turkey Egg Powder",
         "qty": 2,
-        "icon": "/assets/images/items/itm_turkeyPowder.png"
+        "icon": "/assets/images/items/itm_turkeypowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -300,29 +300,29 @@
         "icon": "/assets/images/items/itm_woolyweedcloth.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 1,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_baadownInsulation",
+        "id": "itm_baadowninsulation",
         "name": "Baadown Insulation",
         "qty": 6,
-        "icon": "/assets/images/items/itm_baadownInsulation.png"
+        "icon": "/assets/images/items/itm_baadowninsulation.png"
       },
       {
-        "id": "itm_blanketWeave",
+        "id": "itm_blanketweave",
         "name": "Blanket Weave",
         "qty": 1,
-        "icon": "/assets/images/items/itm_blanketWeave.png"
+        "icon": "/assets/images/items/itm_blanketweave.png"
       }
     ]
   },
   {
-    "id": "itm_trufflePowder",
+    "id": "itm_trufflepowder",
     "name": "Truffle Powder",
-    "icon": "/assets/images/items/itm_trufflePowder.png",
+    "icon": "/assets/images/items/itm_trufflepowder.png",
     "tier": 1,
     "level": 18,
     "energy": 14,
@@ -351,7 +351,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -370,9 +370,9 @@
     ]
   },
   {
-    "id": "itm_trufflePowder",
+    "id": "itm_trufflepowder",
     "name": "Truffle Powder",
-    "icon": "/assets/images/items/itm_trufflePowder.png",
+    "icon": "/assets/images/items/itm_trufflepowder.png",
     "tier": 1,
     "level": 18,
     "energy": 97,
@@ -401,7 +401,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -420,9 +420,9 @@
     ]
   },
   {
-    "id": "itm_turkeyPowder",
+    "id": "itm_turkeypowder",
     "name": "Turkey Egg Powder",
-    "icon": "/assets/images/items/itm_turkeyPowder.png",
+    "icon": "/assets/images/items/itm_turkeypowder.png",
     "tier": 1,
     "level": 8,
     "energy": 10,
@@ -445,34 +445,34 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 6,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       }
     ]
   },
   {
-    "id": "itm_turkeyPowder",
+    "id": "itm_turkeypowder",
     "name": "Turkey Egg Powder",
-    "icon": "/assets/images/items/itm_turkeyPowder.png",
+    "icon": "/assets/images/items/itm_turkeypowder.png",
     "tier": 1,
     "level": 15,
     "energy": 57.5,
@@ -495,27 +495,27 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 6,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_featherFluff",
+        "id": "itm_featherfluff",
         "name": "Feather Fluff",
         "qty": 1,
-        "icon": "/assets/images/items/itm_featherFluff.png"
+        "icon": "/assets/images/items/itm_featherfluff.png"
       },
       {
-        "id": "itm_strainingMesh",
+        "id": "itm_strainingmesh",
         "name": "Straining Mesh",
         "qty": 1,
-        "icon": "/assets/images/items/itm_strainingMesh.png"
+        "icon": "/assets/images/items/itm_strainingmesh.png"
       }
     ]
   }

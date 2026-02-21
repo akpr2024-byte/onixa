@@ -43,7 +43,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -99,7 +99,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -155,7 +155,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ],
     "used in": [
@@ -211,7 +211,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -243,10 +243,10 @@
         "icon": "/assets/images/items/itm_woodplank_01.png"
       },
       {
-        "id": "itm_Glue",
+        "id": "itm_glue",
         "name": "Glue",
         "qty": 10,
-        "icon": "/assets/images/items/itm_Glue.png"
+        "icon": "/assets/images/items/itm_glue.png"
       },
       {
         "id": "itm_silkrope",
@@ -265,7 +265,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -325,7 +325,7 @@
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   },
@@ -363,29 +363,29 @@
         "icon": "/assets/images/items/itm_plaster.png"
       },
       {
-        "id": "itm_clover4LeafFruit",
+        "id": "itm_clover4leaffruit",
         "name": "4-Leaf Clover",
         "qty": 50,
-        "icon": "/assets/images/items/itm_clover4LeafFruit.png"
+        "icon": "/assets/images/items/itm_clover4leaffruit.png"
       },
       {
-        "id": "itm_constructionPowder",
+        "id": "itm_constructionpowder",
         "name": "Construction Powder",
         "qty": 24,
-        "icon": "/assets/images/items/itm_constructionPowder.png"
+        "icon": "/assets/images/items/itm_constructionpowder.png"
       },
       {
-        "id": "itm_craftingPowder",
+        "id": "itm_craftingpowder",
         "name": "Crafting Mix",
         "qty": 15,
-        "icon": "/assets/images/items/itm_craftingPowder.png"
+        "icon": "/assets/images/items/itm_craftingpowder.png"
       }
     ],
     "craft_in": [
       {
         "id": "ministry_of_innovation",
         "name": "Ministry Of Innovation",
-        "icon": "ministry_of_innovation"
+        "icon": "/assets/images/items/ministry_of_innovation.png"
       }
     ]
   }

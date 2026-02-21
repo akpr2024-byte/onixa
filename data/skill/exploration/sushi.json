@@ -33,10 +33,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 11,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       }
     ],
     "craft_in": [
@@ -90,10 +90,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 5,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -376,10 +376,10 @@
         "icon": "/assets/images/items/itm_uncommonfish_05.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 12,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       }
     ],
     "craft_in": [
@@ -848,10 +848,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -966,10 +966,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -1025,10 +1025,10 @@
         "icon": "/assets/images/items/itm_epicfish_03.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -1153,10 +1153,10 @@
         "icon": "/assets/images/items/itm_epicfish_02.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 15,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       }
     ],
     "craft_in": [
@@ -1220,10 +1220,10 @@
         "icon": "/assets/images/items/itm_epicfish_03.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -1460,10 +1460,10 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
@@ -1555,16 +1555,16 @@
         "icon": "/assets/images/items/itm_ultimatefish_02.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 20,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -1630,10 +1630,10 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
@@ -1713,10 +1713,10 @@
         "icon": "/assets/images/items/itm_grice.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -1880,10 +1880,10 @@
         "icon": "/assets/images/items/itm_grice.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -2088,9 +2088,9 @@
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
-    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "icon": "/assets/images/items/itm_yieldreactor.png",
     "tier": 2,
     "level": 20,
     "energy": 105,
@@ -2103,10 +2103,10 @@
     "station": "Sushi",
     "ingredients": [
       {
-        "id": "itm_pearlySwirl",
+        "id": "itm_pearlyswirl",
         "name": "Pearly Swirl",
         "qty": 3,
-        "icon": "/assets/images/items/itm_pearlySwirl.png"
+        "icon": "/assets/images/items/itm_pearlyswirl.png"
       },
       {
         "id": "itm_nigiri_04",

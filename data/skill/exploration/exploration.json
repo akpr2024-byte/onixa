@@ -16,9 +16,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -36,10 +36,10 @@
         "icon": "/assets/images/items/itm_algamix.png"
       },
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
         "qty": 1,
-        "icon": "/assets/images/items/itm_royalJellyBbq.png"
+        "icon": "/assets/images/items/itm_royaljellybbq.png"
       },
       {
         "id": "itm_bento_01",
@@ -270,9 +270,9 @@
         "qty": 1
       },
       {
-        "id": "itm_royalJellyBbq",
+        "id": "itm_royaljellybbq",
         "name": "Royal Jelly Caramelized Fluppy BBQ",
-        "icon": "/assets/images/items/itm_royalJellyBbq.png",
+        "icon": "/assets/images/items/itm_royaljellybbq.png",
         "qty": 2
       },
       {
@@ -318,9 +318,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -596,9 +596,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -664,9 +664,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -732,9 +732,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -788,9 +788,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -802,10 +802,10 @@
     ],
     "used in": [
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishermanGrill.png"
+        "icon": "/assets/images/items/itm_fishermangrill.png"
       },
       {
         "id": "itm_nigiri_02",
@@ -838,9 +838,9 @@
         "qty": 1
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
-        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "icon": "/assets/images/items/itm_fishermangrill.png",
         "qty": 1
       },
       {
@@ -868,9 +868,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -936,9 +936,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -950,10 +950,10 @@
     ],
     "used in": [
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishermanGrill.png"
+        "icon": "/assets/images/items/itm_fishermangrill.png"
       },
       {
         "id": "itm_bento_02",
@@ -986,9 +986,9 @@
         "qty": 2
       },
       {
-        "id": "itm_fishermanGrill",
+        "id": "itm_fishermangrill",
         "name": "Fishermans Breakfast Grill",
-        "icon": "/assets/images/items/itm_fishermanGrill.png",
+        "icon": "/assets/images/items/itm_fishermangrill.png",
         "qty": 1
       },
       {
@@ -1016,9 +1016,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1072,9 +1072,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1140,9 +1140,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1196,9 +1196,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1276,9 +1276,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1332,9 +1332,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1400,9 +1400,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1468,9 +1468,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1524,9 +1524,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1592,9 +1592,9 @@
     "avg cost per x1": null,
     "You get it using this tool": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       }
     ],
     "drops_from": [
@@ -1665,10 +1665,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_grumpFruit",
+        "id": "itm_grumpfruit",
         "name": "Orange Grumpkin",
         "qty": 11,
-        "icon": "/assets/images/items/itm_grumpFruit.png"
+        "icon": "/assets/images/items/itm_grumpfruit.png"
       }
     ],
     "craft_in": [
@@ -1694,7 +1694,6 @@
       }
     ]
   },
-
   {
     "id": "itm_roll_01",
     "name": "Jelly Jiggle Roll",
@@ -1723,10 +1722,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 5,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -2009,10 +2008,10 @@
         "icon": "/assets/images/items/itm_uncommonfish_05.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 12,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       }
     ],
     "craft_in": [
@@ -2481,10 +2480,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -2599,10 +2598,10 @@
         "icon": "/assets/images/items/itm_commonfish_all.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -2658,10 +2657,10 @@
         "icon": "/assets/images/items/itm_epicfish_03.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -2786,10 +2785,10 @@
         "icon": "/assets/images/items/itm_epicfish_02.png"
       },
       {
-        "id": "itm_wintermintFruit",
+        "id": "itm_wintermintfruit",
         "name": "Watermint",
         "qty": 15,
-        "icon": "/assets/images/items/itm_wintermintFruit.png"
+        "icon": "/assets/images/items/itm_wintermintfruit.png"
       }
     ],
     "craft_in": [
@@ -2853,10 +2852,10 @@
         "icon": "/assets/images/items/itm_epicfish_03.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 2,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -3093,10 +3092,10 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
@@ -3188,16 +3187,16 @@
         "icon": "/assets/images/items/itm_ultimatefish_02.png"
       },
       {
-        "id": "itm_scarrotFruit",
+        "id": "itm_scarrotfruit",
         "name": "Scarrot",
         "qty": 20,
-        "icon": "/assets/images/items/itm_scarrotFruit.png"
+        "icon": "/assets/images/items/itm_scarrotfruit.png"
       },
       {
-        "id": "itm_Vinegar",
+        "id": "itm_vinegar",
         "name": "Vinegar",
         "qty": 1,
-        "icon": "/assets/images/items/itm_Vinegar.png"
+        "icon": "/assets/images/items/itm_vinegar.png"
       }
     ],
     "craft_in": [
@@ -3263,10 +3262,10 @@
     ],
     "used in": [
       {
-        "id": "itm_yieldReactor",
+        "id": "itm_yieldreactor",
         "name": "Yield Reactor",
         "qty": 1,
-        "icon": "/assets/images/items/itm_yieldReactor.png"
+        "icon": "/assets/images/items/itm_yieldreactor.png"
       }
     ]
   },
@@ -3346,10 +3345,10 @@
         "icon": "/assets/images/items/itm_grice.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 60,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -3513,10 +3512,10 @@
         "icon": "/assets/images/items/itm_grice.png"
       },
       {
-        "id": "itm_cookingMix",
+        "id": "itm_cookingmix",
         "name": "Cooking Mix",
         "qty": 10,
-        "icon": "/assets/images/items/itm_cookingMix.png"
+        "icon": "/assets/images/items/itm_cookingmix.png"
       }
     ],
     "craft_in": [
@@ -3684,7 +3683,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -3734,7 +3733,7 @@
       {
         "id": "windmill",
         "name": "Windmill",
-        "icon": "windmill"
+        "icon": "/assets/images/items/windmill.png"
       }
     ],
     "used in": [
@@ -3821,9 +3820,9 @@
     ]
   },
   {
-    "id": "itm_yieldReactor",
+    "id": "itm_yieldreactor",
     "name": "Yield Reactor",
-    "icon": "/assets/images/items/itm_yieldReactor.png",
+    "icon": "/assets/images/items/itm_yieldreactor.png",
     "tier": 2,
     "level": 20,
     "energy": 105,
@@ -3836,10 +3835,10 @@
     "station": "Sushi",
     "ingredients": [
       {
-        "id": "itm_pearlySwirl",
+        "id": "itm_pearlyswirl",
         "name": "Pearly Swirl",
         "qty": 3,
-        "icon": "/assets/images/items/itm_pearlySwirl.png"
+        "icon": "/assets/images/items/itm_pearlyswirl.png"
       },
       {
         "id": "itm_nigiri_04",
@@ -3890,16 +3889,16 @@
     "station": "Alchemic Forge",
     "ingredients": [
       {
-        "id": "itm_fishingNet",
+        "id": "itm_fishingnet",
         "name": "Fish Finder Five Thousand",
         "qty": 1,
-        "icon": "/assets/images/items/itm_fishingNet.png"
+        "icon": "/assets/images/items/itm_fishingnet.png"
       },
       {
-        "id": "itm_royalSealant",
+        "id": "itm_royalsealant",
         "name": "Royal Sealant",
         "qty": 2,
-        "icon": "/assets/images/items/itm_royalSealant.png"
+        "icon": "/assets/images/items/itm_royalsealant.png"
       },
       {
         "id": "itm_gear_02",
@@ -3908,10 +3907,10 @@
         "icon": "/assets/images/items/itm_gear_02.png"
       },
       {
-        "id": "itm_woolenThread",
+        "id": "itm_woolenthread",
         "name": "Woolen Thread",
         "qty": 2,
-        "icon": "/assets/images/items/itm_woolenThread.png"
+        "icon": "/assets/images/items/itm_woolenthread.png"
       }
     ],
     "craft_in": [

@@ -1,8 +1,8 @@
 [
   {
-    "id": "itm_goat_goatFur",
+    "id": "itm_goat_goatfur",
     "name": "Shedded Goat Fur",
-    "icon": "/assets/images/items/itm_goat_goatFur.png",
+    "icon": "/assets/images/items/itm_goat_goatfur.png",
     "tier": null,
     "level": 25,
     "energy": 22,
@@ -47,59 +47,59 @@
     ],
     "used in": [
       {
-        "id": "itm_alpineRug",
+        "id": "itm_alpinerug",
         "name": "Alpine Rug",
         "qty": 1,
-        "icon": "/assets/images/items/itm_alpineRug.png"
+        "icon": "/assets/images/items/itm_alpinerug.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraShears_02.png"
+        "icon": "/assets/images/items/itm_durashears_02.png"
       },
       {
-        "id": "itm_betterFertilizer",
+        "id": "itm_betterfertilizer",
         "name": "Better Fertilizer",
         "qty": 1,
-        "icon": "/assets/images/items/itm_betterFertilizer.png"
+        "icon": "/assets/images/items/itm_betterfertilizer.png"
       },
       {
-        "id": "itm_betterFertilizer",
+        "id": "itm_betterfertilizer",
         "name": "Better Fertilizer",
         "qty": 6,
-        "icon": "/assets/images/items/itm_betterFertilizer.png"
+        "icon": "/assets/images/items/itm_betterfertilizer.png"
       },
       {
-        "id": "itm_duraShears_02",
+        "id": "itm_durashears_02",
         "name": "More Durable T2 Shears",
-        "icon": "/assets/images/items/itm_duraShears_02.png",
+        "icon": "/assets/images/items/itm_durashears_02.png",
         "qty": 2
       },
       {
-        "id": "itm_betterFertilizer",
+        "id": "itm_betterfertilizer",
         "name": "Better Fertilizer",
-        "icon": "/assets/images/items/itm_betterFertilizer.png",
+        "icon": "/assets/images/items/itm_betterfertilizer.png",
         "qty": 3
       },
       {
-        "id": "itm_betterFertilizer",
+        "id": "itm_betterfertilizer",
         "name": "Better Fertilizer",
-        "icon": "/assets/images/items/itm_betterFertilizer.png",
+        "icon": "/assets/images/items/itm_betterfertilizer.png",
         "qty": 18
       },
       {
-        "id": "itm_alpineRug",
+        "id": "itm_alpinerug",
         "name": "Alpine Rug",
-        "icon": "/assets/images/items/itm_alpineRug.png",
+        "icon": "/assets/images/items/itm_alpinerug.png",
         "qty": 4
       }
     ]
   },
   {
-    "id": "itm_goat_goatMilk",
+    "id": "itm_goat_goatmilk",
     "name": "Goat Milk",
-    "icon": "/assets/images/items/itm_goat_goatMilk.png",
+    "icon": "/assets/images/items/itm_goat_goatmilk.png",
     "tier": null,
     "level": 25,
     "energy": 22,
@@ -144,59 +144,59 @@
     ],
     "used in": [
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 1,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
         "qty": 6,
-        "icon": "/assets/images/items/itm_spaceBatter.png"
+        "icon": "/assets/images/items/itm_spacebatter.png"
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 1,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
         "qty": 6,
-        "icon": "/assets/images/items/itm_goatFondue.png"
+        "icon": "/assets/images/items/itm_goatfondue.png"
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
-        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "icon": "/assets/images/items/itm_spacebatter.png",
         "qty": 2
       },
       {
-        "id": "itm_spaceBatter",
+        "id": "itm_spacebatter",
         "name": "Space-Egg Aerated Batter",
-        "icon": "/assets/images/items/itm_spaceBatter.png",
+        "icon": "/assets/images/items/itm_spacebatter.png",
         "qty": 12
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
-        "icon": "/assets/images/items/itm_goatFondue.png",
+        "icon": "/assets/images/items/itm_goatfondue.png",
         "qty": 1
       },
       {
-        "id": "itm_goatFondue",
+        "id": "itm_goatfondue",
         "name": "Goat Milk Grill-Fondue",
-        "icon": "/assets/images/items/itm_goatFondue.png",
+        "icon": "/assets/images/items/itm_goatfondue.png",
         "qty": 6
       }
     ]
   },
   {
-    "id": "itm_goat_hornFlakes",
+    "id": "itm_goat_hornflakes",
     "name": "Tiny Horn Flakes",
-    "icon": "/assets/images/items/itm_goat_hornFlakes.png",
+    "icon": "/assets/images/items/itm_goat_hornflakes.png",
     "tier": null,
     "level": 25,
     "energy": 0,
@@ -231,51 +231,51 @@
     ],
     "used in": [
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
         "qty": 6,
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png"
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png"
       },
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_03.png"
+        "icon": "/assets/images/items/itm_duraaxe_03.png"
       },
       {
-        "id": "itm_hornChimes",
+        "id": "itm_hornchimes",
         "name": "Horn-Flake Chimes",
         "qty": 1,
-        "icon": "/assets/images/items/itm_hornChimes.png"
+        "icon": "/assets/images/items/itm_hornchimes.png"
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png",
         "qty": 2
       },
       {
-        "id": "itm_hornAbrasivePowder",
+        "id": "itm_hornabrasivepowder",
         "name": "Horn-Flake Abrasive Powder",
-        "icon": "/assets/images/items/itm_hornAbrasivePowder.png",
+        "icon": "/assets/images/items/itm_hornabrasivepowder.png",
         "qty": 12
       },
       {
-        "id": "itm_duraAxe_03",
+        "id": "itm_duraaxe_03",
         "name": "More Durable T3 Axe",
-        "icon": "/assets/images/items/itm_duraAxe_03.png",
+        "icon": "/assets/images/items/itm_duraaxe_03.png",
         "qty": 2
       },
       {
-        "id": "itm_hornChimes",
+        "id": "itm_hornchimes",
         "name": "Horn-Flake Chimes",
-        "icon": "/assets/images/items/itm_hornChimes.png",
+        "icon": "/assets/images/items/itm_hornchimes.png",
         "qty": 5
       }
     ]
@@ -334,22 +334,22 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 1,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
         "qty": 6,
-        "icon": "/assets/images/items/itm_mohairSpool.png"
+        "icon": "/assets/images/items/itm_mohairspool.png"
       },
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
         "qty": 1,
-        "icon": "/assets/images/items/itm_duraAxe_04.png"
+        "icon": "/assets/images/items/itm_duraaxe_04.png"
       },
       {
         "id": "itm_tempboost_speed_15",
@@ -358,29 +358,29 @@
         "qty": 5
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
-        "icon": "/assets/images/items/itm_mohairSpool.png",
+        "icon": "/assets/images/items/itm_mohairspool.png",
         "qty": 3
       },
       {
-        "id": "itm_mohairSpool",
+        "id": "itm_mohairspool",
         "name": "Mohair Thread Spool",
-        "icon": "/assets/images/items/itm_mohairSpool.png",
+        "icon": "/assets/images/items/itm_mohairspool.png",
         "qty": 18
       },
       {
-        "id": "itm_duraAxe_04",
+        "id": "itm_duraaxe_04",
         "name": "More Durable T4 Axe",
-        "icon": "/assets/images/items/itm_duraAxe_04.png",
+        "icon": "/assets/images/items/itm_duraaxe_04.png",
         "qty": 5
       }
     ]
   },
   {
-    "id": "itm_goat_sunHorn",
+    "id": "itm_goat_sunhorn",
     "name": "Sunbaked Horn Tip",
-    "icon": "/assets/images/items/itm_goat_sunHorn.png",
+    "icon": "/assets/images/items/itm_goat_sunhorn.png",
     "tier": null,
     "level": 25,
     "energy": 0,
@@ -421,10 +421,10 @@
         "icon": "/assets/images/items/itm_tempboost_yield_12.png"
       },
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
         "qty": 1,
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png"
+        "icon": "/assets/images/items/itm_sunhornframebeam.png"
       },
       {
         "id": "itm_tempboost_yield_12",
@@ -433,9 +433,9 @@
         "qty": 10
       },
       {
-        "id": "itm_sunhornFrameBeam",
+        "id": "itm_sunhornframebeam",
         "name": "Sunhorn Frame Beam",
-        "icon": "/assets/images/items/itm_sunhornFrameBeam.png",
+        "icon": "/assets/images/items/itm_sunhornframebeam.png",
         "qty": 3
       }
     ]
@@ -556,16 +556,16 @@
         "icon": "/assets/images/items/itm_tempboost_speed_15.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 1,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
-        "id": "itm_organicPaste",
+        "id": "itm_organicpaste",
         "name": "Organic Paste",
         "qty": 6,
-        "icon": "/assets/images/items/itm_organicPaste.png"
+        "icon": "/assets/images/items/itm_organicpaste.png"
       },
       {
         "id": "itm_fertilizer",
