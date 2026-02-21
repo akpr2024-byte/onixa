@@ -130,12 +130,12 @@ document.addEventListener("DOMContentLoaded", async () => {
   // مسیر درست JSON
   let jsonPath = "";
 
-  if (station) {
-    // وقتی روی Bee / Chicken / ... کلیک شده
-    jsonPath = `/data/skill/${skill}/${station}.json`;
+  const skillLc = skill.toLowerCase();
+  const stationLc = station?.toLowerCase();
+
+  if (stationLc) {
+    jsonPath = `/data/skill/${skillLc}/${stationLc}.json`;
   } else {
-    // وقتی روی خود Skill کلیک شده
-    const skillLc = skill.toLowerCase();
     jsonPath = `/data/skill/${skillLc}/${skillLc}.json`;
   }
 
