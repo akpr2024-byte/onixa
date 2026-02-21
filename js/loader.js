@@ -214,9 +214,7 @@ function setupDropdownUX() {
 
 async function loadMarketIndex() {
   try {
-    const res = await fetch(
-      "https://pixel-market-api.a-kpr2017.workers.dev?action=market",
-    );
+    const res = await fetch("/api/market");
 
     const json = await res.json();
     const items = json.items || [];
